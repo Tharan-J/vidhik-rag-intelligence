@@ -79,6 +79,40 @@ You MUST output strictly valid JSON adhering to this exact schema:
   "confidence": "supported" | "partially_supported" | "insufficient_evidence"
 }`;
 
+function getQwenEndpointAndHeaders(overrideEndpoint?: string): {
+  endpoint: string;
+  headers: Record<string, string>;
+} {
+  const headers: Record<string, string> = {
+    "Content-Type": "application/json",
+    "ngrok-skip-browser-warning": "true",
+  };
+
+  const gatewayToken = process.env.AI_GATEWAY_TOKEN;
+  if (gatewayToken) {
+    headers["Authorization"] = `Bearer ${gatewayToken}`;
+    headers["x-gateway-token"] = gatewayToken;
+  }
+
+  if (overrideEndpoint) {
+    return { endpoint: overrideEndpoint, headers };
+  }
+
+  const gatewayUrl = process.env.AI_GATEWAY_URL;
+  if (gatewayUrl) {
+    const cleanUrl = gatewayUrl.replace(/\/+$/, "");
+    const endpoint = cleanUrl.endsWith("/api/generate")
+      ? cleanUrl
+      : `${cleanUrl}/api/generate`;
+    return { endpoint, headers };
+  }
+
+  return {
+    endpoint: "http://127.0.0.1:11434/api/generate",
+    headers,
+  };
+}
+
 export async function generateQwenLegalAnswer(params: {
   query: string;
   evidenceContext: string;
@@ -87,9 +121,9 @@ export async function generateQwenLegalAnswer(params: {
   model?: string;
   timeoutMs?: number;
 }): Promise<QwenLegalAnswerResult> {
-  const endpoint = params.endpoint || "http://127.0.0.1:11434/api/generate";
+  const { endpoint, headers } = getQwenEndpointAndHeaders(params.endpoint);
   const model = params.model || "qwen3:4b-instruct";
-  const timeoutMs = params.timeoutMs || 100000;
+  const timeoutMs = params.timeoutMs || 120000;
 
   const userPrompt = `USER QUESTION:
 "${params.query}"
@@ -120,13 +154,13 @@ Respond ONLY with a valid JSON object matching the required schema.`;
   try {
     const res = await fetch(endpoint, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers,
       body: JSON.stringify(payload),
       signal: controller.signal,
     });
 
     if (!res.ok) {
-      throw new Error(`Qwen Ollama HTTP error ${res.status}: ${res.statusText}`);
+      throw new Error(`Qwen inference error ${res.status}: ${res.statusText}`);
     }
 
     const data = await res.json();
@@ -281,9 +315,9 @@ export async function generateQwenConversationalAnswer(params: {
   model?: string;
   timeoutMs?: number;
 }): Promise<string> {
-  const endpoint = params.endpoint || "http://127.0.0.1:11434/api/generate";
+  const { endpoint, headers } = getQwenEndpointAndHeaders(params.endpoint);
   const model = params.model || "qwen3:4b-instruct";
-  const timeoutMs = params.timeoutMs || 80000;
+  const timeoutMs = params.timeoutMs || 90000;
 
   const systemPrompt = `You are Vidhik's Public Legal Information Assistant for Indian Law.
 Your role is to explain legal concepts, constitutional provisions, statutory frameworks, and general legal procedures clearly and accurately to citizens.
@@ -311,7 +345,7 @@ CRITICAL PUBLIC RULES:
   try {
     const res = await fetch(endpoint, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers,
       body: JSON.stringify({
         model,
         prompt,

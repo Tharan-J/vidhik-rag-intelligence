@@ -145,21 +145,36 @@ class BM25Store:
         idx_path = target_dir / self.index_file
         map_path = target_dir / self.mapping_file
 
-        if not idx_path.exists() or not map_path.exists():
-            raise FileNotFoundError(f"BM25 index files missing at {idx_path} or {map_path}")
-
-        logger.info(f"Loading BM25 index from {idx_path}...")
-        with open(idx_path, "rb") as f:
-            data = pickle.load(f)
-            self.bm25 = data["bm25"]
-            self.corpus_tokens = data.get("corpus_tokens", [])
-            self.k1 = data.get("k1", self.k1)
-            self.b = data.get("b", self.b)
-            self.epsilon = data.get("epsilon", self.epsilon)
+        if not map_path.exists():
+            raise FileNotFoundError(f"BM25 mapping file missing at {map_path}")
 
         logger.info(f"Loading BM25 mapping from {map_path}...")
         df_map = pd.read_parquet(map_path)
         self.mapping_records = df_map.to_dict(orient="records")
+
+        if idx_path.exists():
+            logger.info(f"Loading cached BM25 model pickle from {idx_path}...")
+            with open(idx_path, "rb") as f:
+                data = pickle.load(f)
+                self.bm25 = data["bm25"]
+                self.corpus_tokens = data.get("corpus_tokens", [])
+                self.k1 = data.get("k1", self.k1)
+                self.b = data.get("b", self.b)
+                self.epsilon = data.get("epsilon", self.epsilon)
+        else:
+            logger.info(f"BM25 pickle index not present at {idx_path}. Reconstructing BM25Okapi model from mapping ({len(self.mapping_records)} chunks)...")
+            self.corpus_tokens = [
+                tokenize_legal_text(str(r.get("text", "")))
+                for r in self.mapping_records
+            ]
+            self.bm25 = BM25Okapi(
+                self.corpus_tokens,
+                k1=self.k1,
+                b=self.b,
+                epsilon=self.epsilon,
+            )
+            logger.info("BM25Okapi model reconstructed in memory successfully.")
+
         logger.info(f"BM25 index and mapping loaded successfully ({len(self.mapping_records)} chunks).")
 
     def search(self, query: str, top_k: int = 50) -> List[Dict[str, Any]]:

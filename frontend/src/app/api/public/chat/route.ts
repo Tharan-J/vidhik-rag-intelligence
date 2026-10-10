@@ -29,11 +29,15 @@ interface ChunkHit {
 }
 
 async function fetchFromRetrievalDaemon(query: string, top_k = 6): Promise<ChunkHit[]> {
-  // 1. Try fast in-memory daemon (port 8008, takes ~50ms)
+  // 1. Try retrieval daemon or deployed Railway backend
   try {
+    const daemonBase = process.env.RETRIEVAL_DAEMON_URL || "http://127.0.0.1:8008";
     const res = await fetch(
-      `http://127.0.0.1:8008/search?q=${encodeURIComponent(query)}&top_k=${top_k}`,
-      { signal: AbortSignal.timeout(3500) }
+      `${daemonBase}/search?q=${encodeURIComponent(query)}&top_k=${top_k}`,
+      {
+        headers: { "ngrok-skip-browser-warning": "true" },
+        signal: AbortSignal.timeout(6000),
+      }
     );
     if (res.ok) {
       const data = await res.json();
@@ -43,7 +47,7 @@ async function fetchFromRetrievalDaemon(query: string, top_k = 6): Promise<Chunk
     }
   } catch {}
 
-  // 2. Fallback to CLI bridge
+  // 2. Fallback to CLI bridge (development environment only)
   try {
     const prototypeDir = path.resolve(process.cwd(), "..", "prototype");
     const scriptPath = path.join(prototypeDir, "scripts", "retrieval_bridge.py");
@@ -64,10 +68,30 @@ async function translateViaIndicTrans2(params: {
   claims?: any[];
 }): Promise<{ translatedAnswer: string; preservedEntities: any[]; warning?: string }> {
   try {
-    const daemonUrl = "http://127.0.0.1:8009/translate";
+    const gatewayToken = process.env.AI_GATEWAY_TOKEN;
+    const reqHeaders: Record<string, string> = {
+      "Content-Type": "application/json",
+      "ngrok-skip-browser-warning": "true",
+    };
+    if (gatewayToken) {
+      reqHeaders["Authorization"] = `Bearer ${gatewayToken}`;
+      reqHeaders["x-gateway-token"] = gatewayToken;
+    }
+
+    let daemonUrl = process.env.TRANSLATION_DAEMON_URL;
+    if (!daemonUrl && process.env.AI_GATEWAY_URL) {
+      const cleanUrl = process.env.AI_GATEWAY_URL.replace(/\/+$/, "");
+      daemonUrl = cleanUrl.endsWith("/api/translate")
+        ? cleanUrl
+        : (cleanUrl.endsWith("/translate") ? cleanUrl : `${cleanUrl}/api/translate`);
+    }
+    if (!daemonUrl) {
+      daemonUrl = "http://127.0.0.1:8009/translate";
+    }
+
     const res = await fetch(daemonUrl, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: reqHeaders,
       body: JSON.stringify({
         english_answer: params.englishAnswer.trim(),
         target_language: params.targetLanguage,

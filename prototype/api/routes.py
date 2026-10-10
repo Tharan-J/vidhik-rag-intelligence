@@ -297,8 +297,24 @@ async def legal_translate(request: LegalTranslationRequest) -> LegalTranslationR
             },
         )
 
-    # 1. Forward to translation daemon
-    daemon_url = "http://127.0.0.1:8009/translate"
+    # 1. Forward to translation daemon or AI gateway
+    import os
+    daemon_url = os.environ.get("TRANSLATION_DAEMON_URL")
+    if not daemon_url and os.environ.get("AI_GATEWAY_URL"):
+        clean_gw = os.environ.get("AI_GATEWAY_URL", "").rstrip("/")
+        daemon_url = clean_gw if clean_gw.endswith("/api/translate") else (clean_gw if clean_gw.endswith("/translate") else f"{clean_gw}/api/translate")
+    if not daemon_url:
+        daemon_url = "http://127.0.0.1:8009/translate"
+
+    req_headers = {
+        "Content-Type": "application/json; charset=utf-8",
+        "ngrok-skip-browser-warning": "true",
+    }
+    gw_token = os.environ.get("AI_GATEWAY_TOKEN", os.environ.get("GATEWAY_TOKEN", ""))
+    if gw_token:
+        req_headers["Authorization"] = f"Bearer {gw_token}"
+        req_headers["x-gateway-token"] = gw_token
+
     req_body = json.dumps({
         "english_answer": clean_answer,
         "target_language": tgt_lang,
@@ -311,7 +327,7 @@ async def legal_translate(request: LegalTranslationRequest) -> LegalTranslationR
         http_req = urllib.request.Request(
             daemon_url,
             data=req_body,
-            headers={"Content-Type": "application/json; charset=utf-8"},
+            headers=req_headers,
             method="POST",
         )
         with urllib.request.urlopen(http_req, timeout=30.0) as resp:

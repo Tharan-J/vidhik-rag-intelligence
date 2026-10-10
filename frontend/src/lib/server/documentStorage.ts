@@ -225,7 +225,7 @@ export function resolveAuthorizedDocument(params: {
   if (allowCorpusFallback) {
     for (const corpusRoot of READONLY_CORPUS_ROOTS) {
       const candidateCorpus = path.resolve(corpusRoot, safeDocId);
-      if (candidateCorpus.startsWith(corpusRoot) && fs.existsSync(candidateCorpus)) {
+      if (candidateCorpus.startsWith(corpusRoot) && fs.existsSync(/*turbopackIgnore: true*/ candidateCorpus)) {
         const sha256 = computeSha256(candidateCorpus);
         return {
           success: true,

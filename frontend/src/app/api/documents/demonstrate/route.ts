@@ -12,8 +12,10 @@ export async function GET(request: Request) {
 
     let data: any = null;
     try {
-      const res = await fetch(`http://127.0.0.1:8008/doc?id=${encodeURIComponent(docQuery)}&max=20`, {
-        signal: AbortSignal.timeout(3000),
+      const daemonBase = process.env.RETRIEVAL_DAEMON_URL || "http://127.0.0.1:8008";
+      const res = await fetch(`${daemonBase}/doc?id=${encodeURIComponent(docQuery)}&max=20`, {
+        headers: { "ngrok-skip-browser-warning": "true" },
+        signal: AbortSignal.timeout(6000),
       });
       if (res.ok) {
         data = await res.json();

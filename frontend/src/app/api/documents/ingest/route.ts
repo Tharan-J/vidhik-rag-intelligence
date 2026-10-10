@@ -74,12 +74,17 @@ export async function POST(request: Request) {
       );
     }
 
+    const daemonBase = process.env.RETRIEVAL_DAEMON_URL || "http://127.0.0.1:8008";
+
     // Step 1: Ingest into Qdrant Cloud via Document Intelligence Daemon
     let qdrantResult = null;
     try {
-      const qRes = await fetch("http://127.0.0.1:8008/ingest", {
+      const qRes = await fetch(`${daemonBase}/ingest`, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: {
+          "Content-Type": "application/json",
+          "ngrok-skip-browser-warning": "true",
+        },
         body: JSON.stringify({
           document_id: documentName,
           matter_id: matterId,
@@ -87,7 +92,7 @@ export async function POST(request: Request) {
           case_title: documentName,
           court: "Indian Judiciary",
         }),
-        signal: AbortSignal.timeout(30000),
+        signal: AbortSignal.timeout(60000),
       });
       if (qRes.ok) {
         qdrantResult = await qRes.json();
@@ -99,15 +104,18 @@ export async function POST(request: Request) {
     // Step 2: Extract Document Metadata via Document Intelligence Probe
     let probeHits: any[] = [];
     try {
-      const pRes = await fetch("http://127.0.0.1:8008/probe", {
+      const pRes = await fetch(`${daemonBase}/probe`, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: {
+          "Content-Type": "application/json",
+          "ngrok-skip-browser-warning": "true",
+        },
         body: JSON.stringify({
           document_id: documentName,
           probe_type: "parties_and_posture",
           top_k: 2,
         }),
-        signal: AbortSignal.timeout(10000),
+        signal: AbortSignal.timeout(15000),
       });
       if (pRes.ok) {
         const pData = await pRes.json();

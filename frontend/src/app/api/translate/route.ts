@@ -80,14 +80,34 @@ export async function POST(request: Request) {
       );
     }
 
-    // 4. Forward to the Translation Daemon (port 8009)
-    const daemonUrl = "http://127.0.0.1:8009/translate";
+    // 4. Resolve Translation Gateway or Daemon
+    const gatewayToken = process.env.AI_GATEWAY_TOKEN;
+    const reqHeaders: Record<string, string> = {
+      "Content-Type": "application/json",
+      "ngrok-skip-browser-warning": "true",
+    };
+    if (gatewayToken) {
+      reqHeaders["Authorization"] = `Bearer ${gatewayToken}`;
+      reqHeaders["x-gateway-token"] = gatewayToken;
+    }
+
+    let daemonUrl = process.env.TRANSLATION_DAEMON_URL;
+    if (!daemonUrl && process.env.AI_GATEWAY_URL) {
+      const cleanUrl = process.env.AI_GATEWAY_URL.replace(/\/+$/, "");
+      daemonUrl = cleanUrl.endsWith("/api/translate")
+        ? cleanUrl
+        : (cleanUrl.endsWith("/translate") ? cleanUrl : `${cleanUrl}/api/translate`);
+    }
+    if (!daemonUrl) {
+      daemonUrl = "http://127.0.0.1:8009/translate";
+    }
+
     let translationResponse: Response;
 
     try {
       translationResponse = await fetch(daemonUrl, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: reqHeaders,
         body: JSON.stringify({
           english_answer: englishAnswer.trim(),
           target_language: targetLanguage,
@@ -95,7 +115,7 @@ export async function POST(request: Request) {
           evidence: evidence,
           claims: claims,
         }),
-        signal: AbortSignal.timeout(35000),
+        signal: AbortSignal.timeout(45000),
       });
     } catch (netErr: any) {
       return NextResponse.json(

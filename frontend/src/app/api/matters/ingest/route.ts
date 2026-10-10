@@ -49,9 +49,13 @@ async function ingestIntoQdrantCloud(
   court: string
 ): Promise<{ status: string; chunks_created: number; qdrant_points_upserted: number } | null> {
   try {
-    const res = await fetch("http://127.0.0.1:8008/ingest", {
+    const daemonBase = process.env.RETRIEVAL_DAEMON_URL || "http://127.0.0.1:8008";
+    const res = await fetch(`${daemonBase}/ingest`, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: {
+        "Content-Type": "application/json",
+        "ngrok-skip-browser-warning": "true",
+      },
       body: JSON.stringify({
         document_id: documentId,
         matter_id: matterId,
@@ -76,15 +80,19 @@ async function probeDocumentIntelligence(
   topK = 3
 ): Promise<ProbeResult[]> {
   try {
-    const res = await fetch("http://127.0.0.1:8008/probe", {
+    const daemonBase = process.env.RETRIEVAL_DAEMON_URL || "http://127.0.0.1:8008";
+    const res = await fetch(`${daemonBase}/probe`, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: {
+        "Content-Type": "application/json",
+        "ngrok-skip-browser-warning": "true",
+      },
       body: JSON.stringify({
         document_id: documentId,
         probe_type: probeType,
         top_k: topK,
       }),
-      signal: AbortSignal.timeout(12000),
+      signal: AbortSignal.timeout(15000),
     });
     if (res.ok) {
       const data = await res.json();

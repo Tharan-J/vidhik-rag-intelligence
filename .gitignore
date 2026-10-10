@@ -47,9 +47,11 @@ research/tessdata/
 *.safetensors
 *.pkl
 *.pickle
-prototype/indexes/
+prototype/indexes/*
+!prototype/indexes/bm25/
+prototype/indexes/bm25/*
+!prototype/indexes/bm25/bm25_mapping.parquet
 research/rag_experiments/indexes/
-**/indexes/bm25/
 
 # ------------------------------------------------------------------------------
 # 4. Node.js & Next.js Build Artifacts

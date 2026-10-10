@@ -53,12 +53,10 @@ class BM25Retriever:
         idx_path = self.config.index_dir / self.config.index_file
         map_path = self.config.index_dir / self.config.mapping_file
 
-        if not idx_path.exists():
-            raise FileNotFoundError(f"BM25 index file not found at: {idx_path}")
         if not map_path.exists():
             raise FileNotFoundError(f"BM25 mapping file not found at: {map_path}")
 
-        logger.info(f"Loading persistent BM25 index from {idx_path}...")
+        logger.info(f"Loading BM25 index from store (index_dir: {self.config.index_dir})...")
         self.store.load()
         logger.info(f"BM25 index ready with {len(self.store.mapping_records)} indexed chunks.")
 

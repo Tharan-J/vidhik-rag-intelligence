@@ -401,6 +401,17 @@ class FastRetrievalHandler(BaseHTTPRequestHandler):
         except (BrokenPipeError, ConnectionResetError):
             pass
 
+    def send_cors_headers(self):
+        self.send_header("Access-Control-Allow-Origin", "*")
+        self.send_header("Access-Control-Allow-Methods", "GET, POST, OPTIONS")
+        self.send_header("Access-Control-Allow-Headers", "Content-Type, Authorization, x-gateway-token, ngrok-skip-browser-warning")
+        self.send_header("ngrok-skip-browser-warning", "true")
+
+    def do_OPTIONS(self):
+        self.send_response(200)
+        self.send_cors_headers()
+        self.end_headers()
+
     def do_GET(self):
         parsed = urlparse(self.path)
         path = parsed.path
@@ -409,6 +420,7 @@ class FastRetrievalHandler(BaseHTTPRequestHandler):
         if path == "/health":
             self.send_response(200)
             self.send_header("Content-Type", "application/json")
+            self.send_cors_headers()
             self.end_headers()
             self.wfile.write(json.dumps({
                 "status": "healthy",
@@ -1003,10 +1015,14 @@ class SilentThreadingHTTPServer(ThreadingHTTPServer):
             return
         super().handle_error(request, client_address)
 
-def run_daemon(port=8008):
-    server_address = ("127.0.0.1", port)
+def run_daemon(host=None, port=None):
+    if host is None:
+        host = os.environ.get("HOST", "0.0.0.0" if os.environ.get("PORT") else "127.0.0.1")
+    if port is None:
+        port = int(os.environ.get("PORT", sys.argv[1] if len(sys.argv) > 1 else 8008))
+    server_address = (host, port)
     httpd = SilentThreadingHTTPServer(server_address, FastRetrievalHandler)
-    print(f"Vidhik Document Intelligence Daemon listening on http://127.0.0.1:{port} (PID: {os.getpid()})")
+    print(f"Vidhik Document Intelligence Daemon listening on http://{host}:{port} (PID: {os.getpid()})")
     try:
         httpd.serve_forever()
     except KeyboardInterrupt:
@@ -1014,5 +1030,6 @@ def run_daemon(port=8008):
     httpd.server_close()
 
 if __name__ == "__main__":
-    port = int(sys.argv[1]) if len(sys.argv) > 1 else 8008
-    run_daemon(port)
+    host = os.environ.get("HOST", None)
+    port = int(os.environ.get("PORT", sys.argv[1] if len(sys.argv) > 1 else 8008))
+    run_daemon(host=host, port=port)

@@ -67,15 +67,30 @@ class QwenGenerator:
             },
         }
 
+        endpoint = self.config.endpoint
+        gateway_url = os.environ.get("AI_GATEWAY_URL", "")
+        if gateway_url:
+            clean_gw = gateway_url.rstrip("/")
+            endpoint = clean_gw if clean_gw.endswith("/api/generate") else f"{clean_gw}/api/generate"
+
+        headers = {
+            "Content-Type": "application/json",
+            "ngrok-skip-browser-warning": "true",
+        }
+        token = os.environ.get("AI_GATEWAY_TOKEN", os.environ.get("GATEWAY_TOKEN", ""))
+        if token:
+            headers["Authorization"] = f"Bearer {token}"
+            headers["x-gateway-token"] = token
+
         data_bytes = json.dumps(payload).encode("utf-8")
         req = urllib.request.Request(
-            self.config.endpoint,
+            endpoint,
             data=data_bytes,
-            headers={"Content-Type": "application/json"},
+            headers=headers,
         )
 
         logger.info(
-            f"Invoking Qwen model ({self.config.model}) at {self.config.endpoint} "
+            f"Invoking Qwen model ({self.config.model}) at {endpoint} "
             f"(temp={temp}, max_tokens={tokens_limit})..."
         )
 

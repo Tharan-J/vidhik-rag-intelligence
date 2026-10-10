@@ -14,11 +14,15 @@ import {
 const execAsync = promisify(exec);
 
 async function retrieveLegalChunks(query: string, top_k = 6) {
-  // 1. Try fast in-memory daemon (port 8008, ~50ms)
+  // 1. Try retrieval daemon or deployed Railway backend
   try {
+    const daemonBase = process.env.RETRIEVAL_DAEMON_URL || "http://127.0.0.1:8008";
     const res = await fetch(
-      `http://127.0.0.1:8008/search?q=${encodeURIComponent(query)}&top_k=${top_k}`,
-      { signal: AbortSignal.timeout(3500) }
+      `${daemonBase}/search?q=${encodeURIComponent(query)}&top_k=${top_k}`,
+      {
+        headers: { "ngrok-skip-browser-warning": "true" },
+        signal: AbortSignal.timeout(6000),
+      }
     );
     if (res.ok) {
       const data = await res.json();
