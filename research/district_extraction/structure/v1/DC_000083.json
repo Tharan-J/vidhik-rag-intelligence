@@ -1,0 +1,364 @@
+{
+  "document_id": "DC_000083",
+  "source": {
+    "sha256": "4180d954a483a8e430349932edb60b78d2d836d31ed3ad30a7bc1da065d4848b",
+    "filename": "orders_2020_215200019512020_1.pdf",
+    "source_record_id": "DC-S3-083_8_24_1080060_2020_orders_2020_215200019512020_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 27159
+  },
+  "routing": {
+    "initial_route": "NATIVE_SUSPICIOUS",
+    "fallback_used": false,
+    "route_reason": "MODERATE_SYMBOL_NOISE"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.9976
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 4016,
+      "word_count": 605,
+      "raw_text": "IN THE COURT OF THE SESSIONS JUDGE,ARARIA.\nA.B.P. NO. 1951 of 2020\nArising out of Raniganj P.S. case no. 513/2020    \n-------------------------------------------------------------------------------------------       \nRaju Hembram    &  6 others\nPetitioners.\nVersus\n                State of Bihar \nOpposite Party\n-------------------------------------------------------------------------------------------    \nAppearance:\n     For the petitioners: Mr. S.K.Sinha, Advocate  \n   For the prosecution:Mr. L.N.Yadav, P.P. \n-------------------------------------------------------------------------------------------\nThis anticipatory bail petition filed on behalf of accused\npetitioners namely 1. Raju Hembram 2. Taleshwar Hembram @ Raju Hembram\n3. Babuji Hembram 4. Lakshman Hembram @ Laxman Tuddu 5. Tuppan\nHembram @ Chunku Tuddu 6. Baleshwar Kishku and 7. Bajjo Kishku @ Baiju\nKishku  who apprehend their arrest in connection with Raniganj P.S. case no.\n513/2020 u/s   147, 148, 149, 341, 323, 327, 385, 386, 447, 504  I.P.C. pressed\ntoday by their learned counsel. \nHeard both the sides in physical mode of court proceeding.\nThe learned counsel for the accused petitioners  submits that the\naccused petitioners are innocent who have committed no offence and  have been\nfalsely implicated in this case due to previous enmity and land dispute and all the\noffences are bailable in nature except 327, 386 I.P.C. which are not directly or\nspecifically alleged against the petitioners. There is prior enemical terms running\nbetween the parties for the land dispute. As a matter of fact present case is\ncounter blast of S.C. & S.T. P.S. case no. 31/2020 lodged by the petitioner Babuji\nHembram against the informant and his family, in such circumstances, the\npetitioners deserve to be released on anticipatory bail.  \nThe learned P.P. opposed the anticipatory bail. \nHeard the submissions of both the sides and perused the L.C.R.\nProsecution case as per F.I.R. being written report of informant Santan Jha\nbriefly is that the informant claims to be purchaser of 10 decs. Land appertaining\nto plot no. 338 of khata no. 326,  34 decs. Land appertaining to plot no. 337 of\nkhata no. 504 in village mauza Parsa Hat by registered sale deed; that on alleged\ndate 22.10.2020 at 10 a.m. the informant when made objection with the\npetitioners and co-accused who all alongwith some unknown persons having\nequipped with lathi, farsa, bow arrow illegally started raising hut shet in\ninformant's land, all the accused persons have refused by giving threatening to\ninformant for giving rangdari tax of Rs. 10 lacs to retain the possession over the\nland in question and thus altercation took place between them and anyhow the\ninformant escaped from the spot to save his life and to take help of local\nadministration and police for the alleged highhandedness of accused persons and\naccordingly proceeding u/s 107 and 144 Cr.P.c. have been started, hence this case\nis filed and registered in bailable offences except 386 I.P.C. \nAs per submission of the petitioner, it is evident that no any injury\nhas been inflicted and it is admitted fact that  there is prior enemical term and\ngrudge between the parties for land dispute and there is counter allegation of the\npetitioners against the informant of this case vide S.C. & S.T. P.s. case no.\n31/2020 u/s 147,148,323,354B, 420,120B I.P.C. and u/s 3(1)(r) of S.C. & S.T.\nAct  lodged by Babuji Hembram herein petitioner no. 3, I find it is a fit case to\ngrant anticipatory bail. Accordingly, anticipatory bail petition of the petitioners is\nallowed.  In the event of their arrest or surrender before the court below within a\nperiod of four  weeks  from receipt of  the petitioner shall be released on bail on\nfurnishing their bail bonds of Rs. 10,000/- with two sureties of like amount each\nto the satisfaction of the court below subject to the conditions as laid down u/s\n438(2) Cr.P.C. \n             (Dictated)\n     sd/-\n                      P.K.Dixit)\n                Sessions Judge\n08.01.2021"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 3901,
+      "word_count": 605,
+      "normalized_text": "IN THE COURT OF THE SESSIONS JUDGE,ARARIA.\nA.B.P. NO. 1951 of 2020\nArising out of Raniganj P.S. case no. 513/2020\n-------------------------------------------------------------------------------------------\nRaju Hembram & 6 others\nPetitioners.\nVersus\n State of Bihar\nOpposite Party\n-------------------------------------------------------------------------------------------\nAppearance:\n For the petitioners: Mr. S.K.Sinha, Advocate\n For the prosecution:Mr. L.N.Yadav, P.P.\n-------------------------------------------------------------------------------------------\nThis anticipatory bail petition filed on behalf of accused\npetitioners namely 1. Raju Hembram 2. Taleshwar Hembram @ Raju Hembram\n3. Babuji Hembram 4. Lakshman Hembram @ Laxman Tuddu 5. Tuppan\nHembram @ Chunku Tuddu 6. Baleshwar Kishku and 7. Bajjo Kishku @ Baiju\nKishku who apprehend their arrest in connection with Raniganj P.S. case no.\n513/2020 u/s 147, 148, 149, 341, 323, 327, 385, 386, 447, 504 I.P.C. pressed\ntoday by their learned counsel.\nHeard both the sides in physical mode of court proceeding.\nThe learned counsel for the accused petitioners submits that the\naccused petitioners are innocent who have committed no offence and have been\nfalsely implicated in this case due to previous enmity and land dispute and all the\noffences are bailable in nature except 327, 386 I.P.C. which are not directly or\nspecifically alleged against the petitioners. There is prior enemical terms running\nbetween the parties for the land dispute. As a matter of fact present case is\ncounter blast of S.C. & S.T. P.S. case no. 31/2020 lodged by the petitioner Babuji\nHembram against the informant and his family, in such circumstances, the\npetitioners deserve to be released on anticipatory bail.\nThe learned P.P. opposed the anticipatory bail.\nHeard the submissions of both the sides and perused the L.C.R.\nProsecution case as per F.I.R. being written report of informant Santan Jha\nbriefly is that the informant claims to be purchaser of 10 decs. Land appertaining\nto plot no. 338 of khata no. 326, 34 decs. Land appertaining to plot no. 337 of\nkhata no. 504 in village mauza Parsa Hat by registered sale deed; that on alleged\ndate 22.10.2020 at 10 a.m. the informant when made objection with the\npetitioners and co-accused who all alongwith some unknown persons having\nequipped with lathi, farsa, bow arrow illegally started raising hut shet in\ninformant's land, all the accused persons have refused by giving threatening to\ninformant for giving rangdari tax of Rs. 10 lacs to retain the possession over the\nland in question and thus altercation took place between them and anyhow the\ninformant escaped from the spot to save his life and to take help of local\nadministration and police for the alleged highhandedness of accused persons and\naccordingly proceeding u/s 107 and 144 Cr.P.c. have been started, hence this case\nis filed and registered in bailable offences except 386 I.P.C.\nAs per submission of the petitioner, it is evident that no any injury\nhas been inflicted and it is admitted fact that there is prior enemical term and\ngrudge between the parties for land dispute and there is counter allegation of the\npetitioners against the informant of this case vide S.C. & S.T. P.s. case no.\n31/2020 u/s 147,148,323,354B, 420,120B I.P.C. and u/s 3(1)(r) of S.C. & S.T.\nAct lodged by Babuji Hembram herein petitioner no. 3, I find it is a fit case to\ngrant anticipatory bail. Accordingly, anticipatory bail petition of the petitioners is\nallowed. In the event of their arrest or surrender before the court below within a\nperiod of four weeks from receipt of the petitioner shall be released on bail on\nfurnishing their bail bonds of Rs. 10,000/- with two sureties of like amount each\nto the satisfaction of the court below subject to the conditions as laid down u/s\n438(2) Cr.P.C.\n (Dictated)\n sd/-\n P.K.Dixit)\n Sessions Judge\n08.01.2021"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 1,
+    "total_sentences": 38,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 3901,
+        "word_count": 605,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000083_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 3901,
+            "word_count": 605,
+            "sentence_count": 38,
+            "text": "IN THE COURT OF THE SESSIONS JUDGE,ARARIA.\nA.B.P. NO. 1951 of 2020\nArising out of Raniganj P.S. case no. 513/2020\n-------------------------------------------------------------------------------------------\nRaju Hembram & 6 others\nPetitioners.\nVersus\n State of Bihar\nOpposite Party\n-------------------------------------------------------------------------------------------\nAppearance:\n For the petitioners: Mr. S.K.Sinha, Advocate\n For the prosecution:Mr. L.N.Yadav, P.P.\n-------------------------------------------------------------------------------------------\nThis anticipatory bail petition filed on behalf of accused\npetitioners namely 1. Raju Hembram 2. Taleshwar Hembram @ Raju Hembram\n3. Babuji Hembram 4. Lakshman Hembram @ Laxman Tuddu 5. Tuppan\nHembram @ Chunku Tuddu 6. Baleshwar Kishku and 7. Bajjo Kishku @ Baiju\nKishku who apprehend their arrest in connection with Raniganj P.S. case no.\n513/2020 u/s 147, 148, 149, 341, 323, 327, 385, 386, 447, 504 I.P.C. pressed\ntoday by their learned counsel.\nHeard both the sides in physical mode of court proceeding.\nThe learned counsel for the accused petitioners submits that the\naccused petitioners are innocent who have committed no offence and have been\nfalsely implicated in this case due to previous enmity and land dispute and all the\noffences are bailable in nature except 327, 386 I.P.C. which are not directly or\nspecifically alleged against the petitioners. There is prior enemical terms running\nbetween the parties for the land dispute. As a matter of fact present case is\ncounter blast of S.C. & S.T. P.S. case no. 31/2020 lodged by the petitioner Babuji\nHembram against the informant and his family, in such circumstances, the\npetitioners deserve to be released on anticipatory bail.\nThe learned P.P. opposed the anticipatory bail.\nHeard the submissions of both the sides and perused the L.C.R.\nProsecution case as per F.I.R. being written report of informant Santan Jha\nbriefly is that the informant claims to be purchaser of 10 decs. Land appertaining\nto plot no. 338 of khata no. 326, 34 decs. Land appertaining to plot no. 337 of\nkhata no. 504 in village mauza Parsa Hat by registered sale deed; that on alleged\ndate 22.10.2020 at 10 a.m. the informant when made objection with the\npetitioners and co-accused who all alongwith some unknown persons having\nequipped with lathi, farsa, bow arrow illegally started raising hut shet in\ninformant's land, all the accused persons have refused by giving threatening to\ninformant for giving rangdari tax of Rs. 10 lacs to retain the possession over the\nland in question and thus altercation took place between them and anyhow the\ninformant escaped from the spot to save his life and to take help of local\nadministration and police for the alleged highhandedness of accused persons and\naccordingly proceeding u/s 107 and 144 Cr.P.c. have been started, hence this case\nis filed and registered in bailable offences except 386 I.P.C.\nAs per submission of the petitioner, it is evident that no any injury\nhas been inflicted and it is admitted fact that there is prior enemical term and\ngrudge between the parties for land dispute and there is counter allegation of the\npetitioners against the informant of this case vide S.C. & S.T. P.s. case no.\n31/2020 u/s 147,148,323,354B, 420,120B I.P.C. and u/s 3(1)(r) of S.C. & S.T.\nAct lodged by Babuji Hembram herein petitioner no. 3, I find it is a fit case to\ngrant anticipatory bail. Accordingly, anticipatory bail petition of the petitioners is\nallowed. In the event of their arrest or surrender before the court below within a\nperiod of four weeks from receipt of the petitioner shall be released on bail on\nfurnishing their bail bonds of Rs. 10,000/- with two sureties of like amount each\nto the satisfaction of the court below subject to the conditions as laid down u/s\n438(2) Cr.P.C.\n (Dictated)\n sd/-\n P.K.Dixit)\n Sessions Judge\n08.01.2021",
+            "sentences": [
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 42,
+                "word_count": 7,
+                "text": "IN THE COURT OF THE SESSIONS JUDGE,ARARIA."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 6,
+                "word_count": 1,
+                "text": "A.B.P."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 45,
+                "word_count": 9,
+                "text": "NO. 1951 of 2020\nArising out of Raniganj P.S."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 146,
+                "word_count": 10,
+                "text": "case no. 513/2020\n-------------------------------------------------------------------------------------------\nRaju Hembram & 6 others\nPetitioners."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 228,
+                "word_count": 19,
+                "text": "Versus\n State of Bihar\nOpposite Party\n-------------------------------------------------------------------------------------------\nAppearance:\n For the petitioners: Mr. S.K.Sinha, Advocate\n For the prosecution:Mr. L.N.Yadav, P.P."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 172,
+                "word_count": 13,
+                "text": "-------------------------------------------------------------------------------------------\nThis anticipatory bail petition filed on behalf of accused\npetitioners namely 1."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 15,
+                "word_count": 3,
+                "text": "Raju Hembram 2."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 35,
+                "word_count": 6,
+                "text": "Taleshwar Hembram @ Raju Hembram\n3."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 17,
+                "word_count": 3,
+                "text": "Babuji Hembram 4."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 34,
+                "word_count": 6,
+                "text": "Lakshman Hembram @ Laxman Tuddu 5."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 32,
+                "word_count": 6,
+                "text": "Tuppan\nHembram @ Chunku Tuddu 6."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN012",
+                "sentence_index": 12,
+                "character_count": 23,
+                "word_count": 4,
+                "text": "Baleshwar Kishku and 7."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN013",
+                "sentence_index": 13,
+                "character_count": 87,
+                "word_count": 14,
+                "text": "Bajjo Kishku @ Baiju\nKishku who apprehend their arrest in connection with Raniganj P.S."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN014",
+                "sentence_index": 14,
+                "character_count": 117,
+                "word_count": 21,
+                "text": "case no.\n513/2020 u/s 147, 148, 149, 341, 323, 327, 385, 386, 447, 504 I.P.C. pressed\ntoday by their learned counsel."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN015",
+                "sentence_index": 15,
+                "character_count": 58,
+                "word_count": 10,
+                "text": "Heard both the sides in physical mode of court proceeding."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN016",
+                "sentence_index": 16,
+                "character_count": 352,
+                "word_count": 56,
+                "text": "The learned counsel for the accused petitioners submits that the\naccused petitioners are innocent who have committed no offence and have been\nfalsely implicated in this case due to previous enmity and land dispute and all the\noffences are bailable in nature except 327, 386 I.P.C. which are not directly or\nspecifically alleged against the petitioners."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN017",
+                "sentence_index": 17,
+                "character_count": 79,
+                "word_count": 13,
+                "text": "There is prior enemical terms running\nbetween the parties for the land dispute."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN018",
+                "sentence_index": 18,
+                "character_count": 57,
+                "word_count": 12,
+                "text": "As a matter of fact present case is\ncounter blast of S.C."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN019",
+                "sentence_index": 19,
+                "character_count": 6,
+                "word_count": 2,
+                "text": "& S.T."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN020",
+                "sentence_index": 20,
+                "character_count": 4,
+                "word_count": 1,
+                "text": "P.S."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN021",
+                "sentence_index": 21,
+                "character_count": 178,
+                "word_count": 27,
+                "text": "case no. 31/2020 lodged by the petitioner Babuji\nHembram against the informant and his family, in such circumstances, the\npetitioners deserve to be released on anticipatory bail."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN022",
+                "sentence_index": 22,
+                "character_count": 16,
+                "word_count": 3,
+                "text": "The learned P.P."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN023",
+                "sentence_index": 23,
+                "character_count": 30,
+                "word_count": 4,
+                "text": "opposed the anticipatory bail."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN024",
+                "sentence_index": 24,
+                "character_count": 62,
+                "word_count": 11,
+                "text": "Heard the submissions of both the sides and perused the L.C.R."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN025",
+                "sentence_index": 25,
+                "character_count": 30,
+                "word_count": 5,
+                "text": "Prosecution case as per F.I.R."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN026",
+                "sentence_index": 26,
+                "character_count": 109,
+                "word_count": 19,
+                "text": "being written report of informant Santan Jha\nbriefly is that the informant claims to be purchaser of 10 decs."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN027",
+                "sentence_index": 27,
+                "character_count": 60,
+                "word_count": 12,
+                "text": "Land appertaining\nto plot no. 338 of khata no. 326, 34 decs."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN028",
+                "sentence_index": 28,
+                "character_count": 145,
+                "word_count": 27,
+                "text": "Land appertaining to plot no. 337 of\nkhata no. 504 in village mauza Parsa Hat by registered sale deed; that on alleged\ndate 22.10.2020 at 10 a.m."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN029",
+                "sentence_index": 29,
+                "character_count": 312,
+                "word_count": 48,
+                "text": "the informant when made objection with the\npetitioners and co-accused who all alongwith some unknown persons having\nequipped with lathi, farsa, bow arrow illegally started raising hut shet in\ninformant's land, all the accused persons have refused by giving threatening to\ninformant for giving rangdari tax of Rs."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN030",
+                "sentence_index": 30,
+                "character_count": 709,
+                "word_count": 121,
+                "text": "10 lacs to retain the possession over the\nland in question and thus altercation took place between them and anyhow the\ninformant escaped from the spot to save his life and to take help of local\nadministration and police for the alleged highhandedness of accused persons and\naccordingly proceeding u/s 107 and 144 Cr.P.c. have been started, hence this case\nis filed and registered in bailable offences except 386 I.P.C.\nAs per submission of the petitioner, it is evident that no any injury\nhas been inflicted and it is admitted fact that there is prior enemical term and\ngrudge between the parties for land dispute and there is counter allegation of the\npetitioners against the informant of this case vide S.C."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN031",
+                "sentence_index": 31,
+                "character_count": 6,
+                "word_count": 2,
+                "text": "& S.T."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN032",
+                "sentence_index": 32,
+                "character_count": 4,
+                "word_count": 1,
+                "text": "P.s."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN033",
+                "sentence_index": 33,
+                "character_count": 78,
+                "word_count": 12,
+                "text": "case no.\n31/2020 u/s 147,148,323,354B, 420,120B I.P.C. and u/s 3(1)(r) of S.C."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN034",
+                "sentence_index": 34,
+                "character_count": 6,
+                "word_count": 2,
+                "text": "& S.T."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN035",
+                "sentence_index": 35,
+                "character_count": 105,
+                "word_count": 20,
+                "text": "Act lodged by Babuji Hembram herein petitioner no. 3, I find it is a fit case to\ngrant anticipatory bail."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN036",
+                "sentence_index": 36,
+                "character_count": 70,
+                "word_count": 9,
+                "text": "Accordingly, anticipatory bail petition of the petitioners is\nallowed."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN037",
+                "sentence_index": 37,
+                "character_count": 189,
+                "word_count": 35,
+                "text": "In the event of their arrest or surrender before the court below within a\nperiod of four weeks from receipt of the petitioner shall be released on bail on\nfurnishing their bail bonds of Rs."
+              },
+              {
+                "sentence_id": "DC_000083_P001_PAR001_SEN038",
+                "sentence_index": 38,
+                "character_count": 200,
+                "word_count": 31,
+                "text": "10,000/- with two sureties of like amount each\nto the satisfaction of the court below subject to the conditions as laid down u/s\n438(2) Cr.P.C.\n (Dictated)\n sd/-\n P.K.Dixit)\n Sessions Judge\n08.01.2021"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 8,
+    "state_name": "Bihar",
+    "district_code": 24,
+    "district_name": "Araria",
+    "court_complex_code": 1080060,
+    "court_complex_name": "Civil Court, Araria",
+    "year": 2020,
+    "case_type": "nan",
+    "case_number": "215200019512020",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "Writer",
+    "pdf_producer": "LibreOffice 5.1",
+    "pdf_creation_date": "D:20210116105613+05'30'",
+    "pdf_mod_date": ""
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.9976,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "ENTITY_REMOVED_STATUTES"
+    ],
+    "all_entities_preserved": false
+  },
+  "provenance": {
+    "source_sha256": "4180d954a483a8e430349932edb60b78d2d836d31ed3ad30a7bc1da065d4848b",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.334720"
+  }
+}

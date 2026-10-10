@@ -1,0 +1,283 @@
+{
+  "document_id": "DC_000140",
+  "source": {
+    "sha256": "591dc714f4974a3f3eebbf25b35cc82de875d5133ce8fcda3cc499502ad1c558",
+    "filename": "orders_2025_200900000362025_2.pdf",
+    "source_record_id": "DC-S3-140_36_13_1360016_2025_orders_2025_200900000362025_2",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 2,
+    "file_size_bytes": 55100
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.9977
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 981,
+      "word_count": 141,
+      "raw_text": "Page | 1  \n \nAssam Schedule VIII, Form No. 127 \nHigh Court Criminal Form No. (M) 106 \nORDER SHEET \nIN THE COURT OF CHIEF JUDICIAL MAGISTRATE, SEPPA, EAST KAMENG DISTRICT, \nARUNACHAL PRADESH \n \nCrl. Miscellaneous application No. 36/2025 \nUnder Section 146 BNSS, 2023 \nIn \n CR/ Maint. Case No. 12/2020 \nShri Moye Singhi -vs- Smti. Meje Mangkhya \nDate \nOrder \nSignature \n \n03.12.2025 \n \nThe applicant is represented by his learned counsel Mr. \nSunday Lingfa. \nRespondent Smti Meje Mangkhya is present.  \nHeard the respondent in person who admitted that she \nis already married and her maintenance can be discontinue, \nhowever, she pleaded for maintenance of her child who is \nstaying with the relatives of the petitioner (ex-husband). \nHence, the matter may be referred to Lok Adalat.  \nList the case on 13.12.2025 before National Lok Adalat. \nIssue notice to the applicant and the respondent.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n(Damge Niri) \nCJM, Seppa"
+    },
+    {
+      "page_number": 2,
+      "character_count": 8,
+      "word_count": 3,
+      "raw_text": "Page | 2"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 884,
+      "word_count": 141,
+      "normalized_text": "Page | 1\n\nAssam Schedule VIII, Form No. 127\nHigh Court Criminal Form No. (M) 106\nORDER SHEET\nIN THE COURT OF CHIEF JUDICIAL MAGISTRATE, SEPPA, EAST KAMENG DISTRICT,\nARUNACHAL PRADESH\n\nCrl. Miscellaneous application No. 36/2025\nUnder Section 146 BNSS, 2023\nIn\n CR/ Maint. Case No. 12/2020\nShri Moye Singhi -vs- Smti. Meje Mangkhya\nDate\nOrder\nSignature\n\n03.12.2025\n\nThe applicant is represented by his learned counsel Mr.\nSunday Lingfa.\nRespondent Smti Meje Mangkhya is present.\nHeard the respondent in person who admitted that she\nis already married and her maintenance can be discontinue,\nhowever, she pleaded for maintenance of her child who is\nstaying with the relatives of the petitioner (ex-husband).\nHence, the matter may be referred to Lok Adalat.\nList the case on 13.12.2025 before National Lok Adalat.\nIssue notice to the applicant and the respondent.\n\n(Damge Niri)\nCJM, Seppa"
+    },
+    {
+      "page_number": 2,
+      "character_count": 8,
+      "word_count": 3,
+      "normalized_text": "Page | 2"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 7,
+    "total_sentences": 15,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 884,
+        "word_count": 141,
+        "paragraph_count": 6,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000140_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 8,
+            "word_count": 3,
+            "sentence_count": 1,
+            "text": "Page | 1",
+            "sentences": [
+              {
+                "sentence_id": "DC_000140_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 8,
+                "word_count": 3,
+                "text": "Page | 1"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000140_P001_PAR002",
+            "paragraph_index": 2,
+            "character_count": 172,
+            "word_count": 28,
+            "sentence_count": 1,
+            "text": "Assam Schedule VIII, Form No. 127\nHigh Court Criminal Form No. (M) 106\nORDER SHEET\nIN THE COURT OF CHIEF JUDICIAL MAGISTRATE, SEPPA, EAST KAMENG DISTRICT,\nARUNACHAL PRADESH",
+            "sentences": [
+              {
+                "sentence_id": "DC_000140_P001_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 172,
+                "word_count": 28,
+                "text": "Assam Schedule VIII, Form No. 127\nHigh Court Criminal Form No. (M) 106\nORDER SHEET\nIN THE COURT OF CHIEF JUDICIAL MAGISTRATE, SEPPA, EAST KAMENG DISTRICT,\nARUNACHAL PRADESH"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000140_P001_PAR003",
+            "paragraph_index": 3,
+            "character_count": 166,
+            "word_count": 26,
+            "sentence_count": 4,
+            "text": "Crl. Miscellaneous application No. 36/2025\nUnder Section 146 BNSS, 2023\nIn\n CR/ Maint. Case No. 12/2020\nShri Moye Singhi -vs- Smti. Meje Mangkhya\nDate\nOrder\nSignature",
+            "sentences": [
+              {
+                "sentence_id": "DC_000140_P001_PAR003_SEN001",
+                "sentence_index": 1,
+                "character_count": 4,
+                "word_count": 1,
+                "text": "Crl."
+              },
+              {
+                "sentence_id": "DC_000140_P001_PAR003_SEN002",
+                "sentence_index": 2,
+                "character_count": 81,
+                "word_count": 12,
+                "text": "Miscellaneous application No. 36/2025\nUnder Section 146 BNSS, 2023\nIn\n CR/ Maint."
+              },
+              {
+                "sentence_id": "DC_000140_P001_PAR003_SEN003",
+                "sentence_index": 3,
+                "character_count": 44,
+                "word_count": 8,
+                "text": "Case No. 12/2020\nShri Moye Singhi -vs- Smti."
+              },
+              {
+                "sentence_id": "DC_000140_P001_PAR003_SEN004",
+                "sentence_index": 4,
+                "character_count": 34,
+                "word_count": 5,
+                "text": "Meje Mangkhya\nDate\nOrder\nSignature"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000140_P001_PAR004",
+            "paragraph_index": 4,
+            "character_count": 10,
+            "word_count": 1,
+            "sentence_count": 1,
+            "text": "03.12.2025",
+            "sentences": [
+              {
+                "sentence_id": "DC_000140_P001_PAR004_SEN001",
+                "sentence_index": 1,
+                "character_count": 10,
+                "word_count": 1,
+                "text": "03.12.2025"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000140_P001_PAR005",
+            "paragraph_index": 5,
+            "character_count": 495,
+            "word_count": 79,
+            "sentence_count": 6,
+            "text": "The applicant is represented by his learned counsel Mr.\nSunday Lingfa.\nRespondent Smti Meje Mangkhya is present.\nHeard the respondent in person who admitted that she\nis already married and her maintenance can be discontinue,\nhowever, she pleaded for maintenance of her child who is\nstaying with the relatives of the petitioner (ex-husband).\nHence, the matter may be referred to Lok Adalat.\nList the case on 13.12.2025 before National Lok Adalat.\nIssue notice to the applicant and the respondent.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000140_P001_PAR005_SEN001",
+                "sentence_index": 1,
+                "character_count": 70,
+                "word_count": 11,
+                "text": "The applicant is represented by his learned counsel Mr.\nSunday Lingfa."
+              },
+              {
+                "sentence_id": "DC_000140_P001_PAR005_SEN002",
+                "sentence_index": 2,
+                "character_count": 41,
+                "word_count": 6,
+                "text": "Respondent Smti Meje Mangkhya is present."
+              },
+              {
+                "sentence_id": "DC_000140_P001_PAR005_SEN003",
+                "sentence_index": 3,
+                "character_count": 227,
+                "word_count": 36,
+                "text": "Heard the respondent in person who admitted that she\nis already married and her maintenance can be discontinue,\nhowever, she pleaded for maintenance of her child who is\nstaying with the relatives of the petitioner (ex-husband)."
+              },
+              {
+                "sentence_id": "DC_000140_P001_PAR005_SEN004",
+                "sentence_index": 4,
+                "character_count": 48,
+                "word_count": 9,
+                "text": "Hence, the matter may be referred to Lok Adalat."
+              },
+              {
+                "sentence_id": "DC_000140_P001_PAR005_SEN005",
+                "sentence_index": 5,
+                "character_count": 55,
+                "word_count": 9,
+                "text": "List the case on 13.12.2025 before National Lok Adalat."
+              },
+              {
+                "sentence_id": "DC_000140_P001_PAR005_SEN006",
+                "sentence_index": 6,
+                "character_count": 49,
+                "word_count": 8,
+                "text": "Issue notice to the applicant and the respondent."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000140_P001_PAR006",
+            "paragraph_index": 6,
+            "character_count": 23,
+            "word_count": 4,
+            "sentence_count": 1,
+            "text": "(Damge Niri)\nCJM, Seppa",
+            "sentences": [
+              {
+                "sentence_id": "DC_000140_P001_PAR006_SEN001",
+                "sentence_index": 1,
+                "character_count": 23,
+                "word_count": 4,
+                "text": "(Damge Niri)\nCJM, Seppa"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "character_count": 8,
+        "word_count": 3,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000140_P002_PAR001",
+            "paragraph_index": 1,
+            "character_count": 8,
+            "word_count": 3,
+            "sentence_count": 1,
+            "text": "Page | 2",
+            "sentences": [
+              {
+                "sentence_id": "DC_000140_P002_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 8,
+                "word_count": 3,
+                "text": "Page | 2"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 36,
+    "state_name": "Arunachal Pradesh",
+    "district_code": 13,
+    "district_name": "East Kameng",
+    "court_complex_code": 1360016,
+    "court_complex_name": "CJM-cum-Civil Court, Seppa",
+    "year": 2025,
+    "case_type": "nan",
+    "case_number": "200900000362025",
+    "pdf_title": "",
+    "pdf_author": "Nilip Deb Singha",
+    "pdf_creator": "Microsoft® Word 2019",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260328084255+05'30'",
+    "pdf_mod_date": "D:20260328084255+05'30'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.9977,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "591dc714f4974a3f3eebbf25b35cc82de875d5133ce8fcda3cc499502ad1c558",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.500719"
+  }
+}

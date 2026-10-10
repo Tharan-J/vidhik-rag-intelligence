@@ -1,0 +1,6 @@
+system,indic_overall_preservation,indic_critical_preservation,indic_critical_omission,indic_disposition,indic_statutory,indic_outcome,indic_translation_fidelity,eval_units
+system_a_english,0.0,0.0,100.0,0.0,0.0,0.0,27.06,340
+system_b_direct_indic,5.29,7.24,92.76,0.0,0.0,0.0,32.35,340
+system_c_indictrans2,9.41,21.05,78.95,0.0,0.0,0.0,36.47,340
+system_d_legal_aware,12.94,26.32,73.68,33.33,0.0,16.67,40.0,340
+system_e_verified,12.94,26.32,73.68,33.33,0.0,16.67,40.0,340

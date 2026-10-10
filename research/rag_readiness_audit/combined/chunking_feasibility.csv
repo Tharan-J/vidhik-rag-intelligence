@@ -1,0 +1,4 @@
+court_level,reliable_paragraph_boundary_pct,numbered_paragraph_coverage_pct,section_marker_coverage_pct,page_boundary_aligned_pct,recommended_primary_strategy
+Supreme Court,100.0,21.5,21.2,100.0,Paragraph + Section Hybrid
+High Court,95.5,35.0,18.7,100.0,Paragraph + Section Hybrid
+District Court,91.9,0.6,6.8,100.0,Sliding Token Window / Fixed Paragraph

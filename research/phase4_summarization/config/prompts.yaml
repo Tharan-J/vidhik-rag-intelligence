@@ -1,0 +1,57 @@
+# Phase 4 Prompt Condition Specifications
+prompts:
+  - condition_id: "condition_a"
+    name: "Free-form Summary"
+    description: "Unconstrained legal summary without rigid structure"
+    template: |
+      You are a legal summarizer. Based on the verified legal evidence provided below, summarize this District Court order in {language}.
+      Write a concise, informative legal summary.
+
+      VERIFIED EVIDENCE:
+      {evidence_text}
+
+      SUMMARY IN {language}:
+
+  - condition_id: "condition_b"
+    name: "Structured Legal Summary"
+    description: "Structured summary requiring explicit legal sections"
+    template: |
+      You are a legal summarizer. Based on the verified legal evidence provided below, generate a structured legal summary in {language}.
+      Structure your response using these exact sections:
+      - Case Identity: (Court, Case Number, Date)
+      - Parties: (Complainant/Petitioner, Accused/Respondent)
+      - Facts & Charges: (Statutory sections, Allegations)
+      - Court Findings & Disposition: (Acquitted/Convicted/Dismissed/Allowed)
+      - Relief / Directions: (Bail conditions, Bonds, Orders)
+
+      VERIFIED EVIDENCE:
+      {evidence_text}
+
+      STRUCTURED SUMMARY IN {language}:
+
+  - condition_id: "condition_c"
+    name: "Evidence-Constrained Legal Summary"
+    description: "Strict evidence-grounded summary forbidding hallucination or unstated inference"
+    template: |
+      You are an expert legal summarizer. Generate an evidence-grounded legal summary in {language} following these strict rules:
+      1. Use ONLY the supplied legal evidence.
+      2. Do NOT invent, assume, or hallucinate facts, dates, amounts, or names.
+      3. Preserve exact case numbers, party names, statutory sections, dates, and court dispositions.
+      4. If a fact (such as CNR, Judge Name, or specific section) is missing from the evidence, state "[Not Available in Evidence]".
+      5. Never convert uncertainty into certainty. Do not alter the legal outcome.
+
+      VERIFIED EVIDENCE:
+      {evidence_text}
+
+      EVIDENCE-CONSTRAINED SUMMARY IN {language}:
+
+conditions:
+  - id: "Condition_A"
+    condition_id: "condition_a"
+    name: "Free-form Summary"
+  - id: "Condition_B"
+    condition_id: "condition_b"
+    name: "Structured Legal Summary"
+  - id: "Condition_C"
+    condition_id: "condition_c"
+    name: "Evidence-Constrained Legal Summary"

@@ -1,0 +1,18 @@
+# Vidhik Phase 2 - Extraction Pipeline Configuration
+pipeline_version: "v1.0.0"
+source:
+  corpus_root: "/home/tharan/Seeds/vidhik/legal_data/district_court/experiments/s3_161"
+  pdf_dir: "/home/tharan/Seeds/vidhik/legal_data/district_court/experiments/s3_161/pdfs"
+  manifest_path: "/home/tharan/Seeds/vidhik/legal_data/district_court/experiments/s3_161/manifest.csv"
+  expected_document_count: 161
+
+native_extraction:
+  engine: "pymupdf"
+  preserve_page_breaks: true
+  page_marker_template: "--- PAGE {page_number} ---"
+  min_text_length_bytes: 30
+  extract_words: true
+  extract_rects: false
+
+output:
+  root: "/home/tharan/Seeds/vidhik/district_extraction"

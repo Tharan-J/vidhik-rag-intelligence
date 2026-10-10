@@ -1,0 +1,189 @@
+{
+  "document_id": "DC_000032",
+  "source": {
+    "sha256": "dafe56bb1cb30604afd80651a9e780d20060534f68e9909921f6d7561cef6a8e",
+    "filename": "orders_2010_200900000212010_1.pdf",
+    "source_record_id": "DC-S3-032_2_10_1020104_2010_orders_2010_200900000212010_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 112377
+  },
+  "routing": {
+    "initial_route": "OCR_REQUIRED",
+    "fallback_used": true,
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER"
+  },
+  "extraction": {
+    "selected_method": "tesseract",
+    "extractor_name": "PyMuPDF-Tesseract",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.8812
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 636,
+      "word_count": 149,
+      "raw_text": "\"Bi ey] ana icGe |\nEP ne a) [so10 8s\nRe\nOS. is laa\n{ny\nx\nCS No-\n1d [2004\nSup eon ry EY\nold 91\nR. ug CR\nBk, fae bathe. [a4\nis\\2\\4 ge\ne icaCon\n-\n2y-\nNotre.\nSeed\n@ PD¢\nAS Bilt?\nog.\nrete) candor aged 60-254).\nisi\nRp wceived of 264\nthou.\n:\na\nQuast armmons e— —-\nQalr|ie\nRee\nea\nfovea &o\nB-H-17\nSupe\nSiweitas, ShowS. nvke_(y\nQ\nro\nae\nQakonedo\n«2 & | \\\nGanvnthes Te norte\ni\nfacta 15 Pee.\n|\nQuast amoonlS @\nSa\nSeal ee\ne ar Co\naes\nI\na3)\n25-1117 on payments putea nett\n| LIE pour proved\nprs\nveturn Fyom Gls Kondo:\n} —\naN\n‘idee 0\n}\nGurene¥ pavert Rom come\nae\nSt §ver\nA\nopie\nteree ep ort\naot, send\nen\nmm 0 stoy\nfo-\n.\nseer\naroun pnb i\nene one.\naa er\n|"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 636,
+      "word_count": 149,
+      "normalized_text": "\"Bi ey] ana icGe |\nEP ne a) [so10 8s\nRe\nOS. is laa\n{ny\nx\nCS No-\n1d [2004\nSup eon ry EY\nold 91\nR. ug CR\nBk, fae bathe. [a4\nis\\2\\4 ge\ne icaCon\n-\n2y-\nNotre.\nSeed\n@ PD¢\nAS Bilt?\nog.\nrete) candor aged 60-254).\nisi\nRp wceived of 264\nthou.\n:\na\nQuast armmons e- --\nQalr|ie\nRee\nea\nfovea &o\nB-H-17\nSupe\nSiweitas, ShowS. nvke_(y\nQ\nro\nae\nQakonedo\n«2 & | \\\nGanvnthes Te norte\ni\nfacta 15 Pee.\n|\nQuast amoonlS @\nSa\nSeal ee\ne ar Co\naes\nI\na3)\n25-1117 on payments putea nett\n| LIE pour proved\nprs\nveturn Fyom Gls Kondo:\n} -\naN\n'idee 0\n}\nGurene¥ pavert Rom come\nae\nSt §ver\nA\nopie\nteree ep ort\naot, send\nen\nmm 0 stoy\nfo-\n.\nseer\naroun pnb i\nene one.\naa er\n|"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 1,
+    "total_sentences": 13,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 636,
+        "word_count": 149,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000032_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 636,
+            "word_count": 149,
+            "sentence_count": 13,
+            "text": "\"Bi ey] ana icGe |\nEP ne a) [so10 8s\nRe\nOS. is laa\n{ny\nx\nCS No-\n1d [2004\nSup eon ry EY\nold 91\nR. ug CR\nBk, fae bathe. [a4\nis\\2\\4 ge\ne icaCon\n-\n2y-\nNotre.\nSeed\n@ PD¢\nAS Bilt?\nog.\nrete) candor aged 60-254).\nisi\nRp wceived of 264\nthou.\n:\na\nQuast armmons e- --\nQalr|ie\nRee\nea\nfovea &o\nB-H-17\nSupe\nSiweitas, ShowS. nvke_(y\nQ\nro\nae\nQakonedo\n«2 & | \\\nGanvnthes Te norte\ni\nfacta 15 Pee.\n|\nQuast amoonlS @\nSa\nSeal ee\ne ar Co\naes\nI\na3)\n25-1117 on payments putea nett\n| LIE pour proved\nprs\nveturn Fyom Gls Kondo:\n} -\naN\n'idee 0\n}\nGurene¥ pavert Rom come\nae\nSt §ver\nA\nopie\nteree ep ort\naot, send\nen\nmm 0 stoy\nfo-\n.\nseer\naroun pnb i\nene one.\naa er\n|",
+            "sentences": [
+              {
+                "sentence_id": "DC_000032_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 43,
+                "word_count": 12,
+                "text": "\"Bi ey] ana icGe |\nEP ne a) [so10 8s\nRe\nOS."
+              },
+              {
+                "sentence_id": "DC_000032_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 52,
+                "word_count": 15,
+                "text": "is laa\n{ny\nx\nCS No-\n1d [2004\nSup eon ry EY\nold 91\nR."
+              },
+              {
+                "sentence_id": "DC_000032_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 20,
+                "word_count": 5,
+                "text": "ug CR\nBk, fae bathe."
+              },
+              {
+                "sentence_id": "DC_000032_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 35,
+                "word_count": 8,
+                "text": "[a4\nis\\2\\4 ge\ne icaCon\n-\n2y-\nNotre."
+              },
+              {
+                "sentence_id": "DC_000032_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 19,
+                "word_count": 5,
+                "text": "Seed\n@ PD¢\nAS Bilt?"
+              },
+              {
+                "sentence_id": "DC_000032_P001_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 3,
+                "word_count": 1,
+                "text": "og."
+              },
+              {
+                "sentence_id": "DC_000032_P001_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 26,
+                "word_count": 4,
+                "text": "rete) candor aged 60-254)."
+              },
+              {
+                "sentence_id": "DC_000032_P001_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 27,
+                "word_count": 6,
+                "text": "isi\nRp wceived of 264\nthou."
+              },
+              {
+                "sentence_id": "DC_000032_P001_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 76,
+                "word_count": 15,
+                "text": ":\na\nQuast armmons e- --\nQalr|ie\nRee\nea\nfovea &o\nB-H-17\nSupe\nSiweitas, ShowS."
+              },
+              {
+                "sentence_id": "DC_000032_P001_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 68,
+                "word_count": 16,
+                "text": "nvke_(y\nQ\nro\nae\nQakonedo\n«2 & | \\\nGanvnthes Te norte\ni\nfacta 15 Pee."
+              },
+              {
+                "sentence_id": "DC_000032_P001_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 223,
+                "word_count": 53,
+                "text": "|\nQuast amoonlS @\nSa\nSeal ee\ne ar Co\naes\nI\na3)\n25-1117 on payments putea nett\n| LIE pour proved\nprs\nveturn Fyom Gls Kondo:\n} -\naN\n'idee 0\n}\nGurene¥ pavert Rom come\nae\nSt §ver\nA\nopie\nteree ep ort\naot, send\nen\nmm 0 stoy\nfo-\n."
+              },
+              {
+                "sentence_id": "DC_000032_P001_PAR001_SEN012",
+                "sentence_index": 12,
+                "character_count": 25,
+                "word_count": 6,
+                "text": "seer\naroun pnb i\nene one."
+              },
+              {
+                "sentence_id": "DC_000032_P001_PAR001_SEN013",
+                "sentence_index": 13,
+                "character_count": 7,
+                "word_count": 3,
+                "text": "aa er\n|"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 2,
+    "state_name": "Andhra Pradesh",
+    "district_code": 10,
+    "district_name": "Kurnool",
+    "court_complex_code": 1020104,
+    "court_complex_name": "Junior Civil Judge`s Court, Alur (Taluka)",
+    "year": 2010,
+    "case_type": "nan",
+    "case_number": "200900000212010",
+    "pdf_title": "XSane scanned image",
+    "pdf_author": "",
+    "pdf_creator": "XSane version 0.999 (sane 1.0) - by Oliver Rauch",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260615095004Z00'00'",
+    "pdf_mod_date": "D:20260615095004Z00'00'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.8812,
+    "quality_tier": "OCR_FALLBACK_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "dafe56bb1cb30604afd80651a9e780d20060534f68e9909921f6d7561cef6a8e",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.045143"
+  }
+}

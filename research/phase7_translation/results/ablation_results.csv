@@ -1,0 +1,7 @@
+system_id,system_name,delta_critical_partial,delta_critical_strict,delta_critical_omission,delta_translation_fidelity,terminology_survival,contradiction_rate
+T0_BASELINE_LEGAL_AWARE,Phase 6 Legal-Aware Baseline,+0.00%,+0.00%,+0.00%,+0.00%,100.00%,0.00%
+T1_CONTEXT_AWARE,Context-Aware Translation,+0.00%,+0.00%,+0.00%,+0.00%,100.00%,0.00%
+T2_STRONGER_TERMINOLOGY,Enhanced Terminology & Entity Protection,+18.42%,+0.00%,-18.42%,+8.24%,100.00%,0.00%
+T3_CLAIM_ALIGNED,Claim & Sentence Aligned Translation,+18.42%,+0.00%,-18.42%,+8.24%,100.00%,0.00%
+T4_CANDIDATE_RERANKING,Candidate Generation & Legal Reranking,+18.42%,+0.00%,-18.42%,+8.24%,100.00%,0.00%
+T5_COMBINED_OPTIMAL,Combined Optimal Translation Pipeline,+18.42%,+0.00%,-18.42%,+8.24%,100.00%,0.00%

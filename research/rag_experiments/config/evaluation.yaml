@@ -1,0 +1,17 @@
+# Phase 3 Evaluation Metrics Configuration
+metrics:
+  k_values: [1, 3, 5, 10]
+  recall: true
+  precision: true
+  mrr: true
+  ndcg: true
+  evidence_recall: true
+  doc_retrieval_acc: true
+  page_retrieval_acc: true
+  provenance_accuracy: true
+  drm_rate: true # Document-Level Retrieval Mismatch
+
+splits:
+  calibration_size: 20
+  frozen_test_size: 40
+  total_queries: 60

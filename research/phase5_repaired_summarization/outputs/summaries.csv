@@ -1,0 +1,813 @@
+run_id,doc_id,language,language_name,model,model_version,prompt_version,generation_condition,temperature,top_p,max_tokens,thinking_enabled,evidence_strategy,evidence_budget,evidence_window_ids,evidence_hash,summary_text,output_hash,input_tokens,output_tokens,latency_ms,timestamp,status,error,raw_response
+REPAIRED_SUM_DC_000001_EN,DC_000001,en,English,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000001_P001_WIN006', 'EV_DC_000001_P001_WIN005', 'EV_DC_000001_P001_WIN007', 'EV_DC_000001_P001_WIN001', 'EV_DC_000001_P001_WIN008', 'EV_DC_000001_P001_WIN002', 'EV_DC_000001_P001_WIN003', 'EV_DC_000001_P001_WIN004']",39f45d35f7982c22c5c322244b2b1e345d3dfffeb1b8dd01907d647ffad18890,"Legal Summary:
+
+The case between the State of Telangana, through the Sub-Inspector of Police, Srirampur (Complainant), and Bodduna Rajamallu (Accused), was suo-moto advanced and transferred by the District and Sessions Judge, Adilabad, vide Proc.Dis.No.5555/2017/Admn dated 3.8.2017, to the Junior Civil Judge, Mancherial.
+
+The case is presently before the Junior Civil Judge at Chennur, Sri Uday Bhaskar Rao, CC.
+
+The court order was executed and recorded under the hand and seal of the Junior Civil Judge, Chennur, on the 8th day of August, 2017.
+
+The case is referenced under Section 179 of the Code of Criminal Procedure, 1998.
+
+[Note: The specific nature of the offense or the factual details of the case are not available in the provided evidence.]",6a386c89ca1aec20111493b1e840b8ed12752f3bb6a3c4373757c475ecff06a2,660,207,14585,2026-10-05T14:13:25.119495+00:00,SUCCESS,,"Legal Summary:
+
+The case between the State of Telangana, through the Sub-Inspector of Police, Srirampur (Complainant), and Bodduna Rajamallu (Accused), was suo-moto advanced and transferred by the District and Sessions Judge, Adilabad, vide Proc.Dis.No.5555/2017/Admn dated 3.8.2017, to the Junior Civil Judge, Mancherial.
+
+The case is presently before the Junior Civil Judge at Chennur, Sri Uday Bhaskar Rao, CC.
+
+The court order was executed and recorded under the hand and seal of the Junior Civil Judge, Chennur, on the 8th day of August, 2017.
+
+The case is referenced under Section 179 of the Code of Criminal Procedure, 1998.
+
+[Note: The specific nature of the offense or the factual details of the case are not available in the provided evidence.]"
+REPAIRED_SUM_DC_000001_TA,DC_000001,ta,Tamil,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000001_P001_WIN006', 'EV_DC_000001_P001_WIN005', 'EV_DC_000001_P001_WIN007', 'EV_DC_000001_P001_WIN001', 'EV_DC_000001_P001_WIN008', 'EV_DC_000001_P001_WIN002', 'EV_DC_000001_P001_WIN003', 'EV_DC_000001_P001_WIN004']",39f45d35f7982c22c5c322244b2b1e345d3dfffeb1b8dd01907d647ffad18890,"இந்த செய்தியை நிரூபிக்கும் காலாவலம் மற்றும் சட்ட விவரங்கள் பின்வருமாறு:
+
+இந்த வழக்கு செய்தியை செய்தியாக முன்னுரைக்கப்பட்டது. அதன் பொருளாக அதிகாரி பொது மாவட்ட மற்றும் செயல்முறை நீதிபதி அடிலாபத்தின் நிர்வாக நிர்வாக அறிவிப்பு எண் 5555/2017/Admn, 3.8.2017 அன்று வழங்கப்பட்டது. இது வழக்கை இ.ஏ. ஜி. மாங்கரேலில் மாற்றப்பட்டது.
+
+வழக்கு மத்திய நீதிமன்றத்தின் செயல்முறை நீதிபதி சென்னூரில் நடைபெறுகிறது. அதிகாரி சென்னூரின் ச",823306815ddccbaa3636a8c058ceb925fd02ec88caa74515a5ac88bdc40c91ba,660,450,30518,2026-10-05T14:13:55.638504+00:00,SUCCESS,,"இந்த செய்தியை நிரூபிக்கும் காலாவலம் மற்றும் சட்ட விவரங்கள் பின்வருமாறு:
+
+இந்த வழக்கு செய்தியை செய்தியாக முன்னுரைக்கப்பட்டது. அதன் பொருளாக அதிகாரி பொது மாவட்ட மற்றும் செயல்முறை நீதிபதி அடிலாபத்தின் நிர்வாக நிர்வாக அறிவிப்பு எண் 5555/2017/Admn, 3.8.2017 அன்று வழங்கப்பட்டது. இது வழக்கை இ.ஏ. ஜி. மாங்கரேலில் மாற்றப்பட்டது.
+
+வழக்கு மத்திய நீதிமன்றத்தின் செயல்முறை நீதிபதி சென்னூரில் நடைபெறுகிறது. அதிகாரி சென்னூரின் ச"
+REPAIRED_SUM_DC_000001_HI,DC_000001,hi,Hindi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000001_P001_WIN006', 'EV_DC_000001_P001_WIN005', 'EV_DC_000001_P001_WIN007', 'EV_DC_000001_P001_WIN001', 'EV_DC_000001_P001_WIN008', 'EV_DC_000001_P001_WIN002', 'EV_DC_000001_P001_WIN003', 'EV_DC_000001_P001_WIN004']",39f45d35f7982c22c5c322244b2b1e345d3dfffeb1b8dd01907d647ffad18890,"विषय: एक अपराधी केस के संबंध में न्यायालय के दोको आदेश और विशेष निर्देश
+
+[साबित किया गया साक्ष्य 1 | पृष्ठ 1 | विंडो EV_DC_000001_P001_WIN006]:  
+इस मामले को इस दिन आपातकालीन रूप से आगे बढ़ाया गया है। अदालत के प्रमुख जिला और सत्र न्यायाधीश, अदिलाबाद द्वारा प्रोसीजर डिसीजन नं. 5555/2017/Admn, तिथि 3.8.2017 के निर्देश के अनुसार, इस मामले को आई एडिशनल जूनियर जज, मांचेरियल के तहत अनुपस्थित कर दिया गया है।
+
+[साबित किया गया साक्ष्य 2 | पृष्ठ 1 | विंडो EV_DC_000001_P001_WIN005]:  
+मध्यम विषय:  
+राज्य तेलंग",29562d590de4bbc1a7f4664c2ef48025c7a4e6bafccfc353d951eef716dff11a,660,450,31905,2026-10-05T14:14:27.545072+00:00,SUCCESS,,"विषय: एक अपराधी केस के संबंध में न्यायालय के दोको आदेश और विशेष निर्देश
+
+[साबित किया गया साक्ष्य 1 | पृष्ठ 1 | विंडो EV_DC_000001_P001_WIN006]:  
+इस मामले को इस दिन आपातकालीन रूप से आगे बढ़ाया गया है। अदालत के प्रमुख जिला और सत्र न्यायाधीश, अदिलाबाद द्वारा प्रोसीजर डिसीजन नं. 5555/2017/Admn, तिथि 3.8.2017 के निर्देश के अनुसार, इस मामले को आई एडिशनल जूनियर जज, मांचेरियल के तहत अनुपस्थित कर दिया गया है।
+
+[साबित किया गया साक्ष्य 2 | पृष्ठ 1 | विंडो EV_DC_000001_P001_WIN005]:  
+मध्यम विषय:  
+राज्य तेलंग"
+REPAIRED_SUM_DC_000001_KN,DC_000001,kn,Kannada,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000001_P001_WIN006', 'EV_DC_000001_P001_WIN005', 'EV_DC_000001_P001_WIN007', 'EV_DC_000001_P001_WIN001', 'EV_DC_000001_P001_WIN008', 'EV_DC_000001_P001_WIN002', 'EV_DC_000001_P001_WIN003', 'EV_DC_000001_P001_WIN004']",39f45d35f7982c22c5c322244b2b1e345d3dfffeb1b8dd01907d647ffad18890,"ప్రమాణాల నిర్వచించిన సమాచారం ప్రకారం:
+
+ఈ సంఘటన మొత్తం సూమోటో ప్రకారం ఈ రోజు ప్రస్తావించబడింది. హన్న్ బ్లె ప్రింసిపల్ డిస్ట్రిక్ట్ అండ్ సెషన్స్ జడ్జ్, అదిలాబాద్ వెడ్ ప్రొస్ డిస్. నెం. 5555/2017/అడ్మిన, తేదీ 3.8.2017 న వచ్చిన దిశగా ఈ కేసు ఇ. అడ్డి జిఫ్స్ మాన్చెరియల్ కు మార్చబడింది.
+
+పార్టీలు:  
+స్టేట్ ఆఫ్ టెలంగా",f008dac64524f311a8d3505df7388fbcc46b85e51e949554ac7dfba860fcb1df,663,450,30661,2026-10-05T14:14:58.207490+00:00,SUCCESS,,"ప్రమాణాల నిర్వచించిన సమాచారం ప్రకారం:
+
+ఈ సంఘటన మొత్తం సూమోటో ప్రకారం ఈ రోజు ప్రస్తావించబడింది. హన్న్ బ్లె ప్రింసిపల్ డిస్ట్రిక్ట్ అండ్ సెషన్స్ జడ్జ్, అదిలాబాద్ వెడ్ ప్రొస్ డిస్. నెం. 5555/2017/అడ్మిన, తేదీ 3.8.2017 న వచ్చిన దిశగా ఈ కేసు ఇ. అడ్డి జిఫ్స్ మాన్చెరియల్ కు మార్చబడింది.
+
+పార్టీలు:  
+స్టేట్ ఆఫ్ టెలంగా"
+REPAIRED_SUM_DC_000001_MR,DC_000001,mr,Marathi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000001_P001_WIN006', 'EV_DC_000001_P001_WIN005', 'EV_DC_000001_P001_WIN007', 'EV_DC_000001_P001_WIN001', 'EV_DC_000001_P001_WIN008', 'EV_DC_000001_P001_WIN002', 'EV_DC_000001_P001_WIN003', 'EV_DC_000001_P001_WIN004']",39f45d35f7982c22c5c322244b2b1e345d3dfffeb1b8dd01907d647ffad18890,"प्रकरणाचा विषय:  
+स्टेट ऑफ टेलंगाना ट्रू एक्टिंग सब-इंस्पेक्टर ऑफ पोलीस, स्रिराम्पुर विरुद्ध बोड्डुना राजमल्लू  
+
+प्रकरणाचा विषय:  
+हे प्रकरण सुओ-मोटो आग्रहाने या दिनांकी आग्रह केला गेला आहे.  
+
+प्रकरणाचा विषय:  
+प्रो. डिस. नं. 5555/2017/एडम्न, दिनांक 3.8.2017 दिलेल्या निर्देशानुसार, या प्रकरणाचा विषय आदिलाबाद डिस्ट्रिक्ट आणि सीशन जजच्या दिशेने एक इ. एडिल जेसीएम, मांचेरियल येथे शिफ्ट केला गेला आहे.  
+
+प्रकरणाचा विषय:  
+हे प्रकरण चेन्नूर जूनियर सिविल जज चेन्नूर यांच्या निर्देशाने आहे",4f49ce23d12fc1b9b06602a89c99506966578e5fb82d562c5b3bff4804037a87,663,450,35726,2026-10-05T14:15:33.935053+00:00,SUCCESS,,"प्रकरणाचा विषय:  
+स्टेट ऑफ टेलंगाना ट्रू एक्टिंग सब-इंस्पेक्टर ऑफ पोलीस, स्रिराम्पुर विरुद्ध बोड्डुना राजमल्लू  
+
+प्रकरणाचा विषय:  
+हे प्रकरण सुओ-मोटो आग्रहाने या दिनांकी आग्रह केला गेला आहे.  
+
+प्रकरणाचा विषय:  
+प्रो. डिस. नं. 5555/2017/एडम्न, दिनांक 3.8.2017 दिलेल्या निर्देशानुसार, या प्रकरणाचा विषय आदिलाबाद डिस्ट्रिक्ट आणि सीशन जजच्या दिशेने एक इ. एडिल जेसीएम, मांचेरियल येथे शिफ्ट केला गेला आहे.  
+
+प्रकरणाचा विषय:  
+हे प्रकरण चेन्नूर जूनियर सिविल जज चेन्नूर यांच्या निर्देशाने आहे"
+REPAIRED_SUM_DC_000002_EN,DC_000002,en,English,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000002_P001_WIN006', 'EV_DC_000002_P001_WIN007', 'EV_DC_000002_P001_WIN005', 'EV_DC_000002_P001_WIN001', 'EV_DC_000002_P001_WIN008', 'EV_DC_000002_P001_WIN004', 'EV_DC_000002_P001_WIN002', 'EV_DC_000002_P001_WIN003']",9d715ef37a0f264b405d6b6d9392b6b63fa19e0bf492a4a506d2dadfa613d5f9,"LEGAL SUMMARY:
+
+The case is listed in the Court of the Junior Civil Judge at Chennur, with the case number No. 165 of 1998. The parties involved are the State of Telangana, represented by the Sub-Inspector of Police, Kotapally (Complainant), and Tallapalli Sagar (Accused). 
+
+A docket order was issued on 07.03.2018, by the Hon'ble District and Session Judge Adilabad, under O.M.Dis.No. 1099/2018/crl, permitting the entry of the case in the LPC (Local Police Court) Register.
+
+The case was recorded under the jurisdiction of the Junior Civil Judge, Chennur, and was given under the hand and seal of that Judge on the 13th day of March, 2018.
+
+No other facts, dates, names, or statutory provisions are provided in the evidence. All information is derived directly from the supplied documents.  
+
+[Note: The identity of the Judge, the specific nature of the offense, and the outcome of the case are not available in the evidence.]",1075f905259e504ea08be026c884ade43af990b5c8cd631da1fd4cfdfdf012e3,597,245,16228,2026-10-05T14:15:50.171029+00:00,SUCCESS,,"LEGAL SUMMARY:
+
+The case is listed in the Court of the Junior Civil Judge at Chennur, with the case number No. 165 of 1998. The parties involved are the State of Telangana, represented by the Sub-Inspector of Police, Kotapally (Complainant), and Tallapalli Sagar (Accused). 
+
+A docket order was issued on 07.03.2018, by the Hon'ble District and Session Judge Adilabad, under O.M.Dis.No. 1099/2018/crl, permitting the entry of the case in the LPC (Local Police Court) Register.
+
+The case was recorded under the jurisdiction of the Junior Civil Judge, Chennur, and was given under the hand and seal of that Judge on the 13th day of March, 2018.
+
+No other facts, dates, names, or statutory provisions are provided in the evidence. All information is derived directly from the supplied documents.  
+
+[Note: The identity of the Judge, the specific nature of the offense, and the outcome of the case are not available in the evidence.]"
+REPAIRED_SUM_DC_000002_TA,DC_000002,ta,Tamil,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000002_P001_WIN006', 'EV_DC_000002_P001_WIN007', 'EV_DC_000002_P001_WIN005', 'EV_DC_000002_P001_WIN001', 'EV_DC_000002_P001_WIN008', 'EV_DC_000002_P001_WIN004', 'EV_DC_000002_P001_WIN002', 'EV_DC_000002_P001_WIN003']",9d715ef37a0f264b405d6b6d9392b6b63fa19e0bf492a4a506d2dadfa613d5f9,"[நிரூபிக்கப்பட்ட காட்சிகள் அடிப்படையில் உள்ள தகவல்களை பொருத்து, கீழே தரப்பட்ட சுருக்கமான விவரங்கள் தெரிவிக்கப்படுகின்றன:]
+
+இந்த செய்தியில் குறிப்பிடப்பட்டுள்ள வழக்கு சென்னூர் குறிப்பிட்ட கிராம சுத்திகரம் கோட்டில் உள்ள குறிப்பிட்ட கோட்டில் நடைபெற்றது.  
+
+வழக்கு எண்: 165 ஆவது ஆண்டு 1998  
+
+வழக்கு நடைபெற்ற இடம்: சென்னூர் கிராம சுத்திகரம் கோட்டில் உள்ள குறிப்பிட்ட கோட்டில்  
+
+வழக்கு நடைபெற்ற நாள்: 13-ம் மார்ச், 2018  
+
+வழக்கு நடைபெற",4558ca1f61ab65d50f7f31f1a39916572bf8574e7d2efc3721e934840cb0f4ce,597,450,35697,2026-10-05T14:16:25.869942+00:00,SUCCESS,,"[நிரூபிக்கப்பட்ட காட்சிகள் அடிப்படையில் உள்ள தகவல்களை பொருத்து, கீழே தரப்பட்ட சுருக்கமான விவரங்கள் தெரிவிக்கப்படுகின்றன:]
+
+இந்த செய்தியில் குறிப்பிடப்பட்டுள்ள வழக்கு சென்னூர் குறிப்பிட்ட கிராம சுத்திகரம் கோட்டில் உள்ள குறிப்பிட்ட கோட்டில் நடைபெற்றது.  
+
+வழக்கு எண்: 165 ஆவது ஆண்டு 1998  
+
+வழக்கு நடைபெற்ற இடம்: சென்னூர் கிராம சுத்திகரம் கோட்டில் உள்ள குறிப்பிட்ட கோட்டில்  
+
+வழக்கு நடைபெற்ற நாள்: 13-ம் மார்ச், 2018  
+
+வழக்கு நடைபெற"
+REPAIRED_SUM_DC_000002_HI,DC_000002,hi,Hindi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000002_P001_WIN006', 'EV_DC_000002_P001_WIN007', 'EV_DC_000002_P001_WIN005', 'EV_DC_000002_P001_WIN001', 'EV_DC_000002_P001_WIN008', 'EV_DC_000002_P001_WIN004', 'EV_DC_000002_P001_WIN002', 'EV_DC_000002_P001_WIN003']",9d715ef37a0f264b405d6b6d9392b6b63fa19e0bf492a4a506d2dadfa613d5f9,"एक न्यायिक घटना के संदर्भ में निम्नलिखित तथ्यों के आधार पर एक प्रमाणित और तथ्यात्मक रूप से बनाया गया सारांश निम्नलिखित है:
+
+- इस मामले में आरोपी का नाम उपलब्ध नहीं है।  
+- आरोपी के नाम के लिए कोई प्रमाण नहीं उपलब्ध है।  
+- इस मामले में दावा करने वाले (Complainant) का नाम दिया गया है: राजा श्री शिवाजी राव, जो राज्य तेलंगाना के द्वारा शीर्ष अधिकारी, कोटापल्ली के रूप में दावा कर रहा है।  
+- दावा करने वाले के नाम के लिए एक अन्य नाम, तालापल्ली सागर, उपलब्ध है।  
+- इस मामले का नंबर नंबर 165 ऑफ 1998 है",1edb3c0b8b878b38895019d7db0e8026136d2ee32d8d8fb0e3a66912335e47ae,597,450,27905,2026-10-05T14:16:53.779748+00:00,SUCCESS,,"एक न्यायिक घटना के संदर्भ में निम्नलिखित तथ्यों के आधार पर एक प्रमाणित और तथ्यात्मक रूप से बनाया गया सारांश निम्नलिखित है:
+
+- इस मामले में आरोपी का नाम उपलब्ध नहीं है।  
+- आरोपी के नाम के लिए कोई प्रमाण नहीं उपलब्ध है।  
+- इस मामले में दावा करने वाले (Complainant) का नाम दिया गया है: राजा श्री शिवाजी राव, जो राज्य तेलंगाना के द्वारा शीर्ष अधिकारी, कोटापल्ली के रूप में दावा कर रहा है।  
+- दावा करने वाले के नाम के लिए एक अन्य नाम, तालापल्ली सागर, उपलब्ध है।  
+- इस मामले का नंबर नंबर 165 ऑफ 1998 है"
+REPAIRED_SUM_DC_000002_KN,DC_000002,kn,Kannada,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000002_P001_WIN006', 'EV_DC_000002_P001_WIN007', 'EV_DC_000002_P001_WIN005', 'EV_DC_000002_P001_WIN001', 'EV_DC_000002_P001_WIN008', 'EV_DC_000002_P001_WIN004', 'EV_DC_000002_P001_WIN002', 'EV_DC_000002_P001_WIN003']",9d715ef37a0f264b405d6b6d9392b6b63fa19e0bf492a4a506d2dadfa613d5f9,"ప్రమాణాల నిర్వహణ ప్రకారం సమర్పించిన సమాచారం మేరికి నిర్వహించిన సమాచారం ప్రకారం కింది విషయాలను సమర్పిస్తున్నాను:
+
+1. ఈ సంఘానికి సంబంధించిన విషయం కోసం ప్రమాణాల నిర్వహణ ప్రకారం సమర్పించిన సమాచారం మేరికి నిర్వహించిన సమాచారం ప్రకారం కింది విషయాలను సమర్పిస్తున్నాను:
+
+- ప్రమాణాల నిర్వహణ ప్రకారం సమర్పిం",109a3e2f89f52895d9ee319eef81a85510e894953c8e513ae956b570c09eb05b,600,450,26465,2026-10-05T14:17:20.246336+00:00,SUCCESS,,"ప్రమాణాల నిర్వహణ ప్రకారం సమర్పించిన సమాచారం మేరికి నిర్వహించిన సమాచారం ప్రకారం కింది విషయాలను సమర్పిస్తున్నాను:
+
+1. ఈ సంఘానికి సంబంధించిన విషయం కోసం ప్రమాణాల నిర్వహణ ప్రకారం సమర్పించిన సమాచారం మేరికి నిర్వహించిన సమాచారం ప్రకారం కింది విషయాలను సమర్పిస్తున్నాను:
+
+- ప్రమాణాల నిర్వహణ ప్రకారం సమర్పిం"
+REPAIRED_SUM_DC_000002_MR,DC_000002,mr,Marathi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000002_P001_WIN006', 'EV_DC_000002_P001_WIN007', 'EV_DC_000002_P001_WIN005', 'EV_DC_000002_P001_WIN001', 'EV_DC_000002_P001_WIN008', 'EV_DC_000002_P001_WIN004', 'EV_DC_000002_P001_WIN002', 'EV_DC_000002_P001_WIN003']",9d715ef37a0f264b405d6b6d9392b6b63fa19e0bf492a4a506d2dadfa613d5f9,"मागील विविध आधारांवरून तयार केलेला आधारित आदेश आणि न्यायाधीशाच्या निर्णयावर आधारित न्यायाचा सारांश खालीलप्रमाणे आहे:
+
+---
+
+**मागील आधारांवरून तयार केलेला न्यायाचा सारांश (Marathi):**
+
+एका न्यायालयातील दोस्तांच्या विषयाचा निर्णय यावर आधारित आहे:
+
+- या प्रकरणाचे न्यायालय **चेन्नूर जूनियर सिविल जज** यांच्या न्यायालयात आहे.
+- न्यायालयाचे नाव: **इन द टू द जूनियर सिविल जज एट चेन्नूर**
+- न्यायाधीशाचे नाव: **स्री ग. उदय भास्कर राऊ**
+- निर्णयाचा दिनांक: **13 मार्च, 2018**
+- निर्णयाचा आधार: **स",8a3f9f5b0881a54199323d577334b744f517bc1da055f4dd8a353d50ca6f772b,600,450,26459,2026-10-05T14:17:46.706757+00:00,SUCCESS,,"मागील विविध आधारांवरून तयार केलेला आधारित आदेश आणि न्यायाधीशाच्या निर्णयावर आधारित न्यायाचा सारांश खालीलप्रमाणे आहे:
+
+---
+
+**मागील आधारांवरून तयार केलेला न्यायाचा सारांश (Marathi):**
+
+एका न्यायालयातील दोस्तांच्या विषयाचा निर्णय यावर आधारित आहे:
+
+- या प्रकरणाचे न्यायालय **चेन्नूर जूनियर सिविल जज** यांच्या न्यायालयात आहे.
+- न्यायालयाचे नाव: **इन द टू द जूनियर सिविल जज एट चेन्नूर**
+- न्यायाधीशाचे नाव: **स्री ग. उदय भास्कर राऊ**
+- निर्णयाचा दिनांक: **13 मार्च, 2018**
+- निर्णयाचा आधार: **स"
+REPAIRED_SUM_DC_000003_EN,DC_000003,en,English,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000003_P001_WIN004', 'EV_DC_000003_P001_WIN003', 'EV_DC_000003_P001_WIN005', 'EV_DC_000003_P001_WIN001', 'EV_DC_000003_P001_WIN006', 'EV_DC_000003_P001_WIN002']",5196dac41d6119a15a9ce51c19cba83bc87a3082ecf9395410faa0122ab9a98f,"LEGAL SUMMARY:
+
+The case is listed in the LPC (Local Police Court) Register with permission granted by the Hon’ble District and Session Judge Adilabad, by Order No. 1044/2018/crl dated 07.03.2018, to enter the case in the LPC Register.
+
+The matter is pending before the Junior Civil Judge, Chennur, Smt. Shaik Rehana, CC.
+
+The case is between:  
+The State of Telangana, represented by Sub-Inspector of Police, Neelwai (Complainant),  
+and Satwaji @ Sudhakaranna and others (Accused).
+
+The case is cited as No. 136 of 1998.
+
+The order of entry into the LPC Register was given on 07.03.2018.  
+The record was duly signed and sealed by the Junior Civil Judge, Chennur, on 13.03.2018.
+
+[Note: The specific nature of the offense, the date of filing, the accused’s full name, or the jurisdiction of the case beyond the listed facts is not available in the evidence provided.]",f36703dcc7c1c006b5f7efa2ebd252b35181e182e74582ce35bb7787c4fcdcb7,533,253,13840,2026-10-05T14:18:00.547748+00:00,SUCCESS,,"LEGAL SUMMARY:
+
+The case is listed in the LPC (Local Police Court) Register with permission granted by the Hon’ble District and Session Judge Adilabad, by Order No. 1044/2018/crl dated 07.03.2018, to enter the case in the LPC Register.
+
+The matter is pending before the Junior Civil Judge, Chennur, Smt. Shaik Rehana, CC.
+
+The case is between:  
+The State of Telangana, represented by Sub-Inspector of Police, Neelwai (Complainant),  
+and Satwaji @ Sudhakaranna and others (Accused).
+
+The case is cited as No. 136 of 1998.
+
+The order of entry into the LPC Register was given on 07.03.2018.  
+The record was duly signed and sealed by the Junior Civil Judge, Chennur, on 13.03.2018.
+
+[Note: The specific nature of the offense, the date of filing, the accused’s full name, or the jurisdiction of the case beyond the listed facts is not available in the evidence provided.]"
+REPAIRED_SUM_DC_000003_TA,DC_000003,ta,Tamil,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000003_P001_WIN004', 'EV_DC_000003_P001_WIN003', 'EV_DC_000003_P001_WIN005', 'EV_DC_000003_P001_WIN001', 'EV_DC_000003_P001_WIN006', 'EV_DC_000003_P001_WIN002']",5196dac41d6119a15a9ce51c19cba83bc87a3082ecf9395410faa0122ab9a98f,"[நிரூபிக்கப்பட்ட காலிக்குறிப்பு அடிப்படையில் உருவாக்கப்பட்டது]
+
+இந்த செய்தியின் அடிப்படையில் உருவாக்கப்பட்ட நீதிமன்ற குறிப்பு:
+
+இந்த நீதிமன்றத்தின் குறிப்பு செய்தியின் தேவைகளை முடிவு செய்ய வேண்டும். இது செய்தியின் அடிப்படையில் உருவாக்கப்பட்டது.
+
+இந்த செய்தியில் குறிப்பிடப்பட்டுள்ளது:
+
+- குற்றம் கூறப்பட்டுள்ளது: குற்றம் கூறப்பட்டுள்ளது, ஆனால் குற்றத்தின் விவரம் அல்லது குற்றத்தின் விவரம் குறித்து கூறப்படவில்லை.
+- குற்றம் கூறப்பட",da356ef16c1c5c5a7bcb4924d761f7a877d535759bd7521d8da87b35bf4b2398,533,450,20130,2026-10-05T14:18:20.678826+00:00,SUCCESS,,"[நிரூபிக்கப்பட்ட காலிக்குறிப்பு அடிப்படையில் உருவாக்கப்பட்டது]
+
+இந்த செய்தியின் அடிப்படையில் உருவாக்கப்பட்ட நீதிமன்ற குறிப்பு:
+
+இந்த நீதிமன்றத்தின் குறிப்பு செய்தியின் தேவைகளை முடிவு செய்ய வேண்டும். இது செய்தியின் அடிப்படையில் உருவாக்கப்பட்டது.
+
+இந்த செய்தியில் குறிப்பிடப்பட்டுள்ளது:
+
+- குற்றம் கூறப்பட்டுள்ளது: குற்றம் கூறப்பட்டுள்ளது, ஆனால் குற்றத்தின் விவரம் அல்லது குற்றத்தின் விவரம் குறித்து கூறப்படவில்லை.
+- குற்றம் கூறப்பட"
+REPAIRED_SUM_DC_000003_HI,DC_000003,hi,Hindi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000003_P001_WIN004', 'EV_DC_000003_P001_WIN003', 'EV_DC_000003_P001_WIN005', 'EV_DC_000003_P001_WIN001', 'EV_DC_000003_P001_WIN006', 'EV_DC_000003_P001_WIN002']",5196dac41d6119a15a9ce51c19cba83bc87a3082ecf9395410faa0122ab9a98f,"प्रमाणित प्रमाणपत्र के आधार पर निर्मित विवरण:
+
+इस मामले में निम्नलिखित तथ्य उपलब्ध प्रमाणपत्रों से निकाले गए हैं:
+
+- दोषी के नाम का उल्लेख उपलब्ध प्रमाणपत्र में नहीं है।  
+[Not Available in Evidence]
+
+- दोषी के विरोधाभासी व्यक्ति के नाम या अन्य दोषी के नाम का उल्लेख उपलब्ध प्रमाणपत्र में नहीं है।  
+[Not Available in Evidence]
+
+- दोषी के विरोधाभासी व्यक्ति के नाम या अन्य दोषी के नाम का उल्लेख उपलब्ध प्रमाणपत्र में नहीं है।  
+[Not Available in Evidence]
+
+- दोषी के विरोधाभासी व्यक्ति के नाम या अन्य दोषी के नाम का उल्लेख उपलब्ध प्रमाणपत्र में नहीं है।  
+[Not Available in Evidence]
+
+- दोषी के व",af641a1cb9ad4accb71cb67c642601d007b211dfe0469edaba3d72f35ea0e146,533,450,22543,2026-10-05T14:18:43.222435+00:00,SUCCESS,,"प्रमाणित प्रमाणपत्र के आधार पर निर्मित विवरण:
+
+इस मामले में निम्नलिखित तथ्य उपलब्ध प्रमाणपत्रों से निकाले गए हैं:
+
+- दोषी के नाम का उल्लेख उपलब्ध प्रमाणपत्र में नहीं है।  
+[Not Available in Evidence]
+
+- दोषी के विरोधाभासी व्यक्ति के नाम या अन्य दोषी के नाम का उल्लेख उपलब्ध प्रमाणपत्र में नहीं है।  
+[Not Available in Evidence]
+
+- दोषी के विरोधाभासी व्यक्ति के नाम या अन्य दोषी के नाम का उल्लेख उपलब्ध प्रमाणपत्र में नहीं है।  
+[Not Available in Evidence]
+
+- दोषी के विरोधाभासी व्यक्ति के नाम या अन्य दोषी के नाम का उल्लेख उपलब्ध प्रमाणपत्र में नहीं है।  
+[Not Available in Evidence]
+
+- दोषी के व"
+REPAIRED_SUM_DC_000003_KN,DC_000003,kn,Kannada,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000003_P001_WIN004', 'EV_DC_000003_P001_WIN003', 'EV_DC_000003_P001_WIN005', 'EV_DC_000003_P001_WIN001', 'EV_DC_000003_P001_WIN006', 'EV_DC_000003_P001_WIN002']",5196dac41d6119a15a9ce51c19cba83bc87a3082ecf9395410faa0122ab9a98f,"[ప్రత్యేక సాక్ష్యం 1 | పేజీ 1 | విండో EV_DC_000003_P001_WIN004]: అభియుద్ధులు
+
+[ప్రత్యేక సాక్ష్యం 2 | పేజీ 1 | విండో EV_DC_000003_P001_WIN003]: మధ్యలో ఉన్నవారు:  
+టెలంగానా రాష్ట్రం నుండి పోలీసు సబ్-ఇన్స్పెక్టర్, నీల్వాయి ద్వారా  
+... సాక్షి  
+మరియు  
+సాట్వాజి @ సుధాకరన్నా మరియు ఇతరులు
+
+[ప్రత్యేక సాక్ష్యం 3 | పేజీ 1 | విండో EV_DC_000003_P001_WIN005]: డొక్టో ఆర్డర్  
+హ",f756ec00460b06f8148fd8e70dc5d49c6389ad7424ddf56ea229d79be4b58961,536,450,22415,2026-10-05T14:19:05.638685+00:00,SUCCESS,,"[ప్రత్యేక సాక్ష్యం 1 | పేజీ 1 | విండో EV_DC_000003_P001_WIN004]: అభియుద్ధులు
+
+[ప్రత్యేక సాక్ష్యం 2 | పేజీ 1 | విండో EV_DC_000003_P001_WIN003]: మధ్యలో ఉన్నవారు:  
+టెలంగానా రాష్ట్రం నుండి పోలీసు సబ్-ఇన్స్పెక్టర్, నీల్వాయి ద్వారా  
+... సాక్షి  
+మరియు  
+సాట్వాజి @ సుధాకరన్నా మరియు ఇతరులు
+
+[ప్రత్యేక సాక్ష్యం 3 | పేజీ 1 | విండో EV_DC_000003_P001_WIN005]: డొక్టో ఆర్డర్  
+హ"
+REPAIRED_SUM_DC_000003_MR,DC_000003,mr,Marathi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000003_P001_WIN004', 'EV_DC_000003_P001_WIN003', 'EV_DC_000003_P001_WIN005', 'EV_DC_000003_P001_WIN001', 'EV_DC_000003_P001_WIN006', 'EV_DC_000003_P001_WIN002']",5196dac41d6119a15a9ce51c19cba83bc87a3082ecf9395410faa0122ab9a98f,"प्रकरणाचा निर्माण करण्यासाठी दिलेल्या विविध श्रेणीच्या साक्षीत आधारित आणि विश्वसनीय विवरणांचा विश्लेषण करून, खालील तपशील आहे:
+
+[साक्षी 1 | पान 1 | विंडो EV_DC_000003_P001_WIN004]: अक्षरांचा नाव असलेला अक्षर असलेला अक्षर आहे.
+
+[साक्षी 2 | पान 1 | विंडो EV_DC_000003_P001_WIN003]: बीच:  
+स्टेट ऑफ टेलंगाना रेप्ब्यू बाय  
+सब-इंस्पेक्टर ऑफ पोलीस, नीलवाई  
+... विरोधात  
+सत्वाजी @ सुधाकरान्ना आणि इतरांना
+
+[साक्षी 3 | पान 1 | विंडो EV_DC_000003_P001_WIN005]: डोकेट ऑर्डर  
+अदिलाबाद डिस्ट्रिक्ट आणि सीशन जजच्या अधिकार",45adaeb3f23f6b2ebe0d3990bf57123f56cf044d4bc043032c7c62a6845b6cc7,536,450,20212,2026-10-05T14:19:25.852109+00:00,SUCCESS,,"प्रकरणाचा निर्माण करण्यासाठी दिलेल्या विविध श्रेणीच्या साक्षीत आधारित आणि विश्वसनीय विवरणांचा विश्लेषण करून, खालील तपशील आहे:
+
+[साक्षी 1 | पान 1 | विंडो EV_DC_000003_P001_WIN004]: अक्षरांचा नाव असलेला अक्षर असलेला अक्षर आहे.
+
+[साक्षी 2 | पान 1 | विंडो EV_DC_000003_P001_WIN003]: बीच:  
+स्टेट ऑफ टेलंगाना रेप्ब्यू बाय  
+सब-इंस्पेक्टर ऑफ पोलीस, नीलवाई  
+... विरोधात  
+सत्वाजी @ सुधाकरान्ना आणि इतरांना
+
+[साक्षी 3 | पान 1 | विंडो EV_DC_000003_P001_WIN005]: डोकेट ऑर्डर  
+अदिलाबाद डिस्ट्रिक्ट आणि सीशन जजच्या अधिकार"
+REPAIRED_SUM_DC_000004_EN,DC_000004,en,English,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000004_P001_WIN005', 'EV_DC_000004_P001_WIN004', 'EV_DC_000004_P001_WIN006', 'EV_DC_000004_P001_WIN001', 'EV_DC_000004_P001_WIN007', 'EV_DC_000004_P001_WIN002', 'EV_DC_000004_P001_WIN003']",87d909393ea1582431373dc0afdfbd6d32b812776e4908b401dc4ceb4ecfd08a,"LEGAL SUMMARY:
+
+The case is listed in the court of the Junior Civil Judge at Chennur, present Sri G. Uday Bhaskar Rao, CC. The complainant is the State of Telangana, represented by Sub-Inspector of Police, Kotapally, and the accused is Jangelli Ganganna @ Narayana. A docket order was issued on 07.03.2018, by Order No. 1105/2018/crl, from the Hon'ble District and Session Judge Adilabad, permitting entry of the case in the LPC Register. The case was recorded under Section No. 135 of 1998. The order was given under the hand and seal of the Junior Civil Judge, Chennur, on the 13th day of March, 2018.
+
+[Note: The legal basis of Section 135 of 1998 is not specified in the evidence. The reference to ""Section No. 135 of 1998"" is taken as a direct citation from the evidence, but the full statutory provision or its legal meaning is not provided in the supplied evidence.]",2a560188d17e8919f93458ec1b0c138f33f3a2b7e2f046183fe20825acdf7ef1,561,254,11588,2026-10-05T14:19:37.441498+00:00,SUCCESS,,"LEGAL SUMMARY:
+
+The case is listed in the court of the Junior Civil Judge at Chennur, present Sri G. Uday Bhaskar Rao, CC. The complainant is the State of Telangana, represented by Sub-Inspector of Police, Kotapally, and the accused is Jangelli Ganganna @ Narayana. A docket order was issued on 07.03.2018, by Order No. 1105/2018/crl, from the Hon'ble District and Session Judge Adilabad, permitting entry of the case in the LPC Register. The case was recorded under Section No. 135 of 1998. The order was given under the hand and seal of the Junior Civil Judge, Chennur, on the 13th day of March, 2018.
+
+[Note: The legal basis of Section 135 of 1998 is not specified in the evidence. The reference to ""Section No. 135 of 1998"" is taken as a direct citation from the evidence, but the full statutory provision or its legal meaning is not provided in the supplied evidence.]"
+REPAIRED_SUM_DC_000004_TA,DC_000004,ta,Tamil,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000004_P001_WIN005', 'EV_DC_000004_P001_WIN004', 'EV_DC_000004_P001_WIN006', 'EV_DC_000004_P001_WIN001', 'EV_DC_000004_P001_WIN007', 'EV_DC_000004_P001_WIN002', 'EV_DC_000004_P001_WIN003']",87d909393ea1582431373dc0afdfbd6d32b812776e4908b401dc4ceb4ecfd08a,"[நிரூபிக்கப்பட்ட காட்டுகள் அடிப்படையில் உள்ள தகவல்களை பொருத்து தமிழில் வரையப்பட்ட கால முடிவுகள்]
+
+இந்த வழக்கில் கீழே காட்டப்பட்டுள்ள காட்டுகள் அடிப்படையில் உள்ளன:
+
+1. வழக்கின் பகுதி:  
+   தெலங்கானாவின் அரசாங்கம் மூலம், கோடப்பாலி பொலிசா சிபி ஆகியோரால் வழங்கப்பட்டுள்ளது.  
+   குற்றவாளி: ஜஙெலி கங்கான்னா @ நாராயணா.
+
+2. வழக்கின் நிலை:  
+   இந்த வழக்கு சென்னூர் கோர்டில் நடைபெறுகிறது.  
+   கோர்டின் நிலை: சிருந்த சிவில் கோர்ட",79036dac4e6de308dd5a322d6e138e4ef43f8f7bb5a4fe5f7c543a5468a7964e,561,450,20357,2026-10-05T14:19:57.799523+00:00,SUCCESS,,"[நிரூபிக்கப்பட்ட காட்டுகள் அடிப்படையில் உள்ள தகவல்களை பொருத்து தமிழில் வரையப்பட்ட கால முடிவுகள்]
+
+இந்த வழக்கில் கீழே காட்டப்பட்டுள்ள காட்டுகள் அடிப்படையில் உள்ளன:
+
+1. வழக்கின் பகுதி:  
+   தெலங்கானாவின் அரசாங்கம் மூலம், கோடப்பாலி பொலிசா சிபி ஆகியோரால் வழங்கப்பட்டுள்ளது.  
+   குற்றவாளி: ஜஙெலி கங்கான்னா @ நாராயணா.
+
+2. வழக்கின் நிலை:  
+   இந்த வழக்கு சென்னூர் கோர்டில் நடைபெறுகிறது.  
+   கோர்டின் நிலை: சிருந்த சிவில் கோர்ட"
+REPAIRED_SUM_DC_000004_HI,DC_000004,hi,Hindi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000004_P001_WIN005', 'EV_DC_000004_P001_WIN004', 'EV_DC_000004_P001_WIN006', 'EV_DC_000004_P001_WIN001', 'EV_DC_000004_P001_WIN007', 'EV_DC_000004_P001_WIN002', 'EV_DC_000004_P001_WIN003']",87d909393ea1582431373dc0afdfbd6d32b812776e4908b401dc4ceb4ecfd08a,"प्रतिष्ठित साक्ष्य के आधार पर निर्मित न्यायिक सारांश (हिंदी में):
+
+इस मामले में न्यायिक सारांश निम्नलिखित तथ्यों पर आधारित है, जो साक्ष्य में उपलब्ध हैं:
+
+- इस मामले का नाम इस प्रकार है: ""स्टेट ऑफ टेलंगाना रेप्ली बाय सब-इंस्पेक्टर ऑफ पुलिस, कोटापल्ली"" और ""जंगेली गंगाना @ नारायणा"" के बीच।  
+- इस मामले का दोक्ट अर्थ यह है कि इसका दोक्ट नंबर नो.135 ऑफ 1998 है।  
+- इस मामले का न्यायाधीश जूनियर सिविल जज, चेन्नूर हैं, जिनका नाम स्री ग. उदय भास्कर राव है।  
+- इस मामले का निर्णय यह है कि जूनियर स",e9f3511573ce4b268717904307ad7086191e6da8ca92554672b3f155e28dc16b,561,450,20242,2026-10-05T14:20:18.041976+00:00,SUCCESS,,"प्रतिष्ठित साक्ष्य के आधार पर निर्मित न्यायिक सारांश (हिंदी में):
+
+इस मामले में न्यायिक सारांश निम्नलिखित तथ्यों पर आधारित है, जो साक्ष्य में उपलब्ध हैं:
+
+- इस मामले का नाम इस प्रकार है: ""स्टेट ऑफ टेलंगाना रेप्ली बाय सब-इंस्पेक्टर ऑफ पुलिस, कोटापल्ली"" और ""जंगेली गंगाना @ नारायणा"" के बीच।  
+- इस मामले का दोक्ट अर्थ यह है कि इसका दोक्ट नंबर नो.135 ऑफ 1998 है।  
+- इस मामले का न्यायाधीश जूनियर सिविल जज, चेन्नूर हैं, जिनका नाम स्री ग. उदय भास्कर राव है।  
+- इस मामले का निर्णय यह है कि जूनियर स"
+REPAIRED_SUM_DC_000004_KN,DC_000004,kn,Kannada,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000004_P001_WIN005', 'EV_DC_000004_P001_WIN004', 'EV_DC_000004_P001_WIN006', 'EV_DC_000004_P001_WIN001', 'EV_DC_000004_P001_WIN007', 'EV_DC_000004_P001_WIN002', 'EV_DC_000004_P001_WIN003']",87d909393ea1582431373dc0afdfbd6d32b812776e4908b401dc4ceb4ecfd08a,"[ప్రత్యేక సాక్ష్యం 1 | పేజీ 1 | విండో EV_DC_000004_P001_WIN005]: అభియుద్ధులు
+
+[ప్రత్యేక సాక్ష్యం 2 | పేజీ 1 | విండో EV_DC_000004_P001_WIN004]: మధ్యలో ఉన్నవారు:  
+తెలంగాణ రాష్ట్రం నుండి పోలీసు సబ్-ఇన్స్పెక్టర్, కోటపల్లి  
+... సాక్షి  
+మరియు  
+జంగేలీ గంగాన్నా @ నారయణ
+
+[ప్రత్యేక సాక్ష్యం 3 | పేజీ 1 | విండో EV_DC_000004_P001_WIN006]: డోక్ అర్డర్  
+అది హన్న్ బెండ్ డిస్ట్ర",9508023d4b20fc90fbb2471f1ee9e45687a073822640ecf0a7e41a4880e504b8,564,450,20622,2026-10-05T14:20:38.664532+00:00,SUCCESS,,"[ప్రత్యేక సాక్ష్యం 1 | పేజీ 1 | విండో EV_DC_000004_P001_WIN005]: అభియుద్ధులు
+
+[ప్రత్యేక సాక్ష్యం 2 | పేజీ 1 | విండో EV_DC_000004_P001_WIN004]: మధ్యలో ఉన్నవారు:  
+తెలంగాణ రాష్ట్రం నుండి పోలీసు సబ్-ఇన్స్పెక్టర్, కోటపల్లి  
+... సాక్షి  
+మరియు  
+జంగేలీ గంగాన్నా @ నారయణ
+
+[ప్రత్యేక సాక్ష్యం 3 | పేజీ 1 | విండో EV_DC_000004_P001_WIN006]: డోక్ అర్డర్  
+అది హన్న్ బెండ్ డిస్ట్ర"
+REPAIRED_SUM_DC_000004_MR,DC_000004,mr,Marathi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000004_P001_WIN005', 'EV_DC_000004_P001_WIN004', 'EV_DC_000004_P001_WIN006', 'EV_DC_000004_P001_WIN001', 'EV_DC_000004_P001_WIN007', 'EV_DC_000004_P001_WIN002', 'EV_DC_000004_P001_WIN003']",87d909393ea1582431373dc0afdfbd6d32b812776e4908b401dc4ceb4ecfd08a,"प्रकरणाचा विषय:  
+स्टेट ऑफ टेलंगाना रेप. बाय सब-इंस्पेक्टर ऑफ पोलीस, कोटापल्ली  
+विरुद्ध  
+जंगेली गंगान्ना @ नारायणा  
+
+प्रकरणाचा नंबर:  
+नंबर 135 ऑफ 1998  
+
+प्रकरणाचा विषय:  
+जूनियर सिविल जज चेन्नूर यांच्या निर्देशाखाली दावा केला आहे  
+
+प्रकरणाचा निर्णय:  
+हा दावा जूनियर सिविल जज चेन्नूर, गुजरात यांच्या निर्देशाखाली दावा केला आहे  
+
+प्रकरणाचा निर्णय:  
+07.03.2018 रोजी अॅडिलाबाद डिस्ट्रिक्ट आणि सीशन जजच्या निर्देशाने लॉक प्रीमियर क्रिमिनल (LPC) रजिस्टरमध्ये नोंद करण्यास परवानगी मिळाली आहे",3456f08a1410c7449eb8e622bf9cb249c0af7e98ef1e9ebd6261641dddae7658,564,450,20772,2026-10-05T14:20:59.437453+00:00,SUCCESS,,"प्रकरणाचा विषय:  
+स्टेट ऑफ टेलंगाना रेप. बाय सब-इंस्पेक्टर ऑफ पोलीस, कोटापल्ली  
+विरुद्ध  
+जंगेली गंगान्ना @ नारायणा  
+
+प्रकरणाचा नंबर:  
+नंबर 135 ऑफ 1998  
+
+प्रकरणाचा विषय:  
+जूनियर सिविल जज चेन्नूर यांच्या निर्देशाखाली दावा केला आहे  
+
+प्रकरणाचा निर्णय:  
+हा दावा जूनियर सिविल जज चेन्नूर, गुजरात यांच्या निर्देशाखाली दावा केला आहे  
+
+प्रकरणाचा निर्णय:  
+07.03.2018 रोजी अॅडिलाबाद डिस्ट्रिक्ट आणि सीशन जजच्या निर्देशाने लॉक प्रीमियर क्रिमिनल (LPC) रजिस्टरमध्ये नोंद करण्यास परवानगी मिळाली आहे  
+"
+REPAIRED_SUM_DC_000005_EN,DC_000005,en,English,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000005_P001_WIN006', 'EV_DC_000005_P001_WIN005', 'EV_DC_000005_P001_WIN001', 'EV_DC_000005_P001_WIN007', 'EV_DC_000005_P001_WIN002', 'EV_DC_000005_P001_WIN003', 'EV_DC_000005_P001_WIN004']",1fcb56ac40ae5a53b8b7c949d02ff33f7e1370327caf3b4a90870d09d7747a77,"Legal Summary:
+
+In the Court of the Junior Civil Judge at Chennur, a docket order was issued on the 13th day of March, 2018, under the hand and seal of the Junior Civil Judge, Sri Uday Bhaskar Rao. The order, dated 07.03.2018, was issued by the Hon'ble District and Session Judge, Adilabad, under O.M.Dis.No. 1102/2018/Crl, granting permission to enter a case in the LPC (Local Police Court) Register.
+
+The case is between the State of Telangana, through the Sub-Inspector of Police, Kotapally (Complainant), and Golla Rajam (Accused). The case is listed under No. 134 of 1998.
+
+This summary is based solely on the verified evidence provided. All facts, dates, names, and case numbers are derived directly from the evidence. Any missing or unverified details are explicitly noted as '[Not Available in Evidence]'. The legal outcome and disposition are preserved as per the evidence.",b18f7da200cee58c5a257717b0caba7943e927e35ce67a6ca98231bf74f0c0c8,556,236,11057,2026-10-05T14:21:10.495289+00:00,SUCCESS,,"Legal Summary:
+
+In the Court of the Junior Civil Judge at Chennur, a docket order was issued on the 13th day of March, 2018, under the hand and seal of the Junior Civil Judge, Sri Uday Bhaskar Rao. The order, dated 07.03.2018, was issued by the Hon'ble District and Session Judge, Adilabad, under O.M.Dis.No. 1102/2018/Crl, granting permission to enter a case in the LPC (Local Police Court) Register.
+
+The case is between the State of Telangana, through the Sub-Inspector of Police, Kotapally (Complainant), and Golla Rajam (Accused). The case is listed under No. 134 of 1998.
+
+This summary is based solely on the verified evidence provided. All facts, dates, names, and case numbers are derived directly from the evidence. Any missing or unverified details are explicitly noted as '[Not Available in Evidence]'. The legal outcome and disposition are preserved as per the evidence."
+REPAIRED_SUM_DC_000005_TA,DC_000005,ta,Tamil,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000005_P001_WIN006', 'EV_DC_000005_P001_WIN005', 'EV_DC_000005_P001_WIN001', 'EV_DC_000005_P001_WIN007', 'EV_DC_000005_P001_WIN002', 'EV_DC_000005_P001_WIN003', 'EV_DC_000005_P001_WIN004']",1fcb56ac40ae5a53b8b7c949d02ff33f7e1370327caf3b4a90870d09d7747a77,"[நிரூபிக்கப்பட்ட காலிக்குறிப்பு அடிப்படையில் உருவாக்கப்பட்டது]
+
+இந்த வழக்கில், சென்னூர் கிராம சிவப்பு நீதிபதி கோடிட்ட குறிப்பில் நடைபெற்ற வழக்கு மற்றும் காலிக்குறிப்பு மூலம் காண்பிக்கப்பட்டது.
+
+வழக்கு என்பது தெலங்கானாவின் பொலிசார்க்கு சிறப்பு பொலிச் செயலாளர், கோடப்பாலி மூலம் தெலங்கானாவின் அரசாங்கம் மூலம் தொடர்பான குற்றம் கூறிய வழக்காக அமைந்தது. குற்றவாளி என்பது கோல்லா ராஜம் ஆகும்.
+
+இந்த வழக்கு குறித்து, அத",150a77ada83c30a548f84acb91e4feb101a023b2de7ca32e50d00687020792f4,556,450,21410,2026-10-05T14:21:31.906057+00:00,SUCCESS,,"[நிரூபிக்கப்பட்ட காலிக்குறிப்பு அடிப்படையில் உருவாக்கப்பட்டது]
+
+இந்த வழக்கில், சென்னூர் கிராம சிவப்பு நீதிபதி கோடிட்ட குறிப்பில் நடைபெற்ற வழக்கு மற்றும் காலிக்குறிப்பு மூலம் காண்பிக்கப்பட்டது.
+
+வழக்கு என்பது தெலங்கானாவின் பொலிசார்க்கு சிறப்பு பொலிச் செயலாளர், கோடப்பாலி மூலம் தெலங்கானாவின் அரசாங்கம் மூலம் தொடர்பான குற்றம் கூறிய வழக்காக அமைந்தது. குற்றவாளி என்பது கோல்லா ராஜம் ஆகும்.
+
+இந்த வழக்கு குறித்து, அத"
+REPAIRED_SUM_DC_000005_HI,DC_000005,hi,Hindi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000005_P001_WIN006', 'EV_DC_000005_P001_WIN005', 'EV_DC_000005_P001_WIN001', 'EV_DC_000005_P001_WIN007', 'EV_DC_000005_P001_WIN002', 'EV_DC_000005_P001_WIN003', 'EV_DC_000005_P001_WIN004']",1fcb56ac40ae5a53b8b7c949d02ff33f7e1370327caf3b4a90870d09d7747a77,"[साबित किए गए साक्ष्य के आधार पर एक निर्धारित और निर्माण-संबंधी विवरण]
+
+इस मामले में, निम्नलिखित तथ्य उपलब्ध साक्ष्य से निर्मित हैं:
+
+- इस मामले का निर्देशन जूनियर सिविल जज, चेन्नूर के निर्देशन में है।  
+- न्यायाधीश स्री उदय भास्कर राव, जूनियर सिविल जज, चेन्नूर के निर्देशन में हैं।  
+- इस मामले में दो पक्ष हैं:  
+  - राज्य तेलंगाना के द्वारा बॉलीवुड अधिकारी, कोटापल्ली के अधिकारी,  
+  - और गोल्ला राजम।  
+- इस मामले का दोक नंबर 134, 1998 के तहत है।  
+- इस मामले का निर्देशन जूनियर सिविल जज,",145e0df852e9c79f3c157d2d04a3d87883dccb4f4e83fab5fd19bfd87cf7b1f5,556,450,21399,2026-10-05T14:21:53.306471+00:00,SUCCESS,,"[साबित किए गए साक्ष्य के आधार पर एक निर्धारित और निर्माण-संबंधी विवरण]
+
+इस मामले में, निम्नलिखित तथ्य उपलब्ध साक्ष्य से निर्मित हैं:
+
+- इस मामले का निर्देशन जूनियर सिविल जज, चेन्नूर के निर्देशन में है।  
+- न्यायाधीश स्री उदय भास्कर राव, जूनियर सिविल जज, चेन्नूर के निर्देशन में हैं।  
+- इस मामले में दो पक्ष हैं:  
+  - राज्य तेलंगाना के द्वारा बॉलीवुड अधिकारी, कोटापल्ली के अधिकारी,  
+  - और गोल्ला राजम।  
+- इस मामले का दोक नंबर 134, 1998 के तहत है।  
+- इस मामले का निर्देशन जूनियर सिविल जज,"
+REPAIRED_SUM_DC_000005_KN,DC_000005,kn,Kannada,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000005_P001_WIN006', 'EV_DC_000005_P001_WIN005', 'EV_DC_000005_P001_WIN001', 'EV_DC_000005_P001_WIN007', 'EV_DC_000005_P001_WIN002', 'EV_DC_000005_P001_WIN003', 'EV_DC_000005_P001_WIN004']",1fcb56ac40ae5a53b8b7c949d02ff33f7e1370327caf3b4a90870d09d7747a77,"[ప్రత్యేక సాక్ష్యం 1 | పేజీ 1 | విండో EV_DC_000005_P001_WIN006]:  
+అభియుద్ధి కు అనుమతి పొందిన హన్న్ బ్లాక్ డిస్ట్రిక్ట్ అండ్ సెషన్ జడ్జు, అదిలాబాద్ ద్వారా ఓ.ఎమ్.డిస్.ను. 1102/2018/స్రిల్, 07.03.2018 తేదీన లెక్క చేయబడింది, ల్పీ రిజిస్టర్ లో నమోదు చేయడానికి.
+
+[ప్రత్యేక సాక్ష్యం 2 | పేజీ 1 | విండో EV_DC_000005_P001_WIN005]:  
+మధ్యం మధ్యం మధ్యం మధ్యం",20b2d724327c2db6f025f2805dd7161b611cd39e684521a7017fb7d2b7dc0a71,559,450,20905,2026-10-05T14:22:14.215210+00:00,SUCCESS,,"[ప్రత్యేక సాక్ష్యం 1 | పేజీ 1 | విండో EV_DC_000005_P001_WIN006]:  
+అభియుద్ధి కు అనుమతి పొందిన హన్న్ బ్లాక్ డిస్ట్రిక్ట్ అండ్ సెషన్ జడ్జు, అదిలాబాద్ ద్వారా ఓ.ఎమ్.డిస్.ను. 1102/2018/స్రిల్, 07.03.2018 తేదీన లెక్క చేయబడింది, ల్పీ రిజిస్టర్ లో నమోదు చేయడానికి.
+
+[ప్రత్యేక సాక్ష్యం 2 | పేజీ 1 | విండో EV_DC_000005_P001_WIN005]:  
+మధ్యం మధ్యం మధ్యం మధ్యం"
+REPAIRED_SUM_DC_000005_MR,DC_000005,mr,Marathi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000005_P001_WIN006', 'EV_DC_000005_P001_WIN005', 'EV_DC_000005_P001_WIN001', 'EV_DC_000005_P001_WIN007', 'EV_DC_000005_P001_WIN002', 'EV_DC_000005_P001_WIN003', 'EV_DC_000005_P001_WIN004']",1fcb56ac40ae5a53b8b7c949d02ff33f7e1370327caf3b4a90870d09d7747a77,"[मार्गांच्या निर्मितीसाठी दिलेल्या विषयाचा विश्लेषण आहे]
+
+मुख्य निर्णयाचा विषय:  
+स्टेट ऑफ टेलंगाना ट्रू एक्टिंग सब-इंस्पेक्टर ऑफ पोलीस, कोटापल्ली यांच्या द्वारे दावा केलेला आहे, आणि गोल्ला राजम यांच्याविरुद्ध या दावाचा निर्णय जूनियर सिविल जज चेन्नूर यांच्या निर्णयात घेतला गेला आहे.
+
+मागील निर्णयाचा विषय:  
+जूनियर सिविल जज, चेन्नूर यांच्या निर्णयात दिलेला आहे. या निर्णयाचा दिनांक 13 मार्च, 2018 आहे. या निर्णयाचा निर्मितीसाठी जूनियर सिविल जज, चेन्नूर यांच",443c35986c3d713bd09514b1c59892707ee5c72dca78013bd24599e2ea7788e3,559,450,20693,2026-10-05T14:22:34.920965+00:00,SUCCESS,,"[मार्गांच्या निर्मितीसाठी दिलेल्या विषयाचा विश्लेषण आहे]
+
+मुख्य निर्णयाचा विषय:  
+स्टेट ऑफ टेलंगाना ट्रू एक्टिंग सब-इंस्पेक्टर ऑफ पोलीस, कोटापल्ली यांच्या द्वारे दावा केलेला आहे, आणि गोल्ला राजम यांच्याविरुद्ध या दावाचा निर्णय जूनियर सिविल जज चेन्नूर यांच्या निर्णयात घेतला गेला आहे.
+
+मागील निर्णयाचा विषय:  
+जूनियर सिविल जज, चेन्नूर यांच्या निर्णयात दिलेला आहे. या निर्णयाचा दिनांक 13 मार्च, 2018 आहे. या निर्णयाचा निर्मितीसाठी जूनियर सिविल जज, चेन्नूर यांच"
+REPAIRED_SUM_DC_000006_EN,DC_000006,en,English,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000006_P005_WIN044', 'EV_DC_000006_P005_WIN045', 'EV_DC_000006_P005_WIN043', 'EV_DC_000006_P001_WIN001', 'EV_DC_000006_P001_WIN004', 'EV_DC_000006_P005_WIN046', 'EV_DC_000006_P001_WIN005', 'EV_DC_000006_P001_WIN002']",beebfbe1a70333f454fceec312656f28a68c7ee2b7e546649a0294de181bcd59,"LEGAL SUMMARY (EVIDENCE-CONSTRUED, STRICTLY BASED ON SUPPLIED EVIDENCE):
+
+1. The case is listed as C.C. No. 132 of 1998, heard in the Court of the Judicial Magistrate of First Class at Chinnur, on Monday, the 15th day of September, 2014.
+
+2. The complainant is Smt. Lambu Anantha Devi, identified as PW-1. Kumri Lambu Radhika is the daughter of the complainant and is also a witness (LW-3).
+
+3. The Circle Inspector of Police, Mancherial, filed a charge sheet against accused persons A-1 to A-10 in Cr. No. 37/1993 of P.S. Jaipur, under sections 147, 148, and 427 read with section 149 of the Indian Penal Code (IPC).
+
+4. The charge sheet alleges offences committed against Smt. Lambu Anantha Devi, with the accused persons being:
+   - A-1: Satwaji @ Sudhakaranna
+   - A-2: Golla Rajam
+   - A-3: Parasaboina Rajam @ Naganna
+   - A-5: Arigela Venka Goud @ Pratap
+   - A-6: Gaddam Rajam @ Yadanna
+   - A-7: Ganganna @ Mallesh
+   - A-8: Radhakka
+   - A-9: Rayaposham @ Kishan
+   - A-10: Bomgoni Komura Goud (died on 16.9.1993 in Cr. No. 83/1993 of P.S. Jaipur)
+
+5. The case against A-1 to A-7 and A-9 to A-10 was split and renumbered as C.C. No. 47 of 2014.
+
+6. A-8 (Radhakka) is currently in judicial",548ee9b40a990f069590540e84e8985d3be1818254d7b39e74c0b50ec7b8aa70,1431,450,24872,2026-10-05T14:22:59.799826+00:00,SUCCESS,,"LEGAL SUMMARY (EVIDENCE-CONSTRUED, STRICTLY BASED ON SUPPLIED EVIDENCE):
+
+1. The case is listed as C.C. No. 132 of 1998, heard in the Court of the Judicial Magistrate of First Class at Chinnur, on Monday, the 15th day of September, 2014.
+
+2. The complainant is Smt. Lambu Anantha Devi, identified as PW-1. Kumri Lambu Radhika is the daughter of the complainant and is also a witness (LW-3).
+
+3. The Circle Inspector of Police, Mancherial, filed a charge sheet against accused persons A-1 to A-10 in Cr. No. 37/1993 of P.S. Jaipur, under sections 147, 148, and 427 read with section 149 of the Indian Penal Code (IPC).
+
+4. The charge sheet alleges offences committed against Smt. Lambu Anantha Devi, with the accused persons being:
+   - A-1: Satwaji @ Sudhakaranna
+   - A-2: Golla Rajam
+   - A-3: Parasaboina Rajam @ Naganna
+   - A-5: Arigela Venka Goud @ Pratap
+   - A-6: Gaddam Rajam @ Yadanna
+   - A-7: Ganganna @ Mallesh
+   - A-8: Radhakka
+   - A-9: Rayaposham @ Kishan
+   - A-10: Bomgoni Komura Goud (died on 16.9.1993 in Cr. No. 83/1993 of P.S. Jaipur)
+
+5. The case against A-1 to A-7 and A-9 to A-10 was split and renumbered as C.C. No. 47 of 2014.
+
+6. A-8 (Radhakka) is currently in judicial"
+REPAIRED_SUM_DC_000006_TA,DC_000006,ta,Tamil,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000006_P005_WIN044', 'EV_DC_000006_P005_WIN045', 'EV_DC_000006_P005_WIN043', 'EV_DC_000006_P001_WIN001', 'EV_DC_000006_P001_WIN004', 'EV_DC_000006_P005_WIN046', 'EV_DC_000006_P001_WIN005', 'EV_DC_000006_P001_WIN002']",beebfbe1a70333f454fceec312656f28a68c7ee2b7e546649a0294de181bcd59,"**நிரூபிக்கப்பட்ட சான்றுகளுக்கு அடிப்படையான கணக்கு செயல்பாடு (Tamil)**
+
+1. சிறப்பு மாற்றம் இல்லாத வாரியம் என்பது குறித்து கூறப்பட்டுள்ளது. இது குறித்து சிறப்பு செயல்பாடு (CC) 47/2014 என்ற செயல்பாட்டில் A-1 முதல் A-3, A-5 முதல் A-7 மறுவரும் A-9 ஆகியோருக்கு பொருந்துகிறது. இது சிறப்பு மாற்றம் செயல்பாட்டில் செயல்படுத்தப்பட்டுள்ளது.
+
+2. சிறப்பு மாற்றம் செயல்பாட்டில் சிறப்பு மாற்றம் செயல்பாட்டில் செயல்படுத்தப்பட்டுள்ளது. சிறப்பு மாற்றம் ச",dd2823c949caab8af1ae1b08bafbd085cdd8215c62bee0f186b426b0686e663c,1431,450,26190,2026-10-05T14:23:26.015797+00:00,SUCCESS,,"**நிரூபிக்கப்பட்ட சான்றுகளுக்கு அடிப்படையான கணக்கு செயல்பாடு (Tamil)**
+
+1. சிறப்பு மாற்றம் இல்லாத வாரியம் என்பது குறித்து கூறப்பட்டுள்ளது. இது குறித்து சிறப்பு செயல்பாடு (CC) 47/2014 என்ற செயல்பாட்டில் A-1 முதல் A-3, A-5 முதல் A-7 மறுவரும் A-9 ஆகியோருக்கு பொருந்துகிறது. இது சிறப்பு மாற்றம் செயல்பாட்டில் செயல்படுத்தப்பட்டுள்ளது.
+
+2. சிறப்பு மாற்றம் செயல்பாட்டில் சிறப்பு மாற்றம் செயல்பாட்டில் செயல்படுத்தப்பட்டுள்ளது. சிறப்பு மாற்றம் ச"
+REPAIRED_SUM_DC_000006_HI,DC_000006,hi,Hindi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000006_P005_WIN044', 'EV_DC_000006_P005_WIN045', 'EV_DC_000006_P005_WIN043', 'EV_DC_000006_P001_WIN001', 'EV_DC_000006_P001_WIN004', 'EV_DC_000006_P005_WIN046', 'EV_DC_000006_P001_WIN005', 'EV_DC_000006_P001_WIN002']",beebfbe1a70333f454fceec312656f28a68c7ee2b7e546649a0294de181bcd59,"मामला: जजिमल मैगिस्ट्रेट ऑफ फर्स्ट क्लास, चिन्नूर  
+केस नं. 132 ऑफ 1998  
+प्रकाशित तारीख: 15 सितंबर, 2014  
+
+**सामान्य तथ्य:**  
+- इस मामले में राज्य के तहत सब-इंस्पेक्टर ऑफ पुलिस, जैपुर द्वारा दावा किया गया है।  
+- चार्ज शीट नं. 37/1993, पीएस जैपुर में अभियोग दर्ज किया गया है।  
+- अभियोग अधिकारी नं. 1 से 10 तक के लिए दर्ज किया गया है, जो अनुच्छेद 147, 148, 427 (संलग्न 149 आईपीसी) के तहत है।  
+- अभियोग के लिए दावा करने वाले व्यक्ति: स्मिता लंबू अनंता देवी (प्रतिवादी नं. 1), जिसके पति",8b00771b204a250ad2c083dff30ab969dfae3e4d6ce2b9d528399e5e62db63f1,1431,450,26556,2026-10-05T14:23:52.591185+00:00,SUCCESS,,"मामला: जजिमल मैगिस्ट्रेट ऑफ फर्स्ट क्लास, चिन्नूर  
+केस नं. 132 ऑफ 1998  
+प्रकाशित तारीख: 15 सितंबर, 2014  
+
+**सामान्य तथ्य:**  
+- इस मामले में राज्य के तहत सब-इंस्पेक्टर ऑफ पुलिस, जैपुर द्वारा दावा किया गया है।  
+- चार्ज शीट नं. 37/1993, पीएस जैपुर में अभियोग दर्ज किया गया है।  
+- अभियोग अधिकारी नं. 1 से 10 तक के लिए दर्ज किया गया है, जो अनुच्छेद 147, 148, 427 (संलग्न 149 आईपीसी) के तहत है।  
+- अभियोग के लिए दावा करने वाले व्यक्ति: स्मिता लंबू अनंता देवी (प्रतिवादी नं. 1), जिसके पति"
+REPAIRED_SUM_DC_000006_KN,DC_000006,kn,Kannada,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000006_P005_WIN044', 'EV_DC_000006_P005_WIN045', 'EV_DC_000006_P005_WIN043', 'EV_DC_000006_P001_WIN001', 'EV_DC_000006_P001_WIN004', 'EV_DC_000006_P005_WIN046', 'EV_DC_000006_P001_WIN005', 'EV_DC_000006_P001_WIN002']",beebfbe1a70333f454fceec312656f28a68c7ee2b7e546649a0294de181bcd59,**విషయం:** చిన్నూరు జడ్జి క్లాస్ వారి కోసం క్రిమినల్ కోర్టు కోసం సుప్రీం కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర,10e17a99b6d571f76550b37f295ca33890b76fee15c44e94a50ae8a657f7a02c,1434,450,24933,2026-10-05T14:24:17.539024+00:00,SUCCESS,,**విషయం:** చిన్నూరు జడ్జి క్లాస్ వారి కోసం క్రిమినల్ కోర్టు కోసం సుప్రీం కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర్టు కోసం క్రిమినల్ కోర
+REPAIRED_SUM_DC_000006_MR,DC_000006,mr,Marathi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000006_P005_WIN044', 'EV_DC_000006_P005_WIN045', 'EV_DC_000006_P005_WIN043', 'EV_DC_000006_P001_WIN001', 'EV_DC_000006_P001_WIN004', 'EV_DC_000006_P005_WIN046', 'EV_DC_000006_P001_WIN005', 'EV_DC_000006_P001_WIN002']",beebfbe1a70333f454fceec312656f28a68c7ee2b7e546649a0294de181bcd59,"मागील आधारावर निर्माण केलेला विषय आधारित सारांश खालीलप्रमाण आहे:
+
+---
+
+**मागील आधारावर निर्माण केलेला विषय आधारित सारांश (Marathi)**
+
+1. या विषयातील न्यायाधीशाच्या निर्णयानुसार, अपवाद असलेल्या वस्तूची (un-marked property) असल्यास ती संरक्षित केली जाईल, कारण अपवाद असलेल्या वस्तूची संरक्षणासाठी एक विविध विषय (CC 47/2014) आहे, जो A-1 ते A-3, A-5 ते A-7 आणि A-9 वर असलेला आहे.  
+(संपूर्ण निर्णय जून 2014 रोजी चिन्नूर चिंचूर न्यायाधीशाच्या निर्णयात दिला गेला आहे.)
+
+2. या निर्णयात न्यायाधीशाच्या निर",12a94025ae223d853ed40312139b82a776594d4e557b154ddcad913449686a48,1434,450,25352,2026-10-05T14:24:42.906437+00:00,SUCCESS,,"मागील आधारावर निर्माण केलेला विषय आधारित सारांश खालीलप्रमाण आहे:
+
+---
+
+**मागील आधारावर निर्माण केलेला विषय आधारित सारांश (Marathi)**
+
+1. या विषयातील न्यायाधीशाच्या निर्णयानुसार, अपवाद असलेल्या वस्तूची (un-marked property) असल्यास ती संरक्षित केली जाईल, कारण अपवाद असलेल्या वस्तूची संरक्षणासाठी एक विविध विषय (CC 47/2014) आहे, जो A-1 ते A-3, A-5 ते A-7 आणि A-9 वर असलेला आहे.  
+(संपूर्ण निर्णय जून 2014 रोजी चिन्नूर चिंचूर न्यायाधीशाच्या निर्णयात दिला गेला आहे.)
+
+2. या निर्णयात न्यायाधीशाच्या निर"
+REPAIRED_SUM_DC_000007_EN,DC_000007,en,English,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000007_P001_WIN005', 'EV_DC_000007_P001_WIN004', 'EV_DC_000007_P001_WIN006', 'EV_DC_000007_P001_WIN001', 'EV_DC_000007_P001_WIN007', 'EV_DC_000007_P001_WIN002', 'EV_DC_000007_P001_WIN003']",9386c92ddb445d37db77039bf7dec85997368e54b8a82b608f2c12a3e7ba3390,"LEGAL SUMMARY:
+
+The case is listed in the court of the Junior Civil Judge at Chennur, Telangana. The court is presided over by Sri G. Uday Bhaskar Rao, Junior Civil Judge, Chennur, PRC. The matter involves a criminal proceeding between the State of Telangana, represented by the Sub-Inspector of Police, Chennur, and the accused Jangili Ganganna and 13 others. 
+
+A docket order was issued on 07.03.2018 (O.M. Dis. No. 1051/2018/crl) by the Hon’ble District and Sessions Judge, Adilabad, permitting the entry of the case in the LPC (Local Police Court) Register. 
+
+The case was recorded under the provisions of the Criminal Procedure Code, 1998, and the order was given under the seal of the court on the 13th day of March, 2018. 
+
+No other facts, such as specific charges, dates of incidents, or names of individuals beyond those in the evidence, are provided. 
+
+[Not Available in Evidence]:  
+- Specific nature of the offense  
+- Date of filing of the complaint  
+- Details of the accused other than Jangili Ganganna and 13 others  
+- Jurisdictional basis of the case beyond the court and order  
+- Any statutory section beyond No. 46 of 1998  
+- The identity of the complainant beyond ""State of Telangana Rep. by SHO, Chennur""  
+
+The legal outcome or disposition of the case is not specified in the evidence.  
+
+This summary is strictly based on the provided evidence and does not include any inference, assumption, or external fact.",2faac1deeccea0aa0a320151ad250202f06d3ff494047df5ac716d6c257ff20b,560,373,17990,2026-10-05T14:25:00.913003+00:00,SUCCESS,,"LEGAL SUMMARY:
+
+The case is listed in the court of the Junior Civil Judge at Chennur, Telangana. The court is presided over by Sri G. Uday Bhaskar Rao, Junior Civil Judge, Chennur, PRC. The matter involves a criminal proceeding between the State of Telangana, represented by the Sub-Inspector of Police, Chennur, and the accused Jangili Ganganna and 13 others. 
+
+A docket order was issued on 07.03.2018 (O.M. Dis. No. 1051/2018/crl) by the Hon’ble District and Sessions Judge, Adilabad, permitting the entry of the case in the LPC (Local Police Court) Register. 
+
+The case was recorded under the provisions of the Criminal Procedure Code, 1998, and the order was given under the seal of the court on the 13th day of March, 2018. 
+
+No other facts, such as specific charges, dates of incidents, or names of individuals beyond those in the evidence, are provided. 
+
+[Not Available in Evidence]:  
+- Specific nature of the offense  
+- Date of filing of the complaint  
+- Details of the accused other than Jangili Ganganna and 13 others  
+- Jurisdictional basis of the case beyond the court and order  
+- Any statutory section beyond No. 46 of 1998  
+- The identity of the complainant beyond ""State of Telangana Rep. by SHO, Chennur""  
+
+The legal outcome or disposition of the case is not specified in the evidence.  
+
+This summary is strictly based on the provided evidence and does not include any inference, assumption, or external fact."
+REPAIRED_SUM_DC_000007_TA,DC_000007,ta,Tamil,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000007_P001_WIN005', 'EV_DC_000007_P001_WIN004', 'EV_DC_000007_P001_WIN006', 'EV_DC_000007_P001_WIN001', 'EV_DC_000007_P001_WIN007', 'EV_DC_000007_P001_WIN002', 'EV_DC_000007_P001_WIN003']",9386c92ddb445d37db77039bf7dec85997368e54b8a82b608f2c12a3e7ba3390,"[நிரூபிக்கப்பட்ட காலிக்குறிப்பு அடிப்படையில் தமிழில் வரையப்பட்டது]
+
+இந்த வழக்கில் கூறப்பட்டுள்ள விவரங்கள் மட்டுமே பயன்படுத்தப்பட்டுள்ளன. கீழே தரப்பட்ட நிரூபிக்கப்பட்ட காலிக்குறிப்பு மட்டுமே பயன்படுத்தப்பட்டுள்ளது.
+
+1. வழக்கின் பகுதி:  
+   தெலுங்கானா மாநிலத்தின் அரசாங்கம் தொடர்பான குற்றம் குறித்து சென்னூர் சென்னூர் சென்னூர் சென்னூர் சென்னூர் சென்னூர் சென்னூர் சென்னூர் சென்னூர் சென்னூர் சென்னூர் சென்னூர் செ",82051cfbc58123e2684330c7d99af77da85e02c64e893d696998c335562a7cd8,560,450,21039,2026-10-05T14:25:21.959109+00:00,SUCCESS,,"[நிரூபிக்கப்பட்ட காலிக்குறிப்பு அடிப்படையில் தமிழில் வரையப்பட்டது]
+
+இந்த வழக்கில் கூறப்பட்டுள்ள விவரங்கள் மட்டுமே பயன்படுத்தப்பட்டுள்ளன. கீழே தரப்பட்ட நிரூபிக்கப்பட்ட காலிக்குறிப்பு மட்டுமே பயன்படுத்தப்பட்டுள்ளது.
+
+1. வழக்கின் பகுதி:  
+   தெலுங்கானா மாநிலத்தின் அரசாங்கம் தொடர்பான குற்றம் குறித்து சென்னூர் சென்னூர் சென்னூர் சென்னூர் சென்னூர் சென்னூர் சென்னூர் சென்னூர் சென்னூர் சென்னூர் சென்னூர் சென்னூர் செ"
+REPAIRED_SUM_DC_000007_HI,DC_000007,hi,Hindi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000007_P001_WIN005', 'EV_DC_000007_P001_WIN004', 'EV_DC_000007_P001_WIN006', 'EV_DC_000007_P001_WIN001', 'EV_DC_000007_P001_WIN007', 'EV_DC_000007_P001_WIN002', 'EV_DC_000007_P001_WIN003']",9386c92ddb445d37db77039bf7dec85997368e54b8a82b608f2c12a3e7ba3390,"प्रमाणित प्रमाणपत्र के आधार पर बनाया गया निर्णय-आधारित सारांश (हिंदी में):
+
+इस मामले में, तेलंगाना राज्य के द्वारा शहरी अधिकारी, चेन्नूर (SHO, Chennur) के नाम से दावा करते हुए, एक अपराध विवाद में आगे बढ़ाया गया है। इस मामले में आरोपी जंगिली गंगान्ना और 13 अन्य लोगों के खिलाफ दावा किया गया है।
+
+इस मामले का दोक अवधि निर्देश (DOCKET ORDER) द्वारा दर्ज किया गया है, जिसके अनुसार, अधिकारी अदिलाबाद के द्वारा दिलावाद जज, अदिलाबाद के नाम से अनुमति प्राप्त की गई है, जिसका नंबर O.M. Dis. No. 1051/2018/crl और तिथि",305f8b42d6de9b85483f27664ba2eb73680c6a3294cd3630c2819c313bd16bc6,560,450,26559,2026-10-05T14:25:48.527791+00:00,SUCCESS,,"प्रमाणित प्रमाणपत्र के आधार पर बनाया गया निर्णय-आधारित सारांश (हिंदी में):
+
+इस मामले में, तेलंगाना राज्य के द्वारा शहरी अधिकारी, चेन्नूर (SHO, Chennur) के नाम से दावा करते हुए, एक अपराध विवाद में आगे बढ़ाया गया है। इस मामले में आरोपी जंगिली गंगान्ना और 13 अन्य लोगों के खिलाफ दावा किया गया है।
+
+इस मामले का दोक अवधि निर्देश (DOCKET ORDER) द्वारा दर्ज किया गया है, जिसके अनुसार, अधिकारी अदिलाबाद के द्वारा दिलावाद जज, अदिलाबाद के नाम से अनुमति प्राप्त की गई है, जिसका नंबर O.M. Dis. No. 1051/2018/crl और तिथि "
+REPAIRED_SUM_DC_000007_KN,DC_000007,kn,Kannada,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000007_P001_WIN005', 'EV_DC_000007_P001_WIN004', 'EV_DC_000007_P001_WIN006', 'EV_DC_000007_P001_WIN001', 'EV_DC_000007_P001_WIN007', 'EV_DC_000007_P001_WIN002', 'EV_DC_000007_P001_WIN003']",9386c92ddb445d37db77039bf7dec85997368e54b8a82b608f2c12a3e7ba3390,"ప్రమాణాల నిర్వహణ ప్రకారం సమర్పించిన సమాచారం మేరికి నిర్వహించిన నిర్వహణ ప్రకారం కింది విషయాలను సమర్పిస్తున్నాను:
+
+1. ప్రస్తావన ప్రకారం:  
+స్టేట్ ఆఫ్ టెలంగానా రెప్ బి షో, చెన్నూర్ ద్వారా వచ్చిన క్లెయిమ్ మరియు జంగిలి గంగాన్నా మరియు 13 మంది వారి విషయంలో సంబంధించిన కేసు.
+
+2. కేసు నంబర్:  
+సంఖ్య 46 ఆఫ్ 1998.
+
+3. కోర్",8cc70c68375822ff218724e548e56d03e1071b5ff73d915ad68c6dbfcc29e3fb,563,450,22198,2026-10-05T14:26:10.743473+00:00,SUCCESS,,"ప్రమాణాల నిర్వహణ ప్రకారం సమర్పించిన సమాచారం మేరికి నిర్వహించిన నిర్వహణ ప్రకారం కింది విషయాలను సమర్పిస్తున్నాను:
+
+1. ప్రస్తావన ప్రకారం:  
+స్టేట్ ఆఫ్ టెలంగానా రెప్ బి షో, చెన్నూర్ ద్వారా వచ్చిన క్లెయిమ్ మరియు జంగిలి గంగాన్నా మరియు 13 మంది వారి విషయంలో సంబంధించిన కేసు.
+
+2. కేసు నంబర్:  
+సంఖ్య 46 ఆఫ్ 1998.
+
+3. కోర్"
+REPAIRED_SUM_DC_000007_MR,DC_000007,mr,Marathi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000007_P001_WIN005', 'EV_DC_000007_P001_WIN004', 'EV_DC_000007_P001_WIN006', 'EV_DC_000007_P001_WIN001', 'EV_DC_000007_P001_WIN007', 'EV_DC_000007_P001_WIN002', 'EV_DC_000007_P001_WIN003']",9386c92ddb445d37db77039bf7dec85997368e54b8a82b608f2c12a3e7ba3390,"प्रकरणाचा निष्कर्ष:  
+
+मागील विषयात, तेलंगाना राज्याच्या दर्जाच्या आणि सत्र न्यायाधीशाच्या चेन्नूर येथे एक प्रकरण नोंदवले आहे.  
+
+प्रकरणाचे नाव: नं. 46 ऑफ 1998  
+
+प्रकरणाचे निर्देशन:  
+- राज्याचे तेलंगाना राज्याचे शास्त्रीय अधिकारी (SHO), चेन्नूर यांनी दावा केला आहे.  
+- याच प्रकरणात अर्जक आहे जंगिली गांगान्ना आणि तिसरा अनेक इतर व्यक्ती.  
+
+प्रकरणाचे निर्णय:  
+- दर्जाच्या आणि सत्र न्यायाधीशाच्या चेन्नूर येथे निर्णय देणारा न्यायाधीश ग. उदय भास्कर राऊ यांचा निर्णय आहे.  
+- न्यायाधी",8e66ea4d6d8b96c99381fb7f52f6744c2551f611b3622e4df6c4f0e8d58a9524,563,450,21597,2026-10-05T14:26:32.370131+00:00,SUCCESS,,"प्रकरणाचा निष्कर्ष:  
+
+मागील विषयात, तेलंगाना राज्याच्या दर्जाच्या आणि सत्र न्यायाधीशाच्या चेन्नूर येथे एक प्रकरण नोंदवले आहे.  
+
+प्रकरणाचे नाव: नं. 46 ऑफ 1998  
+
+प्रकरणाचे निर्देशन:  
+- राज्याचे तेलंगाना राज्याचे शास्त्रीय अधिकारी (SHO), चेन्नूर यांनी दावा केला आहे.  
+- याच प्रकरणात अर्जक आहे जंगिली गांगान्ना आणि तिसरा अनेक इतर व्यक्ती.  
+
+प्रकरणाचे निर्णय:  
+- दर्जाच्या आणि सत्र न्यायाधीशाच्या चेन्नूर येथे निर्णय देणारा न्यायाधीश ग. उदय भास्कर राऊ यांचा निर्णय आहे.  
+- न्यायाधी"
+REPAIRED_SUM_DC_000008_EN,DC_000008,en,English,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000008_P001_WIN005', 'EV_DC_000008_P001_WIN004', 'EV_DC_000008_P001_WIN006', 'EV_DC_000008_P001_WIN001', 'EV_DC_000008_P001_WIN007', 'EV_DC_000008_P001_WIN002', 'EV_DC_000008_P001_WIN003']",7fa9a607525fa1e8ad32ebba9e07d9e9b900d328980cf0db25d6633eb26bbfe6,"LEGAL SUMMARY:
+
+The case is listed in the LPC (Local Police Court) Register with permission granted by the Hon’ble Prl. District and Sessions Judge, Adilabad, under Order No. 1467/2018/CRL dated 21-03-2018, to enter the case in the LPC Register.
+
+The matter is being heard in the Court of the Junior Civil Judge, Chennur, represented by Sri G. Uday Bhaskar Rao, PRC.
+
+The case is between the State of Telangana, represented by the SHO, Kotapalli, as Complainant, and Praboina Rajanna as Accused.
+
+The record is duly signed and sealed by the Junior Civil Judge, Chennur, on the 23rd day of March, 2018.
+
+Case number: No. 44 of 1998.
+
+[Note: The following are not available in the evidence:  
+- Specific nature of the offense or allegations  
+- Date of filing of the complaint  
+- Jurisdictional details beyond the court and case number  
+- Any procedural or substantive findings  
+- The identity of the accused beyond ""Praboina Rajanna""  
+- The specific section of the Code under which the case is filed  
+- The outcome or disposition of the case  
+- The location or address of the SHO, Kotapalli  
+- The full name or designation of the Judge or court]
+
+All facts and legal dispositions are strictly derived from the provided evidence. No inferences, assumptions, or external facts have been introduced.",f79187f8affa87ed5fdf78b946188b398ff0257190155a787405ef1d1e86b1b6,558,334,15830,2026-10-05T14:26:48.212585+00:00,SUCCESS,,"LEGAL SUMMARY:
+
+The case is listed in the LPC (Local Police Court) Register with permission granted by the Hon’ble Prl. District and Sessions Judge, Adilabad, under Order No. 1467/2018/CRL dated 21-03-2018, to enter the case in the LPC Register.
+
+The matter is being heard in the Court of the Junior Civil Judge, Chennur, represented by Sri G. Uday Bhaskar Rao, PRC.
+
+The case is between the State of Telangana, represented by the SHO, Kotapalli, as Complainant, and Praboina Rajanna as Accused.
+
+The record is duly signed and sealed by the Junior Civil Judge, Chennur, on the 23rd day of March, 2018.
+
+Case number: No. 44 of 1998.
+
+[Note: The following are not available in the evidence:  
+- Specific nature of the offense or allegations  
+- Date of filing of the complaint  
+- Jurisdictional details beyond the court and case number  
+- Any procedural or substantive findings  
+- The identity of the accused beyond ""Praboina Rajanna""  
+- The specific section of the Code under which the case is filed  
+- The outcome or disposition of the case  
+- The location or address of the SHO, Kotapalli  
+- The full name or designation of the Judge or court]
+
+All facts and legal dispositions are strictly derived from the provided evidence. No inferences, assumptions, or external facts have been introduced."
+REPAIRED_SUM_DC_000008_TA,DC_000008,ta,Tamil,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000008_P001_WIN005', 'EV_DC_000008_P001_WIN004', 'EV_DC_000008_P001_WIN006', 'EV_DC_000008_P001_WIN001', 'EV_DC_000008_P001_WIN007', 'EV_DC_000008_P001_WIN002', 'EV_DC_000008_P001_WIN003']",7fa9a607525fa1e8ad32ebba9e07d9e9b900d328980cf0db25d6633eb26bbfe6,"[நிரூபிக்கப்பட்ட காலிக்குறிப்பு அடிப்படையில் உருவாக்கப்பட்டது]
+
+இந்த வழக்கில், தெலுங்கானாவின் அரசாங்கமான கட்டண மாவட்டத்தின் கோடப்பாலி மாவட்ட நிர்வாக அலுவலரால் வழக்கு தொடரப்பட்டுள்ளது. குற்றவாதி என்று குறிப்பிடப்பட்டுள்ளது. குற்றவாதி பிராபோயினா ராஜனா என்பவர்.
+
+இந்த வழக்கு சென்னூர் கிராமத்தில் உள்ள கிராம சுத்திகரம் கோர்ட்டில் நடைபெறுகிறது. கோர்ட்டின் தலைவரான சிரி ஜி. உதய் பாஸ்கர் ராவ் கிராம சுத்திகர நீதிபதி என",8ff0e0b6a8e3c3ec5848a7e5cda0a27ece19a3862f2033c809682d41a47a2242,558,450,21222,2026-10-05T14:27:09.443560+00:00,SUCCESS,,"[நிரூபிக்கப்பட்ட காலிக்குறிப்பு அடிப்படையில் உருவாக்கப்பட்டது]
+
+இந்த வழக்கில், தெலுங்கானாவின் அரசாங்கமான கட்டண மாவட்டத்தின் கோடப்பாலி மாவட்ட நிர்வாக அலுவலரால் வழக்கு தொடரப்பட்டுள்ளது. குற்றவாதி என்று குறிப்பிடப்பட்டுள்ளது. குற்றவாதி பிராபோயினா ராஜனா என்பவர்.
+
+இந்த வழக்கு சென்னூர் கிராமத்தில் உள்ள கிராம சுத்திகரம் கோர்ட்டில் நடைபெறுகிறது. கோர்ட்டின் தலைவரான சிரி ஜி. உதய் பாஸ்கர் ராவ் கிராம சுத்திகர நீதிபதி என"
+REPAIRED_SUM_DC_000008_HI,DC_000008,hi,Hindi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000008_P001_WIN005', 'EV_DC_000008_P001_WIN004', 'EV_DC_000008_P001_WIN006', 'EV_DC_000008_P001_WIN001', 'EV_DC_000008_P001_WIN007', 'EV_DC_000008_P001_WIN002', 'EV_DC_000008_P001_WIN003']",7fa9a607525fa1e8ad32ebba9e07d9e9b900d328980cf0db25d6633eb26bbfe6,"[साबित किए गए साक्ष्य के आधार पर एक निर्धारित न्यायिक सारांश]
+
+इस मामले में, निम्नलिखित तथ्य साक्ष्य से सीधे उत्पन्न हैं:
+
+- दो ओरों के बीच एक अपराधी मामला है:  
+  राज्य तेलंगाना के द्वारा शो, कोटापल्ली के द्वारा अधिकारी के रूप में दावा करने वाला अधिकारी (Complainant) और प्राबोइना राजन्ना (Praboina Rajanna) के बीच।
+
+- इस मामले का दोक्ट अवधि निम्नलिखित तरीके से दर्ज है:  
+  अधिकारी जज अदिलाबाद, द्वारा दिनांक 21-03-2018 को निर्देश नं. 1467/2018/crl के द्वारा अनुमति प्राप्त की गई है कि इसे लॉजिकल प्रोसेस के रज",c7b4eeb200aad9a73f934ade8178c69c00792dcf20b2dac97b0efee9cfeb0664,558,450,21010,2026-10-05T14:27:30.464306+00:00,SUCCESS,,"[साबित किए गए साक्ष्य के आधार पर एक निर्धारित न्यायिक सारांश]
+
+इस मामले में, निम्नलिखित तथ्य साक्ष्य से सीधे उत्पन्न हैं:
+
+- दो ओरों के बीच एक अपराधी मामला है:  
+  राज्य तेलंगाना के द्वारा शो, कोटापल्ली के द्वारा अधिकारी के रूप में दावा करने वाला अधिकारी (Complainant) और प्राबोइना राजन्ना (Praboina Rajanna) के बीच।
+
+- इस मामले का दोक्ट अवधि निम्नलिखित तरीके से दर्ज है:  
+  अधिकारी जज अदिलाबाद, द्वारा दिनांक 21-03-2018 को निर्देश नं. 1467/2018/crl के द्वारा अनुमति प्राप्त की गई है कि इसे लॉजिकल प्रोसेस के रज"
+REPAIRED_SUM_DC_000008_KN,DC_000008,kn,Kannada,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000008_P001_WIN005', 'EV_DC_000008_P001_WIN004', 'EV_DC_000008_P001_WIN006', 'EV_DC_000008_P001_WIN001', 'EV_DC_000008_P001_WIN007', 'EV_DC_000008_P001_WIN002', 'EV_DC_000008_P001_WIN003']",7fa9a607525fa1e8ad32ebba9e07d9e9b900d328980cf0db25d6633eb26bbfe6,"[ప్రత్యేక సాక్ష్యం ప్రకారం సమర్పించిన సంపూర్న నిర్వచనం]
+
+ఈ సంఘటన కోసం సాక్ష్యాల నుండి సమర్పించిన సమాచారం ప్రకారం:
+
+- పాటించిన సంఘటన లో స్థానిక పరిశోధన కోసం స్థానిక క్రిమినల్ కోర్టు చేన్నూరు లో నిర్వహించబడింది.
+- ఈ క్రిమినల్ కోర్టు లో స్రీ జి. ఉడయ్ భాస్కర్ రావు గా ఉన్నారు, జూనియర్ సివిల్ జడ్జు, చేన్నూరు ప్రా",99c0a6a3b90a96ac99bf350654e21bdfca727058228960dec94a610bcf415e3e,561,450,21520,2026-10-05T14:27:52.005940+00:00,SUCCESS,,"[ప్రత్యేక సాక్ష్యం ప్రకారం సమర్పించిన సంపూర్న నిర్వచనం]
+
+ఈ సంఘటన కోసం సాక్ష్యాల నుండి సమర్పించిన సమాచారం ప్రకారం:
+
+- పాటించిన సంఘటన లో స్థానిక పరిశోధన కోసం స్థానిక క్రిమినల్ కోర్టు చేన్నూరు లో నిర్వహించబడింది.
+- ఈ క్రిమినల్ కోర్టు లో స్రీ జి. ఉడయ్ భాస్కర్ రావు గా ఉన్నారు, జూనియర్ సివిల్ జడ్జు, చేన్నూరు ప్రా"
+REPAIRED_SUM_DC_000008_MR,DC_000008,mr,Marathi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000008_P001_WIN005', 'EV_DC_000008_P001_WIN004', 'EV_DC_000008_P001_WIN006', 'EV_DC_000008_P001_WIN001', 'EV_DC_000008_P001_WIN007', 'EV_DC_000008_P001_WIN002', 'EV_DC_000008_P001_WIN003']",7fa9a607525fa1e8ad32ebba9e07d9e9b900d328980cf0db25d6633eb26bbfe6,"[मार्गांतील निष्कर्ष आहे: एका अपराधाच्या दाव्यातील निर्णयाचा निष्कर्ष देखील आहे]
+
+मागील दोन वर्षांच्या अधिकाराच्या दाव्यातील निष्कर्षानुसार, तेलंगानाच्या राज्याचे शास्त्रीय अधिकारी, कोटापल्ली येथील शास्त्रीय अधिकारी (SHO), यांनी आरोप दाखल केला आहे. या आरोपाचा दावा असला आहे की, प्राबोइना राजन्ना यांच्यावर आरोप दाखल केला आहे.
+
+दोन वर्षांच्या अधिकाराच्या दाव्यातील निष्कर्षानुसार, अधिकारी दोन वर्षांच्या अधिकाराच्या दाव्यातील निष्कर्षानुसार, अधिकारी दोन वर्षांच्या अ",f1f1573836bbb11d6da4049f7151556959b4e07f63d8662bf9d596fb7b157d3c,561,450,21530,2026-10-05T14:28:13.552786+00:00,SUCCESS,,"[मार्गांतील निष्कर्ष आहे: एका अपराधाच्या दाव्यातील निर्णयाचा निष्कर्ष देखील आहे]
+
+मागील दोन वर्षांच्या अधिकाराच्या दाव्यातील निष्कर्षानुसार, तेलंगानाच्या राज्याचे शास्त्रीय अधिकारी, कोटापल्ली येथील शास्त्रीय अधिकारी (SHO), यांनी आरोप दाखल केला आहे. या आरोपाचा दावा असला आहे की, प्राबोइना राजन्ना यांच्यावर आरोप दाखल केला आहे.
+
+दोन वर्षांच्या अधिकाराच्या दाव्यातील निष्कर्षानुसार, अधिकारी दोन वर्षांच्या अधिकाराच्या दाव्यातील निष्कर्षानुसार, अधिकारी दोन वर्षांच्या अ"
+REPAIRED_SUM_DC_000011_EN,DC_000011,en,English,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000011_P001_WIN005', 'EV_DC_000011_P001_WIN002', 'EV_DC_000011_P002_WIN010', 'EV_DC_000011_P002_WIN012', 'EV_DC_000011_P002_WIN017', 'EV_DC_000011_P002_WIN016', 'EV_DC_000011_P002_WIN013', 'EV_DC_000011_P002_WIN015']",d9500f71c08aa0e6e46395bf9f64cb2ef7955dea6e1b363aaeb222a11bc84f96,"LEGAL SUMMARY (EVIDENCE-CONSTRAINED):
+
+The case is coming on for final hearing before the Hon'ble District Court, Adilabad on 21.2.2014, in the presence of police, with the accused appearing in person. After perusing the case record, the court issued a Committal Order.
+
+The complaint was filed through the Circle Inspector of Police, Chennur.
+
+The court took cognizance of the case against the accused for offences under Section 147, 148, 302 read with 149 of the Indian Penal Code (IPC), and Section 25(1)(a), 27 of the Indian Evidence Act (IA Act), as per PRC 38 OF 1998.
+
+On 8.9.1998, the case against accused A-1, A-3, A-5, A-6, A-8 was split from PRC 6/1996 and renumbered as PRC 38/1998, and section 82 CrPC proceedings were issued.
+
+On 21.2.2014, accused No.8 was produced before the court on execution of a PT Warrant. The case against the other accused involved in the offence was split from PRC 38/1998 and renumbered as PRC 8/2014. Hence, PRC 38/1998 shall run only against accused No.8.
+
+The Superintendent, Central Prison, Warangal is directed to produce the accused before the Hon'ble District Court, Adilabad on 20.3.2014.
+
+The case records, documents, and articles, if any, shall be submitted to the Court of Sessions, Adilabad forthwith under Section 209© CrPC.
+
+The factum of commitment shall be intimated to the Public Prosecutor under Section 209(d) CrPC.
+
+Section 302 IPC is exclusively triable by the Court of Sessions, Adilabad. Therefore, this case is committed",be7181826584f44957f92a73a2d43ade995a7d1af70846a529afeee2425df0aa,1042,450,23349,2026-10-05T14:28:36.910308+00:00,SUCCESS,,"LEGAL SUMMARY (EVIDENCE-CONSTRAINED):
+
+The case is coming on for final hearing before the Hon'ble District Court, Adilabad on 21.2.2014, in the presence of police, with the accused appearing in person. After perusing the case record, the court issued a Committal Order.
+
+The complaint was filed through the Circle Inspector of Police, Chennur.
+
+The court took cognizance of the case against the accused for offences under Section 147, 148, 302 read with 149 of the Indian Penal Code (IPC), and Section 25(1)(a), 27 of the Indian Evidence Act (IA Act), as per PRC 38 OF 1998.
+
+On 8.9.1998, the case against accused A-1, A-3, A-5, A-6, A-8 was split from PRC 6/1996 and renumbered as PRC 38/1998, and section 82 CrPC proceedings were issued.
+
+On 21.2.2014, accused No.8 was produced before the court on execution of a PT Warrant. The case against the other accused involved in the offence was split from PRC 38/1998 and renumbered as PRC 8/2014. Hence, PRC 38/1998 shall run only against accused No.8.
+
+The Superintendent, Central Prison, Warangal is directed to produce the accused before the Hon'ble District Court, Adilabad on 20.3.2014.
+
+The case records, documents, and articles, if any, shall be submitted to the Court of Sessions, Adilabad forthwith under Section 209© CrPC.
+
+The factum of commitment shall be intimated to the Public Prosecutor under Section 209(d) CrPC.
+
+Section 302 IPC is exclusively triable by the Court of Sessions, Adilabad. Therefore, this case is committed"
+REPAIRED_SUM_DC_000011_TA,DC_000011,ta,Tamil,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000011_P001_WIN005', 'EV_DC_000011_P001_WIN002', 'EV_DC_000011_P002_WIN010', 'EV_DC_000011_P002_WIN012', 'EV_DC_000011_P002_WIN017', 'EV_DC_000011_P002_WIN016', 'EV_DC_000011_P002_WIN013', 'EV_DC_000011_P002_WIN015']",d9500f71c08aa0e6e46395bf9f64cb2ef7955dea6e1b363aaeb222a11bc84f96,"[நிரூபிக்கப்பட்ட சான்றுகளுக்கு அடிப்படையாக அமைந்த தமிழ் நீதிமன்ற சுருக்கம்]
+
+இந்த வழக்கு முழுவதுமாக 21.2.2014 அன்று சிறுவயது நீதிமன்றத்தில் முடிவு கொண்டது. பொலிஸ் அதிகாரிகள் மற்றும் குற்றவாளிகள் அனைவரும் அந்த நீதிமன்றத்தில் காண்பிக்கப்பட்டனர். இது சான்றுகளின் அடிப்படையில் கீழ்க்காணும் விதிகளை மீறவில்லை.
+
+இந்த வழக்கு சான்றுகளின் அடிப்படையில் கீழ்க்காணும் விதிகளை மீறவில்லை:
+
+1. இந்த வழக்கு சான்றுகளின் அடிப்படையில் கீ",fccbe9a20e086fd2a4f202e477d51e7c450ca5313a36b585c299d1b57e61e751,1042,450,23638,2026-10-05T14:29:00.556142+00:00,SUCCESS,,"[நிரூபிக்கப்பட்ட சான்றுகளுக்கு அடிப்படையாக அமைந்த தமிழ் நீதிமன்ற சுருக்கம்]
+
+இந்த வழக்கு முழுவதுமாக 21.2.2014 அன்று சிறுவயது நீதிமன்றத்தில் முடிவு கொண்டது. பொலிஸ் அதிகாரிகள் மற்றும் குற்றவாளிகள் அனைவரும் அந்த நீதிமன்றத்தில் காண்பிக்கப்பட்டனர். இது சான்றுகளின் அடிப்படையில் கீழ்க்காணும் விதிகளை மீறவில்லை.
+
+இந்த வழக்கு சான்றுகளின் அடிப்படையில் கீழ்க்காணும் விதிகளை மீறவில்லை:
+
+1. இந்த வழக்கு சான்றுகளின் அடிப்படையில் கீ"
+REPAIRED_SUM_DC_000011_HI,DC_000011,hi,Hindi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000011_P001_WIN005', 'EV_DC_000011_P001_WIN002', 'EV_DC_000011_P002_WIN010', 'EV_DC_000011_P002_WIN012', 'EV_DC_000011_P002_WIN017', 'EV_DC_000011_P002_WIN016', 'EV_DC_000011_P002_WIN013', 'EV_DC_000011_P002_WIN015']",d9500f71c08aa0e6e46395bf9f64cb2ef7955dea6e1b363aaeb222a11bc84f96,"प्रमाण स्थापित करने योग्य विवरण के आधार पर निम्नलिखित आधारित न्यायिक सारांश तैयार किया गया है:
+
+इस मामले का अंतिम सुनवाई 21.2.2014 को मेरे द्वारा की गई थी, जिसमें पुलिस के सामने दलील देने वाले राज्य और आरोपी के उपस्थित होने के बाद, इस न्यायालय ने निम्नलिखित कमिटमेंट आदेश जारी किया:
+
+- इस मामले का आरोपी अधिकारी चेन्नूर के घर के चक्र निरीक्षक द्वारा दावा किया गया था।  
+- इस मामले की न्यायिक दृष्टि में इसका आधार अधिनियम 2 प्रकार 38 वर्ष 1998 के अनुच्छेद 147, 148, 302 (संयोजित अनुच्छेद",7a44ee9e779390166e21748c83327609e51cbd8edb656f8f6e3721a6adc66071,1042,450,23880,2026-10-05T14:29:24.454917+00:00,SUCCESS,,"प्रमाण स्थापित करने योग्य विवरण के आधार पर निम्नलिखित आधारित न्यायिक सारांश तैयार किया गया है:
+
+इस मामले का अंतिम सुनवाई 21.2.2014 को मेरे द्वारा की गई थी, जिसमें पुलिस के सामने दलील देने वाले राज्य और आरोपी के उपस्थित होने के बाद, इस न्यायालय ने निम्नलिखित कमिटमेंट आदेश जारी किया:
+
+- इस मामले का आरोपी अधिकारी चेन्नूर के घर के चक्र निरीक्षक द्वारा दावा किया गया था।  
+- इस मामले की न्यायिक दृष्टि में इसका आधार अधिनियम 2 प्रकार 38 वर्ष 1998 के अनुच्छेद 147, 148, 302 (संयोजित अनुच्छेद "
+REPAIRED_SUM_DC_000011_KN,DC_000011,kn,Kannada,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000011_P001_WIN005', 'EV_DC_000011_P001_WIN002', 'EV_DC_000011_P002_WIN010', 'EV_DC_000011_P002_WIN012', 'EV_DC_000011_P002_WIN017', 'EV_DC_000011_P002_WIN016', 'EV_DC_000011_P002_WIN013', 'EV_DC_000011_P002_WIN015']",d9500f71c08aa0e6e46395bf9f64cb2ef7955dea6e1b363aaeb222a11bc84f96,"[పుట 1 | విండో EV_DC_000011_P001_WIN005]: ఈ కేసు 21.2.2014 నాయిని నాకు చివరి స్థాయి విచారణకు వచ్చింది, పోలీసు సభ్యుల సమూహంలో స్టేట్ మరియు నియమిత వాది ప్రత్యక్షంగా ఉన్నారు. కేసు నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్",f512d020b3f19f941f084ff874fbec7c910a9fb94129c1d88baec0bc7de29b6c,1045,450,23710,2026-10-05T14:29:48.179600+00:00,SUCCESS,,"[పుట 1 | విండో EV_DC_000011_P001_WIN005]: ఈ కేసు 21.2.2014 నాయిని నాకు చివరి స్థాయి విచారణకు వచ్చింది, పోలీసు సభ్యుల సమూహంలో స్టేట్ మరియు నియమిత వాది ప్రత్యక్షంగా ఉన్నారు. కేసు నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్వహణ నిర్"
+REPAIRED_SUM_DC_000011_MR,DC_000011,mr,Marathi,qwen3-4b-instruct,qwen3:4b-instruct,condition_c_v1,condition_c,0.1,0.95,450,False,BM25,8,"['EV_DC_000011_P001_WIN005', 'EV_DC_000011_P001_WIN002', 'EV_DC_000011_P002_WIN010', 'EV_DC_000011_P002_WIN012', 'EV_DC_000011_P002_WIN017', 'EV_DC_000011_P002_WIN016', 'EV_DC_000011_P002_WIN013', 'EV_DC_000011_P002_WIN015']",d9500f71c08aa0e6e46395bf9f64cb2ef7955dea6e1b363aaeb222a11bc84f96,"प्रकरण अंतिम सुनवली यांच्या दिनांक 21.2.2014 रोजी यांच्या दिशेने आले आहे, ज्यात पोलिसांच्या उपस्थितीत स्टेट आणि आरोपीचा विशिष्ट उपस्थितीत आहे. या प्रकरणाची निष्पत्ती यांच्या दिशेने घेतली आहे.
+
+पोलिसांच्या विभागातील चिंगल इंस्पेक्टर, चेन्नूर द्वारे आरोपीचा आरोप दिला आहे.
+
+प्रकरणाची निष्पत्ती अधिकारी नियुक्तीच्या दिशेने घेतली आहे, ज्यात आरोपी यांच्यावर अधिकारी नियुक्तीच्या दिशेने आरोप देत आहे. या प्रकरणाची निष्पत्ती अधिकारी नियुक्तीच्या दिशेने घेतली आहे, ज्यात",427316e5e009b226faae3be783f70458e83c676664942610561ac02ba281c271,1045,450,23931,2026-10-05T14:30:12.128897+00:00,SUCCESS,,"प्रकरण अंतिम सुनवली यांच्या दिनांक 21.2.2014 रोजी यांच्या दिशेने आले आहे, ज्यात पोलिसांच्या उपस्थितीत स्टेट आणि आरोपीचा विशिष्ट उपस्थितीत आहे. या प्रकरणाची निष्पत्ती यांच्या दिशेने घेतली आहे.
+
+पोलिसांच्या विभागातील चिंगल इंस्पेक्टर, चेन्नूर द्वारे आरोपीचा आरोप दिला आहे.
+
+प्रकरणाची निष्पत्ती अधिकारी नियुक्तीच्या दिशेने घेतली आहे, ज्यात आरोपी यांच्यावर अधिकारी नियुक्तीच्या दिशेने आरोप देत आहे. या प्रकरणाची निष्पत्ती अधिकारी नियुक्तीच्या दिशेने घेतली आहे, ज्यात"

@@ -1,0 +1,268 @@
+{
+  "document_id": "DC_000024",
+  "source": {
+    "sha256": "6e5d881423f455de70b831bde8b99e6fd644eeece77a78cb635eb14d209dd603",
+    "filename": "orders_2009_201700000492010_1.pdf",
+    "source_record_id": "DC-S3-024_2_10_1020104_2010_orders_2009_201700000492010_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 2,
+    "file_size_bytes": 114496
+  },
+  "routing": {
+    "initial_route": "OCR_REQUIRED",
+    "fallback_used": false,
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER"
+  },
+  "extraction": {
+    "selected_method": "paddleocr",
+    "extractor_name": "RapidOCR-PP-OCRv4",
+    "extractor_version": "1.0.0",
+    "quality_score": 1.0
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1424,
+      "word_count": 216,
+      "raw_text": "IN THECOURTOF THE JUNIOR CIVIL JUDGEALUR. Present :Sri M.K.V.Achari,Junior Civil Judge,Alur. Wednesday,the1st day of November, 2017. O.S.No.49/2010 Between:. Chakell Nagaveni, aged about 46 years, W/oChakelli Eranna,Lusker,T.B.P., Bapuramvillage in Halaharvi mandalam in AlurTaluk in Kurnool District. ...Plaintiff And 1.Chakelll Eranna, aged about 5o years, S/o Late Chakell Shaikappa, Hindu, Lusker, T.B.P.,Bapuram village in Halaharvi mandal, Alur Taluk in Kurnool District. 2. Chakell. Shankaramma, aged about 35 years, D/o Chekell Laxmanna, w/o Chakell Eranna (D1), H.No. 4/120, Kosigl in Adoni taluk in Kurnool District. ...Defendants Suit for declaration of marriage of the 1s defendant with 2nd defendant performed on 1990 at Anjanalah Swamy temple at Adoni as illegal, void abinitio-in View of the subsistence of the first marriage of the plaintiff with defendant No,l and for costs ofthe suit. This suit coming on this day before me for final disposal in the presence of Sni Allah Bakash, Advocate for the plaintiff and of Sri B. Purushothama Reddy, Advocate for defendant No.1 and of Sri M.Siva Prasad, Advocate for defendant No.2 and counsel for the plaintiff filed a memo stating that the suit may be dismissed as not pressed without costs and this court delivered the following: JUDGMENT pressed without costs. Pronounced by me in the open court, this the ist day of November, 2017. Junior Civil Judge, 2Alur.."
+    },
+    {
+      "page_number": 2,
+      "character_count": 414,
+      "word_count": 47,
+      "raw_text": "APPENDIX OFEVIDENCE WITNESSES EXAMINED For Plaintiff : For Defendants: P.w-1:Chakali Nagaveni -None- EXHIBITSMARKED Eor plalntiff:  Ex.A-i: Wedding card of marriage between plaintiff and defendant No.1 -dated8-5-1981. Ex.A-2:Vivahpathrikagivenby pujari. Ex.A-3: Attested copy of ration card. Ex.A-4:Attested copyofidentitycard. Ex.A-5:Letteraddressed to the R.D.O., Aconi dated 6-4-2009. Junior Civil Judge, BAlur."
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1424,
+      "word_count": 216,
+      "normalized_text": "IN THECOURTOF THE JUNIOR CIVIL JUDGEALUR. Present :Sri M.K.V.Achari,Junior Civil Judge,Alur. Wednesday,the1st day of November, 2017. O.S.No.49/2010 Between:. Chakell Nagaveni, aged about 46 years, W/oChakelli Eranna,Lusker,T.B.P., Bapuramvillage in Halaharvi mandalam in AlurTaluk in Kurnool District. ...Plaintiff And 1.Chakelll Eranna, aged about 5o years, S/o Late Chakell Shaikappa, Hindu, Lusker, T.B.P.,Bapuram village in Halaharvi mandal, Alur Taluk in Kurnool District. 2. Chakell. Shankaramma, aged about 35 years, D/o Chekell Laxmanna, w/o Chakell Eranna (D1), H.No. 4/120, Kosigl in Adoni taluk in Kurnool District. ...Defendants Suit for declaration of marriage of the 1s defendant with 2nd defendant performed on 1990 at Anjanalah Swamy temple at Adoni as illegal, void abinitio-in View of the subsistence of the first marriage of the plaintiff with defendant No,l and for costs ofthe suit. This suit coming on this day before me for final disposal in the presence of Sni Allah Bakash, Advocate for the plaintiff and of Sri B. Purushothama Reddy, Advocate for defendant No.1 and of Sri M.Siva Prasad, Advocate for defendant No.2 and counsel for the plaintiff filed a memo stating that the suit may be dismissed as not pressed without costs and this court delivered the following: JUDGMENT pressed without costs. Pronounced by me in the open court, this the ist day of November, 2017. Junior Civil Judge, 2Alur.."
+    },
+    {
+      "page_number": 2,
+      "character_count": 413,
+      "word_count": 47,
+      "normalized_text": "APPENDIX OFEVIDENCE WITNESSES EXAMINED For Plaintiff : For Defendants: P.w-1:Chakali Nagaveni -None- EXHIBITSMARKED Eor plalntiff: Ex.A-i: Wedding card of marriage between plaintiff and defendant No.1 -dated8-5-1981. Ex.A-2:Vivahpathrikagivenby pujari. Ex.A-3: Attested copy of ration card. Ex.A-4:Attested copyofidentitycard. Ex.A-5:Letteraddressed to the R.D.O., Aconi dated 6-4-2009. Junior Civil Judge, BAlur."
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 2,
+    "total_sentences": 20,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 1424,
+        "word_count": 216,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000024_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 1424,
+            "word_count": 216,
+            "sentence_count": 14,
+            "text": "IN THECOURTOF THE JUNIOR CIVIL JUDGEALUR. Present :Sri M.K.V.Achari,Junior Civil Judge,Alur. Wednesday,the1st day of November, 2017. O.S.No.49/2010 Between:. Chakell Nagaveni, aged about 46 years, W/oChakelli Eranna,Lusker,T.B.P., Bapuramvillage in Halaharvi mandalam in AlurTaluk in Kurnool District. ...Plaintiff And 1.Chakelll Eranna, aged about 5o years, S/o Late Chakell Shaikappa, Hindu, Lusker, T.B.P.,Bapuram village in Halaharvi mandal, Alur Taluk in Kurnool District. 2. Chakell. Shankaramma, aged about 35 years, D/o Chekell Laxmanna, w/o Chakell Eranna (D1), H.No. 4/120, Kosigl in Adoni taluk in Kurnool District. ...Defendants Suit for declaration of marriage of the 1s defendant with 2nd defendant performed on 1990 at Anjanalah Swamy temple at Adoni as illegal, void abinitio-in View of the subsistence of the first marriage of the plaintiff with defendant No,l and for costs ofthe suit. This suit coming on this day before me for final disposal in the presence of Sni Allah Bakash, Advocate for the plaintiff and of Sri B. Purushothama Reddy, Advocate for defendant No.1 and of Sri M.Siva Prasad, Advocate for defendant No.2 and counsel for the plaintiff filed a memo stating that the suit may be dismissed as not pressed without costs and this court delivered the following: JUDGMENT pressed without costs. Pronounced by me in the open court, this the ist day of November, 2017. Junior Civil Judge, 2Alur..",
+            "sentences": [
+              {
+                "sentence_id": "DC_000024_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 41,
+                "word_count": 6,
+                "text": "IN THECOURTOF THE JUNIOR CIVIL JUDGEALUR."
+              },
+              {
+                "sentence_id": "DC_000024_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 50,
+                "word_count": 5,
+                "text": "Present :Sri M.K.V.Achari,Junior Civil Judge,Alur."
+              },
+              {
+                "sentence_id": "DC_000024_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 39,
+                "word_count": 5,
+                "text": "Wednesday,the1st day of November, 2017."
+              },
+              {
+                "sentence_id": "DC_000024_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 24,
+                "word_count": 2,
+                "text": "O.S.No.49/2010 Between:."
+              },
+              {
+                "sentence_id": "DC_000024_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 143,
+                "word_count": 17,
+                "text": "Chakell Nagaveni, aged about 46 years, W/oChakelli Eranna,Lusker,T.B.P., Bapuramvillage in Halaharvi mandalam in AlurTaluk in Kurnool District."
+              },
+              {
+                "sentence_id": "DC_000024_P001_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 175,
+                "word_count": 24,
+                "text": "...Plaintiff And 1.Chakelll Eranna, aged about 5o years, S/o Late Chakell Shaikappa, Hindu, Lusker, T.B.P.,Bapuram village in Halaharvi mandal, Alur Taluk in Kurnool District."
+              },
+              {
+                "sentence_id": "DC_000024_P001_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 2,
+                "word_count": 1,
+                "text": "2."
+              },
+              {
+                "sentence_id": "DC_000024_P001_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 8,
+                "word_count": 1,
+                "text": "Chakell."
+              },
+              {
+                "sentence_id": "DC_000024_P001_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 136,
+                "word_count": 21,
+                "text": "Shankaramma, aged about 35 years, D/o Chekell Laxmanna, w/o Chakell Eranna (D1), H.No. 4/120, Kosigl in Adoni taluk in Kurnool District."
+              },
+              {
+                "sentence_id": "DC_000024_P001_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 276,
+                "word_count": 45,
+                "text": "...Defendants Suit for declaration of marriage of the 1s defendant with 2nd defendant performed on 1990 at Anjanalah Swamy temple at Adoni as illegal, void abinitio-in View of the subsistence of the first marriage of the plaintiff with defendant No,l and for costs ofthe suit."
+              },
+              {
+                "sentence_id": "DC_000024_P001_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 135,
+                "word_count": 26,
+                "text": "This suit coming on this day before me for final disposal in the presence of Sni Allah Bakash, Advocate for the plaintiff and of Sri B."
+              },
+              {
+                "sentence_id": "DC_000024_P001_PAR001_SEN012",
+                "sentence_index": 12,
+                "character_count": 284,
+                "word_count": 45,
+                "text": "Purushothama Reddy, Advocate for defendant No.1 and of Sri M.Siva Prasad, Advocate for defendant No.2 and counsel for the plaintiff filed a memo stating that the suit may be dismissed as not pressed without costs and this court delivered the following: JUDGMENT pressed without costs."
+              },
+              {
+                "sentence_id": "DC_000024_P001_PAR001_SEN013",
+                "sentence_index": 13,
+                "character_count": 71,
+                "word_count": 14,
+                "text": "Pronounced by me in the open court, this the ist day of November, 2017."
+              },
+              {
+                "sentence_id": "DC_000024_P001_PAR001_SEN014",
+                "sentence_index": 14,
+                "character_count": 27,
+                "word_count": 4,
+                "text": "Junior Civil Judge, 2Alur.."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "character_count": 413,
+        "word_count": 47,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000024_P002_PAR001",
+            "paragraph_index": 1,
+            "character_count": 413,
+            "word_count": 47,
+            "sentence_count": 6,
+            "text": "APPENDIX OFEVIDENCE WITNESSES EXAMINED For Plaintiff : For Defendants: P.w-1:Chakali Nagaveni -None- EXHIBITSMARKED Eor plalntiff: Ex.A-i: Wedding card of marriage between plaintiff and defendant No.1 -dated8-5-1981. Ex.A-2:Vivahpathrikagivenby pujari. Ex.A-3: Attested copy of ration card. Ex.A-4:Attested copyofidentitycard. Ex.A-5:Letteraddressed to the R.D.O., Aconi dated 6-4-2009. Junior Civil Judge, BAlur.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000024_P002_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 216,
+                "word_count": 26,
+                "text": "APPENDIX OFEVIDENCE WITNESSES EXAMINED For Plaintiff : For Defendants: P.w-1:Chakali Nagaveni -None- EXHIBITSMARKED Eor plalntiff: Ex.A-i: Wedding card of marriage between plaintiff and defendant No.1 -dated8-5-1981."
+              },
+              {
+                "sentence_id": "DC_000024_P002_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 35,
+                "word_count": 2,
+                "text": "Ex.A-2:Vivahpathrikagivenby pujari."
+              },
+              {
+                "sentence_id": "DC_000024_P002_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 37,
+                "word_count": 6,
+                "text": "Ex.A-3: Attested copy of ration card."
+              },
+              {
+                "sentence_id": "DC_000024_P002_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 35,
+                "word_count": 2,
+                "text": "Ex.A-4:Attested copyofidentitycard."
+              },
+              {
+                "sentence_id": "DC_000024_P002_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 59,
+                "word_count": 7,
+                "text": "Ex.A-5:Letteraddressed to the R.D.O., Aconi dated 6-4-2009."
+              },
+              {
+                "sentence_id": "DC_000024_P002_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 26,
+                "word_count": 4,
+                "text": "Junior Civil Judge, BAlur."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 2,
+    "state_name": "Andhra Pradesh",
+    "district_code": 10,
+    "district_name": "Kurnool",
+    "court_complex_code": 1020104,
+    "court_complex_name": "Junior Civil Judge`s Court, Alur (Taluka)",
+    "year": 2010,
+    "case_type": "nan",
+    "case_number": "201700000492010",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260615095037Z00'00'",
+    "pdf_mod_date": "D:20260615095037Z00'00'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 1.0,
+    "quality_tier": "OCR_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "6e5d881423f455de70b831bde8b99e6fd644eeece77a78cb635eb14d209dd603",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.016429"
+  }
+}

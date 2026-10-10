@@ -1,0 +1,278 @@
+{
+  "document_id": "DC_000142",
+  "source": {
+    "sha256": "a9c5c48702c0890a9e496e148a7ad29709c4c3fc0c5b669b792aaefd4175e4f2",
+    "filename": "orders_2023_209900000472025_1.pdf",
+    "source_record_id": "DC-S3-142_36_13_1360016_2025_orders_2023_209900000472025_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 2,
+    "file_size_bytes": 78223
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.9956
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1046,
+      "word_count": 124,
+      "raw_text": "Issue No.                                                                                                                                                                                    Page 1 of 2 \nVisit ecourts.gov.in for updates or download mobile app “eCourts Services” from Android or iOS \nAssam Schedule VIII, Form No. 127  \n \n \n \n \n \n \n \nHigh Court Criminal Form No. (M) 106 \nORDER SHEET \nIN THE COURT OF THE CHIEF JUDICIAL MAGISTRATE, SEPPA, EAST KAMENG \nARUNACHAL PRADESH \nGR No. 47/2023 \n                                                  Seppa PS Case No. 34/2023 \n              State of AP -Vs- Mantu Gyadi & ors \n \n           U/S-409/420/120B/34 IPC \nDate \nOrder \nSignature \n \n21.03.2025 \n \n \nCase record put up with FR submitted by the IO of the \ncase. \n \nSeen that the IO has submitted the FR as the case is civil in \nnature. \n \nNext date is fixed on 08.05.2025 for filing of protest \npetition. \n \nIssue notice to the informant to file protest petition, if any. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n(Habung Tangu) \nCJM, Seppa"
+    },
+    {
+      "page_number": 2,
+      "character_count": 296,
+      "word_count": 20,
+      "raw_text": "Issue No.                                                                                                                                                                                    Page 2 of 2 \nVisit ecourts.gov.in for updates or download mobile app “eCourts Services” from Android or iOS"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 711,
+      "word_count": 124,
+      "normalized_text": "Issue No. Page 1 of 2\nVisit ecourts.gov.in for updates or download mobile app \"eCourts Services\" from Android or iOS\nAssam Schedule VIII, Form No. 127\n\nHigh Court Criminal Form No. (M) 106\nORDER SHEET\nIN THE COURT OF THE CHIEF JUDICIAL MAGISTRATE, SEPPA, EAST KAMENG\nARUNACHAL PRADESH\nGR No. 47/2023\n Seppa PS Case No. 34/2023\n State of AP -Vs- Mantu Gyadi & ors\n\n U/S-409/420/120B/34 IPC\nDate\nOrder\nSignature\n\n21.03.2025\n\nCase record put up with FR submitted by the IO of the\ncase.\n\nSeen that the IO has submitted the FR as the case is civil in\nnature.\n\nNext date is fixed on 08.05.2025 for filing of protest\npetition.\n\nIssue notice to the informant to file protest petition, if any.\n\n(Habung Tangu)\nCJM, Seppa"
+    },
+    {
+      "page_number": 2,
+      "character_count": 116,
+      "word_count": 20,
+      "normalized_text": "Issue No. Page 2 of 2\nVisit ecourts.gov.in for updates or download mobile app \"eCourts Services\" from Android or iOS"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 10,
+    "total_sentences": 10,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 711,
+        "word_count": 124,
+        "paragraph_count": 9,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000142_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 150,
+            "word_count": 26,
+            "sentence_count": 1,
+            "text": "Issue No. Page 1 of 2\nVisit ecourts.gov.in for updates or download mobile app \"eCourts Services\" from Android or iOS\nAssam Schedule VIII, Form No. 127",
+            "sentences": [
+              {
+                "sentence_id": "DC_000142_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 150,
+                "word_count": 26,
+                "text": "Issue No. Page 1 of 2\nVisit ecourts.gov.in for updates or download mobile app \"eCourts Services\" from Android or iOS\nAssam Schedule VIII, Form No. 127"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000142_P001_PAR002",
+            "paragraph_index": 2,
+            "character_count": 210,
+            "word_count": 38,
+            "sentence_count": 1,
+            "text": "High Court Criminal Form No. (M) 106\nORDER SHEET\nIN THE COURT OF THE CHIEF JUDICIAL MAGISTRATE, SEPPA, EAST KAMENG\nARUNACHAL PRADESH\nGR No. 47/2023\n Seppa PS Case No. 34/2023\n State of AP -Vs- Mantu Gyadi & ors",
+            "sentences": [
+              {
+                "sentence_id": "DC_000142_P001_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 210,
+                "word_count": 38,
+                "text": "High Court Criminal Form No. (M) 106\nORDER SHEET\nIN THE COURT OF THE CHIEF JUDICIAL MAGISTRATE, SEPPA, EAST KAMENG\nARUNACHAL PRADESH\nGR No. 47/2023\n Seppa PS Case No. 34/2023\n State of AP -Vs- Mantu Gyadi & ors"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000142_P001_PAR003",
+            "paragraph_index": 3,
+            "character_count": 44,
+            "word_count": 5,
+            "sentence_count": 1,
+            "text": "U/S-409/420/120B/34 IPC\nDate\nOrder\nSignature",
+            "sentences": [
+              {
+                "sentence_id": "DC_000142_P001_PAR003_SEN001",
+                "sentence_index": 1,
+                "character_count": 44,
+                "word_count": 5,
+                "text": "U/S-409/420/120B/34 IPC\nDate\nOrder\nSignature"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000142_P001_PAR004",
+            "paragraph_index": 4,
+            "character_count": 10,
+            "word_count": 1,
+            "sentence_count": 1,
+            "text": "21.03.2025",
+            "sentences": [
+              {
+                "sentence_id": "DC_000142_P001_PAR004_SEN001",
+                "sentence_index": 1,
+                "character_count": 10,
+                "word_count": 1,
+                "text": "21.03.2025"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000142_P001_PAR005",
+            "paragraph_index": 5,
+            "character_count": 59,
+            "word_count": 13,
+            "sentence_count": 1,
+            "text": "Case record put up with FR submitted by the IO of the\ncase.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000142_P001_PAR005_SEN001",
+                "sentence_index": 1,
+                "character_count": 59,
+                "word_count": 13,
+                "text": "Case record put up with FR submitted by the IO of the\ncase."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000142_P001_PAR006",
+            "paragraph_index": 6,
+            "character_count": 69,
+            "word_count": 15,
+            "sentence_count": 1,
+            "text": "Seen that the IO has submitted the FR as the case is civil in\nnature.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000142_P001_PAR006_SEN001",
+                "sentence_index": 1,
+                "character_count": 69,
+                "word_count": 15,
+                "text": "Seen that the IO has submitted the FR as the case is civil in\nnature."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000142_P001_PAR007",
+            "paragraph_index": 7,
+            "character_count": 64,
+            "word_count": 11,
+            "sentence_count": 1,
+            "text": "Next date is fixed on 08.05.2025 for filing of protest\npetition.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000142_P001_PAR007_SEN001",
+                "sentence_index": 1,
+                "character_count": 64,
+                "word_count": 11,
+                "text": "Next date is fixed on 08.05.2025 for filing of protest\npetition."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000142_P001_PAR008",
+            "paragraph_index": 8,
+            "character_count": 63,
+            "word_count": 11,
+            "sentence_count": 1,
+            "text": "Issue notice to the informant to file protest petition, if any.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000142_P001_PAR008_SEN001",
+                "sentence_index": 1,
+                "character_count": 63,
+                "word_count": 11,
+                "text": "Issue notice to the informant to file protest petition, if any."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000142_P001_PAR009",
+            "paragraph_index": 9,
+            "character_count": 25,
+            "word_count": 4,
+            "sentence_count": 1,
+            "text": "(Habung Tangu)\nCJM, Seppa",
+            "sentences": [
+              {
+                "sentence_id": "DC_000142_P001_PAR009_SEN001",
+                "sentence_index": 1,
+                "character_count": 25,
+                "word_count": 4,
+                "text": "(Habung Tangu)\nCJM, Seppa"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "character_count": 116,
+        "word_count": 20,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000142_P002_PAR001",
+            "paragraph_index": 1,
+            "character_count": 116,
+            "word_count": 20,
+            "sentence_count": 1,
+            "text": "Issue No. Page 2 of 2\nVisit ecourts.gov.in for updates or download mobile app \"eCourts Services\" from Android or iOS",
+            "sentences": [
+              {
+                "sentence_id": "DC_000142_P002_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 116,
+                "word_count": 20,
+                "text": "Issue No. Page 2 of 2\nVisit ecourts.gov.in for updates or download mobile app \"eCourts Services\" from Android or iOS"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 36,
+    "state_name": "Arunachal Pradesh",
+    "district_code": 13,
+    "district_name": "East Kameng",
+    "court_complex_code": 1360016,
+    "court_complex_name": "CJM-cum-Civil Court, Seppa",
+    "year": 2025,
+    "case_type": "nan",
+    "case_number": "209900000472025",
+    "pdf_title": "",
+    "pdf_author": "CJM SEPPA",
+    "pdf_creator": "Microsoft® Word LTSC",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260328084255+05'30'",
+    "pdf_mod_date": "D:20260328084255+05'30'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.9956,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "a9c5c48702c0890a9e496e148a7ad29709c4c3fc0c5b669b792aaefd4175e4f2",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.505655"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "frozen_gold_facts": {
+    "path": "phase6_multilingual_architecture/inputs/frozen_gold_facts.parquet",
+    "sha256": "e41e9880baf54fa385be5d095584669aa36d861c27c4805b049f551ea0a09ac9",
+    "rows": 85,
+    "docs": 9
+  },
+  "frozen_evidence_manifest": {
+    "path": "phase6_multilingual_architecture/inputs/frozen_evidence_manifest.parquet",
+    "sha256": "a6ded9f093ae56ae23e0cb6c9d99e6eb895820a855a5760bb5a69eabf1dc9b9c",
+    "rows": 66,
+    "docs": 9
+  },
+  "frozen_benchmark_manifest": {
+    "path": "phase6_multilingual_architecture/inputs/frozen_benchmark_manifest.parquet",
+    "sha256": "38f2fa1b24894084caf63a65987689ab5d2d6c62ab7981b8680cdb1bda520af7",
+    "rows": 9,
+    "docs": 9
+  }
+}

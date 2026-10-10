@@ -1,0 +1,26 @@
+system,system_name,language,overall_preservation,critical_preservation,critical_omission,disposition_preservation,statutory_preservation,outcome_preservation,contradiction_rate,translation_fidelity,eval_units
+system_a_english,English Control,en,72.94,81.58,18.42,66.67,0.0,66.67,0.0,100.0,85
+system_a_english,English Control,hi,0.0,0.0,100.0,0.0,0.0,0.0,0.0,27.06,85
+system_a_english,English Control,kn,0.0,0.0,100.0,0.0,0.0,0.0,0.0,27.06,85
+system_a_english,English Control,mr,0.0,0.0,100.0,0.0,0.0,0.0,0.0,27.06,85
+system_a_english,English Control,ta,0.0,0.0,100.0,0.0,0.0,0.0,0.0,27.06,85
+system_b_direct_indic,Direct Indic Control,en,72.94,81.58,18.42,66.67,0.0,66.67,0.0,100.0,85
+system_b_direct_indic,Direct Indic Control,hi,10.59,18.42,81.58,0.0,0.0,0.0,0.0,37.65,85
+system_b_direct_indic,Direct Indic Control,kn,2.35,2.63,97.37,0.0,0.0,0.0,0.0,29.41,85
+system_b_direct_indic,Direct Indic Control,mr,4.71,5.26,94.74,0.0,0.0,0.0,0.0,31.76,85
+system_b_direct_indic,Direct Indic Control,ta,3.53,2.63,97.37,0.0,0.0,0.0,0.0,30.59,85
+system_c_indictrans2,English -> IndicTrans2 Raw,en,72.94,81.58,18.42,66.67,0.0,66.67,0.0,100.0,85
+system_c_indictrans2,English -> IndicTrans2 Raw,hi,9.41,21.05,78.95,0.0,0.0,0.0,0.0,36.47,85
+system_c_indictrans2,English -> IndicTrans2 Raw,kn,9.41,21.05,78.95,0.0,0.0,0.0,0.0,36.47,85
+system_c_indictrans2,English -> IndicTrans2 Raw,mr,9.41,21.05,78.95,0.0,0.0,0.0,0.0,36.47,85
+system_c_indictrans2,English -> IndicTrans2 Raw,ta,9.41,21.05,78.95,0.0,0.0,0.0,0.0,36.47,85
+system_d_legal_aware,Legal-Aware Translation,en,72.94,81.58,18.42,66.67,0.0,66.67,0.0,100.0,85
+system_d_legal_aware,Legal-Aware Translation,hi,12.94,26.32,73.68,33.33,0.0,16.67,0.0,40.0,85
+system_d_legal_aware,Legal-Aware Translation,kn,12.94,26.32,73.68,33.33,0.0,16.67,0.0,40.0,85
+system_d_legal_aware,Legal-Aware Translation,mr,12.94,26.32,73.68,33.33,0.0,16.67,0.0,40.0,85
+system_d_legal_aware,Legal-Aware Translation,ta,12.94,26.32,73.68,33.33,0.0,16.67,0.0,40.0,85
+system_e_verified,Legal-Aware + Verification,en,72.94,81.58,18.42,66.67,0.0,66.67,0.0,100.0,85
+system_e_verified,Legal-Aware + Verification,hi,12.94,26.32,73.68,33.33,0.0,16.67,0.0,40.0,85
+system_e_verified,Legal-Aware + Verification,kn,12.94,26.32,73.68,33.33,0.0,16.67,0.0,40.0,85
+system_e_verified,Legal-Aware + Verification,mr,12.94,26.32,73.68,33.33,0.0,16.67,0.0,40.0,85
+system_e_verified,Legal-Aware + Verification,ta,12.94,26.32,73.68,33.33,0.0,16.67,0.0,40.0,85

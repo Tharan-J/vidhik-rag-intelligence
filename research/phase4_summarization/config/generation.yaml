@@ -1,0 +1,16 @@
+# Phase 4 Generation Hyperparameters
+generation:
+  temperature: 0.1
+  top_p: 0.95
+  max_tokens: 450
+  frequency_penalty: 0.0
+  presence_penalty: 0.0
+  seed: 42
+  stream: false
+
+inference_engine:
+  provider: "ollama"
+  base_url: "http://localhost:11434"
+  timeout_seconds: 45
+  max_retries: 3
+  retry_delay: 2.0

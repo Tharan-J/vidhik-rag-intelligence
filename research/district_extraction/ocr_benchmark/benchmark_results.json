@@ -1,0 +1,505 @@
+{
+  "benchmark_sample_size": 15,
+  "paddleocr": {
+    "mean_quality_score": 0.7246,
+    "mean_legal_entities_found": 9.47,
+    "mean_legal_entity_preservation": 0.9089,
+    "mean_duration_seconds": 0.05,
+    "wins_count": 12
+  },
+  "tesseract": {
+    "mean_quality_score": 0.7119,
+    "mean_legal_entities_found": 8.53,
+    "mean_legal_entity_preservation": 0.84,
+    "mean_duration_seconds": 0.05,
+    "wins_count": 3
+  },
+  "selected_primary_engine": "paddleocr",
+  "detailed_results": [
+    {
+      "document_id": "DC_000019",
+      "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+      "page_count": 1,
+      "native_words": 0,
+      "tesseract": {
+        "character_count": 860,
+        "word_count": 182,
+        "legal_entities_found": 7,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 0.928,
+        "duration_seconds": 0.05
+      },
+      "paddleocr": {
+        "character_count": 504,
+        "word_count": 72,
+        "legal_entities_found": 8,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 0.786,
+        "duration_seconds": 0.05
+      },
+      "preferred_engine": "tesseract"
+    },
+    {
+      "document_id": "DC_000020",
+      "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+      "page_count": 1,
+      "native_words": 0,
+      "tesseract": {
+        "character_count": 1721,
+        "word_count": 291,
+        "legal_entities_found": 15,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 1.0,
+        "duration_seconds": 0.05
+      },
+      "paddleocr": {
+        "character_count": 1635,
+        "word_count": 228,
+        "legal_entities_found": 17,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 1.0,
+        "duration_seconds": 0.05
+      },
+      "preferred_engine": "paddleocr"
+    },
+    {
+      "document_id": "DC_000021",
+      "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+      "page_count": 1,
+      "native_words": 0,
+      "tesseract": {
+        "character_count": 1721,
+        "word_count": 291,
+        "legal_entities_found": 15,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 1.0,
+        "duration_seconds": 0.05
+      },
+      "paddleocr": {
+        "character_count": 1635,
+        "word_count": 228,
+        "legal_entities_found": 17,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 1.0,
+        "duration_seconds": 0.05
+      },
+      "preferred_engine": "paddleocr"
+    },
+    {
+      "document_id": "DC_000022",
+      "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+      "page_count": 1,
+      "native_words": 0,
+      "tesseract": {
+        "character_count": 60,
+        "word_count": 12,
+        "legal_entities_found": 0,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 0.0
+        },
+        "quality_score": 0.037,
+        "duration_seconds": 0.05
+      },
+      "paddleocr": {
+        "character_count": 59,
+        "word_count": 12,
+        "legal_entities_found": 2,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 0.4
+        },
+        "quality_score": 0.137,
+        "duration_seconds": 0.05
+      },
+      "preferred_engine": "paddleocr"
+    },
+    {
+      "document_id": "DC_000023",
+      "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+      "page_count": 1,
+      "native_words": 0,
+      "tesseract": {
+        "character_count": 200,
+        "word_count": 53,
+        "legal_entities_found": 0,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 0.0
+        },
+        "quality_score": 0.116,
+        "duration_seconds": 0.05
+      },
+      "paddleocr": {
+        "character_count": 89,
+        "word_count": 15,
+        "legal_entities_found": 4,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 0.8
+        },
+        "quality_score": 0.264,
+        "duration_seconds": 0.05
+      },
+      "preferred_engine": "paddleocr"
+    },
+    {
+      "document_id": "DC_000055",
+      "route_reason": "BORDERLINE_LOW_WORD_COUNT_POSSIBLE_SHORT_ORDER",
+      "page_count": 2,
+      "native_words": 20,
+      "tesseract": {
+        "character_count": 172,
+        "word_count": 28,
+        "legal_entities_found": 3,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 0.6
+        },
+        "quality_score": 0.262,
+        "duration_seconds": 0.05
+      },
+      "paddleocr": {
+        "character_count": 163,
+        "word_count": 28,
+        "legal_entities_found": 3,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 0.6
+        },
+        "quality_score": 0.262,
+        "duration_seconds": 0.05
+      },
+      "preferred_engine": "paddleocr"
+    },
+    {
+      "document_id": "DC_000060",
+      "route_reason": "BORDERLINE_LOW_WORD_COUNT_POSSIBLE_SHORT_ORDER",
+      "page_count": 1,
+      "native_words": 24,
+      "tesseract": {
+        "character_count": 202,
+        "word_count": 28,
+        "legal_entities_found": 5,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 0.382,
+        "duration_seconds": 0.05
+      },
+      "paddleocr": {
+        "character_count": 178,
+        "word_count": 28,
+        "legal_entities_found": 5,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 0.382,
+        "duration_seconds": 0.05
+      },
+      "preferred_engine": "paddleocr"
+    },
+    {
+      "document_id": "DC_000063",
+      "route_reason": "BORDERLINE_LOW_WORD_COUNT_POSSIBLE_SHORT_ORDER",
+      "page_count": 1,
+      "native_words": 27,
+      "tesseract": {
+        "character_count": 225,
+        "word_count": 31,
+        "legal_entities_found": 6,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "case_numbers": 1.0,
+          "dates": 1.0,
+          "statutes": 1.0,
+          "dispositions": 1.0,
+          "amounts": 1.0,
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 1.0,
+        "duration_seconds": 0.05
+      },
+      "paddleocr": {
+        "character_count": 192,
+        "word_count": 31,
+        "legal_entities_found": 6,
+        "cer": 0.1116,
+        "wer": 0.0323,
+        "legal_entity_preservation": {
+          "case_numbers": 1.0,
+          "dates": 1.0,
+          "statutes": 1.0,
+          "dispositions": 1.0,
+          "amounts": 1.0,
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 0.9529,
+        "duration_seconds": 0.05
+      },
+      "preferred_engine": "tesseract"
+    },
+    {
+      "document_id": "DC_000069",
+      "route_reason": "BORDERLINE_LOW_WORD_COUNT_POSSIBLE_SHORT_ORDER",
+      "page_count": 1,
+      "native_words": 22,
+      "tesseract": {
+        "character_count": 211,
+        "word_count": 26,
+        "legal_entities_found": 6,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 0.397,
+        "duration_seconds": 0.05
+      },
+      "paddleocr": {
+        "character_count": 140,
+        "word_count": 24,
+        "legal_entities_found": 6,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 0.397,
+        "duration_seconds": 0.05
+      },
+      "preferred_engine": "paddleocr"
+    },
+    {
+      "document_id": "DC_000073",
+      "route_reason": "MODERATE_SYMBOL_NOISE",
+      "page_count": 1,
+      "native_words": 535,
+      "tesseract": {
+        "character_count": 3678,
+        "word_count": 539,
+        "legal_entities_found": 14,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "case_numbers": 1.0,
+          "dates": 1.0,
+          "statutes": 1.0,
+          "dispositions": 1.0,
+          "amounts": 1.0,
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 1.0,
+        "duration_seconds": 0.05
+      },
+      "paddleocr": {
+        "character_count": 3257,
+        "word_count": 535,
+        "legal_entities_found": 14,
+        "cer": 0.1409,
+        "wer": 0.0111,
+        "legal_entity_preservation": {
+          "case_numbers": 1.0,
+          "dates": 1.0,
+          "statutes": 0.67,
+          "dispositions": 1.0,
+          "amounts": 0.5,
+          "overall_preservation_score": 0.834
+        },
+        "quality_score": 0.8815,
+        "duration_seconds": 0.05
+      },
+      "preferred_engine": "tesseract"
+    },
+    {
+      "document_id": "DC_000074",
+      "route_reason": "MODERATE_SYMBOL_NOISE",
+      "page_count": 1,
+      "native_words": 413,
+      "tesseract": {
+        "character_count": 2962,
+        "word_count": 417,
+        "legal_entities_found": 15,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 1.0,
+        "duration_seconds": 0.05
+      },
+      "paddleocr": {
+        "character_count": 2519,
+        "word_count": 400,
+        "legal_entities_found": 15,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 1.0,
+        "duration_seconds": 0.05
+      },
+      "preferred_engine": "paddleocr"
+    },
+    {
+      "document_id": "DC_000077",
+      "route_reason": "MODERATE_SYMBOL_NOISE",
+      "page_count": 1,
+      "native_words": 405,
+      "tesseract": {
+        "character_count": 2938,
+        "word_count": 409,
+        "legal_entities_found": 11,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 1.0,
+        "duration_seconds": 0.05
+      },
+      "paddleocr": {
+        "character_count": 2525,
+        "word_count": 400,
+        "legal_entities_found": 11,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 1.0,
+        "duration_seconds": 0.05
+      },
+      "preferred_engine": "paddleocr"
+    },
+    {
+      "document_id": "DC_000082",
+      "route_reason": "MODERATE_SYMBOL_NOISE",
+      "page_count": 1,
+      "native_words": 408,
+      "tesseract": {
+        "character_count": 2895,
+        "word_count": 412,
+        "legal_entities_found": 12,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 1.0,
+        "duration_seconds": 0.05
+      },
+      "paddleocr": {
+        "character_count": 2501,
+        "word_count": 410,
+        "legal_entities_found": 12,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 1.0,
+        "duration_seconds": 0.05
+      },
+      "preferred_engine": "paddleocr"
+    },
+    {
+      "document_id": "DC_000024",
+      "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+      "page_count": 2,
+      "native_words": 0,
+      "tesseract": {
+        "character_count": 2089,
+        "word_count": 366,
+        "legal_entities_found": 12,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 1.0,
+        "duration_seconds": 0.05
+      },
+      "paddleocr": {
+        "character_count": 1870,
+        "word_count": 271,
+        "legal_entities_found": 12,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 1.0,
+        "duration_seconds": 0.05
+      },
+      "preferred_engine": "paddleocr"
+    },
+    {
+      "document_id": "DC_000038",
+      "route_reason": "EXCESSIVE_SYMBOL_DENSITY_GARBAGE",
+      "page_count": 3,
+      "native_words": 206,
+      "tesseract": {
+        "character_count": 2939,
+        "word_count": 291,
+        "legal_entities_found": 7,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 0.557,
+        "duration_seconds": 0.05
+      },
+      "paddleocr": {
+        "character_count": 456,
+        "word_count": 77,
+        "legal_entities_found": 10,
+        "cer": 0.0,
+        "wer": 0.0,
+        "legal_entity_preservation": {
+          "overall_preservation_score": 1.0
+        },
+        "quality_score": 0.807,
+        "duration_seconds": 0.05
+      },
+      "preferred_engine": "paddleocr"
+    }
+  ]
+}

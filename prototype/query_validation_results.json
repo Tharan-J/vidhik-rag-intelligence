@@ -1,0 +1,58 @@
+[
+  {
+    "id": "Query A (Direct)",
+    "query": "What is the limitation period for filing an appeal?",
+    "status": 200,
+    "elapsed": 75.42,
+    "backend_elapsed": 75.37158727645874,
+    "confidence": "supported",
+    "claims_count": 4,
+    "evidence_count": 3,
+    "retrieval_count": 20,
+    "answer_snippet": "The limitation period for filing an appeal depends on the nature of the appeal and the applicable law. Under the Code of Civil Procedure, 1908, Articl",
+    "limitations": "Response completed; trailing metadata safely recovered.",
+    "success": true
+  },
+  {
+    "id": "Query B (Conceptual)",
+    "query": "What are the essential elements required to establish negligence?",
+    "status": 200,
+    "elapsed": 75.61,
+    "backend_elapsed": 74.13210678100586,
+    "confidence": "partially_supported",
+    "claims_count": 0,
+    "evidence_count": 4,
+    "retrieval_count": 20,
+    "answer_snippet": "To establish negligence under Indian law, the essential elements required are: (1) the existence of a legal duty of care; (2) a breach of that duty th",
+    "limitations": "",
+    "success": true
+  },
+  {
+    "id": "Query C (Procedural)",
+    "query": "What factors are considered when deciding whether delay should be condoned?",
+    "status": 200,
+    "elapsed": 61.81,
+    "backend_elapsed": 59.944554567337036,
+    "confidence": "supported",
+    "claims_count": 5,
+    "evidence_count": 4,
+    "retrieval_count": 20,
+    "answer_snippet": "When deciding whether delay should be condoned, courts consider several key factors. First, the length of the delay is a significant factor, as it dir",
+    "limitations": "The evidence does not provide a comprehensive statutory framework or a uniform list of factors from a legislative source. The analysis is derived from judicial reasoning in specific cases and does not cover all possible scenarios or jurisdictions. Additionally, the evidence does not address how these factors interact in a holistic manner or whether any specific weight is assigned to each factor.",
+    "success": true
+  },
+  {
+    "id": "Query D (Evidence-sensitive)",
+    "query": "What are the statutory regulations governing deep sea asteroid mining under Indian maritime law?",
+    "status": 200,
+    "elapsed": 57.08,
+    "backend_elapsed": 55.41894316673279,
+    "confidence": "partially_supported",
+    "claims_count": 3,
+    "evidence_count": 4,
+    "retrieval_count": 20,
+    "answer_snippet": "The provided legal evidence does not contain any statutory regulations governing deep sea asteroid mining under Indian maritime law. Indian maritime l",
+    "limitations": "The evidence provided is entirely focused on terrestrial mineral concessions and does not address deep sea or extraterrestrial activities. There is no mention of asteroid mining, space law, or any statutory provisions related to deep sea or outer space resources. The absence of any reference to international space law or celestial bodies renders it impossible to infer the existence of Indian statutory regulations on deep sea asteroid mining.",
+    "success": true
+  }
+]

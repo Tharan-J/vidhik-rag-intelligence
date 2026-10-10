@@ -1,0 +1,133 @@
+{
+  "document_id": "DC_000091",
+  "source": {
+    "sha256": "34045e07ee00d11f983590d23a00c43e771ae0829fd69cafac7d9ead1bc84045",
+    "filename": "orders_2025_206100000122025_1.pdf",
+    "source_record_id": "DC-S3-091_22_2_1220010_2025_orders_2025_206100000122025_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 29511
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.8331
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 411,
+      "word_count": 64,
+      "raw_text": "CNR No:PBJL010166452018 CASE No:NDPS-1569-2018\nSTATE OF PUNJAB Vs IMRAN ALAM ALIAS IMRAN\nPresent: \nSh. Harnoor Singh, Addl.PP for the State\nIn pursuance to order dated 30.04.2025 passed by this Court,\nfine paid by surety Tarija of accused Imma Alam. Receipt issued. Papers\nbe disposed of and consigned to record room. \nDate of Order: 02.05.2025\nManmohan*\n(Parminder Singh Rai)\nJSC-IV,\nJalandhar\nUID No . PB00175"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 409,
+      "word_count": 64,
+      "normalized_text": "CNR No:PBJL010166452018 CASE No:NDPS-1569-2018\nSTATE OF PUNJAB Vs IMRAN ALAM ALIAS IMRAN\nPresent:\nSh. Harnoor Singh, Addl.PP for the State\nIn pursuance to order dated 30.04.2025 passed by this Court,\nfine paid by surety Tarija of accused Imma Alam. Receipt issued. Papers\nbe disposed of and consigned to record room.\nDate of Order: 02.05.2025\nManmohan*\n(Parminder Singh Rai)\nJSC-IV,\nJalandhar\nUID No . PB00175"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 1,
+    "total_sentences": 5,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 409,
+        "word_count": 64,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000091_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 409,
+            "word_count": 64,
+            "sentence_count": 5,
+            "text": "CNR No:PBJL010166452018 CASE No:NDPS-1569-2018\nSTATE OF PUNJAB Vs IMRAN ALAM ALIAS IMRAN\nPresent:\nSh. Harnoor Singh, Addl.PP for the State\nIn pursuance to order dated 30.04.2025 passed by this Court,\nfine paid by surety Tarija of accused Imma Alam. Receipt issued. Papers\nbe disposed of and consigned to record room.\nDate of Order: 02.05.2025\nManmohan*\n(Parminder Singh Rai)\nJSC-IV,\nJalandhar\nUID No . PB00175",
+            "sentences": [
+              {
+                "sentence_id": "DC_000091_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 248,
+                "word_count": 39,
+                "text": "CNR No:PBJL010166452018 CASE No:NDPS-1569-2018\nSTATE OF PUNJAB Vs IMRAN ALAM ALIAS IMRAN\nPresent:\nSh. Harnoor Singh, Addl.PP for the State\nIn pursuance to order dated 30.04.2025 passed by this Court,\nfine paid by surety Tarija of accused Imma Alam."
+              },
+              {
+                "sentence_id": "DC_000091_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 15,
+                "word_count": 2,
+                "text": "Receipt issued."
+              },
+              {
+                "sentence_id": "DC_000091_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 51,
+                "word_count": 9,
+                "text": "Papers\nbe disposed of and consigned to record room."
+              },
+              {
+                "sentence_id": "DC_000091_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 84,
+                "word_count": 13,
+                "text": "Date of Order: 02.05.2025\nManmohan*\n(Parminder Singh Rai)\nJSC-IV,\nJalandhar\nUID No ."
+              },
+              {
+                "sentence_id": "DC_000091_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 7,
+                "word_count": 1,
+                "text": "PB00175"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 22,
+    "state_name": "Punjab",
+    "district_code": 2,
+    "district_name": "Jalandhar",
+    "court_complex_code": 1220010,
+    "court_complex_name": "District Court, Jalandhar",
+    "year": 2025,
+    "case_type": "nan",
+    "case_number": "206100000122025",
+    "pdf_title": "Orders and Judgment Report ",
+    "pdf_author": "",
+    "pdf_creator": "Writer",
+    "pdf_producer": "LibreOffice 6.4",
+    "pdf_creation_date": "D:20250506100649+05'30'",
+    "pdf_mod_date": ""
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.8331,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "34045e07ee00d11f983590d23a00c43e771ae0829fd69cafac7d9ead1bc84045",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.368205"
+  }
+}

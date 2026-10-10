@@ -1,0 +1,6 @@
+language,documents,gold_facts,critical_facts,supported,partial,omitted,contradicted,critical_preservation,critical_omission,overall_preservation,disposition_preservation,statutory_preservation,legal_outcome_preservation
+en,9,85,38,70,7,8,0,0.8158,0.1053,0.8235,0.3333,1.0,0.7391
+hi,9,85,38,15,6,64,0,0.2368,0.7105,0.1765,0.3333,0.3333,0.1304
+kn,9,85,38,1,4,80,0,0.0263,0.9474,0.0118,0.0,0.0,0.0
+mr,9,85,38,5,4,76,0,0.0526,0.9211,0.0588,0.0,0.0,0.0
+ta,9,85,38,3,4,78,0,0.0263,0.9474,0.0353,0.0,0.0,0.0435

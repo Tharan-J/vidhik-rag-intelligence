@@ -1,0 +1,242 @@
+{
+  "document_id": "DC_000001",
+  "source": {
+    "sha256": "49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad",
+    "filename": "orders_1994_202100001791998_1.pdf",
+    "source_record_id": "DC-S3-001_29_22_1290176_1998_orders_1994_202100001791998_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 43877
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.8986
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 699,
+      "word_count": 97,
+      "raw_text": "IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR\nPresent:  Sri Uday Bhaskar Rao\n Junior Civil Judge,\n   Chennur. \nCC. \n \n No. \n \n 179\n \n  of 1998\n \n \nBetween:-\nThe State of Telangana through the \nSub-Inspector of police, Srirampur\n                    … Complainant\nAND  \nBodduna Rajamallu \n                  \n         \n \n...Accused\nDOCKET ORDER\nThis case is suo-moto advanced to this day.  As per the directions of Hon’ble\nPrl. District and Sessions Judge, Adilabad vide Proc.Dis.No.5555/2017/Admn,\ndated.3.8.2017 this case is transferred to I Addl.JFCM, Mancherial.\n \n  Given under my hand and  the seal of this court, on this the 8th day of\nAugust, 2017.\n     Sd/-\n     Junior Civil Judge\nChennur"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 623,
+      "word_count": 97,
+      "normalized_text": "IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR\nPresent: Sri Uday Bhaskar Rao\n Junior Civil Judge,\n Chennur.\nCC.\n\n No.\n\n 179\n\n of 1998\n\nBetween:-\nThe State of Telangana through the\nSub-Inspector of police, Srirampur\n ... Complainant\nAND\nBodduna Rajamallu\n\n...Accused\nDOCKET ORDER\nThis case is suo-moto advanced to this day. As per the directions of Hon'ble\nPrl. District and Sessions Judge, Adilabad vide Proc.Dis.No.5555/2017/Admn,\ndated.3.8.2017 this case is transferred to I Addl.JFCM, Mancherial.\n\n Given under my hand and the seal of this court, on this the 8th day of\nAugust, 2017.\n Sd/-\n Junior Civil Judge\nChennur"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 7,
+    "total_sentences": 12,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 623,
+        "word_count": 97,
+        "paragraph_count": 7,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000001_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 114,
+            "word_count": 20,
+            "sentence_count": 2,
+            "text": "IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR\nPresent: Sri Uday Bhaskar Rao\n Junior Civil Judge,\n Chennur.\nCC.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000001_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 110,
+                "word_count": 19,
+                "text": "IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR\nPresent: Sri Uday Bhaskar Rao\n Junior Civil Judge,\n Chennur."
+              },
+              {
+                "sentence_id": "DC_000001_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 3,
+                "word_count": 1,
+                "text": "CC."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000001_P001_PAR002",
+            "paragraph_index": 2,
+            "character_count": 3,
+            "word_count": 1,
+            "sentence_count": 1,
+            "text": "No.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000001_P001_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 3,
+                "word_count": 1,
+                "text": "No."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000001_P001_PAR003",
+            "paragraph_index": 3,
+            "character_count": 3,
+            "word_count": 1,
+            "sentence_count": 1,
+            "text": "179",
+            "sentences": [
+              {
+                "sentence_id": "DC_000001_P001_PAR003_SEN001",
+                "sentence_index": 1,
+                "character_count": 3,
+                "word_count": 1,
+                "text": "179"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000001_P001_PAR004",
+            "paragraph_index": 4,
+            "character_count": 7,
+            "word_count": 2,
+            "sentence_count": 1,
+            "text": "of 1998",
+            "sentences": [
+              {
+                "sentence_id": "DC_000001_P001_PAR004_SEN001",
+                "sentence_index": 1,
+                "character_count": 7,
+                "word_count": 2,
+                "text": "of 1998"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000001_P001_PAR005",
+            "paragraph_index": 5,
+            "character_count": 118,
+            "word_count": 16,
+            "sentence_count": 2,
+            "text": "Between:-\nThe State of Telangana through the\nSub-Inspector of police, Srirampur\n ... Complainant\nAND\nBodduna Rajamallu",
+            "sentences": [
+              {
+                "sentence_id": "DC_000001_P001_PAR005_SEN001",
+                "sentence_index": 1,
+                "character_count": 84,
+                "word_count": 12,
+                "text": "Between:-\nThe State of Telangana through the\nSub-Inspector of police, Srirampur\n ..."
+              },
+              {
+                "sentence_id": "DC_000001_P001_PAR005_SEN002",
+                "sentence_index": 2,
+                "character_count": 33,
+                "word_count": 4,
+                "text": "Complainant\nAND\nBodduna Rajamallu"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000001_P001_PAR006",
+            "paragraph_index": 6,
+            "character_count": 244,
+            "word_count": 34,
+            "sentence_count": 3,
+            "text": "...Accused\nDOCKET ORDER\nThis case is suo-moto advanced to this day. As per the directions of Hon'ble\nPrl. District and Sessions Judge, Adilabad vide Proc.Dis.No.5555/2017/Admn,\ndated.3.8.2017 this case is transferred to I Addl.JFCM, Mancherial.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000001_P001_PAR006_SEN001",
+                "sentence_index": 1,
+                "character_count": 67,
+                "word_count": 11,
+                "text": "...Accused\nDOCKET ORDER\nThis case is suo-moto advanced to this day."
+              },
+              {
+                "sentence_id": "DC_000001_P001_PAR006_SEN002",
+                "sentence_index": 2,
+                "character_count": 37,
+                "word_count": 7,
+                "text": "As per the directions of Hon'ble\nPrl."
+              },
+              {
+                "sentence_id": "DC_000001_P001_PAR006_SEN003",
+                "sentence_index": 3,
+                "character_count": 138,
+                "word_count": 16,
+                "text": "District and Sessions Judge, Adilabad vide Proc.Dis.No.5555/2017/Admn,\ndated.3.8.2017 this case is transferred to I Addl.JFCM, Mancherial."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000001_P001_PAR007",
+            "paragraph_index": 7,
+            "character_count": 118,
+            "word_count": 23,
+            "sentence_count": 2,
+            "text": "Given under my hand and the seal of this court, on this the 8th day of\nAugust, 2017.\n Sd/-\n Junior Civil Judge\nChennur",
+            "sentences": [
+              {
+                "sentence_id": "DC_000001_P001_PAR007_SEN001",
+                "sentence_index": 1,
+                "character_count": 84,
+                "word_count": 18,
+                "text": "Given under my hand and the seal of this court, on this the 8th day of\nAugust, 2017."
+              },
+              {
+                "sentence_id": "DC_000001_P001_PAR007_SEN002",
+                "sentence_index": 2,
+                "character_count": 32,
+                "word_count": 5,
+                "text": "Sd/-\n Junior Civil Judge\nChennur"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 29,
+    "state_name": "Telangana",
+    "district_code": 22,
+    "district_name": "Mancherial",
+    "court_complex_code": 1290176,
+    "court_complex_name": "Chennur, JCJ Court Complex",
+    "year": 1998,
+    "case_type": "nan",
+    "case_number": "202100001791998",
+    "pdf_title": "",
+    "pdf_author": "*",
+    "pdf_creator": "Writer",
+    "pdf_producer": "LibreOffice 7.3",
+    "pdf_creation_date": "D:20240408155020+05'30'",
+    "pdf_mod_date": ""
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.8986,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:39.955496"
+  }
+}

@@ -1,0 +1,12 @@
+source_file,rows,sha256,description
+inputs/frozen_gold_facts.parquet,85,e41e9880baf54fa385be5d095584669aa36d861c27c4805b049f551ea0a09ac9,"Frozen P5 gold facts (85 facts, 9 docs)"
+inputs/frozen_evidence_manifest.parquet,66,a6ded9f093ae56ae23e0cb6c9d99e6eb895820a855a5760bb5a69eabf1dc9b9c,Frozen BM25 B=8 retrieval windows
+outputs/english_summaries.parquet,9,c74dd735d360852db5848a0edc160b782f50aced5a31e76aea839e2103995be7,English Control Qwen3 summaries
+outputs/direct_indic_summaries.parquet,36,fb61ac2862d690b6d86e5426da6efed1339381c62bb42d960b2ab6788f7d5654,"Direct Indic Qwen3 summaries (ta, hi, kn, mr)"
+outputs/indictrans2_summaries.parquet,36,0af9a3f33245750d6b5739b660bb9b21a59366c20ea429db7a2acbcae1991a1f,IndicTrans2 raw translations of System A
+outputs/legal_aware_summaries.parquet,36,6dcc03c57a4bcc6c5e582918bb554a0d7ad246b83756b6c0e004e7d0be3de059,IndicTrans2 legal-aware protected translations
+outputs/verified_summaries.parquet,36,05e397488025f833999f4cd9f37b1e6f6f95fe8bef568610c71e210a54e15bd1,System D with deterministic verification
+evaluation/fact_level_evaluation.parquet,2125,f845f89c8c1b904a2bfdea55af97984e73273439e05d8658c288057b9c038b2a,Fact-level evaluation across all systems (5 x 425 = 2125 rows)
+evaluation/translation_fidelity.parquet,1700,3d2507be1620da52ee8dd91bea71b16eed28f2a389ec192f9c0bfc51891a080b,Fact-level translation fidelity (4 systems x 425 = 1700 rows)
+evaluation/failure_attribution.parquet,2125,d593796016e08ac5e9fec6701fdafe52522b3e960755f1a69408f3f07b7f17f0,Causal failure attribution per fact unit (2125 rows)
+evaluation/terminology_evaluation.parquet,100,e9b65b953583cbd050bea9d426bb26d4b9fe04021deacedae606ec22acc92944,Entity/terminology preservation audit (100 rows)

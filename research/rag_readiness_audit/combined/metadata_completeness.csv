@@ -1,0 +1,9 @@
+field,Supreme Court Missing %,High Court Missing %,District Court Missing %
+case_id,0.7,0.0,0.0
+cnr,0.0,0.0,100.0
+title,0.0,0.0,0.0
+decision_date,0.0,0.0,100.0
+court_name,0.0,0.0,0.0
+judge,0.0,0.3,100.0
+document_type,0.0,0.0,32.3
+disposal_nature,3.7,25.3,100.0

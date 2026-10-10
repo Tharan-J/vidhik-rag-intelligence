@@ -1,0 +1,39 @@
+{
+  "manifest_version": "v1.0",
+  "generated_at": "2026-10-05T08:47:15.625538+00:00",
+  "frozen_inputs": {
+    "phase1_corpus_sha256": "FILE_NOT_FOUND",
+    "phase2_paragraphs_sha256": "FILE_NOT_FOUND",
+    "phase2_sentences_sha256": "FILE_NOT_FOUND",
+    "phase3_retrieval_evidence_sha256": "10a2d74ffbb6bc5d0d44f88ecde92ccbf3cec44d8091ded903f61580d34a99d0",
+    "phase4_manifest_sha256": "FILE_NOT_FOUND"
+  },
+  "phase5_artifacts": {
+    "fact_schema_sha256": "a62b669776614ad737839e74236b821e0fd183e57dc97b9c2268597b2fd47ee0",
+    "acceptance_criteria_sha256": "5eb4b09c58d3984433305b5757952127cbdb6316ca779709dcf1dcfbe5e31046",
+    "fact_ledger_v1_sha256": "75a06f7c6a19d4a882a7e8209cf75d08735563ec29862895455d27f52dd9a2fe",
+    "evidence_availability_sha256": "46b712959422e2b07131431cec4d0d93b0242b13e53098d738a1372d9cdfe6c8",
+    "generation_manifest_sha256": "9866300226b96c668d6a705c349af4081f5ab737085b5e4167a445913358ecbd",
+    "claims_v1_sha256": "7782911a2c8a5de8a6fddf2221a2525f716497d06cf6005956ed51cf52af9444",
+    "claim_fact_alignment_sha256": "91249d994c1375a2a60153a506786f157a0560a0517e81ae9c49ef645b46e8be",
+    "deterministic_validation_sha256": "a07e7677cd98216cdd062aff073087b66cf74133226bf1451e703f34146ce78d",
+    "gemini_validation_sha256": "d5d154f89223f39b637feac0848aa6448a107bbcd481e9fde707ae1642fc745d",
+    "failure_attribution_sha256": "a82dc17d1d9feb1e97ecebda4263a2435a1c5a54af34fb5c970e64abd63ff75a",
+    "language_metrics_sha256": "e05b647a1a5dbc2fcd6015400fb73f77364a86f6b65d7790153a97a57c7c138f",
+    "document_metrics_sha256": "bc8d46f3f5b782912070901074a49ddfd3e568197366e1c15c189a552a114149",
+    "phase5_scorecard_sha256": "91ade11afd213a3f3777a281d16796ab29311eb32654ac73b315b2a848a436f2"
+  },
+  "evaluation_configuration": {
+    "model_id": "qwen3-4b-instruct",
+    "prompt_condition": "condition_c",
+    "evaluator_model": "gemini-3.5-flash-lite",
+    "languages": [
+      "en",
+      "ta",
+      "hi",
+      "kn",
+      "mr"
+    ],
+    "final_decision": "FAIL"
+  }
+}

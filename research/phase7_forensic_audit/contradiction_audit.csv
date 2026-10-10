@@ -1,0 +1,7 @@
+system_id,total_units,contradictions_detected,contradiction_rate,unsupported_additions_detected,unsupported_addition_rate
+T0_BASELINE_LEGAL_AWARE,340,0,0.00%,0,0.00%
+T1_CONTEXT_AWARE,340,0,0.00%,0,0.00%
+T2_STRONGER_TERMINOLOGY,340,0,0.00%,0,0.00%
+T3_CLAIM_ALIGNED,340,0,0.00%,0,0.00%
+T4_CANDIDATE_RERANKING,340,0,0.00%,0,0.00%
+T5_COMBINED_OPTIMAL,340,0,0.00%,0,0.00%

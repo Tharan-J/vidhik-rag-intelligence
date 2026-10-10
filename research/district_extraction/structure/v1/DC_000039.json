@@ -1,0 +1,184 @@
+{
+  "document_id": "DC_000039",
+  "source": {
+    "sha256": "fe036dba80f9fda395eeef0ea589c81badbbd2c25cb837862cb546020952e8d8",
+    "filename": "orders_2024_201200019452024_1.pdf",
+    "source_record_id": "DC-S3-039_3_1_1030005_2024_orders_2024_201200019452024_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 2,
+    "file_size_bytes": 38742
+  },
+  "routing": {
+    "initial_route": "OCR_REQUIRED",
+    "fallback_used": false,
+    "route_reason": "EXCESSIVE_SYMBOL_DENSITY_GARBAGE"
+  },
+  "extraction": {
+    "selected_method": "paddleocr",
+    "extractor_name": "RapidOCR-PP-OCRv4",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.8171
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 211,
+      "word_count": 45,
+      "raw_text": "2.2. o. 1945/2024 (em e ) edeas: 3. da.gao.nec.wo,ceea  e edse&dnoa2u ucee d 3. : 46, ev: wd : Heeme, o:Nw, :en. 3 3e ede&03p em0 Qm00舌: 15.12.2023 d005 08.00 o:3r e 2o g oo cee2 o ee0 de -100 e  0. -23-- e3 duc"
+    },
+    {
+      "page_number": 2,
+      "character_count": 109,
+      "word_count": 16,
+      "raw_text": "sea udeu ead uucocaeweocue &sec,e used e  e 5(1) e0.180  00  50  ugasgdeo.sea duocaa@oceaoa2eo @0: 13.02.2025"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 209,
+      "word_count": 45,
+      "normalized_text": "2.2. o. 1945/2024 (em e ) edeas: 3. da.gao.nec.wo,ceea e edse&dnoa2u ucee d 3. : 46, ev: wd : Heeme, o:Nw, :en. 3 3e ede&03p em0 Qm00舌: 15.12.2023 d005 08.00 o:3r e 2o g oo cee2 o ee0 de -100 e 0. -23-- e3 duc"
+    },
+    {
+      "page_number": 2,
+      "character_count": 105,
+      "word_count": 16,
+      "normalized_text": "sea udeu ead uucocaeweocue &sec,e used e e 5(1) e0.180 00 50 ugasgdeo.sea duocaa@oceaoa2eo @0: 13.02.2025"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 2,
+    "total_sentences": 8,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 209,
+        "word_count": 45,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000039_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 209,
+            "word_count": 45,
+            "sentence_count": 7,
+            "text": "2.2. o. 1945/2024 (em e ) edeas: 3. da.gao.nec.wo,ceea e edse&dnoa2u ucee d 3. : 46, ev: wd : Heeme, o:Nw, :en. 3 3e ede&03p em0 Qm00舌: 15.12.2023 d005 08.00 o:3r e 2o g oo cee2 o ee0 de -100 e 0. -23-- e3 duc",
+            "sentences": [
+              {
+                "sentence_id": "DC_000039_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 4,
+                "word_count": 1,
+                "text": "2.2."
+              },
+              {
+                "sentence_id": "DC_000039_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 2,
+                "word_count": 1,
+                "text": "o."
+              },
+              {
+                "sentence_id": "DC_000039_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 27,
+                "word_count": 6,
+                "text": "1945/2024 (em e ) edeas: 3."
+              },
+              {
+                "sentence_id": "DC_000039_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 42,
+                "word_count": 6,
+                "text": "da.gao.nec.wo,ceea e edse&dnoa2u ucee d 3."
+              },
+              {
+                "sentence_id": "DC_000039_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 32,
+                "word_count": 8,
+                "text": ": 46, ev: wd : Heeme, o:Nw, :en."
+              },
+              {
+                "sentence_id": "DC_000039_P001_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 84,
+                "word_count": 20,
+                "text": "3 3e ede&03p em0 Qm00舌: 15.12.2023 d005 08.00 o:3r e 2o g oo cee2 o ee0 de -100 e 0."
+              },
+              {
+                "sentence_id": "DC_000039_P001_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 12,
+                "word_count": 3,
+                "text": "-23-- e3 duc"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "character_count": 105,
+        "word_count": 16,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000039_P002_PAR001",
+            "paragraph_index": 1,
+            "character_count": 105,
+            "word_count": 16,
+            "sentence_count": 1,
+            "text": "sea udeu ead uucocaeweocue &sec,e used e e 5(1) e0.180 00 50 ugasgdeo.sea duocaa@oceaoa2eo @0: 13.02.2025",
+            "sentences": [
+              {
+                "sentence_id": "DC_000039_P002_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 105,
+                "word_count": 16,
+                "text": "sea udeu ead uucocaeweocue &sec,e used e e 5(1) e0.180 00 50 ugasgdeo.sea duocaa@oceaoa2eo @0: 13.02.2025"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 3,
+    "state_name": "Karnataka",
+    "district_code": 1,
+    "district_name": "BELAGAVI",
+    "court_complex_code": 1030005,
+    "court_complex_name": "Court Complex- Nipani",
+    "year": 2024,
+    "case_type": "nan",
+    "case_number": "201200019452024",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "Writer",
+    "pdf_producer": "LibreOffice 7.2",
+    "pdf_creation_date": "D:20250213171003+05'30'",
+    "pdf_mod_date": ""
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.8171,
+    "quality_tier": "OCR_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "fe036dba80f9fda395eeef0ea589c81badbbd2c25cb837862cb546020952e8d8",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.146646"
+  }
+}

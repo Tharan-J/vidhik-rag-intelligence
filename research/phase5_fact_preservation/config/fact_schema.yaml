@@ -1,0 +1,106 @@
+# Vidhik Phase 5 - Canonical Legal Fact Ledger Schema
+version: "1.0.0"
+description: "Canonical representation of verified legal facts extracted from Indian District Court documents."
+
+fact_ledger_fields:
+  fact_id:
+    type: "string"
+    description: "Deterministic unique identifier, format: FACT_{doc_id}_{category}_{index:03d}"
+    required: true
+  doc_id:
+    type: "string"
+    description: "Unique document identifier (e.g., DC_000001)"
+    required: true
+  source_sha256:
+    type: "string"
+    description: "64-character SHA-256 hash of the original immutable court PDF"
+    required: true
+  category:
+    type: "string"
+    description: "Legal fact category from taxonomy"
+    required: true
+    allowed_values:
+      - "CASE_NUMBER"
+      - "PARTIES"
+      - "COURT"
+      - "DECISION_DATE"
+      - "STATUTORY_SECTION"
+      - "STATUTE"
+      - "AMOUNT"
+      - "PROCEDURAL_ACTION"
+      - "ISSUE"
+      - "ARGUMENT"
+      - "JUDICIAL_FINDING"
+      - "DISPOSITION"
+      - "RELIEF"
+      - "SENTENCE"
+      - "BAIL_STATUS"
+      - "CHARGE"
+      - "OTHER_CRITICAL_FACT"
+  value:
+    type: "string"
+    description: "Verbatim raw text as extracted from the source sentence"
+    required: true
+  normalized_value:
+    type: "string"
+    description: "Canonically normalized representation for deterministic comparison"
+    required: true
+  source_sentence_id:
+    type: "string"
+    description: "Exact Phase-2 sentence identifier (e.g. DC_000001_P001_PAR001_SEN001)"
+    required: true
+  paragraph_id:
+    type: "string"
+    description: "Phase-2 paragraph identifier"
+    required: true
+  page_number:
+    type: "integer"
+    description: "1-indexed page number in the original court order"
+    required: true
+  criticality:
+    type: "string"
+    description: "Legal materiality tier"
+    required: true
+    allowed_values:
+      - "CRITICAL"
+      - "IMPORTANT"
+      - "CONTEXTUAL"
+  confidence:
+    type: "float"
+    description: "Extraction confidence score between 0.0 and 1.0"
+    required: true
+  verification_status:
+    type: "string"
+    description: "Audit status of the fact"
+    required: true
+    allowed_values:
+      - "machine_extracted"
+      - "human_verified"
+      - "human_corrected"
+      - "ambiguous"
+  provenance_chain:
+    type: "string"
+    description: "Traceable provenance from fact to PDF hash"
+    required: true
+
+criticality_mapping:
+  CRITICAL:
+    - "CASE_NUMBER"
+    - "PARTIES"
+    - "STATUTORY_SECTION"
+    - "DISPOSITION"
+    - "RELIEF"
+    - "JUDICIAL_FINDING"
+    - "CHARGE"
+    - "SENTENCE"
+    - "BAIL_STATUS"
+  IMPORTANT:
+    - "COURT"
+    - "DECISION_DATE"
+    - "AMOUNT"
+    - "PROCEDURAL_ACTION"
+    - "ISSUE"
+    - "ARGUMENT"
+    - "STATUTE"
+  CONTEXTUAL:
+    - "OTHER_CRITICAL_FACT"

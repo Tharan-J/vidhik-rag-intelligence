@@ -1,0 +1,54 @@
+# Phase 3 Retrieval Ladder Configuration
+pipeline_version: "1.0.0"
+corpus_name: "district_court_s3_161"
+
+bm25:
+  k1: 1.5
+  b: 0.75
+  epsilon: 0.25
+  tokenizer: "legal_aware"
+  lowercase: true
+
+dense:
+  top_k_default: 10
+  score_threshold: 0.0
+
+hybrid:
+  fusion_method: "rrf" # Reciprocal Rank Fusion
+  rrf_k: 60
+  # Calibration weights for linear combination ablation:
+  dense_weight: 0.6
+  bm25_weight: 0.4
+
+ladder_levels:
+  - id: "P3-L0-DENSE-V1"
+    name: "Naive Dense Baseline"
+    type: "dense"
+    chunk_unit: "paragraph"
+  - id: "P3-L1-BM25-V1"
+    name: "BM25 Baseline"
+    type: "sparse"
+    chunk_unit: "paragraph"
+  - id: "P3-L2-BGE-V1"
+    name: "Dense BGE-M3 Retrieval"
+    type: "dense"
+    chunk_unit: "paragraph"
+  - id: "P3-L3-HYBRID-RRF-V1"
+    name: "Hybrid BM25 + Dense RRF"
+    type: "hybrid"
+    chunk_unit: "paragraph"
+  - id: "P3-L4-HYBRID-RERANK-V1"
+    name: "Hybrid + Cross-Encoder Reranker"
+    type: "rerank"
+    candidate_k: 30
+    chunk_unit: "paragraph"
+  - id: "P3-L5-STRUCTURE-V1"
+    name: "Structure-Aware Chunking Ablation"
+    type: "structure"
+    units: ["sentence", "sentence_window", "paragraph", "page", "parent_child"]
+  - id: "P3-L6-SAC-V1"
+    name: "Summary-Augmented Chunking"
+    type: "summary_augmented"
+  - id: "P3-L7-PROVENANCE-V1"
+    name: "Evidence Provenance Verification"
+    type: "provenance_verification"

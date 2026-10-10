@@ -1,0 +1,27 @@
+# Vidhik Phase 2 - Text Normalization Configuration
+normalization_version: "v1.0.0"
+
+safe_operations:
+  crlf_to_lf: true
+  unicode_normalization_form: "NFKC"
+  collapse_multiple_spaces: true
+  strip_trailing_whitespace: true
+  strip_leading_whitespace_per_line: false # preserve indentation if meaningful
+
+layout_preservation:
+  preserve_page_markers: true
+  page_marker_pattern: "^--- PAGE (\\d+) ---$"
+  preserve_paragraph_boundaries: true
+  min_blank_lines_for_paragraph: 1
+
+conservative_repair:
+  repair_line_break_hyphens: true
+  normalize_smart_quotes: true
+  normalize_dashes: true
+  remove_null_bytes: true
+  remove_replacement_character: false # keep \ufffd tracked, do not silently swallow
+
+legal_preservation_validation:
+  strict_case_number_match: true
+  strict_date_match: true
+  strict_statute_match: true

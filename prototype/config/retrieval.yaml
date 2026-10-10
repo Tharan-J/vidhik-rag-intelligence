@@ -1,0 +1,49 @@
+# ==============================================================================
+# Vidhik Hybrid Retrieval Engine Configuration
+# ==============================================================================
+# Production configuration for dense BGE-M3 + BM25 lexical + Reciprocal Rank Fusion (RRF).
+
+# Dense Vector Retrieval (Qdrant Cloud)
+dense:
+  collection_name: "vidhik_legal_chunks"
+  vector_name: "dense"
+  top_k: 50
+  dimension: 1024
+  distance: "Cosine"
+  timeout: 30.0
+  https: true
+  port: 443
+
+# BM25 Sparse Lexical Retrieval (Local Persistent Index)
+bm25:
+  index_dir: "indexes/bm25"
+  index_file: "bm25_index.pkl"
+  mapping_file: "bm25_mapping.parquet"
+  top_k: 50
+  k1: 1.5
+  b: 0.75
+  epsilon: 0.25
+
+# Reciprocal Rank Fusion (RRF)
+fusion:
+  method: "rrf"
+  k: 60
+
+# Final Candidates returned to Downstream RAG / Evidence Engine
+final:
+  top_k: 20
+
+# Query Dense Embedding (BGE-M3)
+embedding:
+  model: "BAAI/bge-m3"
+  dense_dim: 1024
+  max_length: 8192
+  local_model_dir: "../research/rag_experiments/indexes/models/bge-m3"
+  onnx_model_file: "BAAI-bge-m3_quantized.onnx"
+  tokenizer_file: "tokenizer.json"
+
+# Logging Configuration
+logging:
+  log_dir: "logs"
+  log_file: "retrieval.log"
+  level: "INFO"

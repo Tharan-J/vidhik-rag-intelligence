@@ -1,0 +1,128 @@
+# Phase 4 Candidate Model Registry Configuration
+# Models aligned with experimental requirements:
+# Generation: ai4bharat/IndicBARTSS, Qwen3 (Instruct non-reasoning), Gemini API
+# Legal Auxiliary: law-ai/InLegalBERT, Indian Legal NER
+# Translation Baseline: law-ai/InLegalTrans-En2Indic-1B
+# Evaluation: Gemini API Independent Verifier, Human/Legal Validation Sample
+
+generation_models:
+  - model_id: "qwen3-4b-instruct"
+    model_name: "Qwen3 4B Instruct"
+    version: "3-instruct"
+    provider: "Alibaba Cloud / Ollama"
+    parameter_count: "4.02B"
+    quantization: "Q4_K_M"
+    context_length: 32768
+    language_support: ["English", "Tamil", "Hindi", "Kannada", "Marathi"]
+    license: "Apache-2.0"
+    runtime: "Ollama Local Inference"
+    hardware: "CPU / RTX 2050 CUDA"
+    is_primary_candidate: true
+    thinking_disabled: true
+
+  - model_id: "ai4bharat-indicbartss"
+    model_name: "IndicBARTSS (IndicBART Summarization)"
+    version: "v1.0"
+    provider: "AI4Bharat"
+    parameter_count: "244M"
+    quantization: "FP32 / FP16"
+    context_length: 1024
+    language_support: ["English", "Tamil", "Hindi", "Kannada", "Marathi"]
+    license: "MIT"
+    runtime: "HuggingFace Transformers / PyTorch CUDA"
+    hardware: "RTX 2050 CUDA"
+    is_primary_candidate: true
+
+  - model_id: "gemini-2.5-flash-gen"
+    model_name: "Gemini 2.5 Flash (Comparative Generator)"
+    version: "2.5-flash"
+    provider: "Google"
+    parameter_count: "Cloud Managed"
+    quantization: "Native"
+    context_length: 1048576
+    language_support: ["English", "Tamil", "Hindi", "Kannada", "Marathi"]
+    license: "Proprietary API"
+    runtime: "Google GenAI API"
+    hardware: "Google Cloud TPU"
+    is_primary_candidate: false
+
+  - model_id: "extractive-lead3-baseline"
+    model_name: "Extractive Lead-3 Baseline"
+    version: "1.0.0"
+    provider: "Vidhik Deterministic Baseline"
+    parameter_count: "0 (Deterministic)"
+    quantization: "None"
+    context_length: 4096
+    language_support: ["English", "Tamil", "Hindi", "Kannada", "Marathi"]
+    license: "MIT"
+    runtime: "Python NumPy / Regex"
+    hardware: "CPU"
+    is_primary_candidate: false
+
+legal_auxiliary_models:
+  - model_id: "law-ai-inlegalbert"
+    model_name: "InLegalBERT"
+    version: "1.0"
+    provider: "law-ai"
+    parameter_count: "110M"
+    quantization: "FP32"
+    context_length: 512
+    language_support: ["English"]
+    license: "Apache-2.0"
+    runtime: "HuggingFace Transformers"
+    hardware: "RTX 2050 CUDA / CPU"
+    role: "Legal Semantic Representation & Similarity Scoring"
+
+  - model_id: "indian-legal-ner"
+    model_name: "RoBERTa Legal Indian Courts Downstream NER"
+    version: "1.0"
+    provider: "MHGanainy"
+    parameter_count: "125M"
+    quantization: "FP32"
+    context_length: 512
+    language_support: ["English"]
+    license: "MIT"
+    runtime: "HuggingFace Transformers / Spacy Legal Pipeline"
+    hardware: "RTX 2050 CUDA / CPU"
+    role: "Legal Entity Extraction (Court, Petitioner, Respondent, Judge, Date, Provision, Statute)"
+
+translation_baseline_models:
+  - model_id: "law-ai-inlegaltrans-en2indic-1b"
+    model_name: "InLegalTrans-En2Indic-1B"
+    version: "1.0"
+    provider: "law-ai"
+    parameter_count: "1.0B"
+    quantization: "FP16"
+    context_length: 1024
+    language_support: ["English", "Tamil", "Hindi", "Kannada", "Marathi"]
+    license: "Apache-2.0"
+    runtime: "HuggingFace Transformers"
+    hardware: "RTX 2050 CUDA / CPU"
+    role: "Multilingual Translation Baseline (En -> Indic comparison)"
+
+evaluation_auditors:
+  - model_id: "gemini-2.5-flash-verifier"
+    model_name: "Gemini 2.5 Flash Independent Auditor"
+    version: "2.5-flash"
+    provider: "Google"
+    parameter_count: "Cloud Managed"
+    quantization: "Native"
+    context_length: 1048576
+    language_support: ["English", "Tamil", "Hindi", "Kannada", "Marathi"]
+    license: "Proprietary API"
+    runtime: "Google GenAI API (Cached / Deterministic Fallback)"
+    hardware: "Google Cloud TPU"
+    role: "Independent Factuality & Evidence Auditor (Never rewrites summaries)"
+
+  - model_id: "human-legal-validation-sample"
+    model_name: "Expert Legal / Human Validation Rubric"
+    version: "1.0"
+    provider: "Vidhik Research Team"
+    parameter_count: "Human Expert Panel"
+    quantization: "None"
+    context_length: "Full Document"
+    language_support: ["English", "Tamil", "Hindi", "Kannada", "Marathi"]
+    license: "Research Evaluation"
+    runtime: "Structured Audit Protocol"
+    hardware: "Human / Legal Validation Rubric"
+    role: "Independent Legal Ground-Truth Audit"

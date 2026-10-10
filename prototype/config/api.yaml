@@ -1,0 +1,33 @@
+# Vidhik API Server Configuration
+server:
+  host: "0.0.0.0"
+  port: 8000
+  reload: false
+  workers: 1
+  timeout_seconds: 180.0
+
+cors:
+  allowed_origins:
+    - "http://localhost:3000"
+    - "http://localhost:3001"
+    - "http://localhost:5173"
+    - "http://127.0.0.1:3000"
+    - "http://127.0.0.1:3001"
+    - "http://127.0.0.1:5173"
+  allow_credentials: true
+  allow_methods:
+    - "GET"
+    - "POST"
+    - "OPTIONS"
+  allow_headers:
+    - "Content-Type"
+    - "Authorization"
+    - "Accept"
+
+app:
+  title: "Vidhik Legal RAG API"
+  description: "Production API for evidence-grounded Indian legal research powered by Hybrid Retrieval (BGE-M3 + BM25) and Qwen."
+  version: "1.0.0"
+  docs_url: "/docs"
+  redoc_url: "/redoc"
+  openapi_url: "/openapi.json"

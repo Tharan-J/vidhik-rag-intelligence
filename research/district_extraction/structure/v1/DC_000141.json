@@ -1,0 +1,263 @@
+{
+  "document_id": "DC_000141",
+  "source": {
+    "sha256": "3f0254a81bd28efe769887cfd08c796a5b654006e37643a29c3748a046889ad2",
+    "filename": "orders_2025_203800000262025_2.pdf",
+    "source_record_id": "DC-S3-141_36_13_1360016_2025_orders_2025_203800000262025_2",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 67689
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.9982
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1364,
+      "word_count": 187,
+      "raw_text": "I                                                                                                                                                                                    Page 1 of 1 \n \nAssam Schedule VII, Form No. 143 \nHigh Court Civil Form No. (J) 13 \nORDER SHEET \nIN THE COURT OF CIVIL JUDGE (SR. DIV.), \nSEPPA, EAST KAMENG, ARUNACHAL PRADESH \n \nTitle Suit No. 03/2024 & civil mis. case No. 26/2025 \nShri Thomas Nabam -Vs- Shri Jacob Tana & 15 Others \n \nDate \nOrder \nSignature \n \n16.10.2025 \n \n \nPlaintiff is represented by his learned counsel Mr Taba \nTaison. \n         Defendant No. 1 to 18 are represented by Mr Takam \nSunil who filed his vakalatnama for himself, Gongam Basar, \nMatim Yaram, Darmong Lamgu and Gyadam Cheda vide \nF/No. 44/2025 dated 16.10.2025.  \nToday \nthis \ncase \nwas \nfixed \nfor \nissues \nand \ndocumentations in main case but both parties prayed for \nmore time. Hence, the case is adjourned today.   \nHeard Mr. Takam Sunil who acknowledge the receipt of \nservice copy of misc. case No. 26/2025 and as such he seeks \ntime to file reply. The prayer is allowed.  \nList the case on 26.11.2025 for filing reply in misc case \nNo. 26/2025 and  documentation and issues in main title suit \nas per order XIII of CPC, 1908. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n(Damge Niri) \nCivil Judge (Sr. \nDvn), Seppa"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1058,
+      "word_count": 187,
+      "normalized_text": "I Page 1 of 1\n\nAssam Schedule VII, Form No. 143\nHigh Court Civil Form No. (J) 13\nORDER SHEET\nIN THE COURT OF CIVIL JUDGE (SR. DIV.),\nSEPPA, EAST KAMENG, ARUNACHAL PRADESH\n\nTitle Suit No. 03/2024 & civil mis. case No. 26/2025\nShri Thomas Nabam -Vs- Shri Jacob Tana & 15 Others\n\nDate\nOrder\nSignature\n\n16.10.2025\n\nPlaintiff is represented by his learned counsel Mr Taba\nTaison.\n Defendant No. 1 to 18 are represented by Mr Takam\nSunil who filed his vakalatnama for himself, Gongam Basar,\nMatim Yaram, Darmong Lamgu and Gyadam Cheda vide\nF/No. 44/2025 dated 16.10.2025.\nToday\nthis\ncase\nwas\nfixed\nfor\nissues\nand\ndocumentations in main case but both parties prayed for\nmore time. Hence, the case is adjourned today.\nHeard Mr. Takam Sunil who acknowledge the receipt of\nservice copy of misc. case No. 26/2025 and as such he seeks\ntime to file reply. The prayer is allowed.\nList the case on 26.11.2025 for filing reply in misc case\nNo. 26/2025 and documentation and issues in main title suit\nas per order XIII of CPC, 1908.\n\n(Damge Niri)\nCivil Judge (Sr.\nDvn), Seppa"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 7,
+    "total_sentences": 15,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 1058,
+        "word_count": 187,
+        "paragraph_count": 7,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000141_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 13,
+            "word_count": 5,
+            "sentence_count": 1,
+            "text": "I Page 1 of 1",
+            "sentences": [
+              {
+                "sentence_id": "DC_000141_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 13,
+                "word_count": 5,
+                "text": "I Page 1 of 1"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000141_P001_PAR002",
+            "paragraph_index": 2,
+            "character_count": 155,
+            "word_count": 28,
+            "sentence_count": 1,
+            "text": "Assam Schedule VII, Form No. 143\nHigh Court Civil Form No. (J) 13\nORDER SHEET\nIN THE COURT OF CIVIL JUDGE (SR. DIV.),\nSEPPA, EAST KAMENG, ARUNACHAL PRADESH",
+            "sentences": [
+              {
+                "sentence_id": "DC_000141_P001_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 155,
+                "word_count": 28,
+                "text": "Assam Schedule VII, Form No. 143\nHigh Court Civil Form No. (J) 13\nORDER SHEET\nIN THE COURT OF CIVIL JUDGE (SR. DIV.),\nSEPPA, EAST KAMENG, ARUNACHAL PRADESH"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000141_P001_PAR003",
+            "paragraph_index": 3,
+            "character_count": 103,
+            "word_count": 20,
+            "sentence_count": 2,
+            "text": "Title Suit No. 03/2024 & civil mis. case No. 26/2025\nShri Thomas Nabam -Vs- Shri Jacob Tana & 15 Others",
+            "sentences": [
+              {
+                "sentence_id": "DC_000141_P001_PAR003_SEN001",
+                "sentence_index": 1,
+                "character_count": 35,
+                "word_count": 7,
+                "text": "Title Suit No. 03/2024 & civil mis."
+              },
+              {
+                "sentence_id": "DC_000141_P001_PAR003_SEN002",
+                "sentence_index": 2,
+                "character_count": 67,
+                "word_count": 13,
+                "text": "case No. 26/2025\nShri Thomas Nabam -Vs- Shri Jacob Tana & 15 Others"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000141_P001_PAR004",
+            "paragraph_index": 4,
+            "character_count": 20,
+            "word_count": 3,
+            "sentence_count": 1,
+            "text": "Date\nOrder\nSignature",
+            "sentences": [
+              {
+                "sentence_id": "DC_000141_P001_PAR004_SEN001",
+                "sentence_index": 1,
+                "character_count": 20,
+                "word_count": 3,
+                "text": "Date\nOrder\nSignature"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000141_P001_PAR005",
+            "paragraph_index": 5,
+            "character_count": 10,
+            "word_count": 1,
+            "sentence_count": 1,
+            "text": "16.10.2025",
+            "sentences": [
+              {
+                "sentence_id": "DC_000141_P001_PAR005_SEN001",
+                "sentence_index": 1,
+                "character_count": 10,
+                "word_count": 1,
+                "text": "16.10.2025"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000141_P001_PAR006",
+            "paragraph_index": 6,
+            "character_count": 704,
+            "word_count": 123,
+            "sentence_count": 8,
+            "text": "Plaintiff is represented by his learned counsel Mr Taba\nTaison.\n Defendant No. 1 to 18 are represented by Mr Takam\nSunil who filed his vakalatnama for himself, Gongam Basar,\nMatim Yaram, Darmong Lamgu and Gyadam Cheda vide\nF/No. 44/2025 dated 16.10.2025.\nToday\nthis\ncase\nwas\nfixed\nfor\nissues\nand\ndocumentations in main case but both parties prayed for\nmore time. Hence, the case is adjourned today.\nHeard Mr. Takam Sunil who acknowledge the receipt of\nservice copy of misc. case No. 26/2025 and as such he seeks\ntime to file reply. The prayer is allowed.\nList the case on 26.11.2025 for filing reply in misc case\nNo. 26/2025 and documentation and issues in main title suit\nas per order XIII of CPC, 1908.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000141_P001_PAR006_SEN001",
+                "sentence_index": 1,
+                "character_count": 63,
+                "word_count": 10,
+                "text": "Plaintiff is represented by his learned counsel Mr Taba\nTaison."
+              },
+              {
+                "sentence_id": "DC_000141_P001_PAR006_SEN002",
+                "sentence_index": 2,
+                "character_count": 189,
+                "word_count": 31,
+                "text": "Defendant No. 1 to 18 are represented by Mr Takam\nSunil who filed his vakalatnama for himself, Gongam Basar,\nMatim Yaram, Darmong Lamgu and Gyadam Cheda vide\nF/No. 44/2025 dated 16.10.2025."
+              },
+              {
+                "sentence_id": "DC_000141_P001_PAR006_SEN003",
+                "sentence_index": 3,
+                "character_count": 107,
+                "word_count": 19,
+                "text": "Today\nthis\ncase\nwas\nfixed\nfor\nissues\nand\ndocumentations in main case but both parties prayed for\nmore time."
+              },
+              {
+                "sentence_id": "DC_000141_P001_PAR006_SEN004",
+                "sentence_index": 4,
+                "character_count": 35,
+                "word_count": 6,
+                "text": "Hence, the case is adjourned today."
+              },
+              {
+                "sentence_id": "DC_000141_P001_PAR006_SEN005",
+                "sentence_index": 5,
+                "character_count": 74,
+                "word_count": 13,
+                "text": "Heard Mr. Takam Sunil who acknowledge the receipt of\nservice copy of misc."
+              },
+              {
+                "sentence_id": "DC_000141_P001_PAR006_SEN006",
+                "sentence_index": 6,
+                "character_count": 57,
+                "word_count": 12,
+                "text": "case No. 26/2025 and as such he seeks\ntime to file reply."
+              },
+              {
+                "sentence_id": "DC_000141_P001_PAR006_SEN007",
+                "sentence_index": 7,
+                "character_count": 22,
+                "word_count": 4,
+                "text": "The prayer is allowed."
+              },
+              {
+                "sentence_id": "DC_000141_P001_PAR006_SEN008",
+                "sentence_index": 8,
+                "character_count": 149,
+                "word_count": 28,
+                "text": "List the case on 26.11.2025 for filing reply in misc case\nNo. 26/2025 and documentation and issues in main title suit\nas per order XIII of CPC, 1908."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000141_P001_PAR007",
+            "paragraph_index": 7,
+            "character_count": 41,
+            "word_count": 7,
+            "sentence_count": 1,
+            "text": "(Damge Niri)\nCivil Judge (Sr.\nDvn), Seppa",
+            "sentences": [
+              {
+                "sentence_id": "DC_000141_P001_PAR007_SEN001",
+                "sentence_index": 1,
+                "character_count": 41,
+                "word_count": 7,
+                "text": "(Damge Niri)\nCivil Judge (Sr.\nDvn), Seppa"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 36,
+    "state_name": "Arunachal Pradesh",
+    "district_code": 13,
+    "district_name": "East Kameng",
+    "court_complex_code": 1360016,
+    "court_complex_name": "CJM-cum-Civil Court, Seppa",
+    "year": 2025,
+    "case_type": "nan",
+    "case_number": "203800000262025",
+    "pdf_title": "",
+    "pdf_author": "CJM SEPPA",
+    "pdf_creator": "Microsoft® Word 2019",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260328084255+05'30'",
+    "pdf_mod_date": "D:20260328084255+05'30'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.9982,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "3f0254a81bd28efe769887cfd08c796a5b654006e37643a29c3748a046889ad2",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.503287"
+  }
+}

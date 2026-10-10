@@ -1,0 +1,1408 @@
+--- PAGE 1 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 1 of 27 
+$~J-1 
+* 
+IN  THE  HIGH  COURT  OF  DELHI  AT  NEW  DELHI 
+Judgment reserved on: 21.02.2023  
+     Judgment pronounced on: 10.07.2023 
++  
+ARB.P.400/2022 
+ 
+ 
+MARGO NETWORKS PVT LTD & ANR.  
+ ..... Petitioners 
+Through: 
+Mr. Kunal Tandon, Mr. Shashank 
+Shekhar and Ms. Aanchal Khanna, 
+Advs. 
+ 
+ 
+ 
+ 
+ 
+ 
+Versus 
+ 
+ 
+RAILTEL CORPORATION OF INDIA LTD        ...... Respondent 
+Through: 
+Mr. Chetan Sharma, ASG along with 
+Mr. Yamandeep Kumar, Ms. Sabah 
+Iqbal Siddiqui, Mr. R.V. Prabhat, 
+Mr.Vinay 
+Yadav 
+and 
+Mr. 
+SaurabhTripathi, Advs. 
+ 
+ 
+CORAM: 
+ 
+HON'BLE MR. JUSTICE SACHIN DATTA 
+ 
+ 
+ 
+ 
+ 
+ 
+JUDGMENT 
+ 
+SACHIN DATTA, J. 
+ 
+ 
+1. 
+The present petition under Section 11 of the Arbitration and 
+Conciliation Act, 1996 (hereinafter referred to as the “A&C Act”) seeks 
+constitution of an independent Arbitral Tribunal consisting of three 
+arbitrators to adjudicate the disputes that have arisen between the parties.  
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 2 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 2 of 27 
+ 
+FACTUAL BACKGROUND 
+2. 
+The disputes between the parties have arisen in the context of a 
+Request for Proposal (hereinafter referred to as “RFP”) issued by the 
+respondent for “Selection of Digital Entertainment Service Provider (DESP) 
+for delivering Content on Demand (COD) services on Build Own Operate 
+(BOO) model for Indian Railways”. The said work was awarded to the 
+petitioner  no.1 vide Letter of Award dated 14.01.2020 (hereinafter referred 
+to as “LOA”). The petitioner no. 2 had issued the Performance Bank 
+Guarantee (hereinafter referred to as “PBG”) and the Bank Guarantee 
+(hereinafter referred to as “BG”) under the RFP and LOA for and on behalf 
+of the petitioner no. 1, and is stated to be a proforma party in the present 
+petition.  
+3. 
+Various communications were exchanged between the parties in 
+relation to : - (i) Execution of contract in terms of the LOA and its effective 
+date; (ii) Extension of time for furnishing BG and PBG; (iii) Performance of 
+the respective obligations of the parties thereto. The respondent vide letter 
+dated 11.11.2021 purportedly terminated the LOA and invoked the BG.  
+4. 
+Admittedly, the RFP contains an arbitration agreement between the 
+parties in the following terms:  
+“…….. 
+SCHEDULE 11. GOVERNING LAW AND DISPUTE RESOLUTION 
+ 
+3.35. Governing Law and Jurisdiction  
+The Contract Agreement shall be governed by and construed in 
+accordance with the laws of the Republic of India. Subject to clause 
+mentioned below, the Courts of New Delhi shall have the jurisdiction 
+over any matter arising out of or in relation to the Agreement. 
+ 
+3.36. Dispute Resolution  
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 3 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 3 of 27 
+a. In the event of any dispute or difference between the Parties hereto 
+as to the subject matter of the agreement, or the respective rights and 
+liabilities of the parties on any matter in question, dispute or 
+difference on any account or as to the withholding by the Authority of 
+any certificate to which the Bidder/DESP may claim to be entitled to, 
+or if the Authority fails to make a decision within 60 (sixty) days, then 
+and in any such case, the Bidder/DESP, after 60 (sixty) days but 
+within 120 (one hundred twenty) days of his presenting his final claim 
+on disputed matters shall demand in writing that the dispute or 
+difference be referred to arbitration. 
+ 
+b. The demand for arbitration shall specify the matters which are in 
+question, or subject of the dispute or difference as also the amount of 
+claim item-wise. Only such dispute(s) or difference(s) in respect of 
+which the demand has been made, together with counter claims or set 
+off, given by the Authority, shall be referred to arbitration and other 
+matters shall not be included in the reference. 
+ 
+c. The arbitration proceedings shall be held in the following manner: 
+i. The arbitration proceedings shall be assumed to have commenced 
+from the day, a written and valid demand for arbitration is received 
+by the Authority. 
+ii. The claimant shall subject his claim stating the facts supporting the 
+claims along with all the relevant documents and the relief or remedy 
+sought against each claim within a period of 30 (thirty) days from the 
+date of appointment of the arbitral tribunal (the "Tribunal"). 
+iii. The Authority shall submit its defence statement and counter 
+claim(s), if any, within a period of 60 (sixty) days of receipt of copy of 
+claims from Tribunal thereafter, unless otherwise extension has been 
+granted by the Tribunal. 
+iv. The place of arbitration shall be within the geographical limits of 
+the Location where the cause of action arose or the headquarters of 
+the Authority or any other place with the written consent of both the 
+parties. 
+ 
+d. No new claim shall be added during the arbitration proceedings by 
+either party. However, a party may amend or supplement the original 
+claim or defence thereof during the course of arbitration proceedings 
+subject to acceptance by the Tribunal having due regard to the delay 
+in making it. 
+ 
+e. If the Bidder/DESP does/do not prefer his/their specific and final 
+claims in writing, within a period of 90 (ninety) days of receiving the 
+intimation from the Authority that the final bill is ready for payment, 
+he/they will be deemed to have waived his/their claim(s) and the 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 4 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 4 of 27 
+Authority shall be discharged and released of all liabilities under the 
+Agreement in respect of these claims. 
+ 
+f. Work under the Agreement shall, unless otherwise directed by the 
+Authority continue during the arbitration proceedings, and no 
+payment due or payable by the Bidder /DESP or the Authority shall be 
+withheld on account of such proceedings, provided, however, it shall 
+be open for the Tribunal to consider and decide whether or not such 
+work should continue during arbitration proceedings. 
+ 
+3.37. Appointment of Arbitrator 
+a. In cases where the total value of all claims in question added 
+together does not exceed Rs. 25,00,000 (Rupees twenty five lakh only), 
+the Tribunal shall consist of a Sole Arbitrator, nominated by the 
+Railways. The sole arbitrator shall be appointed within 60 (sixty) days 
+from the day when a written and valid demand for arbitration is 
+received by the Authority. 
+ 
+b. In cases not covered by the paragraph (a) above, the Tribunal 
+shall consist of a panel of3 (three) arbitrators. For this purpose, the 
+Railway will send a panel of more than 3 (three) names within 60 
+(sixty) days from the day when a written and valid demand for 
+arbitration is received by the Authority. The Bidder/DESP will be 
+asked to suggest to the Authority at least 2 names out of the panel 
+for appointment as Bidder/DESP 's nominee within 30 (thirty) days 
+from the date of dispatch of the request by the Authority. The 
+Authority shall appoint at least one out of them as the Bidder/ 
+DESP's nominee and will, also simultaneously appoint the balance 
+number of arbitrators either from the panel or from outside the 
+panel, duly indicating the „presiding arbitrator' from amongst the 3 
+(three) arbitrators so appointed. The Authority shall complete this 
+exercise of appointing the Tribunal within 30 (thirty) days from the 
+receipt ofthe names of the Bidder/DESP's nominees. 
+ 
+c. If one or more of the arbitrators appointed as above refuses to act 
+as arbitrator, withdraws from his office as arbitrator, or vacates 
+his/their office/offices or is/are unable or unwilling to perform his 
+functions as arbitrator for any reason whatsoever or dies or in the 
+opinion of the Authority fails to act without undue delay, the Authority 
+shall appoint new arbitrator/arbitrators to act in his/their place in the 
+same manner in which the earlier arbitrator/arbitrators had been 
+appointed. Such reconstituted Tribunal may, at its discretion, proceed 
+with the reference from the stage at which it was left by the previous 
+arbitrator (s). 
+ 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 5 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 5 of 27 
+d. The Tribunal shall have power to call for such evidence by way of 
+affidavits or otherwise as the Tribunal shall think proper, and it shall 
+be the duty of the parties hereto to do or cause to be done all such 
+things as may be necessary to enable the Tribunal to make the award 
+without any delay. The Tribunal should record day to-day 
+proceedings. The proceedings shall normally be conducted on the 
+basis of documents and written statements. 
+ 
+e. While appointing arbitrator(s) as mentioned above, due care shall 
+be taken that he/they is/are not the one/those who had an opportunity 
+to deal with the matters to which the Contract Agreement relates or 
+who in the course of his/their duties as Indian Railways' employee 
+expressed views on all or any of the matters under dispute or 
+differences. The proceedings of the Tribunal or the award made by 
+such Tribunal will, however, not be invalid merely for the reason that 
+one or more arbitrator had in the course of his service opportunity to 
+deal with the matters to which the Contract Agreement relates or who 
+in the course of his/their duties expressed views on all or any of the 
+matters under dispute. 
+ 
+f. The arbitral award shall state item wise, the sum and reasons upon 
+which it is based. The analysis and reasons shall be detailed enough 
+so that the award could be inferred therefrom. 
+ 
+g. A party may apply for corrections of any computational errors, any 
+typographical or clerical errors or any other error of similar nature 
+occurring in the award of a Tribunal and interpretation of a specific 
+point of award to Tribunal within 60 (sixty) days of receipt of the 
+award. 
+ 
+h. A party may apply to Tribunal within 60 (sixty) days of receipt of 
+award to make an additional award as to claims presented in the 
+arbitral proceedings but omitted from the arbitral award. 
+ 
+i. In case of the Tribunal, comprising of 3 (three) members, any ruling 
+on award shall be made by a majority of members of Tribunal. In the 
+absence of such a majority, the views of the presiding arbitrator shall 
+prevail.  
+ 
+j. Where the arbitral award is for the payment of money, no interest 
+shall be payable on whole or any part of the money for any period till 
+the date on which the award is made. 
+ 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 6 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 6 of 27 
+k. The cost of arbitration shall be borne by the respective parties. The 
+cost shall inter-alia include fee of the arbitrator(s), as per the rates 
+fixed by Railway Board from 
+time to time and the fee shall be borne equally by both the parties. 
+Further, the fee payable to the arbitrator(s) would be governed by the 
+Instructions issued on the subject by Railway Board from time to time 
+irrespective of the fact whether the arbitrator(s) is/are appointed by 
+the Authority or by the court of law unless specifically directed by 
+Hon'ble court otherwise on the matter. 
+ 
+l. Subject to the provisions of the aforesaid Arbitration and 
+Conciliation Act, 1996 and the rules thereunder and any statutory 
+modifications thereof shall apply to the arbitration proceedings under 
+this Section 11. 
+…………….” 
+ 
+5. 
+The petitioner vide demand-cum-invocation notice dated 10.01.2022 
+raised certain claims upon the respondent and also assailed the procedure for 
+appointment as contemplated in the aforesaid clause 3.37 on the basis that it 
+was allegedly one sided, onerous and contrary to the law laid down by the 
+Supreme Court in Voestalpine Schienen Gmbh Vs. Delhi Metro Rail 
+Corporation Ltd.1. Vide the aforesaid communication, the petitioner stated 
+that it „desired‟ to appoint  its nominee Arbitrator, and requested the 
+respondent to nominate its arbitrator; the two arbitrators so appointed would 
+thereafter appoint the presiding arbitrator so as to constitute the arbitral 
+tribunal to adjudicate the disputes between the parties.  
+6. 
+The respondent replied to the aforesaid communication on 
+09.02.2022, asking the petitioner to act in strict conformity with the 
+aforesaid clause 3.37 of the RFP and to appoint its nominee arbitrator from 
+the panel being maintained by Indian Railways. Annexed alongwith the 
+aforesaid communication dated 09.02.2022 was a list of the panel arbitrators 
+                                          
+1(2017) 4 SCC 665 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 7 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 7 of 27 
+maintained by the Indian Railways, comprising of ten persons, each of them 
+admittedly being former employees of either the Railways or RailTel. It was 
+also stated in the aforesaid communication dated 09.02.2022 that none of the 
+said persons were associated with the project in question in any manner.  
+7. 
+Vide communication dated 25.02.2022, the petitioner reiterated that 
+clause 3.37 was contrary to Section 12 read with Schedule V and VII of the 
+A&C Act.  
+8. 
+Vide communication dated 10.03.2022, the respondent again asked 
+the petitioner to choose its nominee arbitrator from the panel provided to the 
+petitioner vide communication dated 09.02.2022. In the said communication, 
+it was also stated that the presiding arbitrator could be appointed by the 
+nominee arbitrator of both the parties (instead of the Respondent appointing 
+the same).  
+SUBMISSIONS OF THE PARTIES 
+9. 
+In the above backdrop, learned counsel for the petitioner has  
+contended as under:  
+Clause 3.37 of the RFP (which contains the arbitration agreement) is 
+contrary to the principles contained in Judgments passed by the Supreme 
+Court in Voestalpine2, TRF Limited Vs. Energo Engineering Projects 
+Limited3, and Perkins Eastman Architects DPC & Anr. Vs. HSCC (India) 
+Ltd.4 on the grounds that:- 
+a) The aforesaid clause 3.37 enables the respondent to unilaterally 
+constitute the arbitral tribunal.  
+b) The procedure envisaged in the said clause 3.37 does not achieve 
+                                          
+2Supra 
+3(2017) 8 SCC 377 
+42019 SCC Online SC 1517 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 8 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 8 of 27 
+counter balancing as it is completely one sided.  
+c) The panel offered by the respondent is a restrictive panel and 
+therefore, not in terms of the judgment in Voestalpine (supra).  
+10. 
+As regards the judgment of Supreme Court in Central Organization 
+for Railway Electrification Vs. ECI-SPIC-SMO-MCML (JV) a Joint 
+Venture Company5 (hereinafter referred to as “CORE”) is concerned, 
+learned counsel for the petitioner sought to distinguish the same and 
+contended that the factual conspectus involved in CORE was quite different 
+from the present case. In the present case, the Petitioner vide its 
+communication dated 10.01.2022, has sought to seek constitution of an 
+independent Arbitral Tribunal, and even suggested the name of a former 
+judge of the Supreme Court for being appointed as its nominee Arbitrator, 
+whereas in CORE, the petitioner therein filed its petition under Section 
+11(6) of the A&C Act without taking any such step. It is further contended 
+that the correctness of CORE has been doubted by coordinate benches of the 
+Supreme Court in Union of India Vs. M/s Tantia Constructions Limited6 
+and JSW Steel Vs. South Western Railway & Anr.7and therefore ought not 
+to be followed. Reference has been made to various rulings of coordinate 
+benches of this Court and other High Courts to contend that the judgment in 
+CORE has not been universally followed in the light of the disagreement 
+expressed in the Tania Constructions (supra).   
+11. 
+Per contra, Mr. Chetan Sharma, learned ASG appearing for the 
+respondent has strenuously relied upon the judgment in CORE and sought to 
+emphasize that the same is squarely applicable to the present case.  
+                                          
+5(2020) 14 SCC 712 
+6[SLP (C) No. 12670 of 2020] 
+7[SLP (C) No. 9462 of 2022] 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 9 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 9 of 27 
+12. 
+He has submitted that in terms of the said judgment, the constitution 
+of the arbitral tribunal must strictly be in accord with the agreement between 
+the parties, and there is no justification for derogation therefrom. He submits 
+that it has also been affirmed in CORE that merely because arbitrators in the 
+panel consist of names of retired employees of the railways, the same does 
+not make such retired employees ineligible to act as arbitrators.  
+ANALYSIS AND CONCLUSION 
+13. 
+At the outset, it is necessary to consider the judgment of the Supreme 
+Court in the case of CORE inasmuch as, the appointment procedure that fell 
+for consideration in that case, is similar with the procedure involved in the 
+present case.  
+14. 
+A careful reading of CORE reveals that it purports to decide the 
+following issues:  
+i. 
+Whether an independent arbitrator/ Arbitral tribunal can be appointed 
+without reference to the clauses of General Conditions of Contract 
+(GCC)? 
+ii. 
+Whether retired railway officers are not eligible to be appointed as 
+arbitrators under Section 12(5) read with Schedule VII of the Act? 
+iii. 
+What is the consequence of failure to act in terms of the contract in 
+not responding within thirty days from the date of the request? 
+iv. 
+Whether a General Manager, who becomes ineligible by operation of 
+law to be appointed as arbitrator, is not eligible to nominate the 
+arbitrator? 
+15. 
+With regard to the first issue mentioned hereinabove, as to whether an 
+independent arbitrator could be appointed without reference to or in 
+disregard of the relevant stipulation/s contained in the GCC, it was held, 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 10 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 10 of 27 
+relying upon Union of India Vs. Parmar Construction Co.8 and Union of 
+India Vs. Pradeep Vinod Construction Co.9 that in the facts of the said case 
+and considering the relevant arbitration clause and the surrounding 
+circumstances, the High Court was not justified in appointing an 
+independent arbitrator without resorting to the procedure prescribed in the 
+GCC.  
+16. 
+As regards the second issue in CORE viz whether retired officers of 
+the Railway were eligible to be appointed in view of the Section 12(5) read 
+with Schedule VII of the Act, it was held relying upon Voestalpine (supra) 
+and Government of Haryana PWD Haryana (B and R) Branch Vs. G.F. 
+Toll Road Private Limited and Others10 that retired employees of the 
+Railways were not ineligible to act as an arbitrator.  
+17. 
+On the third issue as to whether the parties had failed to adhere to the 
+relevant contractual procedure, it was found in the facts of the case that the 
+respondent therein had taken recourse to Section 11(6) of A&C Act without 
+adhering to the procedure prescribed under the contract and that therefore 
+the respondent therein was not justified in contending that the right of the 
+appellant therein to constitute the arbitral tribunal was extinguished.  
+18. 
+On the fourth issue as to whether the General Manager was 
+eligible/ineligible to nominate/ appoint an  arbitrator, after taking into 
+account the stipulation/s in the relevant arbitration clause, and the 
+observations of the Supreme Court in TRF Ltd. (supra) and Perkins (supra) 
+it was held as under :-  
+“………… 
+                                          
+8(2019) 15 SCC 682 : (2020) 2 SCC (Civ) 390 
+9(2020) 2 SCC 464 : (2020) 1 SCC (Civ) 579 
+10(2019) 3 SCC 505 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 11 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 11 of 27 
+38. ....... 
+Thus, the power of the General Manager to nominate the arbitrator is 
+counter balanced by the power of the respondent to select any of the 
+two nominees from out of the four names suggested from the panel of 
+the retired officers. In view of the modified clauses 64(3) (a) (ii) and 
+64 (3) (b) of GCC, it cannot therefore be said that the General 
+Manager has become ineligible to act as (sic nominate) the arbitrator. 
+We do not find any merit in the contrary contention of the respondent. 
+The decision in TRF Ltd. is not applicable to the present case.  
+ 
+39. There is an express provision in the modified clauses of General 
+Conditions of Contract, as per Clauses 64(3)(a)(ii) and 64(3)(b), the 
+Arbitral Tribunal shall consist of a panel of three gazetted railway 
+officers [Clause 64(3)(a)(ii)] and three retired railway officers retired 
+not below the rank of Senior Administrative Grade Officers [Clause 
+64(3)(b)]. When the agreement specifically provides for appointment 
+of the Arbitral Tribunal consisting of three arbitrators from out of the 
+panel of serving or retired railway officers, the appointment of the 
+arbitrators should be in terms of the agreement as agreed by the 
+parties. That being the conditions in the agreement between the 
+parties and the General Conditions of the Contract, the High Court 
+was not justified in appointing an independent sole arbitrator 
+ignoring Clauses 64(3)(a)(ii) and 64(3)(b) of the General Conditions 
+of Contract and the impugned orders cannot be sustained. 
+……………” 
+ 
+19. 
+Although, the correctness of the judgment of the Supreme Court in 
+CORE was doubted by coordinate benches of the Supreme Court in the case 
+of M/s Tantia Constructions Limited (supra) and JSW Steel Vs. South 
+Western Railway & Anr.11, the operation of the said judgment has not yet 
+been stayed and therefore it continues to hold the field, as also observed by a 
+coordinate bench of this Court in the case of M/s Singh Associates Vs. 
+Union of India12. However, it needs to be emphasized that the judgment in 
+CORE is an authority only in respect of the propositions identified and 
+carved out in CORE itself and its applicability cannot be ipso facto extended 
+                                          
+11[SLP (C) No. 9462 of 2022] 
+122022/DHC/004244 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 12 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 12 of 27 
+for the purpose of adjudication of other aspects which have not been 
+purported to be answered in CORE. As observed in  Delhi Airport Metro 
+Express Private Limited vs. Delhi Metro Rail Corporation13: 
+“........ 
+33..... 
+every judgement must be read as applicable to the particular facts proved, or 
+assumed to be proved. The generality of the expressions which are found in a 
+judgment cannot be considered to be intended to be the exposition of the whole 
+law….. 
+........... 
+35....... 
+ratio decidendi is the rule deducible from the application of law to the facts and 
+circumstances of a case which constitutes its ratio decidendi and not some 
+conclusion based on facts which may appear to be similar 
+.......” 
+ 
+20. 
+Two fundamental issues which fall for consideration in this case and 
+which were not specifically answered in CORE, are as under:-  
+i. 
+When appointment of  arbitrator/s is to be made out of a 
+panel prepared by one of  the parties, whether the said 
+panel  is required to be “broad-based”, in conformity with 
+the principle laid down in Voestalpine (supra), and if so, 
+what is the  consequence where the panel is not sufficiently 
+“broad based” ? 
+ii. 
+Whether “counter balancing” [as contemplated in Perkins 
+(supra)] is achieved in a situation where one of the parties 
+has a right to choose an arbitrator from a panel whereas 
+the remaining (2 out of 3) members of the arbitral tribunal 
+are appointed by the other party?  
+21. 
+The Supreme Court in Voestalpine (supra), considers in detail, an 
+                                          
+13(2022) 9 SCC 286 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 13 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 13 of 27 
+arbitration agreement which contemplates that one of the parties thereto 
+shall provide a panel to the other side for the purpose of appointment of 
+arbitrator(s). 
+22. 
+The appointment procedure that fell for consideration in Voestalpine 
+(supra) was noted therein as under :  
+“…….. 
+8. As per the aforesaid procedure, having regard to the quantum of 
+claims and counter claims, three arbitrators are to constitute the 
+arbitral tribunal. The agreement further provides that respondent 
+would make out a panel of engineers with the requisite qualifications 
+and professional experience, which panel will be of serving or retired 
+engineers of government departments or public sector undertakings. 
+From this panel, the respondent has to give a list of five engineers to 
+the petitioner and both the petitioner and the respondent are required 
+to choose one arbitrator each from the said list. The two arbitrators 
+so chosen have to choose the third arbitrator from that very list, who 
+shall act as the presiding arbitrator. 
+………..” 
+ 
+23. 
+In the context of the above procedure, Voestalpine (supra) proceeds to 
+hold that bias or even real likelihood of bias cannot be attributed to persons 
+of the panel simply on the ground that they were retired government or PSU 
+employees. The Supreme Court further notes in Voestalpine that during the 
+course of proceedings in that case, DMRC had forwarded a list of all 31 
+persons on its panel to the petitioner therein for the purpose of nomination 
+by the petitioner of its nominee arbitrator, thereby giving a very wide choice 
+to the petitioner. However, with regard to the stipulation in the concerned 
+arbitration agreement in terms of which a list of 5 engineers from the panel 
+was to be given to the petitioner from which the petitioner was obliged to 
+nominate its arbitrator, the Supreme Court held as under:  
+“…….. 
+28. Before we part with, we deem it necessary to make certain 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 14 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 14 of 27 
+comments on the procedure contained in the arbitration agreement for 
+constituting the Arbitral Tribunal. Even when there are a number of 
+persons empanelled, discretion is with DMRC to pick five persons 
+therefrom and forward their names to the other side which is to select 
+one of these five persons as its nominee (though in this case, it is now 
+done away with). Not only this, DMRC is also to nominate its 
+arbitrator from the said list. Above all, the two arbitrators have also 
+limited choice of picking upon the third arbitrator from the very same 
+list i.e. from remaining three persons. This procedure has two 
+adverse consequences. In the first place, the choice given to the 
+opposite party is limited as it has to choose one out of the five names 
+that are forwarded by the other side. There is no free choice to 
+nominate a person out of the entire panel prepared by DMRC. 
+Secondly, with the discretion given to DMRC to choose five persons, 
+a room for suspicion is created in the mind of the other side that 
+DMRC may have picked up its own favourites. Such a situation has 
+to be countenanced. We are, therefore, of the opinion that sub-clauses 
+(b) & (c) of Clause 9.2 of SCC need to be deleted and instead choice 
+should be given to the parties to nominate any person from the entire 
+panel of arbitrators. Likewise, the two arbitrators nominated by the 
+parties should be given full freedom to choose the third arbitrator 
+from the whole panel. 
+………..” 
+ 
+24. 
+The Supreme Court in Voestalpine  (supra) also proceeded to observe 
+as under:-  
+“…….. 
+29. Some comments are also needed on Clause 9.2(a) of GCC/SCC, as 
+per which DMRC prepares the panel of "serving or retired engineers 
+of government departments or public sector undertakings". It is not 
+understood as to why the panel has to be limited to the aforesaid 
+category of persons. Keeping in view the spirit of the amended 
+provision and in order to instil confidence in the mind of the other 
+party, it is imperative that panel should be broadbased. Apart from 
+serving or retired engineers of government departments and public 
+sector undertakings, engineers of prominence and high repute from 
+private sector should also be included. Likewise panel should 
+comprise of persons with legal background like Judges and lawyers 
+of repute as it is not necessary that all disputes that arise, would be 
+of technical nature. There can be disputes involving purely or 
+substantially legal issues, that too, complicated in nature. Likewise, 
+some disputes may have the dimension of accountancy, etc. 
+Therefore, it would also be appropriate to include persons from this 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 15 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 15 of 27 
+field as well.  
+30. Time has come to send positive signals to the international 
+business community, in order to create healthy arbitration 
+environment and conducive arbitration culture in this country. 
+Further, as highlighted by the Law Commission also in its report, duty 
+becomes more onerous in government contracts, where one of the 
+parties to the dispute is the Government or public sector undertaking 
+itself and the authority to appoint the arbitrator rests with it. In the 
+instant case also, though choice is given by DMRC to the opposite 
+party but it is limited to choose an arbitrator from the panel prepared 
+by DMRC. It, therefore, becomes imperative to have a much 
+broadbased panel, so that there is no misapprehension that principle 
+of impartiality and independence would be discarded at any stage of 
+the proceedings, specially at the stage of constitution of the Arbitral 
+Tribunal. We, therefore, direct that DMRC shall prepare a 
+broadbased panel on the aforesaid lines, within a period of two 
+months from today. 
+………….” 
+ 
+25. 
+Thus, it was held by the Supreme Court in Voestalpine (supra) that: 
+i. 
+Affording a panel of five names to the petitioner from which 
+the petitioner was required to nominate its nominee arbitrator, 
+was restrictive in nature; the same created room for suspicion 
+that DMRC may have picked up its own favourite;  
+ii. 
+Choice should be given to the concerned party to nominate any 
+person from the entire panel of arbitrators;  
+iii. 
+The two arbitrators nominated by the parties should be given 
+full freedom to choose the third arbitrator;  
+iv. 
+The panel ought not to be restricted/limited to retired engineers 
+and/or retired employees but should be broad based and apart 
+from serving or retired employees of government departments 
+and public sector undertakings, the panel should include 
+lawyers, judges, engineers of prominence from the private 
+sector etc.  
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 16 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 16 of 27 
+26. 
+CORE does not in any manner overrule Voestalpine (supra) or narrow 
+down the scope thereof, although it does not deal specifically with the issue 
+as to whether the panel afforded by the Railways in that case was in 
+conformance with the principles laid down in Voestalpine (supra). 
+27. 
+The difficulties which were found to have inflicted the panel afforded 
+to the petitioner in Voestalpine (supra) also squarely apply to the present 
+case.  
+28. 
+In the present case, the respondent has shared a panel of ten 
+arbitrators 
+with 
+the 
+petitioner, 
+all 
+being 
+ex-employees 
+of 
+the 
+Railways/RailTel. Apart from the ex-employees of the railways, no other 
+person has been included in the panel. Such a panel is clearly restrictive and 
+is manifestly not “broadbased” and therefore, impinges upon the validity of 
+the appointment procedure prescribed in clause 3.37 of the RFP. 
+29. 
+ The principle laid down in Voestalpine (supra) has been followed in 
+a large number of cases to adjudge upon validity of appointment procedure 
+involving appointment from a panel. Thus, In SMS Ltd. Vs Rail Vikas 
+Nigam Limited14, out a panel of 37 names, only eight names had no 
+connection with the Railways. It was held that even though the panel 
+comprised as many as 37 names, it was not sufficiently broadbased.  In that 
+case, a previous judgement in the case of Simplex Infrastructures Ltd. Vs. 
+Rail Vikas Nigam Limited15 was also taken note of, in which a panel of 26 
+names (out of which only 9 were unconnected with the Railways) was held 
+to be not sufficiently broad based inasmuch as the same did not comprise 
+independent persons such as judges, lawyers, engineers of prominence from 
+                                          
+14 (2020) SCC Online Del 77 
+15  2018 SCC Online Del 13122 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 17 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 17 of 27 
+the private sector etc. The said judgements were relied upon in the case of 
+Overnite Express Limited Vs. Delhi Metro Rail Corporation16, this court 
+went to the extent of holding that “the procedure of forwarding a panel of 
+five names to the other contracting party to choose its nominee Arbitrator is 
+now held to be no longer a valid procedure.” 
+30. 
+Similarly, in BVSR-KVR (Joint Ventures) Vs. Rail Vikas Nigam 
+Ltd.17, this Court inter alia observed as under: 
+“…….. 
+29. It was Mr. Rao's plea that this Court in SMS Limited (supra) in unequivocal 
+terms has held the arbitration clause as invalid as the same does not suffice the 
+concept of neutrality of Arbitrators. Suffice would it be to state, that in SMS 
+Limited (supra) this Court while dealing with the same arbitration clause in 
+paragraph 32 has held as under: 
+“32. There is no dispute that there are only eight members out of thirty seven in 
+the panel provided by the respondent Company who are Officers retired from 
+organizations other than the Railways and PSUs not connected with the 
+Railways. The Supreme Court in Voestalpine Schienen GMBH (supra) had 
+observed as to why the panel should not be limited to Government departments or 
+public sector undertakings; and went on to hold that in order to instill confidence 
+in the mind of the other party, it is imperative that apart from serving or retired 
+engineers of government departments and public sector undertakings, Engineers 
+of prominence and high repute from private sector should also be included, 
+likewise panel should comprise of persons with legal background like Judges and 
+Lawyers of repute as it is not necessary that all the disputes that arise would be 
+technical in nature. In fact, I find in the judgment of the Coordinate Bench of this 
+Court in Simplex Infrastructures Ltd. (supra), the respondent Company had 
+provided 26 names with only nine being Officers who were not connected with 
+Railways or other Railways organizations/Companies, still there being no 
+persons with any legal, accountancy backgrounds or from other diverse fields, the 
+Court went ahead to hold clearly that in spite of repeated judgments relying upon 
+the judgment of the Supreme Court in Voestalpine Schienen GMBH (supra), the 
+respondent refused to comprehensively broad base its panel and had appointed 
+the nominee Arbitrator on behalf of the respondent in the said case. So, it must 
+follow, that the panel of thirty seven names given by the respondent Company, 
+                                          
+162022:DHC:3144 
+ 
+172020 SCC OnLine Del 456 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 18 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 18 of 27 
+also, does not satisfy the concept of neutrality of Arbitrators as it is not broad 
+based.” 
+30. From the above narration it is clear that this Court in SMS Limited (supra) 
+has held that the panel of 37 names (in this case only five names) given by the 
+respondent Company does not satisfy the concept of neutrality of Arbitrators as it 
+is not broad based as contemplated by the Supreme Court in the case 
+of Voestalpine Schienen GMBH (supra). The said conclusion is squarely 
+applicable in this case as the respondent Company has not even shown that they 
+have broad based the panel keeping in view the mandate of the Supreme Court 
+in Voestalpine Schienen GMBH (supra). 
+…….. 
+34. Similarly, he had also relied upon the judgment of this Court in Newton 
+Engineering & Chemicals (supra) to contend that there was no provision under 
+the Act empowering the Court to terminate the mandate of the Arbitrator 
+appointed in terms of the agreement between the parties and the remedy to any 
+challenge against the appointment of Arbitrator was under Section 13 of the 
+Arbitration and Conciliation Act before the Arbitrator. I am not in agreement 
+with the submissions made by Mr. Seth by relying upon aforesaid two judgments 
+for the simple reason that in Perkins Eastman Architects DPC (supra), the 
+Supreme Court while dealing with an application under Section 11(6) read with 
+Section 11(12)(a) of the Act of 1996 held that as per the scheme of Section 11 of 
+the Act, if there are justifiable doubts as to the independence and impartiality of 
+the persons nominated, and if other circumstances warrant appointment of an 
+independent Arbitrator by ignoring the procedure prescribed, such appointment 
+can be made by the Court. 
+………” 
+31. 
+Again in Consortium of Autometers Alliance Ltd. and Canny 
+Elevators Co. Ltd. Vs. Chief Electrical Engineer/Planning, Delhi Metro 
+Rail Corporation & Ors.18, in the context of the panel that fell for 
+consideration in that case, this Court observed as under : 
+“…….. 
+33. There is no dispute that out of the 51 names provided, there are 26 retired 
+Judges, 22 public sector engineers and three public sector accountants / 
+financial professionals. No doubt, the panel do not have persons like lawyers of 
+repute or accountants / financial professionals or engineers from the private 
+sector but the panel consisting of 51 names is ten times the initial panel of five 
+names provided by the Respondent. The dispute between the parties is with 
+regard to the Service Tax. Surely, with 26 retired Judges on the panel and also 
+                                          
+182021:DHC:68 
+ 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 19 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 19 of 27 
+persons, who are serving / retired from public sector undertakings like Railways 
+/ RITES / RVNL other than the respondent Delhi Metro Rail Corporation and it 
+was held by the Supreme Court in Voestalpine Schienen GMBH (supra) that 
+panel consisting of names of persons, who have retired from other public sector 
+undertakings will not be a ground to challenge it under Section 12(5) of the Act 
+or relevant Schedules therein, this Court is of the view that arguments as 
+advanced by Mr. Wadhwa are not sustainable in the facts of this case. Further, I 
+note that the petitioner has nominated a retired Judge of the High Court as its 
+nominee arbitrator and not a person with finance background. Merely because 
+the Respondent could have further broad based the panel cannot be a ground to 
+hold that the current panel of 51 names is not broad based when it consists of 
+names of 26 retired High Court / District / Additional District Judges and 
+serving / retired officers of the other Public Sector Undertakings.  
+34. In fact, the Supreme Court in Voestalpine Schienen GMBH (supra) has not 
+disapproved the procedure of preparing a panel of arbitrators, for appointing 
+arbitrators to adjudicate the disputes between the parties. The ratio of the 
+judgment of the Supreme Court in Voestalpine Schienen GMBH (supra) is that a 
+party must have a wider choice for nominating its arbitrator from the panel. I 
+am of the view, the panel now prepared by the Respondent having 51 names is 
+broad based and the petitioner has a wider choice to choose its nominee 
+arbitrator. If the plea of Mr. Wadhwa has to be accepted and the prayers made 
+in the petition are granted, it shall make the panel and the procedure 
+contemplated in the GCC redundant, which is impermissible. I also state that the 
+reliance placed by Mr. Wadhwa on the judgment of SMS Ltd. (supra) is 
+misplaced. The said judgment is clearly distinguishable as the subsequent panel 
+produced by the respondent therein was clearly not broad-based owing to the 
+presence of only 8 members out of 37 in the panel provided, who were officers 
+retired from organization other than Railways (respondent therein) and Public 
+Sector Undertakings connected with Railways whereas in the panel in hand, the 
+26 names include retired Additional District Judges / District Judges / High 
+Court Judges. 
+…………” 
+ 
+32. 
+In M/s Singh Associates (supra) it was observed by this Court as 
+under:- 
+“……. 
+34. No doubt, the respondent has stated in their reply that it can appoint a retired 
+employee, but they have not placed before this Court, any names/panel prepared 
+by them in terms of the Judgment of the Supreme Court in the case of Voestalpine 
+Schienen GMBH v. Delhi Metro Rail Corporation Ltd., Arbitration Petition 
+(Civil) No. 50 of 2016, wherein it is held that a party cannot, on their own, 
+appoint a retired employee to be an arbitrator without giving a choice of more 
+than one retired employee to enable the other party to agree to one name from 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 20 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 20 of 27 
+amongst the panel, who can act as an arbitrator. Regard must be had to the 
+direction of the Supreme Court in Voestalpine Schienen GMBH (supra), wherein 
+it is held as under:  
+“28. Some comments are also needed on the clause 9.2(a) of the 
+GCC/SCC, as per which the DMRC prepares the panel of 'serving or 
+retired engineers of government departments or public sector 
+undertakings'. It is not understood as to why the panel has to be limited to 
+the aforesaid category of persons. Keeping in view the spirit of the 
+amended provision and in order to instil confidence in the mind of the 
+other party, it is imperative that panel should be broad based. Apart from 
+serving or retired engineers of government departments and public sector 
+undertakings, engineers of prominence and high repute from private 
+sector should also be included. Likewise panel should comprise of persons 
+with legal background like judges and lawyers of repute as it is not 
+necessary that all disputes that arise, would be of technical nature. There 
+can be disputes involving purely or substantially legal issues, that too, 
+complicated in nature. Likewise, some disputes may have the dimension of 
+accountancy etc. Therefore, it would also be appropriate to include 
+persons from this field as well.” 
+35. In the absence of any submission/stand that such a panel has been prepared 
+which inter alia includes retired employees of the respondent, this Court has no 
+other alternative but to allow the present petition seeking appointment of an 
+Arbitrator.  
+………” 
+ 
+33. 
+This court in Gangotri Enterprises Ltd. Vs. General Manager 
+Northern Railways19, in the context of an identical procedure for 
+appointment in the context of a railways contract, taking note of the 
+judgments passed in CORE (supra), Voestalpine (supra), M/s Tantia 
+Constructions Limited (supra), BVSR-KVR (Joint Ventures) (supra) and 
+SMS Ltd. Vs. Rail Vikas Nigam Limited20, inter-alia,  held as under:- 
+“……. 
+31. In the present cases, it is seen that the panel of arbitrators as sent by the 
+respondent contained only four names, which cannot be considered to be broad 
+based by any extent of imagination. Thus, the said panel as given by the 
+respondent does not satisfy the concept of neutrality of arbitrators as held by 
+Supreme Court in the case of Voestalpine Schienen GMBH (supra). Further, as 
+                                          
+19 2022:DHC:4520 
+202020 SCC OnLine Del 77 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 21 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 21 of 27 
+already noted, Supreme Court has already given a prima facie view with respect 
+to correctness of the judgment in the case of Central Organisation for Railway 
+Electrification (supra), wherein a similar clause was considered and has passed 
+reference order for constituting a larger Bench to look into the correctness of 
+the said judgment. In view thereof, it is held that the petitioner herein was within 
+its right to nominate its Arbitrator.  
+………” 
+ 
+34. 
+Again in L&T Hydrocarbon Engineering Limited Vs. Indian Oil 
+Corporation Limited21 it was held as under :- 
+“………. 
+96. In the present case, the stipulation requires forwarding three names (even if 
+they are retired employees from other organizations and not IOCL) to the 
+petitioners, for it to choose one name amongst them to act as the Sole Arbitrator. 
+It cannot be overlooked that the list of three names is a restrictive panel limiting 
+the choice of the petitioner to only three options. I have noted that the three 
+persons named in the panel forwarded to the petitioner are retired officers of 
+different organisations like ONGC, SAIL and GAIL. The integrity and 
+impartiality of these officers could not be normally doubted. However, in the 
+absence of a free choice given to the petitioner to choose the arbitrator from a 
+broad and diversified panel, and the power conferred upon the respondent to 
+forward any three names as the panel at its discretion, there is a possibility of 
+apprehension arising on part of the petitioner about the impartiality of the 
+persons in the panel so forwarded. Whether such an apprehension is justified or 
+not, is not for this Court to decide, and is, in any case, immaterial. It is settled 
+law that even an apprehension of bias of an arbitrator in the minds of the parties 
+would defeat the purpose of arbitration, and such a situation must be avoided.  
+97. Therefore, I declare that the procedure for appointment of the arbitrator (if 
+any) shall necessarily be in terms of the observations of the Supreme Court in 
+Voestalpine Schienen GmBH (supra).  
+98. It is directed that in view of my conclusion in paragraph 80, the General 
+Manager concerned shall consider the claims of the petitioner and take a decision 
+whether they are to be notified or not, within eight weeks from today. Thereafter, 
+the parties shall proceed in accordance with law.  
+…………” 
+ 
+35. 
+Thus, in an appointment procedure involving appointment from a 
+panel made by one of the contracting parties, it is mandatory for the panel to 
+be sufficiently broad based, in conformity with the principle laid down in 
+                                          
+212022/DHC/004531 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 22 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 22 of 27 
+Voestalpine (supra), failing which, it would be incumbent on the Court, 
+while exercising jurisdiction under Section 11, to constitute an independent 
+and impartial Arbitral Tribunal as mandated in TRF (supra) and Perkins 
+(supra). The judgement of the Supreme Court in CORE does not alter the 
+position in this regard.   
+36. 
+In the facts of the present case, applying the principles laid down in 
+Voestalpine (supra) and in view of the aforesaid judgments of this Court, 
+including in L&T Hydrocarbon Engineering Limited (supra), it is evident 
+that the panel offered by the respondent to the petitioner in the present case 
+is restrictive and not broadbased. The same adversely impinges upon the 
+validity of the appointment procedure contained in clause 3.37 (supra), and 
+necessitates that an independent Arbitral Tribunal be constituted by this 
+Court. 
+37. 
+This brings us to the next issue that arises in the context of the 
+arbitration clause in the present case, viz. whether “counter balancing” is 
+achieved in a situation where one of the parties has a right to choose an 
+arbitrator from a panel whereas 2/3rd of the members of the arbitral 
+tribunal are  appointed by the other party.  
+38. 
+In TRF Limited (supra), it was observed by the Supreme Court as 
+under:-  
+“50...........At the cost of repetition, we may state that when there are 
+two parties, one may nominate an arbitrator and the other may 
+appoint another. That is altogether a different situation. If there is a 
+clause requiring the parties to nominate their respective arbitrator, 
+their authority to nominate cannot be questioned. What really in that 
+circumstances can be called in question is the procedural compliance 
+and the eligibility of their arbitrator depending upon the norms 
+provided under the Act and the Schedules appended thereto. 
+………….” 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 23 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 23 of 27 
+ 
+39. 
+Also in Perkins (supra), the Supreme Court observed as under:-  
+“.................. 
+21............The next sentences in the paragraph, further show that cases 
+where both the parties could nominate respective arbitrators of their 
+choice were found to be completely a different situation. The reason is 
+clear that whatever advantage a party may derive by nominating an 
+arbitrator of its choice would get counter balanced by equal power 
+with the other party. But, in a case where only one party has a right to 
+appoint a sole arbitrator, its choice will always have an element of 
+exclusivity in determining or charting the course for dispute 
+resolution… 
+...........” 
+ 
+40. 
+In the light of the aforesaid observations in TRF (supra) and Perkins 
+(supra), it was observed by the Supreme Court in CORE as under:  
+“........... 
+37.........Thus, the right of the General Manager in formation of the 
+Arbitral Tribunal is counterbalanced by the respondent‟s power to 
+choose any two from out of the four names and the General Manager 
+shall appoint at least one out of them as the Contractor‟s nominee. 
+38. ..........Thus, the power of the General Manager to nominate the 
+arbitrator is counter balanced by the power of the respondent to select 
+any of the two nominees from out of the four names suggested from 
+the panel of the retired officers. In view of the modified clauses 64(3) 
+(a) (ii) and 64 (3) (b) of GCC, it cannot therefore be said that the 
+General Manager has become ineligible to act as (sic nominate) the 
+arbitrator. We do not find any merit in the contrary contention of the 
+respondent. The decision in TRF Ltd. is not applicable to the present 
+case. 
+………….” 
+ 
+41. 
+The fulcrum of CORE is that the right of one of the parties to 
+prescribe a panel of persons from which the parties would appoint their 
+nominee arbitrators is counter balanced by the power of other contracting 
+party to choose therefrom. However, whether counter balancing can be 
+achieved in a situation where one of the contracting parties has a right to 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 24 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 24 of 27 
+appoint the remaining 2/3rd of the members of the arbitral tribunal, was not 
+specifically considered in CORE. The said issue  came to be considered by a 
+coordinate bench of this Court in M/s CMM Infraprojects Ltd. Vs. IRCON 
+International Ltd.22 wherein it was, inter-alia, held as under:- 
+“…….. 
+21. The other anomaly which merits consideration is that the Managing Director 
+of the Respondent, who has a direct interest in the outcome of the case, is directly 
+appointing 2/3rd of the members of the Arbitral Tribunal. And also plays a role in 
+the appointment of the 3rd arbitrator i.e., the contractor‟s nominee. This is 
+against the spirit of the judgment in Perkins Eastman (supra). This argument was 
+perhaps not raised in CORE (supra).  
+22. In cases where the arbitration clause provides a genuine counterbalancing of 
+power of appointment between the two parties i.e., when one party appoints its 
+nominee and the other party does the same and the two nominees together decide 
+the presiding arbitrator the Court would not find any imbalance impinging upon 
+the concept of party autonomy. This was the sentiment expressed by the Supreme 
+Court in TRF Limited v. Energo Engineering Projects Limited9 , particularly 
+para 50 which reads as under: -  
+“50………………..We are singularly concerned with the issue, whether the 
+Managing Director, after becoming ineligible by operation of law, is he 
+still eligible to nominate an arbitrator. At the cost of repetition, we may 
+state that when there are two parties, one may nominate an arbitrator and 
+the other may appoint another. That is altogether a different situation. If 
+there is a clause requiring the parties to nominate their respective 
+arbitrator, their authority to nominate cannot be questioned. What really 
+in that circumstance can be called in question is the procedural 
+compliance and the eligibility of their arbitrator depending upon the 
+norms provided under the Act and the Schedules appended thereto.”  
+The said view was also endorsed in Perkins Eastman (supra) [para 21] to the 
+following effect:  
+“21. But, in our view that has to be the logical deduction from TRF 
+Limited4 . Paragraph 50 of the decision shows that this Court was 
+concerned with the issue, “whether the Managing Director, after 
+becoming ineligible by operation of law, is he still eligible to nominate an 
+Arbitrator” The ineligibility referred to therein, was as a result of 
+operation of law, in that a person having an interest in the dispute or in 
+the outcome or decision thereof, must not only be ineligible to act as an 
+arbitrator but must also not be eligible to appoint anyone else as an 
+arbitrator and that such person cannot and should not have any role in 
+charting out any course to the dispute resolution by having the power to 
+                                          
+222021:DHC:2578 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 25 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 25 of 27 
+appoint an arbitrator. The next sentences in the paragraph, further show 
+that cases where both the parties could nominate respective arbitrators of 
+their choice were found to be completely a different situation. The reason 
+is clear that whatever advantage a party may derive by nominating an 
+arbitrator of its choice would get counter balanced by equal power with 
+the other party. But, in a case where only one party has a right to appoint 
+a sole arbitrator, its choice will always have an element of exclusivity in 
+determining or charting the course for dispute resolution. Naturally, the 
+person who has an interest in the outcome or decision of the dispute must 
+not have the power to appoint a sole arbitrator. That has to be taken as 
+the essence of the amendments brought in by the Arbitration and 
+Conciliation (Amendment) Act, 2015 (Act 3 of 2016) and recognised by 
+the decision of this Court in TRF Limited4 .”  
+The clause in the present case does not provide for any effective counter 
+balancing. The process starts with selection of a panel by the Respondent and this 
+restricts the element of choice that the contractor may exercise in choosing its 
+nominee. Nonetheless, it allows the Respondent to ultimately choose the 
+contractor‟s nominee from the two names suggested by the contractor. However, 
+the clause also entitles the Respondent to choose the balance two arbitrators from 
+the panel or even outside. This undeniably indicates that the scales are tipped in 
+favour of the Respondent when it comes to the appointment process. In effect, 
+2/3rd strength of the Arbitral Tribunal is nominated by the Respondent. This 
+leads to the inexorable conclusion that the clause in its current state may not be 
+workable. Thus, the reliance of the Respondent upon the judgment in CORE 
+(supra) is misplaced. 
+……………" 
+ 
+42. 
+The reasoning and the conclusion in CMM (supra) on the above 
+aspect  was followed by this court in Pankaj Mittal Vs. Union of India23, 
+where in it was observed as under: 
+“………. 
+4. This Court has considered the afore-noted clause in a recent judgment passed 
+in ARB.P. 407/2020 dated 23rd August, 2021 titled – „M/s. CMM Infraprojects 
+Ltd. v. IRCON International Ltd.‟, wherein an identical clause has been 
+considered by this Court. The clause herein as worded, permits the Respondent to 
+make nomination of 2/3rd strength of the Arbitral Tribunal, which tilts the scales 
+in favour of the Respondent in the appointment process. For this reason and 
+others as noted in the afore-noted judgment, the Court found the case of Central 
+Organisation for Railway Electrification (supra) distinguishable. The said 
+reasons apply to this case as well. 
+                                          
+23Order dated 16.12.2021 in Pankaj Mittal Vs. Union of India ARB.P. 607/2021 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 26 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 26 of 27 
+…………..” 
+ 
+The above observations also squarely apply in connection with the 
+arbitration agreement that falls for consideration in the present case. Thus, 
+the appointment procedure contained in Clause 3.37 of the RFP fails to pass 
+muster for this reason as well. The “counter balancing” as contemplated in 
+Perkins (supra) cannot be said to have been achieved in a situation where 
+one of the parties has a right to choose an arbitrator from a panel  and where 
+the remaining (2 out of 3) arbitrators are appointed by the other party.  
+43. 
+In the circumstances, the prayer of the Petitioner seeking appointment 
+of an independent, impartial Arbitral Tribunal to adjudicate the disputes 
+between the petitioner no.1 and the respondent, is allowed. The agreement 
+between the parties contemplates a three member Arbitral Tribunal. 
+Accordingly, Justice (Retd.) Dr. A. K. Sikri,  Former Judge, Supreme Court 
+of India, (Mobile No. 9818000300) is appointed as the Petitioner‟s nominee 
+Arbitrator; Mr. Justice (Retd.) M.R. Shah, Former Judge, Supreme Court of 
+India (Mobile No. 9825049081) is appointed as the nominee Arbitrator of 
+the Respondent. The two arbitrators shall now concur to appoint the third 
+Arbitrator/ presiding Arbitrator within 30 days of the date of service of this 
+order.  
+44. 
+In the event, the Arbitrators are unable to concur on the name of the 
+third/ presiding Arbitrator, the parties shall be at liberty to approach the 
+Court.  
+45. 
+The parties are directed to appear before the Arbitral Tribunal as and 
+when constituted.  
+46. 
+Needless to say, the Arbitrators shall make the necessary disclosure(s) 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified
+
+
+--- PAGE 27 ---
+ 
+ARB.P.400/2022 
+ 
+ 
+ 
+           Page 27 of 27 
+as required under Section 12 of the Act. The Arbitrators shall fix their fees 
+in consultation with the parties.  
+47. 
+It is clarified that the Court has not examined any of the claims/ 
+contentions of the parties on the merits of the substantive disputes/s; and all 
+rights and contentions in this regard are left open. Both the parties shall be 
+free to raise their claims/counter claims before the Arbitral Tribunal in 
+accordance with law. 
+48. 
+With the above directions, the present petition is disposed of. 
+ 
+ 
+ 
+ 
+ 
+ 
+JULY 10, 2023 
+ 
+ 
+ 
+ 
+               SACHIN DATTA, J 
+rohit 
+Digitally Signed
+By:RADHA BISHT
+Signing Date:10.07.2023
+15:39:56
+Signature Not Verified

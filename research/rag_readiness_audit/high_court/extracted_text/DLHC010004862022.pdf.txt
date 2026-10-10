@@ -1,0 +1,267 @@
+--- PAGE 1 ---
+$~18 & 34 
+* 
+IN  THE  HIGH  COURT  OF  DELHI  AT  NEW  DELHI 
++  
+ITA 9/2023 
+ 
+HAIER APPLIANCES INDIA PVT LTD 
+       ..... Appellant 
+Through: 
+Mr. Neeraj Jain, Adv. with Mr. 
+Aniket D.Agrawal and Mr. 
+Saksham Singhal, Advs. 
+ 
+ 
+ 
+ 
+ 
+versus 
+ 
+DCIT CIRCLE 11(1) NEW DELHI 
+ 
+     ..... Respondent 
+Through: 
+Mr. Abhishek Maratha, Sr. 
+Standing Counsel 
+34 
++  
+W.P.(C) 261/2023 
+ 
+HAIER APPLIANCES INDIA PVT LTD 
+      ..... Petitioner 
+Through: 
+Mr. Neeraj Jain, Adv. with Mr. 
+Aniket D.Agrawal and Mr. 
+Saksham Singhal, Advs. 
+ 
+ 
+ 
+ 
+versus 
+ 
+DCIT CIRCLE 11(1) NEW DELHI 
+ 
+     ..... Respondent 
+Through: 
+Mr. Abhishek Maratha, Sr. 
+Standing Counsel 
+ 
+CORAM: 
+ 
+HON'BLE MR. JUSTICE YASHWANT VARMA 
+ 
+HON'BLE MR. JUSTICE PURUSHAINDRA KUMAR  
+KAURAV 
+ 
+ 
+ 
+ 
+O R D E R 
+% 
+ 
+ 
+ 
+28.02.2024 
+ 
+ 
+1. 
+The assessee has preferred the instant appeal – ITA 9/2023,  
+assailing the order of the Income Tax Appellate Tribunal [‘ITAT’] 
+dated 21 September 2020. Post the rendering of the said judgment by 
+the ITAT, the appellant appears to have approached it by way of a 
+miscellaneous application seeking to invoke its powers conferred by 
+Section 254(2) of the Income Tax Act, 1961 [‘Act’]. That 
+miscellaneous application came to be rejected by the ITAT by its 
+order of 10 August 2022. It is that order which stands impugned in 
+writ petition – W.P.(C) 261/2023.  
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 06/03/2024 at 11:28:24
+
+
+--- PAGE 2 ---
+2. 
+In the appeal, the following questions of law as proposed by the 
+assessee had been admitted by us in terms of the order dated January 
+10, 2023:  
+“(i) Whether in the facts and in the circumstances of the case, the 
+impugned order dated 21.09.2020 passed by the Tribunal is perverse / self-
+contradictory inasmuch as, on the one hand, the Tribunal following the 
+decision of this Hon‟ble Court in appellant‟s own case in ITA No.  
+713/2016 specifically allowed the appellant‟s contention that AMP 
+expenses should be benchmarked by the applying RPM method and that 
+the adjusted gross profit margin of appellant is higher than the adjusted 
+gross profit margin of the comparable company [thus, resulting in deletion 
+of the entire addition], while on the other hand, adjudicating the alternative 
+(without prejudice) submission of the appellant thereby, upholding AMP 
+adjustment to the extent of Rs.2,85,10,127?  
+(ii) Whether the impugned order dated 21.09.2020 passed by the Tribunal 
+based on grossly untenable application of legal principles and incorrect 
+appreciation of facts, to the extent of issues raised in the present appeal, is 
+factually and legally perverse?”   
+ 
+3. 
+We note that while dealing with the views taken by the Transfer 
+Pricing Officer [‘TPO’] and Dispute Resolution Panel [‘DRP’], the 
+ITAT had firstly observed that the Resale Price Method [‘RPM’] as 
+adopted by the appellant/assessee would clearly be applicable and thus 
+proceeded to benchmark Advertisement, Marketing, and Promotion 
+[‘AMP’] expenses by applying RPM. This is evident from the 
+following extract of the order dated 21 September 2020 passed by the 
+ITAT:-  
+“8. ………. In this context we hereby held that in present case the 
+Revenue has not pointed out as to how the Resale Price Method will 
+not be applicable Benchmarking AMP expenses applying RPM is as 
+under:- 
+ 
+ 
+Sales 
+A 
+2,276,497,423 
+3,634,123,511 
+Cost of Goods 
+sold  
+B 
+1,702,366,577 
+3,177,456,936 
+Gross 
+Profit 
+(„GP‟) 
+C=A-B 
+574,130,846 
+456,666,575 
+GP/Sales 
+ 
+25.22% 
+12.57% 
+ 
+AMP Expenses 
+D 
+273,602,101 
+161,113,130 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 06/03/2024 at 11:28:24
+
+
+--- PAGE 3 ---
+Less 
+selling 
+and 
+Distribution 
+Expenses 
+ 
+101,850,415 
+24,150,350 
+Less: 
+Grant received 
+from AE 
+E 
+151,210,838 
+ 
+Net 
+AMP 
+Expense 
+F=D-E 
+20,540,848 
+136,962,780 
+Adjusted Gross 
+profit 
+G=C-F 
+553,589,998 
+319,703,795 
+Adjusted 
+GP/Sales 
+G/A 
+24.32% 
+8.80% 
+ 
+4. 
+However, in the very next paragraph, it has proceeded to 
+undertake the quantification of arm‟s length price in relation to AMP 
+expenditure and held as under:- 
+“8. …. This is not disputed by the Revenue as the TPO in order 
+dated 21.10.2011 considered Vivek Limited as appropriate 
+comparable for benchmarking AMP expenses, applying Bright Line 
+Test. The TPO considered Vivek Limited as comparable as it is 
+trader/re-seller of home appliances and does not own any brand. But 
+since, the bright line test is not appropriate as held by the Hon'ble 
+Delhi High Court, we further examine that the element of adding 
+value to the goods by incurring AMP expenditure creating market 
+intangibles and enhancing brand value of the product is missing in 
+present assessee's case. From the perusal of the records it is found 
+that after excluding selling and distribution expense of Rs. 
+10,18,50,415, the adjustment works out to Rs.2,85,10 127, 
+computed as under: 
+ 
+Particulars 
+Amount (Rs.) 
+AMP expense of the assessee  
+17,17,51,687 
+ALP margin 
+4.64% 
+Arms length margin 
+79,69,278 
+Arms length price 
+17,97,20,965 
+Grant received 
+15,12,10,838 
+Adjustment 
+2,85,10,127 
+ 
+This computation is not disputed by the Revenue during the course of 
+hearing. Thus, at the best the adjustment made by the TPO/DRP ought to 
+be restricted to Rs. 2,85,10,127/ - as against Rs. 13,50,86,400/ -. Therefore 
+we direct the TPO/ DRP to restrict the adjustment to the extent of 
+Rs.2,85,10,127/-. Therefore , the appeal of the assessee is partly allowed.   
+ 
+9. In result, appeal of the assessee is partly allowed.”  
+ 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 06/03/2024 at 11:28:24
+
+
+--- PAGE 4 ---
+5. 
+The fact that the aforesaid observations are clearly inconsistent 
+and incompatible is accepted by the ITAT itself as is evident from 
+para 5 of the order dated 10 August 2022, which reads as under:-  
+“5. We have given a thoughtful consideration to the submissions made by 
+the Counsel and have carefully perused the order of this Tribunal (supra). 
+It is true that the Tribunal has recorded a conclusive finding that 
+application of RPM is appropriate in the instant case. However, thereafter 
+the Tribunal proceeded to determine the arms length price of AMP 
+expenses and directed the TPO to restrict the adjustment to 
+Rs.28510127/.” 
+ 
+6. 
+The ITAT appears to have felt constrained to not attempt to 
+rectify the apparent inconsistency bearing in mind, and in its 
+estimation, the limited extent and scope of power that stands vested 
+upon it by virtue of Section 254(2) of the Act. 
+7. 
+However, and since the inconsistency is apparent on the face of 
+the record, we allow ITA No. 9/2023 and set aside the order dated 21 
+September 2020. The matter shall stand remitted to the ITAT for 
+considering the appeal afresh. 
+8. 
+Bearing in mind the order passed in the connected appeal, no 
+interference would be merited with the order dated 10 August 2022 
+disposing of the miscellaneous application, which stands impugned in 
+the writ petition before us.  
+9. 
+The appeal as well as the writ petition shall stand disposed of on 
+the aforesaid terms.  
+ 
+ 
+YASHWANT VARMA, J. 
+ 
+ 
+PURUSHAINDRA KUMAR KAURAV, J. 
+FEBRUARY 28, 2024 
+p’ma 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 06/03/2024 at 11:28:24

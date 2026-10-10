@@ -1,0 +1,8 @@
+# Phase 3 Cross-Encoder Reranker Configuration
+model:
+  name: "BAAI/bge-reranker-base"
+  candidate_pool_size: 30
+  final_top_k: 10
+  batch_size: 16
+  max_length: 512
+  device: "cpu"

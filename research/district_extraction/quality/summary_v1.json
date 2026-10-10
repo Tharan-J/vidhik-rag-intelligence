@@ -1,0 +1,23 @@
+{
+  "pipeline_stage": "Milestone 1 (Diagnostics, Native Extraction, Quality)",
+  "total_documents_audited": 161,
+  "total_pages_extracted": 324,
+  "routing_distribution": {
+    "NATIVE_GOOD": 129,
+    "OCR_REQUIRED": 21,
+    "NATIVE_SUSPICIOUS": 11
+  },
+  "quality_status_distribution": {
+    "NATIVE_VALID": 120,
+    "OCR_REQUIRED": 30,
+    "NATIVE_SUSPICIOUS_VALID": 11
+  },
+  "anomaly_distribution": {
+    "EMPTY_EXTRACTION": 14,
+    "IMAGE_ONLY_DOCUMENT": 14,
+    "EXCESSIVE_SYMBOLS": 6,
+    "CONTAINS_BLANK_PAGES": 5,
+    "VERY_LOW_WORD_COUNT": 1
+  },
+  "timestamp": "2026-10-02 09:39:18"
+}

@@ -1,0 +1,452 @@
+{
+  "document_id": "DC_000134",
+  "source": {
+    "sha256": "59b248968b0b24917ddc60d90418594784622b14b7ee1c8dd69bbdc01533ff76",
+    "filename": "orders_2025_203800000662025_2.pdf",
+    "source_record_id": "DC-S3-134_36_13_1360016_2025_orders_2025_203800000662025_2",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 4,
+    "file_size_bytes": 74392
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.9986
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1555,
+      "word_count": 233,
+      "raw_text": "Page | 1  \n \nAssam Schedule VIII, Form No. 127 \nHigh Court Criminal Form No. (M) 106 \nORDER SHEET \nIN THE COURT OF CIVIL JUDGE (SENIOR DIVISION) \nSEPPA, EAST KAMENG DISTRICT, ARUNACHAL PRADESH \nCiv. Miscellaneous application No. 66/2025 \nIn Succession Application No. 70/2025 \nShri Kano Aka - Applicant \nDate \nOrder \nSignature \n \n11.02.2026 \n \nThe applicant Shri Kano Aka is present along with his \nLearned counsel Mr Taluk Beyong. \nRespondents namely Smti Maloi Aka, Shri Kumar Aka, \nShri John Aka ,Miss Cheding Aka, Shri Khumsi Nikhusow, \nSmti Sejim Nikhusow, Ms Gujuma Nikhusow and Shri Miza \nNikhusow are also present.  \nI have seen and perused the application praying for \naddition \nof \ncar \ninsurance \npolicy \nNo. \n201130020224850053500000 for the purpose of claiming the \ncar insurance amount approx. Rs. 22,13, 925/- along with \n4(four) bank accounts i.e. SBI bank account bearing number \n37480573388, CBI bank account bearing No.3313094904, \nPNB bank bearing account No. 9437000100004974 and Axis \nbank account bearing No. 922010036870444 in the \nsuccession certificate granted in favour of the applicant in \nsuccession application No. 70/2025 vide order dated \n02.09.2025 to claim debt and securities of the deceased late \nSaju Aka in addition to the 4(four) Nos of bank account \nalready granted to the applicant vide order dated 02.09.2025.  \nI have heard the learned counsel for the applicant and \nalso all the respondents in person.   \nVide filing No. 71/2026, 72/2026, 73/2026, 74/2026, \n75/2026, 76/2026, 77/2026, 78/2026, 79/2026 86/2025 &"
+    },
+    {
+      "page_number": 2,
+      "character_count": 1511,
+      "word_count": 217,
+      "raw_text": "Page | 2  \n \n87/2025 dated 04.02.2026, the applicant and all the \nrespondents namely filed their depositions in affidavit duly \nswear before Notary Public, Seppa wherein the respondents \ndeposed that they have no objection for amendment in \nsuccession application No. 70/2025 by adding car insurance \npolicy No. 201130020224850053500000 for the purpose of \nclaiming the car insurance amount approx. Rs. 22,13, 925/- \nalong with 4(four) bank accounts i.e. SBI bank account \nbearing number 37480573388, CBI bank account bearing \nNo.3313094904, \nPNB \nbank \nbearing \naccount \nNo. \n9437000100004974 and Axis bank account bearing No. \n922010036870444 and to issue in favour of the applicant. \nHence, learned counsel for the applicant Mr Taluk \nBeyong has prayed this court for amendment of succession \ncertificate in succession application No. 70/2025 by adding \ncar insurance policy No. 201130020224850053500000 for the \npurpose of claiming the car insurance amount approx. Rs. \n22,13, 925/- along with 4(four) bank accounts i.e. SBI bank \naccount bearing number 37480573388, CBI bank account \nbearing No.3313094904, PNB bank bearing account No. \n9437000100004974 and Axis bank account bearing No. \n922010036870444 to claim debt and securities of deceased \nSaju Aka. \nI have seen and perused the miscellaneous application \nNo. 66/2025 and also heard the learned counsel for the \napplicant and considered the same. Hence, the prayer for \namendment application in the instant succession application \nis hereby allowed."
+    },
+    {
+      "page_number": 3,
+      "character_count": 1152,
+      "word_count": 156,
+      "raw_text": "Page | 3  \n \nSince the family members of the deceased has already \ngave their deposition in affidavit having no objection, this \ncourt has no reason to deny granting afresh succession \ncertificate in favour of the applicant to inherit debts and \nsecurities of deceased by adding 3(three) accounts as it \nstated above. Accordingly, the application for granting afresh \nsuccession certificate is hereby allowed. \nIssue afresh succession certificate in favour of the \napplicant Shri Kano Aka by adding car insurance policy No. \n201130020224850053500000 for the purpose of claiming the \ncar insurance amount approx. Rs. 22,13, 925/- along with \n4(four) bank accounts i.e. SBI bank account bearing number \n37480573388, CBI bank account bearing No.3313094904, \nPNB bank bearing account No. 9437000100004974 and Axis \nbank account bearing No. 922010036870444 in the \nsuccession certificate in addition to earlier certificate granted \nvide order dated 02.09.2025.  \nWith the above order, this application stands allowed \nand disposed of. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n(Damge Niri) \nCivil Judge \n(Senior Division) \nSeppa"
+    },
+    {
+      "page_number": 4,
+      "character_count": 8,
+      "word_count": 3,
+      "raw_text": "Page | 4"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1507,
+      "word_count": 233,
+      "normalized_text": "Page | 1\n\nAssam Schedule VIII, Form No. 127\nHigh Court Criminal Form No. (M) 106\nORDER SHEET\nIN THE COURT OF CIVIL JUDGE (SENIOR DIVISION)\nSEPPA, EAST KAMENG DISTRICT, ARUNACHAL PRADESH\nCiv. Miscellaneous application No. 66/2025\nIn Succession Application No. 70/2025\nShri Kano Aka - Applicant\nDate\nOrder\nSignature\n\n11.02.2026\n\nThe applicant Shri Kano Aka is present along with his\nLearned counsel Mr Taluk Beyong.\nRespondents namely Smti Maloi Aka, Shri Kumar Aka,\nShri John Aka ,Miss Cheding Aka, Shri Khumsi Nikhusow,\nSmti Sejim Nikhusow, Ms Gujuma Nikhusow and Shri Miza\nNikhusow are also present.\nI have seen and perused the application praying for\naddition\nof\ncar\ninsurance\npolicy\nNo.\n201130020224850053500000 for the purpose of claiming the\ncar insurance amount approx. Rs. 22,13, 925/- along with\n4(four) bank accounts i.e. SBI bank account bearing number\n37480573388, CBI bank account bearing No.3313094904,\nPNB bank bearing account No. 9437000100004974 and Axis\nbank account bearing No. 922010036870444 in the\nsuccession certificate granted in favour of the applicant in\nsuccession application No. 70/2025 vide order dated\n02.09.2025 to claim debt and securities of the deceased late\nSaju Aka in addition to the 4(four) Nos of bank account\nalready granted to the applicant vide order dated 02.09.2025.\nI have heard the learned counsel for the applicant and\nalso all the respondents in person.\nVide filing No. 71/2026, 72/2026, 73/2026, 74/2026,\n75/2026, 76/2026, 77/2026, 78/2026, 79/2026 86/2025 &"
+    },
+    {
+      "page_number": 2,
+      "character_count": 1476,
+      "word_count": 217,
+      "normalized_text": "Page | 2\n\n87/2025 dated 04.02.2026, the applicant and all the\nrespondents namely filed their depositions in affidavit duly\nswear before Notary Public, Seppa wherein the respondents\ndeposed that they have no objection for amendment in\nsuccession application No. 70/2025 by adding car insurance\npolicy No. 201130020224850053500000 for the purpose of\nclaiming the car insurance amount approx. Rs. 22,13, 925/-\nalong with 4(four) bank accounts i.e. SBI bank account\nbearing number 37480573388, CBI bank account bearing\nNo.3313094904,\nPNB\nbank\nbearing\naccount\nNo.\n9437000100004974 and Axis bank account bearing No.\n922010036870444 and to issue in favour of the applicant.\nHence, learned counsel for the applicant Mr Taluk\nBeyong has prayed this court for amendment of succession\ncertificate in succession application No. 70/2025 by adding\ncar insurance policy No. 201130020224850053500000 for the\npurpose of claiming the car insurance amount approx. Rs.\n22,13, 925/- along with 4(four) bank accounts i.e. SBI bank\naccount bearing number 37480573388, CBI bank account\nbearing No.3313094904, PNB bank bearing account No.\n9437000100004974 and Axis bank account bearing No.\n922010036870444 to claim debt and securities of deceased\nSaju Aka.\nI have seen and perused the miscellaneous application\nNo. 66/2025 and also heard the learned counsel for the\napplicant and considered the same. Hence, the prayer for\namendment application in the instant succession application\nis hereby allowed."
+    },
+    {
+      "page_number": 3,
+      "character_count": 1057,
+      "word_count": 156,
+      "normalized_text": "Page | 3\n\nSince the family members of the deceased has already\ngave their deposition in affidavit having no objection, this\ncourt has no reason to deny granting afresh succession\ncertificate in favour of the applicant to inherit debts and\nsecurities of deceased by adding 3(three) accounts as it\nstated above. Accordingly, the application for granting afresh\nsuccession certificate is hereby allowed.\nIssue afresh succession certificate in favour of the\napplicant Shri Kano Aka by adding car insurance policy No.\n201130020224850053500000 for the purpose of claiming the\ncar insurance amount approx. Rs. 22,13, 925/- along with\n4(four) bank accounts i.e. SBI bank account bearing number\n37480573388, CBI bank account bearing No.3313094904,\nPNB bank bearing account No. 9437000100004974 and Axis\nbank account bearing No. 922010036870444 in the\nsuccession certificate in addition to earlier certificate granted\nvide order dated 02.09.2025.\nWith the above order, this application stands allowed\nand disposed of.\n\n(Damge Niri)\nCivil Judge\n(Senior Division)\nSeppa"
+    },
+    {
+      "page_number": 4,
+      "character_count": 8,
+      "word_count": 3,
+      "normalized_text": "Page | 4"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 10,
+    "total_sentences": 29,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 1507,
+        "word_count": 233,
+        "paragraph_count": 4,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000134_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 8,
+            "word_count": 3,
+            "sentence_count": 1,
+            "text": "Page | 1",
+            "sentences": [
+              {
+                "sentence_id": "DC_000134_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 8,
+                "word_count": 3,
+                "text": "Page | 1"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000134_P001_PAR002",
+            "paragraph_index": 2,
+            "character_count": 303,
+            "word_count": 47,
+            "sentence_count": 2,
+            "text": "Assam Schedule VIII, Form No. 127\nHigh Court Criminal Form No. (M) 106\nORDER SHEET\nIN THE COURT OF CIVIL JUDGE (SENIOR DIVISION)\nSEPPA, EAST KAMENG DISTRICT, ARUNACHAL PRADESH\nCiv. Miscellaneous application No. 66/2025\nIn Succession Application No. 70/2025\nShri Kano Aka - Applicant\nDate\nOrder\nSignature",
+            "sentences": [
+              {
+                "sentence_id": "DC_000134_P001_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 180,
+                "word_count": 30,
+                "text": "Assam Schedule VIII, Form No. 127\nHigh Court Criminal Form No. (M) 106\nORDER SHEET\nIN THE COURT OF CIVIL JUDGE (SENIOR DIVISION)\nSEPPA, EAST KAMENG DISTRICT, ARUNACHAL PRADESH\nCiv."
+              },
+              {
+                "sentence_id": "DC_000134_P001_PAR002_SEN002",
+                "sentence_index": 2,
+                "character_count": 122,
+                "word_count": 17,
+                "text": "Miscellaneous application No. 66/2025\nIn Succession Application No. 70/2025\nShri Kano Aka - Applicant\nDate\nOrder\nSignature"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000134_P001_PAR003",
+            "paragraph_index": 3,
+            "character_count": 10,
+            "word_count": 1,
+            "sentence_count": 1,
+            "text": "11.02.2026",
+            "sentences": [
+              {
+                "sentence_id": "DC_000134_P001_PAR003_SEN001",
+                "sentence_index": 1,
+                "character_count": 10,
+                "word_count": 1,
+                "text": "11.02.2026"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000134_P001_PAR004",
+            "paragraph_index": 4,
+            "character_count": 1180,
+            "word_count": 182,
+            "sentence_count": 7,
+            "text": "The applicant Shri Kano Aka is present along with his\nLearned counsel Mr Taluk Beyong.\nRespondents namely Smti Maloi Aka, Shri Kumar Aka,\nShri John Aka ,Miss Cheding Aka, Shri Khumsi Nikhusow,\nSmti Sejim Nikhusow, Ms Gujuma Nikhusow and Shri Miza\nNikhusow are also present.\nI have seen and perused the application praying for\naddition\nof\ncar\ninsurance\npolicy\nNo.\n201130020224850053500000 for the purpose of claiming the\ncar insurance amount approx. Rs. 22,13, 925/- along with\n4(four) bank accounts i.e. SBI bank account bearing number\n37480573388, CBI bank account bearing No.3313094904,\nPNB bank bearing account No. 9437000100004974 and Axis\nbank account bearing No. 922010036870444 in the\nsuccession certificate granted in favour of the applicant in\nsuccession application No. 70/2025 vide order dated\n02.09.2025 to claim debt and securities of the deceased late\nSaju Aka in addition to the 4(four) Nos of bank account\nalready granted to the applicant vide order dated 02.09.2025.\nI have heard the learned counsel for the applicant and\nalso all the respondents in person.\nVide filing No. 71/2026, 72/2026, 73/2026, 74/2026,\n75/2026, 76/2026, 77/2026, 78/2026, 79/2026 86/2025 &",
+            "sentences": [
+              {
+                "sentence_id": "DC_000134_P001_PAR004_SEN001",
+                "sentence_index": 1,
+                "character_count": 86,
+                "word_count": 15,
+                "text": "The applicant Shri Kano Aka is present along with his\nLearned counsel Mr Taluk Beyong."
+              },
+              {
+                "sentence_id": "DC_000134_P001_PAR004_SEN002",
+                "sentence_index": 2,
+                "character_count": 186,
+                "word_count": 30,
+                "text": "Respondents namely Smti Maloi Aka, Shri Kumar Aka,\nShri John Aka ,Miss Cheding Aka, Shri Khumsi Nikhusow,\nSmti Sejim Nikhusow, Ms Gujuma Nikhusow and Shri Miza\nNikhusow are also present."
+              },
+              {
+                "sentence_id": "DC_000134_P001_PAR004_SEN003",
+                "sentence_index": 3,
+                "character_count": 174,
+                "word_count": 26,
+                "text": "I have seen and perused the application praying for\naddition\nof\ncar\ninsurance\npolicy\nNo.\n201130020224850053500000 for the purpose of claiming the\ncar insurance amount approx."
+              },
+              {
+                "sentence_id": "DC_000134_P001_PAR004_SEN004",
+                "sentence_index": 4,
+                "character_count": 3,
+                "word_count": 1,
+                "text": "Rs."
+              },
+              {
+                "sentence_id": "DC_000134_P001_PAR004_SEN005",
+                "sentence_index": 5,
+                "character_count": 530,
+                "word_count": 80,
+                "text": "22,13, 925/- along with\n4(four) bank accounts i.e. SBI bank account bearing number\n37480573388, CBI bank account bearing No.3313094904,\nPNB bank bearing account No. 9437000100004974 and Axis\nbank account bearing No. 922010036870444 in the\nsuccession certificate granted in favour of the applicant in\nsuccession application No. 70/2025 vide order dated\n02.09.2025 to claim debt and securities of the deceased late\nSaju Aka in addition to the 4(four) Nos of bank account\nalready granted to the applicant vide order dated 02.09.2025."
+              },
+              {
+                "sentence_id": "DC_000134_P001_PAR004_SEN006",
+                "sentence_index": 6,
+                "character_count": 90,
+                "word_count": 16,
+                "text": "I have heard the learned counsel for the applicant and\nalso all the respondents in person."
+              },
+              {
+                "sentence_id": "DC_000134_P001_PAR004_SEN007",
+                "sentence_index": 7,
+                "character_count": 105,
+                "word_count": 14,
+                "text": "Vide filing No. 71/2026, 72/2026, 73/2026, 74/2026,\n75/2026, 76/2026, 77/2026, 78/2026, 79/2026 86/2025 &"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "character_count": 1476,
+        "word_count": 217,
+        "paragraph_count": 2,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000134_P002_PAR001",
+            "paragraph_index": 1,
+            "character_count": 8,
+            "word_count": 3,
+            "sentence_count": 1,
+            "text": "Page | 2",
+            "sentences": [
+              {
+                "sentence_id": "DC_000134_P002_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 8,
+                "word_count": 3,
+                "text": "Page | 2"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000134_P002_PAR002",
+            "paragraph_index": 2,
+            "character_count": 1466,
+            "word_count": 214,
+            "sentence_count": 8,
+            "text": "87/2025 dated 04.02.2026, the applicant and all the\nrespondents namely filed their depositions in affidavit duly\nswear before Notary Public, Seppa wherein the respondents\ndeposed that they have no objection for amendment in\nsuccession application No. 70/2025 by adding car insurance\npolicy No. 201130020224850053500000 for the purpose of\nclaiming the car insurance amount approx. Rs. 22,13, 925/-\nalong with 4(four) bank accounts i.e. SBI bank account\nbearing number 37480573388, CBI bank account bearing\nNo.3313094904,\nPNB\nbank\nbearing\naccount\nNo.\n9437000100004974 and Axis bank account bearing No.\n922010036870444 and to issue in favour of the applicant.\nHence, learned counsel for the applicant Mr Taluk\nBeyong has prayed this court for amendment of succession\ncertificate in succession application No. 70/2025 by adding\ncar insurance policy No. 201130020224850053500000 for the\npurpose of claiming the car insurance amount approx. Rs.\n22,13, 925/- along with 4(four) bank accounts i.e. SBI bank\naccount bearing number 37480573388, CBI bank account\nbearing No.3313094904, PNB bank bearing account No.\n9437000100004974 and Axis bank account bearing No.\n922010036870444 to claim debt and securities of deceased\nSaju Aka.\nI have seen and perused the miscellaneous application\nNo. 66/2025 and also heard the learned counsel for the\napplicant and considered the same. Hence, the prayer for\namendment application in the instant succession application\nis hereby allowed.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000134_P002_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 379,
+                "word_count": 54,
+                "text": "87/2025 dated 04.02.2026, the applicant and all the\nrespondents namely filed their depositions in affidavit duly\nswear before Notary Public, Seppa wherein the respondents\ndeposed that they have no objection for amendment in\nsuccession application No. 70/2025 by adding car insurance\npolicy No. 201130020224850053500000 for the purpose of\nclaiming the car insurance amount approx."
+              },
+              {
+                "sentence_id": "DC_000134_P002_PAR002_SEN002",
+                "sentence_index": 2,
+                "character_count": 3,
+                "word_count": 1,
+                "text": "Rs."
+              },
+              {
+                "sentence_id": "DC_000134_P002_PAR002_SEN003",
+                "sentence_index": 3,
+                "character_count": 272,
+                "word_count": 40,
+                "text": "22,13, 925/-\nalong with 4(four) bank accounts i.e. SBI bank account\nbearing number 37480573388, CBI bank account bearing\nNo.3313094904,\nPNB\nbank\nbearing\naccount\nNo.\n9437000100004974 and Axis bank account bearing No.\n922010036870444 and to issue in favour of the applicant."
+              },
+              {
+                "sentence_id": "DC_000134_P002_PAR002_SEN004",
+                "sentence_index": 4,
+                "character_count": 277,
+                "word_count": 40,
+                "text": "Hence, learned counsel for the applicant Mr Taluk\nBeyong has prayed this court for amendment of succession\ncertificate in succession application No. 70/2025 by adding\ncar insurance policy No. 201130020224850053500000 for the\npurpose of claiming the car insurance amount approx."
+              },
+              {
+                "sentence_id": "DC_000134_P002_PAR002_SEN005",
+                "sentence_index": 5,
+                "character_count": 3,
+                "word_count": 1,
+                "text": "Rs."
+              },
+              {
+                "sentence_id": "DC_000134_P002_PAR002_SEN006",
+                "sentence_index": 6,
+                "character_count": 282,
+                "word_count": 41,
+                "text": "22,13, 925/- along with 4(four) bank accounts i.e. SBI bank\naccount bearing number 37480573388, CBI bank account\nbearing No.3313094904, PNB bank bearing account No.\n9437000100004974 and Axis bank account bearing No.\n922010036870444 to claim debt and securities of deceased\nSaju Aka."
+              },
+              {
+                "sentence_id": "DC_000134_P002_PAR002_SEN007",
+                "sentence_index": 7,
+                "character_count": 143,
+                "word_count": 23,
+                "text": "I have seen and perused the miscellaneous application\nNo. 66/2025 and also heard the learned counsel for the\napplicant and considered the same."
+              },
+              {
+                "sentence_id": "DC_000134_P002_PAR002_SEN008",
+                "sentence_index": 8,
+                "character_count": 100,
+                "word_count": 14,
+                "text": "Hence, the prayer for\namendment application in the instant succession application\nis hereby allowed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 3,
+        "character_count": 1057,
+        "word_count": 156,
+        "paragraph_count": 3,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000134_P003_PAR001",
+            "paragraph_index": 1,
+            "character_count": 8,
+            "word_count": 3,
+            "sentence_count": 1,
+            "text": "Page | 3",
+            "sentences": [
+              {
+                "sentence_id": "DC_000134_P003_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 8,
+                "word_count": 3,
+                "text": "Page | 3"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000134_P003_PAR002",
+            "paragraph_index": 2,
+            "character_count": 997,
+            "word_count": 146,
+            "sentence_count": 6,
+            "text": "Since the family members of the deceased has already\ngave their deposition in affidavit having no objection, this\ncourt has no reason to deny granting afresh succession\ncertificate in favour of the applicant to inherit debts and\nsecurities of deceased by adding 3(three) accounts as it\nstated above. Accordingly, the application for granting afresh\nsuccession certificate is hereby allowed.\nIssue afresh succession certificate in favour of the\napplicant Shri Kano Aka by adding car insurance policy No.\n201130020224850053500000 for the purpose of claiming the\ncar insurance amount approx. Rs. 22,13, 925/- along with\n4(four) bank accounts i.e. SBI bank account bearing number\n37480573388, CBI bank account bearing No.3313094904,\nPNB bank bearing account No. 9437000100004974 and Axis\nbank account bearing No. 922010036870444 in the\nsuccession certificate in addition to earlier certificate granted\nvide order dated 02.09.2025.\nWith the above order, this application stands allowed\nand disposed of.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000134_P003_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 299,
+                "word_count": 48,
+                "text": "Since the family members of the deceased has already\ngave their deposition in affidavit having no objection, this\ncourt has no reason to deny granting afresh succession\ncertificate in favour of the applicant to inherit debts and\nsecurities of deceased by adding 3(three) accounts as it\nstated above."
+              },
+              {
+                "sentence_id": "DC_000134_P003_PAR002_SEN002",
+                "sentence_index": 2,
+                "character_count": 90,
+                "word_count": 11,
+                "text": "Accordingly, the application for granting afresh\nsuccession certificate is hereby allowed."
+              },
+              {
+                "sentence_id": "DC_000134_P003_PAR002_SEN003",
+                "sentence_index": 3,
+                "character_count": 197,
+                "word_count": 29,
+                "text": "Issue afresh succession certificate in favour of the\napplicant Shri Kano Aka by adding car insurance policy No.\n201130020224850053500000 for the purpose of claiming the\ncar insurance amount approx."
+              },
+              {
+                "sentence_id": "DC_000134_P003_PAR002_SEN004",
+                "sentence_index": 4,
+                "character_count": 3,
+                "word_count": 1,
+                "text": "Rs."
+              },
+              {
+                "sentence_id": "DC_000134_P003_PAR002_SEN005",
+                "sentence_index": 5,
+                "character_count": 333,
+                "word_count": 46,
+                "text": "22,13, 925/- along with\n4(four) bank accounts i.e. SBI bank account bearing number\n37480573388, CBI bank account bearing No.3313094904,\nPNB bank bearing account No. 9437000100004974 and Axis\nbank account bearing No. 922010036870444 in the\nsuccession certificate in addition to earlier certificate granted\nvide order dated 02.09.2025."
+              },
+              {
+                "sentence_id": "DC_000134_P003_PAR002_SEN006",
+                "sentence_index": 6,
+                "character_count": 70,
+                "word_count": 11,
+                "text": "With the above order, this application stands allowed\nand disposed of."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000134_P003_PAR003",
+            "paragraph_index": 3,
+            "character_count": 48,
+            "word_count": 7,
+            "sentence_count": 1,
+            "text": "(Damge Niri)\nCivil Judge\n(Senior Division)\nSeppa",
+            "sentences": [
+              {
+                "sentence_id": "DC_000134_P003_PAR003_SEN001",
+                "sentence_index": 1,
+                "character_count": 48,
+                "word_count": 7,
+                "text": "(Damge Niri)\nCivil Judge\n(Senior Division)\nSeppa"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 4,
+        "character_count": 8,
+        "word_count": 3,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000134_P004_PAR001",
+            "paragraph_index": 1,
+            "character_count": 8,
+            "word_count": 3,
+            "sentence_count": 1,
+            "text": "Page | 4",
+            "sentences": [
+              {
+                "sentence_id": "DC_000134_P004_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 8,
+                "word_count": 3,
+                "text": "Page | 4"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 36,
+    "state_name": "Arunachal Pradesh",
+    "district_code": 13,
+    "district_name": "East Kameng",
+    "court_complex_code": 1360016,
+    "court_complex_name": "CJM-cum-Civil Court, Seppa",
+    "year": 2025,
+    "case_type": "nan",
+    "case_number": "203800000662025",
+    "pdf_title": "",
+    "pdf_author": "Nilip Deb Singha",
+    "pdf_creator": "Microsoft® Word 2019",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260328084254+05'30'",
+    "pdf_mod_date": "D:20260328084254+05'30'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.9986,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "ENTITY_REMOVED_AMOUNTS",
+      "ENTITY_ADDED_AMOUNTS"
+    ],
+    "all_entities_preserved": false
+  },
+  "provenance": {
+    "source_sha256": "59b248968b0b24917ddc60d90418594784622b14b7ee1c8dd69bbdc01533ff76",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.484365"
+  }
+}

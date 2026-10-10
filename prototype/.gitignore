@@ -1,0 +1,25 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Qdrant local files / temp
+.qdrant/
+
+# Logs
+logs/*.log
+*.log
+
+# Cache
+.cache/
+.pytest_cache/

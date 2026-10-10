@@ -1,0 +1,168 @@
+{
+  "document_id": "DC_000020",
+  "source": {
+    "sha256": "964f17d9390862c2cf9fa0972b5daf2ded2ff04e4ceb00d0d7ec1f482f90b5ea",
+    "filename": "orders_2008_202100001742010_1.pdf",
+    "source_record_id": "DC-S3-020_2_10_1020104_2010_orders_2008_202100001742010_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 88321
+  },
+  "routing": {
+    "initial_route": "OCR_REQUIRED",
+    "fallback_used": false,
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER"
+  },
+  "extraction": {
+    "selected_method": "paddleocr",
+    "extractor_name": "RapidOCR-PP-OCRv4",
+    "extractor_version": "1.0.0",
+    "quality_score": 1.0
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1620,
+      "word_count": 224,
+      "raw_text": "Calendar and Judgment IN THE COURT OFTHEJUDICIAL MAGISTRATEOF FIRST CLASS,ALUR. C.C.NO:174/10 Date of Offence FilingApprehensionReleased on Commencement Closure Jugement bail of trial ofaccused of trial 02.09.08 20.09.1020.09:08 20.09.08 01.05.2013 19.12.13 20.12.13 Between: StateInspectorof Police,Chippagiri P.s. (Crime No.60/08) ....Complainant DESCRIPTION OF ACCUSED. S.No. Name of the Father's Name Age Village Mandal Occupation I.V.Sreedhar ReddyV.Sivereddy 32 years Deebaguntla Gospadu Contractor Offence :U/sec, 3(2) (e) of Prevention of Damages to public Property AcL1984. Plea of accused :Not guilty Finding of the court Not guilty Sentence orOrder : Accused wasfound not guilty for the offenceU/sec Sec.3 (2) (e) of Prevention of Damages to Public Property Act,1984,and heis acquitted U/sec.248(1)of Cr.P.C. His bail bonds shall be in forcefor six months as per 437-A ofCr.P.C. Explanation for the delay : This case was taken on file on 20.09.10 and numbered as above C.c. After furnishing copies of documents the accused was examined U/sec. 239 of Cr.P.C.on 04.02.2013 and on the same day charges was framed.As there is delay in producing witnesses by the prosecution P.Ws.1 to 3 were examinedon 01.05.2013,P.w.4wasexaminedon01.07.2013,P.W.5wasexaminedon 16.12.2013 and on the same day the evidence ofprosecution was closed. On 19.12.13 the accused was examined U/sec.3i3 Cr.P.C and on thesame day the trial was closed and arguments were Heard.On 20.12.13 Judgment was delivered.Hence, the delay. Judicief Magistrate of First Class, Alur.. Copy submitted to: TheHonourable Chief Judicial Magistrate,Kurnool."
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1620,
+      "word_count": 224,
+      "normalized_text": "Calendar and Judgment IN THE COURT OFTHEJUDICIAL MAGISTRATEOF FIRST CLASS,ALUR. C.C.NO:174/10 Date of Offence FilingApprehensionReleased on Commencement Closure Jugement bail of trial ofaccused of trial 02.09.08 20.09.1020.09:08 20.09.08 01.05.2013 19.12.13 20.12.13 Between: StateInspectorof Police,Chippagiri P.s. (Crime No.60/08) ....Complainant DESCRIPTION OF ACCUSED. S.No. Name of the Father's Name Age Village Mandal Occupation I.V.Sreedhar ReddyV.Sivereddy 32 years Deebaguntla Gospadu Contractor Offence :U/sec, 3(2) (e) of Prevention of Damages to public Property AcL1984. Plea of accused :Not guilty Finding of the court Not guilty Sentence orOrder : Accused wasfound not guilty for the offenceU/sec Sec.3 (2) (e) of Prevention of Damages to Public Property Act,1984,and heis acquitted U/sec.248(1)of Cr.P.C. His bail bonds shall be in forcefor six months as per 437-A ofCr.P.C. Explanation for the delay : This case was taken on file on 20.09.10 and numbered as above C.c. After furnishing copies of documents the accused was examined U/sec. 239 of Cr.P.C.on 04.02.2013 and on the same day charges was framed.As there is delay in producing witnesses by the prosecution P.Ws.1 to 3 were examinedon 01.05.2013,P.w.4wasexaminedon01.07.2013,P.W.5wasexaminedon 16.12.2013 and on the same day the evidence ofprosecution was closed. On 19.12.13 the accused was examined U/sec.3i3 Cr.P.C and on thesame day the trial was closed and arguments were Heard.On 20.12.13 Judgment was delivered.Hence, the delay. Judicief Magistrate of First Class, Alur.. Copy submitted to: TheHonourable Chief Judicial Magistrate,Kurnool."
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 1,
+    "total_sentences": 10,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 1620,
+        "word_count": 224,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000020_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 1620,
+            "word_count": 224,
+            "sentence_count": 10,
+            "text": "Calendar and Judgment IN THE COURT OFTHEJUDICIAL MAGISTRATEOF FIRST CLASS,ALUR. C.C.NO:174/10 Date of Offence FilingApprehensionReleased on Commencement Closure Jugement bail of trial ofaccused of trial 02.09.08 20.09.1020.09:08 20.09.08 01.05.2013 19.12.13 20.12.13 Between: StateInspectorof Police,Chippagiri P.s. (Crime No.60/08) ....Complainant DESCRIPTION OF ACCUSED. S.No. Name of the Father's Name Age Village Mandal Occupation I.V.Sreedhar ReddyV.Sivereddy 32 years Deebaguntla Gospadu Contractor Offence :U/sec, 3(2) (e) of Prevention of Damages to public Property AcL1984. Plea of accused :Not guilty Finding of the court Not guilty Sentence orOrder : Accused wasfound not guilty for the offenceU/sec Sec.3 (2) (e) of Prevention of Damages to Public Property Act,1984,and heis acquitted U/sec.248(1)of Cr.P.C. His bail bonds shall be in forcefor six months as per 437-A ofCr.P.C. Explanation for the delay : This case was taken on file on 20.09.10 and numbered as above C.c. After furnishing copies of documents the accused was examined U/sec. 239 of Cr.P.C.on 04.02.2013 and on the same day charges was framed.As there is delay in producing witnesses by the prosecution P.Ws.1 to 3 were examinedon 01.05.2013,P.w.4wasexaminedon01.07.2013,P.W.5wasexaminedon 16.12.2013 and on the same day the evidence ofprosecution was closed. On 19.12.13 the accused was examined U/sec.3i3 Cr.P.C and on thesame day the trial was closed and arguments were Heard.On 20.12.13 Judgment was delivered.Hence, the delay. Judicief Magistrate of First Class, Alur.. Copy submitted to: TheHonourable Chief Judicial Magistrate,Kurnool.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000020_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 79,
+                "word_count": 10,
+                "text": "Calendar and Judgment IN THE COURT OFTHEJUDICIAL MAGISTRATEOF FIRST CLASS,ALUR."
+              },
+              {
+                "sentence_id": "DC_000020_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 235,
+                "word_count": 25,
+                "text": "C.C.NO:174/10 Date of Offence FilingApprehensionReleased on Commencement Closure Jugement bail of trial ofaccused of trial 02.09.08 20.09.1020.09:08 20.09.08 01.05.2013 19.12.13 20.12.13 Between: StateInspectorof Police,Chippagiri P.s."
+              },
+              {
+                "sentence_id": "DC_000020_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 56,
+                "word_count": 6,
+                "text": "(Crime No.60/08) ....Complainant DESCRIPTION OF ACCUSED."
+              },
+              {
+                "sentence_id": "DC_000020_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 209,
+                "word_count": 29,
+                "text": "S.No. Name of the Father's Name Age Village Mandal Occupation I.V.Sreedhar ReddyV.Sivereddy 32 years Deebaguntla Gospadu Contractor Offence :U/sec, 3(2) (e) of Prevention of Damages to public Property AcL1984."
+              },
+              {
+                "sentence_id": "DC_000020_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 401,
+                "word_count": 67,
+                "text": "Plea of accused :Not guilty Finding of the court Not guilty Sentence orOrder : Accused wasfound not guilty for the offenceU/sec Sec.3 (2) (e) of Prevention of Damages to Public Property Act,1984,and heis acquitted U/sec.248(1)of Cr.P.C. His bail bonds shall be in forcefor six months as per 437-A ofCr.P.C. Explanation for the delay : This case was taken on file on 20.09.10 and numbered as above C.c."
+              },
+              {
+                "sentence_id": "DC_000020_P001_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 68,
+                "word_count": 10,
+                "text": "After furnishing copies of documents the accused was examined U/sec."
+              },
+              {
+                "sentence_id": "DC_000020_P001_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 283,
+                "word_count": 38,
+                "text": "239 of Cr.P.C.on 04.02.2013 and on the same day charges was framed.As there is delay in producing witnesses by the prosecution P.Ws.1 to 3 were examinedon 01.05.2013,P.w.4wasexaminedon01.07.2013,P.W.5wasexaminedon 16.12.2013 and on the same day the evidence ofprosecution was closed."
+              },
+              {
+                "sentence_id": "DC_000020_P001_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 171,
+                "word_count": 26,
+                "text": "On 19.12.13 the accused was examined U/sec.3i3 Cr.P.C and on thesame day the trial was closed and arguments were Heard.On 20.12.13 Judgment was delivered.Hence, the delay."
+              },
+              {
+                "sentence_id": "DC_000020_P001_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 42,
+                "word_count": 6,
+                "text": "Judicief Magistrate of First Class, Alur.."
+              },
+              {
+                "sentence_id": "DC_000020_P001_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 67,
+                "word_count": 7,
+                "text": "Copy submitted to: TheHonourable Chief Judicial Magistrate,Kurnool."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 2,
+    "state_name": "Andhra Pradesh",
+    "district_code": 10,
+    "district_name": "Kurnool",
+    "court_complex_code": 1020104,
+    "court_complex_name": "Junior Civil Judge`s Court, Alur (Taluka)",
+    "year": 2010,
+    "case_type": "nan",
+    "case_number": "202100001742010",
+    "pdf_title": "XSane scanned image",
+    "pdf_author": "",
+    "pdf_creator": "XSane version 0.999 (sane 1.0) - by Oliver Rauch",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260615095104Z00'00'",
+    "pdf_mod_date": "D:20260615095104Z00'00'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 1.0,
+    "quality_tier": "OCR_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "964f17d9390862c2cf9fa0972b5daf2ded2ff04e4ceb00d0d7ec1f482f90b5ea",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.007736"
+  }
+}

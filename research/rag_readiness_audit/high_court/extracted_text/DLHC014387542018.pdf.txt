@@ -1,0 +1,930 @@
+--- PAGE 1 ---
+W.P. (C) 12544/2018 
+ 
+Page 1 of 21 
+ 
+$-J-1 
++ 
+IN THE HIGH COURT OF DELHI AT NEW DELHI 
+Judgement reserved on 15.03.2021 
+Judgement pronounced on 26.03.2021 
++ 
+W.P.(C) 12544/2018 
+SYNFONIA TRADELINKS PVT LTD                                  .....Petitioner 
+Through: Mr. Udaibir Singh Kochar and 
+Ms. Kunjala Bhardwaj, Advs. 
+versus 
+INCOME TAX OFFICER, WARD-22(4)  
+ 
+ 
+  .....Respondent 
+Through: Ms. Vibhooti Malhotra and Mr. 
+Shailendra Singh, Adv. 
+CORAM: 
+HON'BLE MR. JUSTICE RAJIV SHAKDHER 
+HON'BLE MR. JUSTICE TALWANT SINGH 
+RAJIV SHAKDHER, J.: - 
+ 
+TABLE OF CONTENTS 
+Preface ............................................................................................................... 2 
+Background facts ............................................................................................... 2 
+Submissions made on behalf of the assessee ...................................................... 5 
+Submissions advanced on behalf of the Revenue ............................................... 7 
+Analysis and Reasons ...................................................................................... 10 
+Conclusion ....................................................................................................... 20 
+ 
+ 
+ 
+ 
+ 
+ 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 2 ---
+W.P. (C) 12544/2018 
+ 
+Page 2 of 21 
+ 
+Preface: - 
+1. 
+This writ petition is directed against notice dated 31.03.2018, issued 
+under Section 148 of the Income Tax Act, 1961 [hereafter referred to as ‘the 
+Act’], and the sanction accorded by respondent no. 2 i.e. the Principal 
+Commissioner of Income Tax, Delhi-VIII on 29.03.2018 for issuance of notice 
+under Section 148 of the Act.  The assessee, being aggrieved, has moved this 
+court via the instant writ petition. 
+Background facts: - 
+2. 
+To adjudicate upon the writ petition, the following broad facts are 
+required to be noticed: 
+2.1. The assessee before us is a private limited company going by the name 
+Synfonia Tradelinks Pvt. Ltd. The assessee was incorporated on 28.05.1993 
+under the Companies Act, 1956 albeit under the name Synfonia 
+Pharmaceuticals Pvt. Ltd. On 31.03.2015, the assessee changed its name to 
+Synfonia Tradelinks Pvt. Ltd.  
+2.2. The income tax return for the assessment year [in short ‘AY’] 2010-2011 
+along with the balance sheet as on 31.03.2010 was filed by the assessee, on 
+23.09.2010.  
+2.3. Insofar as the succeeding year was concerned, which is also the AY in 
+issue i.e. AY 2011-2012, the income tax return was filed on 29.08.2012 by the 
+assessee along with the balance sheet as on 31.03.2011. Returns for the 
+aforementioned AY(s) were filed via electronic mode.   
+2.4. On 31.03.2018, which was the last date on which the limitation was to 
+expire, a notice under Section 148 of the Act was issued by respondent no.1, 
+wherein respondent no.1 inter alia stated that he had reason to believe that 
+income chargeable to tax qua AY 2011-2012 had escaped assessment within the 
+meaning of Section 147 of the Act.  Accordingly, the assessee was directed to 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 3 ---
+W.P. (C) 12544/2018 
+ 
+Page 3 of 21 
+ 
+file a return in the prescribed form for the said AY as respondent no.1 proposed 
+to assess/re-assess the income/loss for the concerned AY.  
+2.5. The record shows that the assessee had, perhaps, written to respondent 
+no.1 on 03.04.2018 to close the reassessment proceedings as the notice under 
+Section 148 qua AY 2011-2012 was time-barred having been served upon him 
+after the expiry of the prescribed limitation.  As indicated above, the limitation 
+for issuance of notice expired, concededly, on 31.03.2018.  This aspect finds 
+mention in the assessee’s communication dated 23.04.2018 addressed to 
+respondent no.1.  Besides this, the said communication went on to state, that 
+without prejudice to its contention that the notice under Section 148 of the Act 
+was time-barred, it had enclosed a copy of the income tax return qua AY 2011-
+2012. 
+2.6. In addition to the aforesaid, the assessee also called upon respondent no.1 
+to furnish a copy of the reasons based on which he believed that the assessee’s 
+income for AY 2011-2012 had escaped assessment.  The communication 
+concluded with a request to respondent no.1 to furnish a copy of the approval, 
+granted by respondent no.2, for initiating proceedings under Section 147 of the 
+Act. 
+2.7. Since respondent no.1 did not furnish a copy of the proceedings in which 
+he had documented his reasons for initiating proceedings under Section 147 of 
+the Act, the assessee escalated the matter, by writing to the Assistant 
+Commissioner of Income Tax [in short ‘ACIT’] vide communication dated 
+09.06.2018.  In this communication, while flagging the issue that the assessee 
+has not been furnished reasons for initiating proceedings under Section 147 of 
+the Act, reference was also made to the fact that the assessee’s case had also 
+been picked up for initiating proceedings under Section 147 in AY 2009-2010 
+and AY 2010-2011 when additions amounting to Rs. 3,06,00,000/- and Rs. 
+2,30,62,500/- respectively had been made.  Furthermore, the assessee pointed 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 4 ---
+W.P. (C) 12544/2018 
+ 
+Page 4 of 21 
+ 
+out that its share capital, which included reserves and surplus as on 31.03.2010, 
+amounted to Rs. 3,87,78,048/-; a figure which had remained consistent since the 
+financial year [in short ‘FY’] 2005-2006.  
+2.8. Even while this request was pending, the assessee was served with a 
+notice dated 02.08.2018 under Section 143(2) of the Act vis-à-vis AY 2011-
+2012 as also a notice of even date  i.e. 02.08.2018 for the said AY under Section 
+142(1) of the Act.   
+2.9. Finally, on 14.09.2018, the petitioner was furnished, the reasons for 
+issuance of notice under Section 148 of the Act. In response to the same, the 
+assessee filed its objections.  Respondent no.1 vide order dated 08.10.2018 
+rejected the objections preferred by the assessee.  This order was handed over to 
+the chartered accountant of the assessee on 12.10.2018.   
+3. 
+It is in these circumstances that the assessee was propelled to move this 
+court by way of the instant writ petition.  The court, while issuing notice dated 
+26.11.2018, which was accepted by the counsel for the revenue, made the 
+following observations: 
+“Issue Notice. Mr. Deepak Anand, Jr. Standing Counsel accepts notice.  
+This Court is of the opinion that the petitioner/applicant's grievance is 
+with respect to non-application of mind by the concerned officer (A.O.) to 
+issue the impugned notice under Sections 147/148 is prima facie 
+warranted and justified. 
+In these circumstances, the respondents are hereby restrained from 
+passing a final order in the re-assessment proceedings during the 
+pendency of the present writ petition. 
+The Revenue is directed to produce the original file for consideration on 
+the next date of hearing. 
+List on 11th February, 2019. 
+Dasti.” 
+4. 
+Since then, respondent no.2 has filed a counter-affidavit on behalf of the 
+revenue.   
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 5 ---
+W.P. (C) 12544/2018 
+ 
+Page 5 of 21 
+ 
+Submissions made on behalf of the assessee: - 
+5. 
+Arguments in the matter on behalf of the assessee have been advanced by 
+Mr. Udaibir Singh Kochar, while on behalf of the revenue submissions have 
+been made by Mr. Shailendra Singh.   
+6. 
+Briefly, Mr. Kochar made the following submissions: 
+i. 
+That respondent no. 2, who is the sanctioning authority under Section 151 
+of the Act, has not applied his mind to the reasons, supposedly, recorded 
+by respondent no.1.  Respondent no.2 has simply rubber-stamped the 
+reasons by simply writing, “approved”.    
+ii. 
+Furthermore, the assessee has also gone on to aver that, the approval for 
+issuance of notice under Section 148 of the Act, and commencement of 
+proceedings under Section 147 of the Act were sought by ACIT and not 
+by respondent no.1.  It is averred by the assessee that since the notice was 
+issued after the expiry of four years from the end of the relevant 
+assessment year under the provisions of Section 151 of the Act, the ACIT 
+had no role to play in the process of grant of sanction.   
+iii. 
+There was a total non-application of mind by both respondent no.1 and 
+respondent no.2, inasmuch as they did not correlate the information 
+received from the Additional Director of Income Tax (Investigation) Unit 
+2(1) [in short ‘ADIT’], and that which was available in the income tax 
+return and the balance sheet filed by the assessee.  It was submitted that 
+not only the information concerning the authorized capital, issued and 
+subscribed paid-up capital and share premium account was wrongly 
+recorded but also an error as gross as that which pertained to its year of 
+commencement of business had crept in the order recording reasons.  It 
+was submitted that respondent no.1 proceeded on the basis that FY 2010-
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 6 ---
+W.P. (C) 12544/2018 
+ 
+Page 6 of 21 
+ 
+2011 was the assessee’s first year of business whereas the assessee's 
+incorporation took place as far back as 28.05.1993.   
+a) In support of the aforesaid plea, the reference was made to the 
+following facts and figures:   
+Figures referred to in the order containing 
+reasons recorded by respondent no. 1 
+Correct figures as per return  
+Authorised Capital  
+Rs. 1,25,00,000/-  
+Authorised Capital 
+Rs. 25,00,000/- 
+Issued and Subscribed Paid-up Capital 
+Rs. 16,00,000/-  
+Issued and Subscribed Paid-up Capital 
+Rs. 24,15,200/- 
+Share Premium Account  
+Rs. 14,83,40,250/-  
+Share Premium Account 
+Rs. 3,66,16,800/- 
+iv. 
+Although respondent no.1 in the notice issued under Section 148 of the 
+Act has referred to the report of the ADIT, there is no discussion qua the 
+said report in the order recording reasons. Therefore, it is difficult to 
+discern from the order recording reasons as to what was the basis of the 
+formation of belief by respondent no.1 that the assessee's income 
+chargeable to tax had escaped assessment.  
+v. 
+Respondent no.1 erred in rejecting the objections raised by the assessee 
+by relying upon a purported statement of one, Mr. Pradeep Kumar Jindal, 
+who had allegedly provided accommodation entries to the assessee 
+without furnishing a copy of the statement made by the said person.   
+vi. 
+Respondent no. 2, via the counter-affidavit, has attempted to justify the 
+issuance of notice under Section 148 of the Act by adverting to matters 
+which are not found in the order recording reasons for initiating 
+proceedings under Section 147 of the Act.  The revenue cannot supply 
+reasons by way of counter-affidavit which were not available at the time 
+of issuance of a notice under Section 148 of the Act.    
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 7 ---
+W.P. (C) 12544/2018 
+ 
+Page 7 of 21 
+ 
+vii. 
+We may note, at this juncture, that the grounds set forth hereafter are the 
+grounds incorporated in the writ petition which were not articulated 
+during the submissions made in the Court before us:  
+a) The assessee has averred that while the reasons, which were 
+furnished to the assessee, were recorded by ITO Ward 22(4), the 
+reasons, purportedly given for obtaining approval of respondent 
+no.2, were recorded by ITO Ward 22(2).   
+b) Besides this, the assessee has also averred that although, according 
+to the revenue, the sanction was accorded by respondent no.2 
+before the issuance of the notice dated 31.03.2018 under Section 
+148 of the Act, the order granting sanction was served upon it only 
+on 01.11.2018 and that too, after repeated requests.  According to 
+the assessee, the inordinate delay in the dispatch of the sanction 
+order was suggestive of the fact that the sanction was not granted 
+before the issuance of a notice under Section 148 of the Act. In 
+support of this submission, reliance was placed on the judgement 
+of the Supreme Court rendered in State of Andhra Pradesh v. M. 
+Ramakishtaiah & Co. [1994] 93 STC 406(SC). 
+Submissions advanced on behalf of the Revenue: - 
+7. 
+On the other hand, Mr. Shailendra Singh, submitted that respondent no.1 
+had reasons to believe that the taxable income of the assessee, for the concerned 
+AY 2011-2012, had escaped assessment.  
+7.1. Mr. Singh contended that notwithstanding the obvious errors in the order 
+recording reasons passed by respondent no.1, concerning assessee's authorized 
+capital, issued and subscribed paid-up capital, the share premium account and 
+the year of its incorporation, no fault could be found in the initiation of 
+reassessment proceedings under Section 147 of the Act since all that respondent 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 8 ---
+W.P. (C) 12544/2018 
+ 
+Page 8 of 21 
+ 
+no.1 was required to demonstrate that the formation of the belief that the taxable 
+income had escaped assessment was not based on reasons which were either 
+arbitrary or irrational.  To demonstrate that the formation of the belief, as 
+discernible from the order recording reasons, was neither arbitrary nor 
+irrational, a reference was made to the following portion of the said order : 
+“Further, on perusal of return of income filed by the assessee for A.Y 2010-11 and 
+A.Y 201l-12 it has been observed that the assessee has shown unsecured loans of Rs. 
+38,071/- and Rs. 25,57,206/- respectively. Thus there is substantial increase in the 
+unsecured loans during A.Y. 2011-12. 
+ 
+A careful scrutiny of information received from the investigation wing and 
+reportreceived from Investigation Wing. New Delhi subsequent analysis of report of 
+investigation wing, data of transactions and verification of ITR lead to an irresistible 
+conclusion that the assessee company has taken accommodation entry at least up to the 
+amount of Rs.26,93 ,500/- 
+Considering the above referred credible information, and enquiries and analysis 
+subsequent to the information. I have reason to believe that an amount at least of 
+Rs.26,93,500/- & Commission @ 2.5% amounting to Rs 67,338/- (Total Rs.27,60,838/-) 
+has escaped assessment in case the of M/s SYNFONIA TRADELINKS PVT. LTD for the 
+A. Y 2011-12 within the meaning of Section 14 7/148 of Income-tax Act, 1961.” 
+7.2. The 
+submission 
+advanced 
+was 
+that 
+the 
+assessee 
+had 
+taken 
+accommodation entries from, one, Mr. Pradeep Kumar Jindal in lieu of cash via 
+dummy companies/entities which was reflected in the balance sheets of the 
+assessees as unsecured loans.  It was contended that this fact was discovered 
+upon search being conducted at the premises of Mr. Pradeep Kumar Jindal on 
+18.11.2015.   
+7.3. Mr. Singh attempted to explain away the assertion made in the order 
+recording reasons “Thus the assessee company has taken bogus share 
+capital/share premium account from the above said entry providers amounting 
+to Rs.26,93,500/-” by submitting that the reference to share capital/share 
+premium account was an inadvertent error.  
+7.4. According to Mr. Singh, the accommodation entries were reflected in the 
+return of the assessee which is accompanied by its balance sheets in the form of 
+unsecured loans.  It was, thus, the contention of Mr. Singh that at the stage of 
+initiation of reassessment proceedings, all that one is required to enquire is 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 9 ---
+W.P. (C) 12544/2018 
+ 
+Page 9 of 21 
+ 
+whether or not prima facie material was available, which could form the basis 
+for reassessment.  Mr. Singh emphasized the fact that, at this stage, the court 
+was not required to examine the sufficiency or correctness of the material, 
+which formed the edifice for the formation of the belief that the assessee’s 
+taxable income had escaped assessment. In support of this plea, reliance was 
+placed by Mr. Singh on the judgment of the Supreme Court rendered in 
+Raymond Wooden Mills Limited v. Income Tax Officer, Central Circle XI, 
+Range Bombay and Ors., (2008) 14 SCC 218 
+7.5. Mr. Singh drew our attention, as noted above, to that part of the order 
+recording reasons which bore the heading “analysis of information” to 
+emphasize the fact that reassessment proceedings had been initiated as 
+respondent no.1 suspected the genuineness of the loans received during the 
+subject AY.   
+7.6. In sum, Mr. Singh argued that there was cogent material available for 
+respondent no.1 to form a belief that the assessee's taxable income had escaped 
+assessment. This information, according to Mr. Singh, which was received from 
+the office of the ADIT and the report generated thereafter and its analysis 
+formed the basis of respondent no.1’s belief that the assessee’s income 
+chargeable to tax had escaped assessment.  
+7.7. Mr. Singh went on to state that respondent no.2 had given his approval to 
+initiation of proceedings against the assessee only after satisfying himself that a 
+case was made out for initiation of proceedings under the provisions of Section 
+147 of the Act.   
+8. 
+We may record here that a perusal of the counter-affidavit filed by 
+respondent no.2 would show that the revenue has denied the allegation levelled 
+against it that a breach of principles of natural justice had occurred by adverting 
+to the fact that it had furnished the relied upon documents (i.e. the information 
+received from the investigation wing and the statements of Mr. Pradeep Kumar 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 10 ---
+W.P. (C) 12544/2018 
+ 
+Page 10 of 21 
+ 
+Jindal and his associates i.e. Shri Laxman Singh Satyapal and Ms. Meera 
+Mishra) to the authorized representative of the assessee at the proceedings held 
+before the respondent no.1 on 12.10.2018.  
+Analysis and Reasons: - 
+9. 
+We have heard the learned counsel for the parties and perused the record.  
+Before we proceed further, it would be helpful if we were to set forth certain 
+well-established principles enunciated by the courts over the years vis-à-vis 
+initiation of proceedings under Section 147 of the Act. 
+(i) 
+The reasons which lead to the formation of opinion or belief that the 
+assessee’s income chargeable to tax has escaped assessment should be 
+inextricably connected.  In other words, the reasons for the formation of opinion 
+should have a rational connection with the formation of the belief that there has 
+been an escapement of income chargeable to tax (See: ITO v. Lakhmani Mewal 
+Das, 1976 3 SCC 757] 
+(ii) 
+The expression "reason to believe" is stronger than the word "satisfied".  
+The belief should be based on material that is relevant and cogent. (See: Ganga 
+Saran & Sons Pvt. Ltd. v. ITO, 1981 3 SCC 143]. 
+(ii) (a) The assessing officer should have reasons to believe that the taxable 
+income has escaped assessment. The process of reassessment cannot be 
+triggered based on a mere suspicion. The expression "reason to believe" which 
+is found in Section 147 of the Act does not have the same connotation as 
+"reason to suspect". The order recording reasons should fill this chasm. The 
+material brought to the knowledge of the assessing officer should have nexus 
+with the formation of belief that the taxable income of the assessee escaped 
+assessment; the link being the reasons recorded, in that behalf, by the assessing 
+officer. 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 11 ---
+W.P. (C) 12544/2018 
+ 
+Page 11 of 21 
+ 
+(iii) 
+The AO is mandatorily obliged to record reasons before issuing notice to 
+the assessee under Section 148(1) of the Act.  This is evident from the bare 
+perusal of sub-section (2) of Section 148 of the Act. 
+(iv) 
+No notice can be issued under Section 148 of the Act by the A.O. after 
+the expiry of four years from the end of the relevant AY unless the Principal 
+Chief Commissioner or Chief Commissioner or Principal Commissioner or 
+Commissioner arrives at a satisfaction based on the reasons recorded by the 
+A.O. that it is a fit case for issuance of a notice under Section 148 of the Act. 
+[See: Section151(1) of the Act]. 
+(v) 
+The limitation for issuance of notice under Section 148 as prescribed 
+under Section 149 of the Act commences from the date of its issuance while the 
+time limit for passing the order of assessment, reassessment, computation and 
+re-computation as prescribed under Section 153 of the Act commences from the 
+date of service [See: R.K. Upadhyay v. Shanab Bhai P. Patel, (1987) 3 SCC 96]. 
+(vi) 
+A jurisdictional error would occur, which can be corrected by a writ 
+court, if reasons to believe are based on grounds that are either arbitrary and/or 
+irrational. (See: Sheo Nath Singh v. Appellate ACIT, Calcutta (1972) 3 SCC 
+234]. 
+9.1. Thus, if one were to apply the aforestated principles, it would be clear as 
+daylight that the order recording reasons discloses complete non-application of 
+mind.  The reason we say so is discernible from the following: 
+9.2. Respondent no.1 in paragraphs 2 and 3 of the order recording reasons has 
+unequivocally stated that under the heading “Details of information received 
+regarding escapement of income and analysis” that material impounded during 
+the search conducted at the premises of Mr. Pradeep Kumar Jindal had, inter 
+alia, revealed that he had made investments in the form of share capital, share 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 12 ---
+W.P. (C) 12544/2018 
+ 
+Page 12 of 21 
+ 
+premium, loans and advance in lieu of cash via front/non-listed companies 
+controlled by dummy directors to the tune of nearly Rs.100 crores which 
+included the assessee.  It is in this context that in the order recording reasons, 
+the following table is set out: 
+S.No. 
+Beneficiaries 
+Name 
+of 
+Entry 
+Provider 
+Date 
+ Amount (Rs.) 
+i. 
+ 
+Synfonia Pharmaceuticals Pvt. 
+Ltd.  
+Name changed to Synfonia 
+Tradelinks Pvt. Ltd. 
+Dume 
+Footwears 
+Pvt. Ltd. 
+09.06.2010 
+17,00,000 
+ii. 
+ 
+Synfonia Pharmaceuticals Pvt. 
+Ltd. 
+Dume 
+Footwears 
+Pvt. Ltd. 
+09.06.2010 
+5,00,000 
+iii. 
+ 
+Synfonia Pharmaceuticals Pvt. 
+Ltd. 
+Dume 
+Footwears 
+Pvt. Ltd. 
+22.06.2010 
+1,00,000 
+ 
+Synfonia Pharmaceuticals Pvt. 
+Ltd. 
+Focus 
+Industrial 
+Resources Ltd.  
+24.05.2010 
+43,500 
+ 
+Synfonia Pharmaceuticals Pvt. 
+Ltd. 
+Pawansut Holdings 
+Ltd. 
+24.05.2010 
+3,50,000 
+ 
+ 
+ 
+Total 
+26,93,500/- 
+ 
+The table extracted above, as noted in the earlier part of the judgment, is 
+followed by the following assertion which is made in the order recording 
+reasons: 
+“Thus, the assessee company has taken bogus share capital/share premium from the 
+said entries providers amounting to Rs.26,93,500/-.”   
+9.3. Furthermore, respondent no.1 in no uncertain terms, has indicated in the 
+order recording reasons that the information which triggered the initiation of 
+proceedings qua the assessee under Section 147 of the Act was received upon a 
+search being carried out at the residence of Mr. Pradeep Kumar Jindal.  While a 
+general statement had been made that Mr. Pradeep Kumar Jindal had provided 
+accommodation entries in the form of share capital/share premium, loans and 
+advances, in lieu of cash, qua a large number of beneficiaries through his front 
+companies, insofar as the assessee was concerned, it was emphasized that the 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 13 ---
+W.P. (C) 12544/2018 
+ 
+Page 13 of 21 
+ 
+accommodation entry was reflected in its books in the form of bogus “share 
+capital and share premium”.   
+9.4. Respondent no.1, in paragraph 4 of the order recording reasons, in no 
+uncertain terms alludes to the fact that the information was received from the 
+investigation wing.  The emphasis was laid on the fact that the entry providers 
+were three companies i.e. Dume Footwears Pvt. Ltd., Focus Industrial 
+Resources Ltd. and Pawansut Holdings Ltd. A perusal of the order recording 
+reasons shows that the purported investments made via these entities were 
+quantified at Rs.26,93,500/-.  This information which was the underlining 
+material based on which proceedings under Section 147 of the Act were 
+triggered was correlated with the return of income filed by the assessee for the 
+concerned AY i.e. AY 2011-2012.  In correlating the information, concededly, 
+respondent no.1 made errors with regard to the basic information provided by 
+the assessee in its balance sheet for the year ending on 31.03.2011 concerning 
+authorized share capital, issued and subscribed paid-up share capital, share 
+premium and even as regards the year in which the assessee had been 
+incorporated. The facts and figures have already been recorded in paragraphs 2 
+to 2.9 above.  Therefore, the correlation between the underlying material and 
+the information which was available in the balance sheet of the assessee was 
+clearly not made.   
+9.5. Mr. Singh, in a desperate attempt to salvage the situation, drew our 
+attention to the unsecured loans shown in the income tax returns of the assessee 
+for AYs 2010-2011 and 2011-2012 amounting to Rs.38,071/- and 
+Rs.25,57,206/- respectively.  Apart from anything else, simple math would 
+show that the cumulative total of these figures is Rs.25,95,277/- and not 
+Rs.26,93,500/- which, according to respondent no. 1, is the unexplained credit 
+in the books of accounts of the assessee and, hence, required to be added under 
+Section 68 of the Act.  Therefore, for Mr. Singh to say that these are inadvertent 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 14 ---
+W.P. (C) 12544/2018 
+ 
+Page 14 of 21 
+ 
+errors and hence should be ignored, in our opinion, is an argument that is 
+completely misconceived. As indicated above, if the information received (from 
+the investigation wing) was that the accommodation entries, in lieu of cash, 
+were taken in the form of share capital and share premium they could certainly 
+not be linked to unsecured loans received in AYs 2010-2011 and 2011-2012.   
+9.6. It is pertinent to note that in the objections filed by the assessee, an 
+attempt has been made to explain the purported accommodation entries by 
+stating therein that the advances had been given to the 5 companies adverted to 
+in the order recording reasons which were received back on the dates given in 
+the said order. The assessee also went on to state, in its objections, that the 
+opening balance (as on 01.04.2010) and closing balance (as on 31.03.2011) of 
+the share premium account (Rs. 3,66,16,800/-) and the share capital account 
+(Rs. 24,15,200/-) remained unchanged. In other words, the emphasis was that 
+there was no increase in the share capital or the share premium account, as 
+alleged, or at all. In the order passed by the assessing officer dated 08.10.2018, 
+whereby, the objections of the assessee were rejected; none of this has been 
+dealt with. Therefore, in our view, while the assessing officer may suspect that 
+the taxable income of the assessee escaped assessment, he could not have 
+formed a belief qua the same based on the material which is, presently, on 
+record. 
+9.7. Therefore, in our opinion, the formation of belief by respondent no.1 that 
+income of the assessee chargeable to tax had escaped assessment, was 
+unreasonable and irrational, as it could not be related to the underlining 
+information; something which is discernible from a bare reading of the order 
+recording reasons. 
+9.8. This apart, what is even more disconcerting is the fact that respondent 
+no.2, who accorded sanction for triggering the process under Section 147 of the 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 15 ---
+W.P. (C) 12544/2018 
+ 
+Page 15 of 21 
+ 
+Act, simply rubber-stamped the reasons furnished by respondent no.1 for 
+issuance of notice under Section 148 of the Act.  
+9.9. The provisions of Section 151(1) of the Act required respondent no.2 to 
+satisfy himself as to whether it was a fit case in which sanction should be 
+accorded for issuance of notice under Section 148 of the Act and, thus, 
+triggering the process of reassessment under Section 147.  The sanction-order 
+passed by respondent no.2 simply contains the endorsement ‘approved’.  
+10. 
+In our view, the sanction-order passed by respondent no.2 presents, 
+metaphorically speaking ‘the inscrutable face of sphinx’ (See: Breen v. 
+Amalgamated Engineering Union [1971] 2 QB 17500; Also see: State of H.P. 
+v. Sardara Singh, (2008) 9 SCC 392). In our view, the satisfaction arrived at by 
+the concerned officer should be discernible from the sanction-order passed 
+under Section 151 of the Act.  In this context, the observations made by the 
+Supreme Court in Chhugamal Rajpal vs. S.P. Chaliha, (1971) 1 SCC 453 
+being apposite are extracted hereafter : 
+“… Further the report submitted by him under Section 151(2) does not mention 
+any reason for coming to the conclusion that it is a fit case for the issue of a 
+notice under Section 148. We are also of the opinion that the Commissioner has 
+mechanically accorded permission. He did not himself record that he was 
+satisfied that this was a fit case for the issue of a notice under Section 148. To 
+Question 8 in the report which reads “whether the Commissioner is satisfied that 
+it is a fit case for the issue of notice under Section 148”, he just noted the word 
+“yes” and affixed his signatures thereunder. We are of the opinion that if only he 
+had read the report carefully, he could never have come to the conclusion on the 
+material before him that this is a fit case to issue notice under Section 148. The 
+important safeguards provided in Sections 147 and 151 were lightly treated by 
+the Income Tax Officer as well as by the Commissioner. Both of them appear to 
+have taken the duty imposed on them under those provisions as of little 
+importance. They have substituted the form for the substance. “ 
+[Emphasis is ours] 
+10.1. Also see the observations made in the judgment of the Division Bench of 
+this Court in The Central India Electric Supply Co. Ltd. vs. Income Tax 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 16 ---
+W.P. (C) 12544/2018 
+ 
+Page 16 of 21 
+ 
+Officer, Company Circle – X, New Delhi & Anr., (2011) SCC OnLine Del 472 
+: (2011) 333 ITR 237. 
+“19. In respect of the first plea, if the judgments in Chuggamal Rajpal's case (supra); 
+Chanchal Kumar Chatterjee's case (supra); and Govinda Choudhury & Sons's case 
+(supra) are examined, the absence of reasons by the assessing officer does not exist. 
+This is so as along with the proforma, reasons set out by the assessing officer were, in 
+fact, given. However, in the instant case, the manner in which the proforma was 
+stamped amounting to approval by the Board leaves much to be desired. It is a case 
+where literally a mere stamp is affixed. It is signed by a Under Secretary underneath a 
+stamped 'Yes' against the column which queried as to whether the approval of the 
+Board had been taken. Rubber stamping of underlying material is hardly a 
+process which can get the imprimatur of this Court as it suggests that the 
+decision has been taken in a mechanical manner. Even if the reasoning set out by 
+the ITO was to be agreed upon, the least, which is expected, is that an 
+appropriate endorsement is made in this behalf setting out brief reasons. 
+Reasons are the link between the material placed on record and the conclusion 
+reached by an authority in respect of an issue, since they help in discerning the 
+manner in which conclusion is reached by the concerned authority. Our opinion is 
+fortified by the decision of the Apex Court in Union of India v. M.L. Capoor and Ors. 
+MANU/SC/0405/1973 : AIR 1974 SC 87 wherein it was observed as under: 
+27. ... We find considerable force in the submission made on behalf of the 
+Respondents that the "rubber-stamp" reason given mechanically for the 
+supersession of each officer does not amount to "reasons for the proposed 
+supersession". The most that could be said for the stock reason is that it is a 
+general description of the process adopted in arriving at a conclusion. ... ... ... 
+... 
+28. ... If that had been done, facts on service records of officers considered by 
+the Selection Committee would have been correlated to the conclusions 
+reached. Reasons are the links between the materials on which certain 
+conclusions are based and the actual conclusions. They disclose how the mind 
+is applied to the subject matter for a decision whether it is purely 
+administrative or quasi-judicial. They should reveal a rational nexus between 
+the facts considered and the conclusions reached. Only in this way can 
+opinions or decisions recorded be shown to be manifestly just and reasonable. 
+... 
+(emphasis supplied) 
+This is completely absent in the present case. Thus, we find force in the contention 
+of learned Counsel for the Appellant that there has not been proper application 
+of mind by the Board and if a proper application had taken place, there would 
+have been no reason to re-open the closed chapter in view of what we are setting 
+out hereinafter.” 
+[Emphasis is ours] 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 17 ---
+W.P. (C) 12544/2018 
+ 
+Page 17 of 21 
+ 
+10.2. We may also note that apart from respondent no.2, the order, according 
+sanction also bears an endorsement of the ACIT.  For the sake of convenience, 
+the said endorsement is set forth hereafter: 
+“On perusal of information received from the investigation wing & reasons recorded 
+by AO, I am satisfied that Rs. 27,60,838/- has escaped taxation. 
+Approval for reopening may be granted.” 
+10.3. There is no explanation by the revenue as to why approval of ACIT was 
+taken in the instant case.  Even if we were to assume for the moment that the 
+approval of the ACIT was rightly taken, a bare perusal of the endorsement 
+would show that there is no application of mind as to whether the information 
+received by the AO had any nexus with the formation of honest belief that the 
+assessee's taxable income had escaped. What is glaring is that the ACIT notes 
+that income to the tune of Rs.27,60,838/- had escaped taxation whereas, in the 
+order recording reasons, the taxable income has been quantified as 
+Rs.26,93,500/-. As noted above, based on the arguments of Mr. Singh that the 
+escaped income should be related to unsecured loans, there is in play a third 
+figure which is Rs.25,95,277/-.   
+10.4. The reliance placed by Mr. Singh on paragraphs 40 to 43 of the judgment 
+of a division bench of this court in Experion Developers Pvt. Ltd. and Ors. vs. 
+Assistant Commissioner of Income Tax and Ors. [2020] 422 ITR 355(Delhi) 
+in support of his submissions that the order granting sanction for initiation of 
+proceedings under Section 147 was valid is misconceived as a careful perusal of 
+paragraph 42 of the said judgment would show that the learned judges were of 
+the view that there was no requirement to provide elaborate reasoning while 
+granting approval if the principal commissioner was satisfied with the reasons 
+recorded by the AO. In that case, while according sanction, the principal 
+commissioner had at least paid lip service to the provision by noting “I am 
+satisfied that it is a fit case for notice under Section 148”.  In the instant case, 
+respondent no.2, i.e. the principal commissioner, has not even made such an 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 18 ---
+W.P. (C) 12544/2018 
+ 
+Page 18 of 21 
+ 
+endorsement.  This apart, the endorsement of the ACIT should have indicated to 
+respondent no.2 if nothing else that there was something amiss when the 
+escaped income is quantified as Rs. 25,95,277/- whereas in the order recording 
+reasons, penned by respondent no.1, the escaped income was quantified as 
+Rs.26,93,500/-.   
+10.5. As noted above, in the instant case, because of the failure on the part of 
+respondent no.1 to correlate the information received with the ostensible 
+formation of belief by him, respondent no.2 attempted to connect, via her 
+counter-affidavit, that the escaped income with the "suspicious" unsecured loan 
+entries reflected in the assessee's returns for AY 2010-2011 and 2011-2012.  As 
+correctly argued by Mr. Kochar, the counter-affidavit and the submissions made 
+across the bar cannot be used to sustain the impugned actions.  The order 
+recording reasons and the order granting sanction should speak for themselves. 
+(See observations made Commissioner Of Police, Bombay vs Gordhandas 
+Bhanji AIR 1952 SC 16 and Mohinder Singh Gill and Ors. vs. The Chief 
+Election Commissioner, New Delhi and Ors. (1978) 1 SCC 405) 
+10.6. Insofar as the ground taken in the writ petition is concerned, that the 
+notice issued under Section 148 was barred by limitation, we are of the view 
+that this submission advanced on behalf of the assessee is not sustainable.  As 
+noticed above, the limitation provided under Section 149 of the Act for issuance 
+of notice commences from the date when the notice is issued and not when the 
+notice served.  The record presently, before us shows that the notice was issued 
+on 31.03.2018.  Therefore, this submission made on behalf of the petitioner is 
+rejected. 
+10.7. The other argument advanced on behalf of the assessee that the notice 
+under Section 148 was issued by an AO Ward No.22(4) while the order 
+recording reasons was issued by another officer is not borne out from the 
+record.   
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 19 ---
+W.P. (C) 12544/2018 
+ 
+Page 19 of 21 
+ 
+10.8. This brings us to another ground raised in the writ petition, which is, that 
+there was a huge time lag between the issuance of the impugned notice under 
+Section 148 of the Act and the date when the order recoding reasons was 
+furnished to the authorized representatives of the petitioner.  While the assessee 
+is, in our view, right in contending that if the time lag is huge, it does point in 
+the direction that the order was ante-dated, a final view on this aspect could 
+have only been taken if the original record was examined by us.  Since the 
+revenue has denied the allegation levelled against it and Mr. Kochar did not 
+press this issue during the hearing, we can't reach a definitive view on this 
+aspect of the matter based on the record available before us  Therefore, this 
+submission, made on behalf of the assessee, cannot be accepted.   
+11. 
+Given the aforesaid, we are also of the view that since respondent no.1 
+was unable to link the information received with the formation of belief, a 
+jurisdictional error did occur, which, this Court, is empowered to correct, by 
+exercising its powers under Article 226 of the Constitution of India (See: 
+Calcutta Discount Co. Ltd. vs. Income Tax Officer, Companies District I 
+Calcutta and Another, (1961) 2 SCR 241).   
+11.1. Although Mr. Singh did argue that the assessee should be relegated to 
+statutory remedies, in our view, a case is made out for interference at this stage 
+itself.  According to us, relegating a party to an alternative remedy is a self-
+imposed limitation which, however, does not denude the court of its powers 
+under Article 226.  The Court is duty-bound to exercise its powers under Article 
+226 where ever it finds that a statutory authority has exercised its jurisdiction 
+either irregularly or acted in a matter in which it had no jurisdiction or 
+committed a breach of the principles of natural justice.   
+11.2. Before we conclude, we must also indicate that the order recording 
+reasons neither discusses the contents of the report received from the 
+investigation wing or the statements made by Mr. Pradeep Kumar Jindal and his 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 20 ---
+W.P. (C) 12544/2018 
+ 
+Page 20 of 21 
+ 
+associates. The order recording reasons, merely, indicates that the formation of 
+belief is based on these sources.  Furthermore, although, there is a reference to 
+Shri Laxman Singh Satyapal and Ms. Meera Mishra in paragraph 3.14 of the 
+counter-affidavit, as persons, whose statements were also recorded during the 
+search, which formed the basis of initiation of proceedings under Section 147 of 
+the Act, there is no reference to them in the order recording reasons. 
+11.3. Besides this, the revenue has taken the position that not only the report of 
+the investigation wing but also the statements of Mr. Pradeep Kumar Jindal and 
+his aforementioned associates were furnished to the authorized representative of 
+the assessee in the proceedings held before respondent no.1 on 12.10.2018 (See 
+para 3.6 of the counter-affidavit).  The proceedings sheet of 12.10.2018 [which 
+is appended with the counter-affidavit] does not refer to this fact.  Therefore, 
+apart from anything else, a case could have been made out also of breach of 
+principles of natural justice. For the reasons best known, Mr. Kochar did not 
+press this issue. We need not elaborate any further on this aspect of the matter 
+as our decision does not turn on whether or not there has been a breach of 
+principles of natural justice.   
+Conclusion: - 
+12. 
+Thus, for the foregoing reasons, we are inclined to quash the impugned 
+notice dated 31.03.2018 issued under Section 148 of the Act as well as the order 
+granting sanction issued by respondent no.2. It is ordered accordingly. Parties 
+will bear their own cost. 
+ 
+ 
+ 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified
+
+
+--- PAGE 21 ---
+W.P. (C) 12544/2018 
+ 
+Page 21 of 21 
+ 
+13. 
+The case papers shall stand consigned to record.  
+ 
+RAJIV SHAKDHER, J. 
+ 
+TALWANT SINGH, J. 
+MARCH 26, 2021 
+ 
+ 
+               Click here to check the corrigendum, if any 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:26.03.2021
+19:59:43
+Signature Not Verified

@@ -1,0 +1,560 @@
+{
+  "document_id": "DC_000042",
+  "source": {
+    "sha256": "5da7ec7c8ad2e69c4df4174de1e061d1bcac91539265efb3b5b4581057278cb5",
+    "filename": "orders_2024_201200019012024_2.pdf",
+    "source_record_id": "DC-S3-042_3_1_1030005_2024_orders_2024_201200019012024_2",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 8,
+    "file_size_bytes": 200250
+  },
+  "routing": {
+    "initial_route": "OCR_REQUIRED",
+    "fallback_used": false,
+    "route_reason": "EXCESSIVE_SYMBOL_DENSITY_GARBAGE"
+  },
+  "extraction": {
+    "selected_method": "paddleocr",
+    "extractor_name": "RapidOCR-PP-OCRv4",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.9761
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 285,
+      "word_count": 39,
+      "raw_text": "2.2. 30: 1901/2024 2.d : .dc : 42 UBB g 8 8200 13-03-2026 d0 d002 da03 230e0e0000. wa,ed: o & & eaoowo: ccao sucoamadeowie@oogdamu,2um&dea.   8002 :14-04-2024    2  nprooomawpcooxppppomooba·rpoooo uucaoaggmoo&coauagdooomaggcgdgcoaouaouacu &dua uodoaoaouau g ooog ，uo vo ouou oe ou ogge"
+    },
+    {
+      "page_number": 2,
+      "character_count": 491,
+      "word_count": 67,
+      "raw_text": "su ucucoodoa ca aocud uuouu ga ddm eag Km3onminBmoBnpmopmonnnkaohnommopbmmnBrhmomnBmBrpmoB acog cgu,ucuocoa c coc aoauo cuu&aouoaoaousoaa awn 1. 90 0 e  a 002 o 192 3 g 2 dgo@ 2. 180 00  o g96 w g2g 3.90o a m'oomcoomakyoBpompmpmoooapmooo dgeoao cau eg’，uo owa u& 3douewooao wca oee Gowd．eag ao\"uwooocauudowa  an.wen 07.30 oo 8.30  an o dn, owa & aan. rpooBoopopoybmoemoopoybppurpsnokomoppmon qo@.u.u．ogodoma． .u.u.u uuog 2uedrucooudona.aauceache deooogwucoqco cucuow coo poppoBuomoouspBopoom"
+    },
+    {
+      "page_number": 3,
+      "character_count": 557,
+      "word_count": 95,
+      "raw_text": "3    3() oa，a a o o，co auo cuu o caa u  dca uaucoaucaucucoaaadowuowa.waoacucaoaucoaoucw y w ghe0, 5 a y  ge0, 10 a  3 ge 0ea de , 10    one 2odon . a. 1 oao, 5 a  o  the odon a. ce. 2 ooo, 10 a   ge the 2odoon uo.ud. oao auuCoodo. 0 14-04-20240  m  8 0g ugsgoouodomea.uaodu.gwooaocoodadouadoaog.uao dg eadoudcu cwa3dog.ao uaoaouooeaouodooom caddmuaod.g acaoadouazgooaauooog. uu dcd uuo oa n  ac o aa cua dduuouoo uvo dao oaouoowa voaa uoooguo q uaou ucoaco cdsoauo uodga ougna cou dm uoug oao weooco acduyeogrdoug：aucoooa cuouow uaoocouiuoocuu eae dow daowd"
+    },
+    {
+      "page_number": 4,
+      "character_count": 464,
+      "word_count": 57,
+      "raw_text": "uouauoaa u& uda ouuedu.euoau& udac cd douμq2oo，owa uuu u@，cdcdu uuo usoouowuuou，a，coodo，doug\"eaoaou uooag：uo.u：ooa  cdo α,u@\"o@goaa uooag：u oecdaoonen uodgau doGoagwisogco 2   caadowea coao oo deeea voaauoag. α’uoasouguua uguooauaacaa og  deeowea ooaa uooog.uo.uc.Iooa  doda o ydweo d goo con@ne\"ncua da u.u.ooa  dcdoa adu.u uo. cup am yoboomnn onoo BoopoBm ocmuspmmoo‘B deowa oaa uooog：cdsocuu ac&aoucaa3as uu &doo ad we,gaaneaoaauoag. 2.e...3. d.d.g.dodooaooneo,"
+    },
+    {
+      "page_number": 5,
+      "character_count": 345,
+      "word_count": 53,
+      "raw_text": "2.2. 3o: 1901/2024 2.ds : .dc : 38 UBB sae uca g 8 200 13-03-2026 d0 d002 a0023 238e0000. 2023 o 2025 a  8o , e o  am 8 :14-04-2024    2o8 pomoproopwpcooopBppmomobasywpoooe @oomooBomoBpomooompBcpBoo3mpmBr3oommo3 Guaouugw udou seooaoda cuago audcowgu cog werauo. d  uaouuoaog ua guoooa  c ooq\"au cuuaodouuoo uoa odogne u& co &oo owuocoooudcgod．ao"
+    },
+    {
+      "page_number": 6,
+      "character_count": 360,
+      "word_count": 61,
+      "raw_text": "suucocoooa ca uaocud uauu ga dmeag owauucoduuow dowoouoo．uodauoc  uo @q o g  o o 2.180 0o o   00 o  y 2 og 3.90 0α m o a  we oa   d. d d e  np%oBopmcoBammbam dooa 5  yne yen na we wo ag   eeo edgeaouwooaocau…ucuowau&adaca.uoua nompopnkBpoppmoBmonmoB doa.uoda eo coao ”duao dmda udeda. eadoma.coaouodgeuoaumoaouoeoaaodowuoma.owoaooaccooa a a  & e od a &oo &() o"
+    },
+    {
+      "page_number": 7,
+      "character_count": 496,
+      "word_count": 60,
+      "raw_text": "uuggeooaouugmcuucua cuucaudcodu.q'3dua oaa uo. o 14-04-2024 o o  om  8 d00og usgeouwdowa.uuoogdg uguucoaouacuuguc dgugcoa uodoaomuoea oaouuocoaoucoea oaouogo aeeoeqea voaa uoag. BoropomBsmoappmonokoppmnooBBaopmn uoam codoua．uocdu uoco\"aoo eewoo…da nnoopobpnpooppooppaoooobp nnK3cmgomorp3mhmo8pnmpomomwpnmopmo  eacuog.wuduadea uuowuuo caeauoao uda oaauoag.  c204 d e cco 2oa oog cco s2oad ucoue naa uouugue uuowuuudnuoau oeopa0ne do de og eeowe oa ooog：oo 14-04-2024 do & uoea&gu u uou ow cdda ug."
+    },
+    {
+      "page_number": 8,
+      "character_count": 93,
+      "word_count": 6,
+      "raw_text": "BoBoopoKpphBocmouosponmooFhm'nmooormoonoaroBn (aaag acaoaguusm.ceoumiga udcoou). 2.e.... 2&/-"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 279,
+      "word_count": 39,
+      "normalized_text": "2.2. 30: 1901/2024 2.d : .dc : 42 UBB g 8 8200 13-03-2026 d0 d002 da03 230e0e0000. wa,ed: o & & eaoowo: ccao sucoamadeowie@oogdamu,2um&dea. 8002 :14-04-2024 2 nprooomawpcooxppppomooba·rpoooo uucaoaggmoo&coauagdooomaggcgdgcoaouaouacu &dua uodoaoaouau g ooog ,uo vo ouou oe ou ogge"
+    },
+    {
+      "page_number": 2,
+      "character_count": 487,
+      "word_count": 67,
+      "normalized_text": "su ucucoodoa ca aocud uuouu ga ddm eag Km3onminBmoBnpmopmonnnkaohnommopbmmnBrhmomnBmBrpmoB acog cgu,ucuocoa c coc aoauo cuu&aouoaoaousoaa awn 1. 90 0 e a 002 o 192 3 g 2 dgo@ 2. 180 00 o g96 w g2g 3.90o a m'oomcoomakyoBpompmpmoooapmooo dgeoao cau eg',uo owa u& 3douewooao wca oee Gowd.eag ao\"uwooocauudowa an.wen 07.30 oo 8.30 an o dn, owa & aan. rpooBoopopoybmoemoopoybppurpsnokomoppmon qo@.u.u.ogodoma. .u.u.u uuog 2uedrucooudona.aauceache deooogwucoqco cucuow coo poppoBuomoouspBopoom"
+    },
+    {
+      "page_number": 3,
+      "character_count": 541,
+      "word_count": 95,
+      "normalized_text": "3 3() oa,a a o o,co auo cuu o caa u dca uaucoaucaucucoaaadowuowa.waoacucaoaucoaoucw y w ghe0, 5 a y ge0, 10 a 3 ge 0ea de , 10 one 2odon . a. 1 oao, 5 a o the odon a. ce. 2 ooo, 10 a ge the 2odoon uo.ud. oao auuCoodo. 0 14-04-20240 m 8 0g ugsgoouodomea.uaodu.gwooaocoodadouadoaog.uao dg eadoudcu cwa3dog.ao uaoaouooeaouodooom caddmuaod.g acaoadouazgooaauooog. uu dcd uuo oa n ac o aa cua dduuouoo uvo dao oaouoowa voaa uoooguo q uaou ucoaco cdsoauo uodga ougna cou dm uoug oao weooco acduyeogrdoug:aucoooa cuouow uaoocouiuoocuu eae dow daowd"
+    },
+    {
+      "page_number": 4,
+      "character_count": 458,
+      "word_count": 57,
+      "normalized_text": "uouauoaa u& uda ouuedu.euoau& udac cd douμq2oo,owa uuu u@,cdcdu uuo usoouowuuou,a,coodo,doug\"eaoaou uooag:uo.u:ooa cdo α,u@\"o@goaa uooag:u oecdaoonen uodgau doGoagwisogco 2 caadowea coao oo deeea voaauoag. α'uoasouguua uguooauaacaa og deeowea ooaa uooog.uo.uc.Iooa doda o ydweo d goo con@ne\"ncua da u.u.ooa dcdoa adu.u uo. cup am yoboomnn onoo BoopoBm ocmuspmmoo'B deowa oaa uooog:cdsocuu ac&aoucaa3as uu &doo ad we,gaaneaoaauoag. 2.e...3. d.d.g.dodooaooneo,"
+    },
+    {
+      "page_number": 5,
+      "character_count": 338,
+      "word_count": 53,
+      "normalized_text": "2.2. 3o: 1901/2024 2.ds : .dc : 38 UBB sae uca g 8 200 13-03-2026 d0 d002 a0023 238e0000. 2023 o 2025 a 8o , e o am 8 :14-04-2024 2o8 pomoproopwpcooopBppmomobasywpoooe @oomooBomoBpomooompBcpBoo3mpmBr3oommo3 Guaouugw udou seooaoda cuago audcowgu cog werauo. d uaouuoaog ua guoooa c ooq\"au cuuaodouuoo uoa odogne u& co &oo owuocoooudcgod.ao"
+    },
+    {
+      "page_number": 6,
+      "character_count": 349,
+      "word_count": 61,
+      "normalized_text": "suucocoooa ca uaocud uauu ga dmeag owauucoduuow dowoouoo.uodauoc uo @q o g o o 2.180 0o o 00 o y 2 og 3.90 0α m o a we oa d. d d e np%oBopmcoBammbam dooa 5 yne yen na we wo ag eeo edgeaouwooaocau...ucuowau&adaca.uoua nompopnkBpoppmoBmonmoB doa.uoda eo coao \"duao dmda udeda. eadoma.coaouodgeuoaumoaouoeoaaodowuoma.owoaooaccooa a a & e od a &oo &() o"
+    },
+    {
+      "page_number": 7,
+      "character_count": 494,
+      "word_count": 60,
+      "normalized_text": "uuggeooaouugmcuucua cuucaudcodu.q'3dua oaa uo. o 14-04-2024 o o om 8 d00og usgeouwdowa.uuoogdg uguucoaouacuuguc dgugcoa uodoaomuoea oaouuocoaoucoea oaouogo aeeoeqea voaa uoag. BoropomBsmoappmonokoppmnooBBaopmn uoam codoua.uocdu uoco\"aoo eewoo...da nnoopobpnpooppooppaoooobp nnK3cmgomorp3mhmo8pnmpomomwpnmopmo eacuog.wuduadea uuowuuo caeauoao uda oaauoag. c204 d e cco 2oa oog cco s2oad ucoue naa uouugue uuowuuudnuoau oeopa0ne do de og eeowe oa ooog:oo 14-04-2024 do & uoea&gu u uou ow cdda ug."
+    },
+    {
+      "page_number": 8,
+      "character_count": 93,
+      "word_count": 6,
+      "normalized_text": "BoBoopoKpphBocmouosponmooFhm'nmooormoonoaroBn (aaag acaoaguusm.ceoumiga udcoou). 2.e.... 2&/-"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 8,
+    "total_sentences": 36,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 279,
+        "word_count": 39,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000042_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 279,
+            "word_count": 39,
+            "sentence_count": 4,
+            "text": "2.2. 30: 1901/2024 2.d : .dc : 42 UBB g 8 8200 13-03-2026 d0 d002 da03 230e0e0000. wa,ed: o & & eaoowo: ccao sucoamadeowie@oogdamu,2um&dea. 8002 :14-04-2024 2 nprooomawpcooxppppomooba·rpoooo uucaoaggmoo&coauagdooomaggcgdgcoaouaouacu &dua uodoaoaouau g ooog ,uo vo ouou oe ou ogge",
+            "sentences": [
+              {
+                "sentence_id": "DC_000042_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 4,
+                "word_count": 1,
+                "text": "2.2."
+              },
+              {
+                "sentence_id": "DC_000042_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 77,
+                "word_count": 16,
+                "text": "30: 1901/2024 2.d : .dc : 42 UBB g 8 8200 13-03-2026 d0 d002 da03 230e0e0000."
+              },
+              {
+                "sentence_id": "DC_000042_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 56,
+                "word_count": 7,
+                "text": "wa,ed: o & & eaoowo: ccao sucoamadeowie@oogdamu,2um&dea."
+              },
+              {
+                "sentence_id": "DC_000042_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 139,
+                "word_count": 15,
+                "text": "8002 :14-04-2024 2 nprooomawpcooxppppomooba·rpoooo uucaoaggmoo&coauagdooomaggcgdgcoaouaouacu &dua uodoaoaouau g ooog ,uo vo ouou oe ou ogge"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "character_count": 487,
+        "word_count": 67,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000042_P002_PAR001",
+            "paragraph_index": 1,
+            "character_count": 487,
+            "word_count": 67,
+            "sentence_count": 5,
+            "text": "su ucucoodoa ca aocud uuouu ga ddm eag Km3onminBmoBnpmopmonnnkaohnommopbmmnBrhmomnBmBrpmoB acog cgu,ucuocoa c coc aoauo cuu&aouoaoaousoaa awn 1. 90 0 e a 002 o 192 3 g 2 dgo@ 2. 180 00 o g96 w g2g 3.90o a m'oomcoomakyoBpompmpmoooapmooo dgeoao cau eg',uo owa u& 3douewooao wca oee Gowd.eag ao\"uwooocauudowa an.wen 07.30 oo 8.30 an o dn, owa & aan. rpooBoopopoybmoemoopoybppurpsnokomoppmon qo@.u.u.ogodoma. .u.u.u uuog 2uedrucooudona.aauceache deooogwucoqco cucuow coo poppoBuomoouspBopoom",
+            "sentences": [
+              {
+                "sentence_id": "DC_000042_P002_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 144,
+                "word_count": 17,
+                "text": "su ucucoodoa ca aocud uuouu ga ddm eag Km3onminBmoBnpmopmonnnkaohnommopbmmnBrhmomnBmBrpmoB acog cgu,ucuocoa c coc aoauo cuu&aouoaoaousoaa awn 1."
+              },
+              {
+                "sentence_id": "DC_000042_P002_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 32,
+                "word_count": 12,
+                "text": "90 0 e a 002 o 192 3 g 2 dgo@ 2."
+              },
+              {
+                "sentence_id": "DC_000042_P002_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 168,
+                "word_count": 29,
+                "text": "180 00 o g96 w g2g 3.90o a m'oomcoomakyoBpompmpmoooapmooo dgeoao cau eg',uo owa u& 3douewooao wca oee Gowd.eag ao\"uwooocauudowa an.wen 07.30 oo 8.30 an o dn, owa & aan."
+              },
+              {
+                "sentence_id": "DC_000042_P002_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 57,
+                "word_count": 2,
+                "text": "rpooBoopopoybmoemoopoybppurpsnokomoppmon qo@.u.u.ogodoma."
+              },
+              {
+                "sentence_id": "DC_000042_P002_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 82,
+                "word_count": 7,
+                "text": ".u.u.u uuog 2uedrucooudona.aauceache deooogwucoqco cucuow coo poppoBuomoouspBopoom"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 3,
+        "character_count": 541,
+        "word_count": 95,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000042_P003_PAR001",
+            "paragraph_index": 1,
+            "character_count": 541,
+            "word_count": 95,
+            "sentence_count": 8,
+            "text": "3 3() oa,a a o o,co auo cuu o caa u dca uaucoaucaucucoaaadowuowa.waoacucaoaucoaoucw y w ghe0, 5 a y ge0, 10 a 3 ge 0ea de , 10 one 2odon . a. 1 oao, 5 a o the odon a. ce. 2 ooo, 10 a ge the 2odoon uo.ud. oao auuCoodo. 0 14-04-20240 m 8 0g ugsgoouodomea.uaodu.gwooaocoodadouadoaog.uao dg eadoudcu cwa3dog.ao uaoaouooeaouodooom caddmuaod.g acaoadouazgooaauooog. uu dcd uuo oa n ac o aa cua dduuouoo uvo dao oaouoowa voaa uoooguo q uaou ucoaco cdsoauo uodga ougna cou dm uoug oao weooco acduyeogrdoug:aucoooa cuouow uaoocouiuoocuu eae dow daowd",
+            "sentences": [
+              {
+                "sentence_id": "DC_000042_P003_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 138,
+                "word_count": 31,
+                "text": "3 3() oa,a a o o,co auo cuu o caa u dca uaucoaucaucucoaaadowuowa.waoacucaoaucoaoucw y w ghe0, 5 a y ge0, 10 a 3 ge 0ea de , 10 one 2odon ."
+              },
+              {
+                "sentence_id": "DC_000042_P003_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 2,
+                "word_count": 1,
+                "text": "a."
+              },
+              {
+                "sentence_id": "DC_000042_P003_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 24,
+                "word_count": 8,
+                "text": "1 oao, 5 a o the odon a."
+              },
+              {
+                "sentence_id": "DC_000042_P003_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 3,
+                "word_count": 1,
+                "text": "ce."
+              },
+              {
+                "sentence_id": "DC_000042_P003_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 32,
+                "word_count": 8,
+                "text": "2 ooo, 10 a ge the 2odoon uo.ud."
+              },
+              {
+                "sentence_id": "DC_000042_P003_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 13,
+                "word_count": 2,
+                "text": "oao auuCoodo."
+              },
+              {
+                "sentence_id": "DC_000042_P003_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 141,
+                "word_count": 12,
+                "text": "0 14-04-20240 m 8 0g ugsgoouodomea.uaodu.gwooaocoodadouadoaog.uao dg eadoudcu cwa3dog.ao uaoaouooeaouodooom caddmuaod.g acaoadouazgooaauooog."
+              },
+              {
+                "sentence_id": "DC_000042_P003_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 181,
+                "word_count": 32,
+                "text": "uu dcd uuo oa n ac o aa cua dduuouoo uvo dao oaouoowa voaa uoooguo q uaou ucoaco cdsoauo uodga ougna cou dm uoug oao weooco acduyeogrdoug:aucoooa cuouow uaoocouiuoocuu eae dow daowd"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 4,
+        "character_count": 458,
+        "word_count": 57,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000042_P004_PAR001",
+            "paragraph_index": 1,
+            "character_count": 458,
+            "word_count": 57,
+            "sentence_count": 5,
+            "text": "uouauoaa u& uda ouuedu.euoau& udac cd douμq2oo,owa uuu u@,cdcdu uuo usoouowuuou,a,coodo,doug\"eaoaou uooag:uo.u:ooa cdo α,u@\"o@goaa uooag:u oecdaoonen uodgau doGoagwisogco 2 caadowea coao oo deeea voaauoag. α'uoasouguua uguooauaacaa og deeowea ooaa uooog.uo.uc.Iooa doda o ydweo d goo con@ne\"ncua da u.u.ooa dcdoa adu.u uo. cup am yoboomnn onoo BoopoBm ocmuspmmoo'B deowa oaa uooog:cdsocuu ac&aoucaa3as uu &doo ad we,gaaneaoaauoag. 2.e...3. d.d.g.dodooaooneo,",
+            "sentences": [
+              {
+                "sentence_id": "DC_000042_P004_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 205,
+                "word_count": 24,
+                "text": "uouauoaa u& uda ouuedu.euoau& udac cd douμq2oo,owa uuu u@,cdcdu uuo usoouowuuou,a,coodo,doug\"eaoaou uooag:uo.u:ooa cdo α,u@\"o@goaa uooag:u oecdaoonen uodgau doGoagwisogco 2 caadowea coao oo deeea voaauoag."
+              },
+              {
+                "sentence_id": "DC_000042_P004_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 116,
+                "word_count": 17,
+                "text": "α'uoasouguua uguooauaacaa og deeowea ooaa uooog.uo.uc.Iooa doda o ydweo d goo con@ne\"ncua da u.u.ooa dcdoa adu.u uo."
+              },
+              {
+                "sentence_id": "DC_000042_P004_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 107,
+                "word_count": 14,
+                "text": "cup am yoboomnn onoo BoopoBm ocmuspmmoo'B deowa oaa uooog:cdsocuu ac&aoucaa3as uu &doo ad we,gaaneaoaauoag."
+              },
+              {
+                "sentence_id": "DC_000042_P004_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 8,
+                "word_count": 1,
+                "text": "2.e...3."
+              },
+              {
+                "sentence_id": "DC_000042_P004_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 18,
+                "word_count": 1,
+                "text": "d.d.g.dodooaooneo,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 5,
+        "character_count": 338,
+        "word_count": 53,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000042_P005_PAR001",
+            "paragraph_index": 1,
+            "character_count": 338,
+            "word_count": 53,
+            "sentence_count": 4,
+            "text": "2.2. 3o: 1901/2024 2.ds : .dc : 38 UBB sae uca g 8 200 13-03-2026 d0 d002 a0023 238e0000. 2023 o 2025 a 8o , e o am 8 :14-04-2024 2o8 pomoproopwpcooopBppmomobasywpoooe @oomooBomoBpomooompBcpBoo3mpmBr3oommo3 Guaouugw udou seooaoda cuago audcowgu cog werauo. d uaouuoaog ua guoooa c ooq\"au cuuaodouuoo uoa odogne u& co &oo owuocoooudcgod.ao",
+            "sentences": [
+              {
+                "sentence_id": "DC_000042_P005_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 4,
+                "word_count": 1,
+                "text": "2.2."
+              },
+              {
+                "sentence_id": "DC_000042_P005_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 84,
+                "word_count": 18,
+                "text": "3o: 1901/2024 2.ds : .dc : 38 UBB sae uca g 8 200 13-03-2026 d0 d002 a0023 238e0000."
+              },
+              {
+                "sentence_id": "DC_000042_P005_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 166,
+                "word_count": 21,
+                "text": "2023 o 2025 a 8o , e o am 8 :14-04-2024 2o8 pomoproopwpcooopBppmomobasywpoooe @oomooBomoBpomooompBcpBoo3mpmBr3oommo3 Guaouugw udou seooaoda cuago audcowgu cog werauo."
+              },
+              {
+                "sentence_id": "DC_000042_P005_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 81,
+                "word_count": 13,
+                "text": "d uaouuoaog ua guoooa c ooq\"au cuuaodouuoo uoa odogne u& co &oo owuocoooudcgod.ao"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 6,
+        "character_count": 349,
+        "word_count": 61,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000042_P006_PAR001",
+            "paragraph_index": 1,
+            "character_count": 349,
+            "word_count": 61,
+            "sentence_count": 3,
+            "text": "suucocoooa ca uaocud uauu ga dmeag owauucoduuow dowoouoo.uodauoc uo @q o g o o 2.180 0o o 00 o y 2 og 3.90 0α m o a we oa d. d d e np%oBopmcoBammbam dooa 5 yne yen na we wo ag eeo edgeaouwooaocau...ucuowau&adaca.uoua nompopnkBpoppmoBmonmoB doa.uoda eo coao \"duao dmda udeda. eadoma.coaouodgeuoaumoaouoeoaaodowuoma.owoaooaccooa a a & e od a &oo &() o",
+            "sentences": [
+              {
+                "sentence_id": "DC_000042_P006_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 124,
+                "word_count": 30,
+                "text": "suucocoooa ca uaocud uauu ga dmeag owauucoduuow dowoouoo.uodauoc uo @q o g o o 2.180 0o o 00 o y 2 og 3.90 0α m o a we oa d."
+              },
+              {
+                "sentence_id": "DC_000042_P006_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 149,
+                "word_count": 21,
+                "text": "d d e np%oBopmcoBammbam dooa 5 yne yen na we wo ag eeo edgeaouwooaocau...ucuowau&adaca.uoua nompopnkBpoppmoBmonmoB doa.uoda eo coao \"duao dmda udeda."
+              },
+              {
+                "sentence_id": "DC_000042_P006_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 74,
+                "word_count": 10,
+                "text": "eadoma.coaouodgeuoaumoaouoeoaaodowuoma.owoaooaccooa a a & e od a &oo &() o"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 7,
+        "character_count": 494,
+        "word_count": 60,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000042_P007_PAR001",
+            "paragraph_index": 1,
+            "character_count": 494,
+            "word_count": 60,
+            "sentence_count": 4,
+            "text": "uuggeooaouugmcuucua cuucaudcodu.q'3dua oaa uo. o 14-04-2024 o o om 8 d00og usgeouwdowa.uuoogdg uguucoaouacuuguc dgugcoa uodoaomuoea oaouuocoaoucoea oaouogo aeeoeqea voaa uoag. BoropomBsmoappmonokoppmnooBBaopmn uoam codoua.uocdu uoco\"aoo eewoo...da nnoopobpnpooppooppaoooobp nnK3cmgomorp3mhmo8pnmpomomwpnmopmo eacuog.wuduadea uuowuuo caeauoao uda oaauoag. c204 d e cco 2oa oog cco s2oad ucoue naa uouugue uuowuuudnuoau oeopa0ne do de og eeowe oa ooog:oo 14-04-2024 do & uoea&gu u uou ow cdda ug.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000042_P007_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 46,
+                "word_count": 4,
+                "text": "uuggeooaouugmcuucua cuucaudcodu.q'3dua oaa uo."
+              },
+              {
+                "sentence_id": "DC_000042_P007_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 128,
+                "word_count": 16,
+                "text": "o 14-04-2024 o o om 8 d00og usgeouwdowa.uuoogdg uguucoaouacuuguc dgugcoa uodoaomuoea oaouuocoaoucoea oaouogo aeeoeqea voaa uoag."
+              },
+              {
+                "sentence_id": "DC_000042_P007_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 178,
+                "word_count": 12,
+                "text": "BoropomBsmoappmonokoppmnooBBaopmn uoam codoua.uocdu uoco\"aoo eewoo...da nnoopobpnpooppooppaoooobp nnK3cmgomorp3mhmo8pnmpomomwpnmopmo eacuog.wuduadea uuowuuo caeauoao uda oaauoag."
+              },
+              {
+                "sentence_id": "DC_000042_P007_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 139,
+                "word_count": 28,
+                "text": "c204 d e cco 2oa oog cco s2oad ucoue naa uouugue uuowuuudnuoau oeopa0ne do de og eeowe oa ooog:oo 14-04-2024 do & uoea&gu u uou ow cdda ug."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 8,
+        "character_count": 93,
+        "word_count": 6,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000042_P008_PAR001",
+            "paragraph_index": 1,
+            "character_count": 93,
+            "word_count": 6,
+            "sentence_count": 3,
+            "text": "BoBoopoKpphBocmouosponmooFhm'nmooormoonoaroBn (aaag acaoaguusm.ceoumiga udcoou). 2.e.... 2&/-",
+            "sentences": [
+              {
+                "sentence_id": "DC_000042_P008_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 80,
+                "word_count": 4,
+                "text": "BoBoopoKpphBocmouosponmooFhm'nmooormoonoaroBn (aaag acaoaguusm.ceoumiga udcoou)."
+              },
+              {
+                "sentence_id": "DC_000042_P008_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 7,
+                "word_count": 1,
+                "text": "2.e...."
+              },
+              {
+                "sentence_id": "DC_000042_P008_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 4,
+                "word_count": 1,
+                "text": "2&/-"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 3,
+    "state_name": "Karnataka",
+    "district_code": 1,
+    "district_name": "BELAGAVI",
+    "court_complex_code": 1030005,
+    "court_complex_name": "Court Complex- Nipani",
+    "year": 2024,
+    "case_type": "nan",
+    "case_number": "201200019012024",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "Writer",
+    "pdf_producer": "LibreOffice 24.2",
+    "pdf_creation_date": "D:20260318110641+05'30'",
+    "pdf_mod_date": ""
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.9761,
+    "quality_tier": "OCR_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "5da7ec7c8ad2e69c4df4174de1e061d1bcac91539265efb3b5b4581057278cb5",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.182859"
+  }
+}

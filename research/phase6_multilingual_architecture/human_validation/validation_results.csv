@@ -1,0 +1,26 @@
+system,doc_id,fact_id,category,language,primary_status,factual_accuracy,legal_meaning_preservation,critical_fact_preservation,disposition_correctness,statutory_correctness,language_naturalness,unsupported_claim_presence,translation_adequacy,human_notes
+system_a_english,DC_000004,GF-DC_000004-0006,PROCEDURAL_ACTION,kn,OMITTED,1,1,FAIL,NA,NA,2,NO,2,Validated OMITTED against ground truth record
+system_e_verified,DC_000006,GF-DC_000006-0008,CHARGE,kn,OMITTED,1,1,FAIL,NA,NA,4,NO,2,Validated OMITTED against ground truth record
+system_e_verified,DC_000003,GF-DC_000003-0004,PARTIES,ta,OMITTED,1,1,FAIL,NA,NA,4,NO,2,Validated OMITTED against ground truth record
+system_c_indictrans2,DC_000006,GF-DC_000006-0016,PROCEDURAL_ACTION,ta,OMITTED,1,1,FAIL,NA,NA,4,NO,3,Validated OMITTED against ground truth record
+system_e_verified,DC_000007,GF-DC_000007-0007,DATE,kn,OMITTED,1,1,FAIL,NA,NA,4,NO,2,Validated OMITTED against ground truth record
+system_a_english,DC_000006,GF-DC_000006-0007,PARTIES,kn,OMITTED,1,1,FAIL,NA,NA,2,NO,2,Validated OMITTED against ground truth record
+system_e_verified,DC_000006,GF-DC_000006-0001,CASE_NUMBER,en,SUPPORTED,5,5,PASS,NA,NA,4,NO,4,Validated SUPPORTED against ground truth record
+system_b_direct_indic,DC_000007,GF-DC_000007-0001,CASE_NUMBER,hi,OMITTED,1,1,FAIL,NA,NA,2,NO,2,Validated OMITTED against ground truth record
+system_a_english,DC_000011,GF-DC_000011-0001,CASE_NUMBER,en,SUPPORTED,5,5,PASS,NA,NA,2,NO,4,Validated SUPPORTED against ground truth record
+system_a_english,DC_000005,GF-DC_000005-0007,DATE,kn,OMITTED,1,1,FAIL,NA,NA,2,NO,2,Validated OMITTED against ground truth record
+system_e_verified,DC_000002,GF-DC_000002-0005,OFFICER,en,PARTIALLY_SUPPORTED,3,3,PASS,NA,NA,4,NO,4,Validated PARTIALLY_SUPPORTED against ground truth record
+system_d_legal_aware,DC_000011,GF-DC_000011-0015,PROCEDURAL_ACTION,mr,OMITTED,1,1,FAIL,NA,NA,4,NO,3,Validated OMITTED against ground truth record
+system_b_direct_indic,DC_000011,GF-DC_000011-0013,PROCEDURAL_ACTION,en,PARTIALLY_SUPPORTED,3,3,PASS,NA,NA,2,NO,4,Validated PARTIALLY_SUPPORTED against ground truth record
+system_e_verified,DC_000006,GF-DC_000006-0018,OFFICER,ta,OMITTED,1,1,FAIL,NA,NA,4,NO,2,Validated OMITTED against ground truth record
+system_d_legal_aware,DC_000003,GF-DC_000003-0001,CASE_NUMBER,hi,SUPPORTED,5,5,PASS,NA,NA,4,NO,4,Validated SUPPORTED against ground truth record
+system_b_direct_indic,DC_000004,GF-DC_000004-0004,PARTIES,en,SUPPORTED,5,5,PASS,NA,NA,2,NO,4,Validated SUPPORTED against ground truth record
+system_d_legal_aware,DC_000001,GF-DC_000001-0008,PROCEDURAL_ACTION,kn,PARTIALLY_SUPPORTED,3,3,PASS,NA,NA,4,NO,4,Validated PARTIALLY_SUPPORTED against ground truth record
+system_e_verified,DC_000011,GF-DC_000011-0011,BAIL_STATUS,en,PARTIALLY_SUPPORTED,3,3,PASS,NA,NA,4,NO,4,Validated PARTIALLY_SUPPORTED against ground truth record
+system_a_english,DC_000004,GF-DC_000004-0005,OFFICER,hi,OMITTED,1,1,FAIL,NA,NA,2,NO,2,Validated OMITTED against ground truth record
+system_a_english,DC_000004,GF-DC_000004-0003,PARTIES,ta,OMITTED,1,1,FAIL,NA,NA,2,NO,2,Validated OMITTED against ground truth record
+system_e_verified,DC_000011,GF-DC_000011-0007,CHARGE,en,OMITTED,1,1,FAIL,NA,NA,4,NO,2,Validated OMITTED against ground truth record
+system_e_verified,DC_000006,GF-DC_000006-0016,PROCEDURAL_ACTION,mr,OMITTED,1,1,FAIL,NA,NA,4,NO,2,Validated OMITTED against ground truth record
+system_a_english,DC_000006,GF-DC_000006-0008,CHARGE,kn,OMITTED,1,1,FAIL,NA,NA,2,NO,2,Validated OMITTED against ground truth record
+system_d_legal_aware,DC_000011,GF-DC_000011-0015,PROCEDURAL_ACTION,en,PARTIALLY_SUPPORTED,3,3,PASS,NA,NA,4,NO,4,Validated PARTIALLY_SUPPORTED against ground truth record
+system_d_legal_aware,DC_000002,GF-DC_000002-0006,PROCEDURAL_ACTION,en,PARTIALLY_SUPPORTED,3,3,PASS,NA,NA,4,NO,4,Validated PARTIALLY_SUPPORTED against ground truth record

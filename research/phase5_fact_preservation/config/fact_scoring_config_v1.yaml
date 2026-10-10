@@ -1,0 +1,35 @@
+# Vidhik Phase 5 - Weighted Legal Fact Preservation Scoring Configuration
+version: "1.0.0"
+description: "Mathematically explicit weighting for legal fact preservation scoring."
+
+category_weights:
+  # Critical Categories (Sum = 0.70)
+  DISPOSITION: 0.25
+  STATUTORY_SECTION: 0.15
+  CASE_NUMBER: 0.10
+  PARTIES: 0.10
+  RELIEF: 0.05
+  JUDICIAL_FINDING: 0.05
+  
+  # Important Categories (Sum = 0.30)
+  COURT: 0.05
+  DECISION_DATE: 0.05
+  AMOUNT: 0.05
+  PROCEDURAL_ACTION: 0.05
+  CHARGE: 0.05
+  STATUTE: 0.05
+  
+  # Contextual Categories (Sum = 0.00)
+  ISSUE: 0.00
+  ARGUMENT: 0.00
+  SENTENCE: 0.00
+  BAIL_STATUS: 0.00
+  OTHER_CRITICAL_FACT: 0.00
+
+formula: |
+  Legal_Fact_Score = sum(weight[c] * preservation_rate[c] for c in categories if count[c] > 0) / sum(weight[c] for c in categories if count[c] > 0)
+
+criticality_weights:
+  CRITICAL: 3.0
+  IMPORTANT: 1.5
+  CONTEXTUAL: 0.5

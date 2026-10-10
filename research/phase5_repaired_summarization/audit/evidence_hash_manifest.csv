@@ -1,0 +1,2 @@
+artifact,sha256,row_count,benchmark_documents,condition
+repaired_bm25_b8_evidence.parquet,a6ded9f093ae56ae23e0cb6c9d99e6eb895820a855a5760bb5a69eabf1dc9b9c,66,9,BM25_B8

@@ -1,0 +1,2535 @@
+--- PAGE 1 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 1 of 53 
+ 
+$~  
+* 
+IN  THE  HIGH  COURT  OF  DELHI  AT  NEW  DELHI 
+ 
+Reserved on: 17th November, 2021 
+Pronounced on:  24th November, 2021 
+ 
++  
+ARB. A. (COMM.) 16/2020  
+ 
+WORLD WINDOW INFRASTRUCTURE PVT LTD. 
+.... Petitioner 
+Through 
+Mr. Akhil Sibal, Sr. Adv along 
+with Mr. Prashant Mehta & Ms. Ishita 
+Choudhry, Advocates 
+ 
+ 
+ 
+ 
+ 
+versus 
+ 
+ 
+CENTRAL WAREHOUSING CORPORATION  ...Respondent 
+Through 
+Mr. A.K.Ganguli, Sr. Adv. with 
+Mr. Shaiwal Srivastava and Mr. Arnab 
+Ganguli, Advs. 
+ 
+ 
+CORAM: 
+ 
+HON'BLE MR. JUSTICE C. HARI SHANKAR 
+ 
+ 
+ 
+           
+1. 
+This appeal, under Section 37(2)(b) of the Arbitration and 
+Conciliation Act, 1996 (“the 1996 Act”) challenges orders dated 17
+J U D G M E N T 
+% 
+ 
+                 24.11.2021 
+ 
+ 
+th 
+June, 2020 and 15th
+ 
+ August, 2020, passed by the learned arbitrator on 
+applications preferred by the appellant M/s World Window 
+Infrastructure and Logistics Pvt. Ltd. under Section 17 of the 1996 
+Act.   
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 2 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 2 of 53 
+ 
+2. 
+The appellant had, in fact, filed three applications before the 
+learned arbitrator under Section 17, on 21st May, 2020, 18th June, 2020 
+and 26th June, 2020.  The application dated 18th June, 2020 was, later, 
+withdrawn. The orders impugned adjudicate the applications dated 21st 
+May, 2020 and 26th
+ 
+ June, 2020.  
+3. 
+On 26
+Facts  
+ 
+th
+ 
+ April, 2004, the respondent, Central Warehousing 
+Corporation (CWC) issued a Request for Proposal (RFP), inviting 
+tenders for providing Strategic Alliance Management and Operations 
+and Commercial Services at six Inland Container Deports 
+(ICDs)/Container Freight Stations (CFSs). Clause 4.6.5 of the RFP 
+required the operator, to whom the tender was awarded, to submit a 
+minimum yearly return and to commit for a minimum guarantee of 
+business in terms of traffic (referred to, alternatively, as “Minimum 
+Guaranteed Throughput”/“MGT”). In respect of ICD, Loni, the MGT 
+was 18000 TEUs per annum. One TEU represented one (120 foot) 
+container. 
+4. 
+The appellant was the sole bidder. The financial bid of the 
+appellant was opened on 5th
+“FORMAT FOR COMMERCIAL BID 
+ 
+ 
+NAME OF THE CFS/ICD: LONI 
+ 
+ July, 2004. There were various exhibits to 
+the financial bid.  Exhibit 10, titled “Format for Commercial Bid”, 
+read thus: 
+A 
+Fixed Fee (lumpsum) per annum 
+ 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 3 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 3 of 53 
+ 
+B(I) 
+Variable fee per TEU for loaded 
+container entering or leaving the 
+facility 
+ 
+B(II) 
+Variable 
+fee 
+per 
+TEU 
+being 
+transported between gateway ports 
+and Inland CFSs/ICDs 
+ 
+  
+C. 
+The fixed fee as well as variable fee as quoted by the 
+bidder or as negotiated, shall be subject to a yearly escalation 
+of 5% on compoundable basis.  The first escalation will take 
+place after one year from the date of commencement of 
+operations.”  
+ 
+Exhibit 11 to the Financial Bid was a “Format for Agreement”.  
+Clause 17.0 of the said Exhibit 11 set out the format for payments to 
+be made by the “operator” to the CWC, and read thus: 
+“17.0 Payment to CWC 
+ 
+(i) 
+Fixed Fee 
+ 
+In return for the rights granted to the Operator (Name 
+of the Operator) under the Strategic Alliance 
+Management Contract, the Operator shall pay CWC a 
+fixed fee of Rs.         for CFS,           per annum. 
+ 
+(ii) 
+Variable Fee 
+ 
+In addition to the above, the Operator (Name of the 
+Operator) shall pay CWC a per TEU fee for each 
+loaded container entering and leaving the Facility @ 
+Rs.          f
+(iii) 
+Payment shall be exempt on: 
+or B (i) and Rs.            for B(ii).  The 
+variable fee shall be payable to the Corporation for the 
+actual number of containers or for the minimum 
+guaranteed throughput (calculated on monthly basis), 
+whichever is higher.  
+ 
+ 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 4 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 4 of 53 
+ 
+• 
+Empty containers leaving the Facility 
+provided they entered the facility in loaded 
+status and per TEU variable fee has already 
+been paid 
+ 
+• 
+Empty containers entering the facility 
+provided the containers leave the Facility in 
+loaded Status and pay the per TEU variable fee 
+ 
+(iv) 
+The Fixed fee and the variable fees, even for the 
+minimum guaranteed throughput, as mentioned above 
+shall be subject to a yearly escalation of 5% P.A. on 
+compoundable basis effective from the date of 
+commencement of the operations.” 
+ 
+Thus, Clause C of Exhibit 10 as well as Clause 17.0 (iv) of Exhibit 11 
+to the Financial Bid, which set out the Formats for the Commercial 
+Bids and for the Agreement to be executed between the successful 
+operator and CWC, required yearly escalation of 5% p.a. on 
+compoundable basis to be paid both on the fixed fee as well as the 
+variable fee.  No relaxation, from this dispensation, was envisaged or 
+provided in the RFP or in the Financial Bid.   
+ 
+5. 
+Following the opening and acceptance of the appellant’s 
+financial bid, Letter of Intent (LoI) was issued by CWC in favour of 
+the appellant on 15th
+ 
+ October, 2004.  The LoI provided that the 
+contract would commence from the date of handing over of the facility 
+by CWC to the appellant.  It also required the appellant to furnish an 
+irrevocable bank guarantee from a nationalised bank, in favour of the 
+CWC, for the MGT, of ₹ 2,72,90,000/-.   
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 5 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 5 of 53 
+ 
+6. 
+The LoI was followed by the execution, between the appellant 
+and the CWC, of a formal Agreement dated 16th
+“2.0 
+World’s Window confirms that they are willingly 
+undertaking the Management Contract at ICD, Loni on “As is 
+where is” basis after the exact date of commencement of work 
+as defined in para 18 below of this agreement after CWC has 
+constructed the ICD, Loni as per the LOI date 15.10.2004 at 
+the rates finally offered during negotiation by them on 24/8/04 
+and 14/9/04 and these rates shall form an integral part of this 
+agreement as Annexure-I.  The RFP document (tender 
+document) shall also form integral part of this agreement and 
+World’s Window undertakes to abide by them during this 
+contract period.” 
+ 
+Clause 17.0 set out the terms of the payments to be made by the 
+appellant to CWC, and read thus: 
+“17.0 Payments to CWC 
+ 
+ February, 2005.  
+Clauses 2.0 to 13.0 set out the obligations of the appellant.  Clause 
+14.0 required customs expenditure, as demanded by customs 
+authorities, to be paid by CWC and reimbursed by the appellant. 
+Clause 15.0 permitted CWC to make business proposals to the 
+appellant, who, subject to the commercial viability thereof, was 
+required to agree to the proposals.  Clause 16.0 required the appellant 
+to reimburse, to CWC, the gross salary, perquisites, TA/DA and 
+miscellaneous expenses for the officials of the CWC deputed/posted at 
+ICD, Loni, within 15 days of claim by the CWC. Clause 2.0 of the 
+agreement read thus: 
+(i) 
+Fixed Fee 
+ 
+In return for the rights granted to the World’s Window 
+under the Strategic Alliance Management Contract, the 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 6 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 6 of 53 
+ 
+World’s Window shall pay CWC a fixed fee of 
+Rs.2,00,00,000/- (Rupees Two Crore only) for ICD, 
+Loni per annum. 
+ 
+(ii) 
+Variable Fee 
+ 
+In addition to the above, the World’s Window shall 
+pay CWC a per TEU fee for each loaded container 
+entering and leaving the Facility @ Rs.405/- for B (i) 
+(Per TEU for loaded containers entering or leaving the 
+facility) and Rs.1,500/- for B(ii) (Per TEU being 
+transported between Gateway Ports and ICD-Loni) by 
+road. The variable fee shall be payable to the 
+Corporation for the actual number of containers or for 
+the minimum guaranteed throughput (calculated on 
+monthly basis), whichever is higher. 
+ 
+As negotiated, in tandem with the terms and 
+conditions of the tender, World’s Window shall be 
+liable to invest/procure one full rake having wagons 
+which can run with 100 KM per hour speed to 
+transport loaded containers between ICD, Loni and 
+Gateway Ports.  Other rakes required for this purpose 
+will be arranged by CWC. 
+ 
+In addition, World’s Window shall be liable to 
+pay an amount of Rs.1000/- (Rupees One thousand 
+only) per TEU for the containers moved between Loni 
+and Gateway Ports through the Railway wagons/rake 
+procured for the purpose.  
+ 
+However, if such movement is undertaken on 
+hire/leased wagons, the payable amount shall be 
+Rs.500/- (Rupees Five hundred only) per TEU. 
+ 
+One TEU shall mean 20’ container and 
+containers more than 20’ shall be taken as two 
+containers. 
+ 
+(iii) 
+Payment shall be exempt on: 
+ 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 7 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 7 of 53 
+ 
+Empty containers leaving the Facility provided they 
+entered the facility in loaded status and per TEU 
+variable fee as stated at B(i) has already been paid. 
+ 
+Empty containers entering the facility provided 
+the containers leave the Facility in loaded Status and 
+per TEU variable fee as stated at B(i) has already been 
+paid.  
+ 
+(iv) 
+The Fixed fee and the variable fees even for the 
+minimum guaranteed throughput as mentioned above 
+shall be subject to a yearly escalation of 5% P.A. on 
+compoundable basis effective from the date of 
+commencement of the operations except on the 
+containers transported through rail between ICD, Loni 
+and Gateway ports.” 
+ 
+Clause 17.2 required the appellant to execute, in favour of CWC, an 
+irrevocable bank guarantee, and read thus: 
+“World’s Window shall execute in favour of CWC an 
+irrevocable with recourse Bank Guarantee issued by a 
+Nationalized Bank/Scheduled Bank equal to the yearly 
+minimum amount payable (Fixed Fee plus Variable Fee on 
+minimum guaranteed throughput) to CWC. The Bank 
+guarantee would be drawn in favour of Regional Manager, 
+Central Warehousing Corporation, Regional Office, Delhi. 
+The Bank Guarantee shall be produced/renewed/extended by 
+World’s Window on yearly basis equivalent to yearly 
+minimum committed amount till the continuation of the 
+management contract and shall be invariable be renewed one 
+month in advance before its expiry every year. The bank 
+guarantee for the fifteenth year would however, carry a 
+validity of two years.  
+ 
+The Bank Guarantee  shall be encashed by CWC, if the 
+World’s Window fails to make the payment of the fixed 
+or/and variable fee, as the case may be by the respective due 
+dates.  On encashment of the Bank Guarantee by the CWC, 
+the World’s Window shall furnish a fresh Bank Guarantee for 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 8 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 8 of 53 
+ 
+a sum equal to the yearly minimum return payable to CWC, 
+within a week of a demand being made by CWC.” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clause 19.0 identified payment of fixed and variable fee by the 
+appellant to CWC as one of the appellant’s key obligations under the 
+contract, and further identified, failure to adhere to the stipulated 
+payment schedule, as an “event of default”, which could justify 
+termination of the contract. 
+ 
+7. 
+Thus, Clause 2.0 of the Agreement made the RFP an integral 
+part of the Agreement.  There was, however, a departure, in Clause 
+17.0 of the Agreement, from Clause 17.0 of the Format of Agreement 
+constituting Exhibit 11 to the Financial Bid dated 5th 
+ 
+July, 2004.  An 
+exception, from the requirement of payment of escalation on variable 
+fee was carved out, in sub-clause (iv) of Clause 17.0 in the 
+Agreement, in the case of containers transported through rail between 
+ICD, Loni and Gateway Ports.  It is this exception which constitutes 
+the linchpin of the submissions advanced by Mr. Akhil Sibal, learned 
+Senior Counsel for the appellant, and, indeed, is the very fulcrum of 
+the challenge, by the appellant, to the impugned orders of the learned 
+arbitrator.   
+8. 
+The date of commencement of the contract, in the present case, 
+was 10th
+ 
+ March, 2007. 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 9 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 9 of 53 
+ 
+9. 
+The appellant was paying, to the respondent, fixed fee as well as 
+variable fee based on MGT, on a yearly basis. Despite the exception, 
+in Clause 17.0 (iv) of the Agreement, from the requirement of 
+payment of escalation on variable fee in respect of containers 
+transported through rail between ICD, Loni and the Gateway Ports, the 
+appellant was paying variable fee with 5% escalation on all containers, 
+from the inception of the contract till October, 2009.  With effect from 
+October, 2009, the appellant stopped paying escalation on variable fee 
+in respect of the containers transported by rail between the ICD, Loni 
+and the Gateway Ports. 
+ 
+10. 
+This resulted in a slew of communications from CWC to the 
+appellant, calling on the appellant to pay escalation on the variable fee 
+in respect of all containers, as had been paid by the appellant till 
+October, 2009. The last of these communications, dated 6th July, 2011, 
+also put the appellant to notice that default, on its part, in paying 
+escalation on the variable fee would be treated as a breach of the 
+Agreement, and would invite the consequences envisaged in that 
+regard. These demands were reiterated by the respondent, in 
+communication dated 29th
+ 
+ August, 2011 addressed to the appellant, 
+which, further, threatened encashment of the bank guarantees 
+furnished by the appellant, if the appellant continued to remain in 
+default of payment of escalation on the variable fee payable by it. 
+11. 
+In order to attempt a resolution of the imbroglio thus created, a 
+meeting was convened by the office of the Ministry of Consumer 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 10 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 10 of 53 
+ 
+Affairs (MoCA) on 19th February, 2013, which was attended by 
+representatives of the appellant and CWC.  The decisions taken in the 
+said meeting were enumerated in a Recorded Note of Discussions, 
+which was forwarded by CWC to the Joint Secretary, MoCA on 22nd 
+February, 2013, with a copy marked to the appellant.  Serial no. 2 of 
+the decisions taken in the meeting dated 19th
+  
+ February, 2013, as per 
+the recorded Note of Discussions, envisaged payment, by the 
+appellant, to CWC, “escalation on Variable Fee @ 5% per annum on 
+compoundable basis as per agreement”. 
+12. 
+On 22nd
+  
+“To, 
+ 
+The Regional Manager, 
+Central Warehousing Corporation,  
+Scope Minar, District Centre, 
+Laxmi Nagar, New Delhi. 
+ 
+Sub: Release of payment towards Variable Fee (escalation 
+amount) 
+ 
+Dear Sir, 
+ 
+This is with reference to the meeting held in the Ministry on 
+19.02.2013 and onward discussion held in the chamber of 
+MD/CWC on 18.05.2013, in this regard, as agreed, we are 
+releasing the payment towards the Variable Fee (escalation 
+amount) Rs.3,28,87,910/- for period up to 30
+ May, 2013, the appellant addressed a communication to 
+the CWC, in which it was stated, inter alia thus: 
+th April, 2013 
+after deduction of the TDS, given below are the details of 
+cheques enclosed herewith (details are as per statement 
+enclosed). 
+ 
+S.No. Cheque no.  
+Date  
+Amount 
+ 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 11 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 11 of 53 
+ 
+1. 
+747228 
+     23.05.2013 
+75,00,000/- 
+ 
+2. 
+537701 
+    25.05.2013 
+65,00,000/- 
+ 
+3. 
+537702              29.05.2013 
+76,00,000/- 
+ 
+4. 
+537703 
+   05.06.2013  
+80,68,991/-” 
+ 
+ 
+13. 
+The appellant continued to pay variable fee on MGT, with 
+yearly escalation @ 5% per annum till February, 2020, whereafter it 
+discontinued paying the variable fee at the escalated rate.  
+ 
+14. 
+Disputes arose between the parties on various aspects including, 
+inter alia, the aspect of non-payment of escalation on variable fee by 
+the appellant. These disputes were referred, by the Supreme Court, 
+vide order dated 15th
+ 
+ February, 2019, to the learned arbitrator, who is a 
+former Judge of the Supreme Court.    
+15. 
+CWC was the claimant before the learned arbitrator, and the 
+appellant was the respondent.   
+ 
+16. 
+Statement of claim and Supplementary Statement of Claim were 
+filed by CWC, before the learned arbitrator, on 2nd April, 2019 and 
+16th September, 2019, respectively.  Statement of defence, alongwith 
+counter claim, was filed by the appellant on 14th
+ 
+ May, 2019. 
+17. 
+On 1st April, 2020, the appellant wrote to CWC, invoking force 
+majeure, in the wake of the COVID-2019 pandemic which had 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 12 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 12 of 53 
+ 
+ravaged the country since March, 2020, and seeking exemption from 
+payment of fixed/variable fee on MGT from 1st February, 2020 till 30th 
+June, 2020. This was followed by a second communication dated 28th 
+April, 2020, wherein the appellant sought exemption from the 
+requirement of reimbursing the salaries of CWC’s staff posted in the 
+ICD with effect from 1st March, 2020 till 30th
+“Either Party shall be excused from performance and neither 
+Party shall be construed to be in default in respect of any 
+obligations hereunder, for so long as an event of Force 
+Majeure shall be the operative cause of such failure to 
+perform the obligations. For the purpose of this clause, Force 
+Majeure shall mean any event or circumstance not within the 
+reasonable control, directly or indirectly, of the Party 
+affected.” 
+ 
+ September, 2020. Clause 
+23 of the Agreement, which provided for force majeure, reads thus:   
+18. 
+CWC, vide letters dated 6th May, 2020 and 7th May, 2020, 
+rejected the appellant’s requests for exemption from the requirement 
+of payment of fixed fee/variable fee with effect from 1st
+ 
+ February, 
+2020 and from payment of salary on its personnel deputed at the ICD. 
+Further, the communications asserted that any such default in 
+payment, on the part of the appellant, would be viewed as a material 
+breach of the Agreement, inviting coercive action by CWC, including 
+termination of the Agreement and encashment of the bank guarantees 
+furnished by the appellant.  
+19. 
+First Section 17 Application dated 21st May, 2020:  In these 
+circumstances, the appellant filed an application, under Section 17 of 
+the 1996 Act, before the learned arbitrator, on 21st May, 2020. 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 13 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 13 of 53 
+ 
+Drawing pointed attention to the hardships being faced in the wake of 
+COVID-2019  pandemic as well as various instructions/circulars and 
+Office Memoranda issued by the Government of India from time to 
+time in that regard, the appellant prayed, in the application, for (i) an 
+ad interim injunction restraining CWC from taking any coercive 
+measures against the appellant pending the arbitral proceedings, (ii) an 
+ad interim injunction restraining the CWC from invoking or encashing 
+the Bank Guarantees furnished by the appellant, (iii) a restraint, 
+against CWC, from breaching the directives issued by the Government 
+in the wake of the COVID pandemic and grant of the benefit, thereof, 
+to the appellant and (iv) a direction to the CWC to defer the 
+recovery of Minimum Guarantee Charges, Fixed Charges, Cost 
+Recovery charges and other charges under the Agreement for at least 
+six months after lifting of the lockdown imposed in the wake of the 
+COVID pandemic. 
+  
+20. 
+The CWC filed a reply to the aforesaid Section 17 application 
+of the appellant, which stands decided by the learned arbitrator, vide 
+the First Order dated 17th
+ 
+ June, 2020, impugned in the present appeal. 
+21. 
+First Impugned Order dated 17th
+ 
+ June, 2020 
+21.1 The only issue before the learned arbitrator, in this application, 
+was whether, in view of the COVID-19 pandemic and the various 
+directives issued by the Government in the wake thereof, the appellant 
+was excused of its obligations under the Agreement, or could claim 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 14 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 14 of 53 
+ 
+deferral thereof, invoking force majeure. The learned arbitrator 
+answered the issue in the negative and, consequently, rejected the 
+appellant’s application. 
+ 
+21.2 The reasoning of the learned arbitrator is contained in the 
+following paragraphs, from the Order dated 17th
+“The Applicant is not disputing its obligations for paying the 
+fixed/variable charges but for the situation prevailing in the 
+country due to lock down declared by the Govt. of India… 
+ 
+***** 
+ 
+The Tribunal finds that the applicant has placed considerable 
+reliance on the office memorandums dated 19.02.2020 and 
+13.05.2020 issued by the Ministry of Finance, Govt. of India, 
+for invoking the force majeure clause 23 of the contract. The 
+office memorandums it is seen have been issued by the 
+Ministry in view of the lockdown restrictions placed on the 
+movement of goods, services and man power. But the 
+Ministry in its guidelines dated 24.03.2020 clearly indicated 
+that though all the transport services - air, rail would remain 
+suspended, transportation for essential goods would stand 
+exempted. 
+ 
+The Ministry by way of an addendum to the guidelines dated 
+24.03.2020 incorporated further exemptions which read as 
+follows: 
+ 
+“All transport services – air, rail, roadways – will 
+remain suspended  
+ 
+Exceptions: 
+ 
+a.  
+Transportation for essential goods only. 
+ 
+b. 
+ Fire, law and order and emergency 
+services. 
+ 
+ June, 2020:  
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 15 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 15 of 53 
+ 
+Ministry by its subsequent guidelines dated 15.04.2020 also 
+provided as follows: 
+ 
+“to mitigate hardship to the public, select additional 
+activities will be  allowed which will come into 
+effective from 20th April 2020… 
+ 
+The movement, loading/unloading of goods/cargo (inter & 
+intra state) is allowed as under: 
+ 
+i.  
+All goods traffic will be allowed to ply. 
+ 
+ii.  
+Operations of Railway: Transportation of goods 
+and parcel trains 
+ 
+iii.  
+Operation of Airports and related facilities for 
+air transport for cargo 
+movement, relief and 
+evacuation. 
+ 
+iv.  
+Operations of Seaports and Inland Container 
+Depots 
+(ICDs) 
+for 
+cargo 
+transport, 
+including 
+authorized custom clearing and forwarding agents.  
+ 
+The activities / operations carried on in ICD, Loni fall under 
+the exceptions which is clear from all the office 
+memorandums including the addendum dated 25.03.2020 and 
+the guidelines dated 15.04.2020 issued by the Ministry, in the 
+larger public interest and facts reveal that the Applicant had 
+carried out its usual activities/operations at ICD, Loni which 
+is evident from Table -1 shown in Para 7 of the reply filed by 
+the CWC. The details given in the Table show the volume of 
+the containers handled from October 2019 until April 2020. In 
+March 2020 the volume of containers handled was higher than 
+what was handled in November 2019. The assertion made by 
+CWC that about 99% of the containers had moved through 
+Railway system including during the period March-April 
+2020 (lockdown period) was also not denied by the applicant. 
+ 
+Tribunal also finds no basis in the contention of the applicant 
+that the whole supply chains for ICD, Loni have been 
+disrupted on account of the lockdown, no materials have been 
+produced by the applicant to establish, that contention. 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 16 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 16 of 53 
+ 
+Further there is nothing to show that the operations/activities 
+at ICD, Loni were affected due to lack of laborers / workers. 
+As already stated, Table – 1 gives a clear indication that 
+during lockdown period the operations/activities at ICD, Loni 
+continued as usual without any interruptions. 
+ 
+The Tribunal also finds that the demand made by the CWC 
+vide its letter dated 06.05.2020 pertains to the last financial 
+year 2019-2020 which has nothing to do with the situations 
+prevailing during the lockdown period even if the lockdown 
+period has affected the operations/activities at ICD, Loni. It is 
+seen that the attempt of the applicant is only to wriggle out of 
+its contractual obligations to pay variable fee which it had 
+otherwise earned since April 2019 until March 2020, under 
+the garb of lockdown. CWC, in my view is right in its 
+contention that the contractual liability to pay outstanding 
+variable fee already stood incurred on 31.03.2020 during 
+which 
+time 
+the 
+applicant 
+had 
+carried 
+on 
+the 
+operation/activities at ICD, Loni. But for an overlapping of 6 
+days, that is from 25.03.2020 to 31.03.2020 the rest is the 
+liability for the year which was not covered by any of the 
+memorandums / guidelines issued by the Ministry.  
+ 
+CWC is right in its contention that the Bank Guarantees 
+constitute an independent contract between the Bank and 
+CWC notwithstanding any dispute raised by the applicant on 
+strength of clause 23 of the contract, which is well settled by a 
+catena of decisions. Reference has already been made to the 
+judgement of the Supreme Court in Himadri Chemicals case 
+(supra). Facts also reveal that the applicant had not even 
+approached CWC complaining that the activities/operations at 
+ICD, Loni were ever disrupted before April 2020 due to the 
+imposition of lockdown. In my view, since Bank Guarantees 
+are unconditional Bank Guarantees, the Bank is bound to 
+honour the same since CWC has not done any fraudulent act 
+or caused any irretrievable injustice to the applicant. On the 
+other hand as already stated the Applicant had/has carried out 
+the operations/activities at ICD, Loni as usual during the 
+lockdown period since those activities stood excepted from 
+lockdown, in the larger interest of the nation. 
+ 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 17 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 17 of 53 
+ 
+Tribunal is therefore of the view the force majeure clause is 
+not available to the applicant to be invoked in the facts and 
+circumstances of this case. If the Applicant fails to honor its 
+commitments it is open to CWC to invoke the Bank 
+Guarantees and that the demand notices dated 06.05.2020 and 
+07.05.2020 issued by CWC cannot be set to be hit by the 
+force majeure clause contained in clause 23 of the Contract or 
+by the office memorandums dated 19.02.2020 or 13.05.2020 
+issued by the Ministry of Finance, Govt. of India. Application 
+therefore lacks merits and the same is dismissed.” 
+ 
+22. 
+On the very day when the aforesaid order came to be passed by 
+the learned arbitrator, i.e. 17th June, 2020, three of the bank guarantees 
+furnished by the appellant, dated 1st March, 2019, 27th March, 2018 
+and 26th March, 2018, for a total amount of ₹ 3,
+14,19,109/-, were 
+invoked and encashed by CWC. The appellant, in the circumstances, 
+filed another Section 17 application before the learned arbitrator on 
+18th June, 2020. As some changes were required to be made in the 
+application, the learned arbitrator permitted the appellant to withdraw 
+the application and file a fresh Section 17 application which came to 
+be filed on 26th June, 2020 and has come to be decided by the Order 
+dated 15th
+ 
+ August, 2020, which constitutes the second order under 
+challenge in the present appeal. 
+23. 
+Application dated 23rd January, 2020 of the CWC: On 23rd 
+January, 2020, CWC moved an application, before the learned 
+arbitrator, for rectification of the agreement dated 16th February, 2005, 
+under Section 26 of the Specific Relief Act, 1963, for deletion, from 
+Clause 17 (ii) B(ii) of the words “by road” and from Clause 17.0 (iv) 
+of the words “except on the containers transported through Rail 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 18 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 18 of 53 
+ 
+between ICD, Loni and gateway port”. This application was rejected, 
+by the learned arbitrator, vide order dated 13th
+ 
+ February, 2020. 
+24. 
+Second Section 17 application dated 26th June, 2020
+ 
+:   
+24.1 The appellant, in its Section 17 application dated 26th June, 
+2020, assailed the act of CWC, in encashing the bank guarantees 
+furnished by the appellant, on 17th June, 2020, as illegal. It was 
+pointed out, in the application that, in its earlier order dated 17th June, 
+2020, the learned arbitrator had permitted the CWC to encash the bank 
+guarantees furnished by the appellant in the event of failure, on the 
+part of the appellant, to honour its commitment. It was asserted that 
+the commitment of the appellant, under the agreement, was only to 
+pay fixed fee and variable fee. These amounts having been duly paid 
+by the appellant, it was submitted that no default, in honoring its 
+commitment under the agreement, could be laid at the door of the 
+appellant; resultantly, the invocation of the bank guarantees, furnished 
+by the appellant, by CWC on 17th
+ 
+ June, 2020, was illegal. 
+24.2 The appellant urged, as its first ground of challenge, that CWC 
+had erroneously assessed the appellant’s liability towards payment of 
+variable fee on the basis of 72,580 TEUs per year, as against the 
+actual MGT of 72,000 TEUs by taking the MGT as 6000 TEUs per 
+month, contrary to the Agreement. The Agreement, it was submitted, 
+required MGT to be computed on an annual basis. In computing the 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 19 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 19 of 53 
+ 
+MGT on a monthly basis, it was alleged that CWC had infracted the 
+contractual terms.  
+ 
+24.3 The second ground, on which the appellant sought to call into 
+question the legitimacy of the invocation, by CWC, of the bank 
+guarantees furnished by the appellant, was predicated on Clause 17.0 
+(iv) of the Agreement, which excepted, from the requirement of 
+payment of escalation on variable fee, containers which were 
+transported through Rail between ICD, Loni and Gateway Port. It was 
+alleged that, by application of this Clause, the appellant was not 
+required to pay escalation on variable fee, as the containers had moved 
+by Rail between ICD, Loni and Gateway Port. It was pointed out that 
+the appellant had always paid, with due diligence, the fixed fee with 
+escalation as well as the variable fee without escalation.  
+ 
+24.4 Additionally, the appellant re-agitated its submission that, on 
+account of force majeure, it was excepted from its obligations, under 
+the agreement.  
+ 
+24.5 In these circumstances, the application prayed thus:  
+“In view of the aforementioned grounds, the Counter 
+Claimant/ Applicant prays as follows: 
+ 
+a)  
+Pass an ad-interim exparte Order holding that Force 
+Majeure Condition is applicable in respect of the present 
+Contract from 1st April’ 2020 for a minimum period of six 
+months or till such time normal operations of the Applicant 
+are restored whichever is later; 
+ 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 20 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 20 of 53 
+ 
+b)  
+Pass an ad-interim exparte Order restraining the 
+Claimant from claiming any Fixed charges & Claimant Staff’s 
+reimbursement charges proportionate to the unfulfilled 
+volume of MGT i.e. the difference between the volume 
+actually achieved by the Counter Claimant and 72000 TEUs 
+per year during the period of Force Majeure; 
+ 
+c)  
+Pass an ad interim ex parte order restraining the 
+Claimant from recovering any amount during the force 
+majeure period towards variable charges (as per Agreement) 
+in excess of actual volume achieved by Counter Claimant and 
+accordingly to reduce MGT proportionately for the FY 2020-
+21; 
+ 
+d)  
+Pass an ad interim exparte order directing deferment of 
+payments falling due, during the period of Force Majeure, for 
+a period of six months after resumption of normal work, for 
+sustenance of operations.  
+ 
+e)  
+Pass an ad-interim exparte order directing the Claimant 
+and its officials for returning the amount fraudulently 
+encashed from the Bank Guarantees as bearing BG No. 
+003GT02190600047, BG No. 003GT02180860007 and BG 
+No. 003GT02180850018 for Rs. 2,18,70,000/-, Rs.68,01,913/, 
+Rs. 27,47,196/- respectively to bank for revival of the Bank 
+Guarantees in question; 
+ 
+f)  
+Pass an ad interim exparte order restraining the 
+Claimant or its official to take any coercive action against 
+Counter Claimant/ Applicant including but not limited to as 
+threatened by Claimant’s Letter dt. 23.06.2020 and; 
+ 
+g)  
+Pass any other order and/or direction in favour of the 
+Counter Claimant/Applicant and against the Claimant as this 
+Hon'ble Tribunal may deem fit and proper in the facts and 
+circumstances of the present case and in the interest of 
+Justice.” 
+ 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 21 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 21 of 53 
+ 
+25. 
+CWC filed a reply to the above application of the appellant, and 
+also contested the application by way of oral arguments before the 
+learned arbitrator.  
+ 
+26. 
+Rival submissions urged before the learned arbitrator in second 
+S. 17 application of appellant
+ 
+: 
+26.1 Appellant’s contentions
+ 
+: 
+26.1.1 Before the learned arbitrator, the appellant questioned the 
+justification of the realization, by CWC, by invocation and 
+encashment of the bank guarantees, of an amount in excess of the 
+demand of ₹2.05 crores. Computing its liability to CWC on the basis 
+of an MGT of 72,000 TEUs per annum and by assessing variable fee 
+without escalation, the appellant contended that there was no 
+justification for CWC encashing the bank guarantees. The appellant 
+submitted that, under Clause 4.6.7 of the RFP read with 17.2 of the 
+Agreement, the appellant was required to pay only Fixed Fee and 
+Variable Fee. There was no liability to pay escalation on Variable Fee, 
+especially in view of Clause 17.2(iv). For this reason, the bank 
+guarantees provided by the appellant, too did not cover Variable Fee 
+at the escalated rate. Referring to the communications between the 
+appellant and the respondent, it was submitted that the appellant had 
+always disputed its liability to pay escalation on Variable Fee. The 
+payment of Variable Fee at the escalated rate after 2013, was, 
+therefore, submitted the appellant, under duress/protest as was 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 22 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 22 of 53 
+ 
+evidenced by the appellant’s letter dated 31st
+ 
+ May, 2013. In fact, CWC 
+had “virtually admitted”, the fact that the Agreement did not require 
+the appellant to pay escalation on Variable Fee in respect of containers 
+which were moved by rail between the Gateway Ports and ICD, Loni. 
+It was for this purpose, submitted the appellant, that CWC had moved 
+an application, before the learned arbitrator, for amending the 
+Agreement by, inter-alia, removing, from Clause 17.0 (iv), the words, 
+“except on the containers transported through rail between ICD Loni 
+and Gateway Port”. This application had been rejected by the learned 
+arbitrator. It was not open, therefore, to CWC, submitted the 
+appellant, to contend that the appellant was liable to pay Variable Fee 
+at the escalated rate. 
+26.1.2 The appellant further submitted that the respondent had erred in 
+computing MGT as 72,580 TEUs per year, instead of 72,000 TEUs 
+per year. This error, it was submitted had taken place because the 
+respondent had worked out the MGT on a monthly, instead of an 
+annual, basis. The appellant pointed out that, for the last 12 years, 
+MGT had been computed on an annual basis. In fact, when the MGT 
+had been enhanced w.e.f June, 2009, by letter dated 26th December 
+2007, of CWC, to 72,000 TEUs, the appellant had itself furnished an 
+additional bank guarantee to cover the enhanced amount. Reliance 
+was placed, for this purpose, on Clause 4.6.5 of the RFP as well as 
+letter dated 7th May, 2020 of CWC, which intimated the appellant that 
+it had paid Variable Fee for 49,789 TEUs and that remittance of 
+Variable Fee for 22,211 TEUs was outstanding. 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 23 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 23 of 53 
+ 
+ 
+26.1.3 The appellant further reiterated its claim of force majeure and 
+relied, for this purpose, on OMs dated 19th February, 2020 and 13th 
+May, 2020 of the Ministry of Finance, newspaper clippings, charts 
+filed in its Section 17 application and 23 additional documents, of 
+which 14 were filed on 8th July, 2020 and 9 were filed on 19th
+ 
+ July, 
+2020.  
+26.2 CWC’s contentions
+ 
+:  
+26.2.1 Preliminary objections, regarding the maintainability of the 
+application, were raised by CWC, on the ground of constructive res 
+judicata and the earlier order dated 17th June, 2020, which, in CWC’s 
+submission, upheld the right of CWC to encash the bank guarantees 
+furnished by the appellant. The bank guarantees being irrevocable and 
+unconditional in nature, CWC contended that no direction, to return 
+the amounts to the bank, could be passed. It was submitted that the 
+bank guarantees were encashed as fixed fee, for the months of April 
+and March, 2020 and variable fee (with escalation), for the periods of 
+March and April, 2020, were outstanding from the appellant. A total 
+amount of ₹ 1,54,49,778/-, towards outstanding fixed fee and variable 
+fee at escalated rate was, it was submitted, due from the appellant, 
+even after all the bank guarantees had been encashed. Clause 17 (ii) of 
+the agreement was pressed into service, to contend that the appellant, 
+in violation of the said Clause, was paying variable fee on the basis of 
+actual containers, though the Clause required the appellant to pay 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 24 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 24 of 53 
+ 
+variable fee on the basis of actual containers or on the basis of MGT 
+calculated on monthly basis, whichever was higher. Since March, 
+2020, it was contended, the appellant was in breach of this clause. 
+When, with effect from March, 2020, the appellant discontinued 
+payment of variable fee at escalated rate, CWC was constrained to 
+invoke the bank guarantees furnished by the appellant.  
+ 
+26.2.2 The issue of force majeure, it was contended, stood decided by 
+the order dated 17th
+ 
+ June, 2020. On facts, it was pleaded that, even 
+during the period of lockdown, the volume of business at the ICD, 
+Loni had not been affected.  
+27. 
+Findings of the learned arbitrator on the second Section 17 
+application
+ 
+:   
+27.1 Having recorded these submissions, the learned arbitrator noted 
+that the main grievance of the appellant was against the letter dated 
+23rd June, 2020, issued by CWC, invoking Clauses 17.1 and 17.2 of 
+the agreement, as the justification for invoking the three bank 
+guarantees furnished by the appellant, encashed on 17th
+ 
+ June, 2020. 
+27.2 The main question that arose for consideration was identified by 
+the learned arbitrator, in para 36 of his order dated 15th August, 2020, 
+as “whether the Applicant is liable to pay any escalation on Variable 
+Fee attributable to movement of containers by Rail as per the 
+agreement, especially when the Bank Guarantees furnished by the 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 25 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 25 of 53 
+ 
+Applicant were/are not covered any amount other than Fixed Fee and 
+Variable Fee @Rs.405/TEU”.  Additionally, it is also noted, in para 37 
+of the impugned order dated 15th
+ 
+ August, 2020, that the appellant and 
+CWC were at dispute on whether MGT was to be paid on monthly or 
+annual basis. 
+27.3 The learned arbitrator addressed, in the first instance, the issue 
+of whether CWC was justified in invoking the three bank guarantees 
+furnished by the appellant, towards the arrears of fixed and variable 
+fees with escalation. In this context, it was noticed that 
+ 
+(i) 
+Clause 17 (iv) of the RFP (which was incorporated by 
+reference into the Agreement dated 16th
+ 
+ February, 2005) 
+required payment of 5% yearly escalation on the fixed fee and 
+variable fee, and that the appellant had undertaken to pay fixed 
+fee and variable fee, subject to yearly escalation of 5% in the 
+Format for Commercial bid at Exhibit-10 annexed to the 
+financial bid,  
+(ii) 
+this proposal had been admitted by CWC and LoI had 
+been issued on 15th
+ 
+ October, 2004, 
+(iii) Clause 3.0 of the LoI, too, envisaged yearly escalation at 
+the rate of 5% on the fixed fee and variable fee,  
+ 
+(iv) 
+despite Clause 17 (iv) and the exception, therein, on the 
+requirement of payment of escalation on variable fee on 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 26 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 26 of 53 
+ 
+containers transported through rail between ICD, Loni and the 
+gateway ports, the appellant had been paying the variable fee 
+with escalation at the rate of 5% per annum from the inception 
+of the contract till October, 2009,  
+ 
+(v) 
+thereafter, on the appellant’s disputing its rights to 
+continue to pay escalation on the variable fee, the matter had 
+been taken up by the Committee set up by the Ministry of 
+Consumer Affairs, Government of India, during which, too, the 
+appellant had agreed to pay escalation on variable fee at the rate 
+of 5% per annum on compoundable basis,  
+ 
+(vi) 
+this was followed by a letter dated 22nd May, 2013 from 
+the appellant to CWC, agreeing to release payment towards the 
+variable fee on escalated amount for the period until 30th
+ 
+ April, 
+2013 and 
+(vii) payment on variable fee at escalated rate continued, in 
+fact, to be made by the appellant till February, 2020, when the 
+appellant abruptly discontinued such payment. 
+ 
+27.4 The appellant had, in its counter claim before the learned 
+arbitrator, prayed for refund of the amount paid by way of escalation 
+on the variable fee. The learned arbitrator held, in para 47 of its order 
+dated 15th August, 2020 that the legality of the appellant’s claim for 
+refund of the amounts paid by way of escalation, as well as the effect 
+of the agreement dated 19th February, 2013, arrived at with the 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 27 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 27 of 53 
+ 
+involvement of the Ministry of Consumer Affairs, would have to be 
+examined while examining the merits of the claims and counter-
+claims before passing of the final award, and not in an application 
+under Section 17. At the Section 17 stage, it was observed that the 
+learned arbitrator was only concerned with the question of whether 
+CWC was justified in invoking and encashing all the three bank 
+guarantees furnished by the appellant on the ground that the appellant 
+had defaulted in paying fixed fee and variable fee at the escalated rate.  
+ 
+27.5 The learned arbitrator noted that, on 9th
+ 
+ July, 2019, CWC had 
+written to the appellant, pointing out that the bank guarantees 
+furnished by the appellant covered Variable Fee only at the rate of 
+₹
+ 
+405/- per TEU, whereas the Variable Fee had escalated to ₹ 727.32/- 
+per TEU. In these circumstances, the letter called upon the appellant 
+to furnish an additional bank guarantee for ₹
+ 2,32,07,060/-, towards 
+the  increased Variable Fee, failing which the appellant would be 
+treated as being in breach of the Agreement. 
+27.6 The learned arbitrator observed that the bank guarantees 
+furnished by the appellant to CWC were unconditional and 
+irrevocable. In such circumstances, the invocation of the bank 
+guarantees could be injuncted only if there existed egregious fraud, or 
+the invocation of the bank guarantees was likely to result in 
+irretrievable injustice. Else, as held by the Supreme Court in Himadri 
+Chemicals Industries Limited v. Coal Tar Refining Co.1
+                                                             
+1 (2007) 8 SCC 110 
+, the 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 28 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 28 of 53 
+ 
+invocation of the bank guarantee could not be affected by any dispute 
+between the parties. The learned arbitrator distinguished the 
+judgments on which the appellant had placed reliance. Hindustan 
+Construction Company Ltd. v. State of Bihar2, it was observed, was a 
+case of a conditional bank guarantee, Gangotri Enterprises Ltd. v. 
+Union of India3 involved invocation of a bank guarantee under a 
+wrong contract, which was unsecured by bank guarantees, and 
+Hindustan Steel Works Construction Ltd. v. Tarapur & Co.4
+                                                             
+2 (1999) 8 SCC 436 
+3 (2016) 11 SCC 720 
+4 (1996) 5 SCC 34 
+, was a 
+case of invocation of bank guarantee on fraudulent demand. In the 
+present case, held the learned arbitrator, the respondent had sought to 
+justify invocation of the bank guarantees consequent on the appellant 
+abruptly discontinuing payment of Variable Fee with escalation, w.e.f. 
+March, 2020. Against all the facts noted prior thereto by the learned 
+arbitrator, it was observed that the appellant’s reliance was entirely on 
+Clause 17.2(iv) of the Agreement, for which purpose the appellant had 
+filed a counterclaim, seeking refund of the amounts paid by the 
+appellant towards escalated Variable Fee. The merits of the counter 
+claim could not be decided at the Section 17 stage. Similarly, apropos 
+the dispute regarding the manner in which MGT was to be computed, 
+CWC sought to justify the manner in which it was computing MGT on 
+the basis of Clause 17.0(ii), of the Agreement. The respondent pointed 
+out that Clause 17.0(ii), required Variable Fee to be paid on the actual 
+number of TEUs or the MGT calculated on monthly basis, whichever 
+was higher. CWC contended that it had strictly adhered to this Clause. 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 29 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 29 of 53 
+ 
+Wherever the actual number of TEUs was in excess of MGT, the 
+appellant had been billed on the basis of actual number, whereas, 
+where the MGT was in excess of the actual number of TEUs, the 
+appellant had been billed on MGT basis. This controversy, given its 
+nature, could also be adjudicated on merits only at the final stage. 
+ 
+27.7 In these circumstances, the learned arbitrator held that the 
+invocation of the bank guarantees could not be regarded as fraudulent 
+or unjustified. The following passages, from the impugned order dated 
+15th
+“63. 
+Clause 17.2 speaks of “an irrevocable without recourse 
+Bank Guarantee”. The Bank Guarantees in this case were 
+encashed since there was a failure on the part of the Applicant 
+in paying the Fixed Fee with escalation, Variable Fee with 
+escalation, additional default in payment of 580 TEUs at 
+escalated rate, non-disbursement of salary for staff posted by 
+CWC at ICD-Loni since March 2020 as per Clause 14 of the 
+agreement. Further the Bank Guarantees can also be encashed 
+as per Clause 17.2, if there is a breach on the part of the 
+Applicant, to produce/renew/extend a Bank Guarantee on 
+yearly basis equivalent to yearly minimum committed amount 
+till the continuation of the management contract which shall 
+invariably be renewed one month in advance before its expiry, 
+every year. Bank Guarantee can also be encashed if there is a 
+breach of the agreement apart from the violation of the terms 
+of the Bank Guarantee. The question as to who has committed 
+the breach can be decided only at the final stage of the 
+Arbitration proceedings. 
+ 
+ August, 2020, merit reproduction in this regard:  
+64. 
+The Bank has undertaken to honour the Bank 
+Guarantees without any demur, question or protest merely on 
+receipt of the written demand from CWC. Bank has also 
+undertaken to pay the amount demanded notwithstanding any 
+dispute or disputes raised by the Applicant in any suit or 
+proceeding pending before any Court or any Tribunal since 
+Bank’s liability is absolute and unequivocal. As already 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 30 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 30 of 53 
+ 
+pointed out most of the issues raised in this application 
+against the invocation of the Bank Guarantees could only be 
+decided when the claims and counter claims are finally 
+adjudicated especially when the Applicant has paid the 
+escalation of 5% p.a. on Variable Fee by way of cheque from 
+the very inception of the contract till February 2020. The 
+Applicant it may be noted had agreed to pay the same in a 
+meeting convened by the Ministry, Govt. of India on 
+19.03.2013 which is reflected in the Applicant’s letter dated 
+22.05.2013. 
+ 
+65. 
+The Bank Guarantee can therefore be invoked as per 
+the terms of the Bank Guarantee not only when there is a 
+failure to pay the Fixed Fee with escalation and Variable Fee, 
+but also if there is a breach of agreement leading to the 
+termination of the contract. CWC in several letters, already 
+referred to in the earlier part of the order, informed that 
+Applicant that non furnishing of the Bank Guarantee for the 
+yearly escalated Variable Fee @5% p.a. would amount to 
+breach of the contract which is also an added reason for 
+encashing the Bank Guarantee as per its terms. Of course the 
+question as to who has committed the breach can be decided 
+only at the final stage of the Arbitration proceedings. 
+ 
+66. 
+In view of the above findings no direction can be given 
+to return the Bank Guarantee to the Bank for their revival 
+especially when the Applicant has paid the escalated Variable 
+Fee @5% p.a. from 2007 to February 2020 but discontinued 
+the same inspite the fact that it had agreed to comply with 
+such a stipulation in the meeting convened by the Ministry, 
+Govt. of India on 19.02.2013.” 
+ 
+27.8 The plea of force majeure, advanced by the appellant, was also 
+examined in detail by the learned arbitrator. As already noted 
+hereinabove, the learned arbitrator had taken into account the reliance 
+placed by the appellant, on the OMs dated 19th February, 2020 and 
+13th May, 2020, of the Ministry of Finance, newspaper clippings, 23 
+documents filed by the appellant and the charts contained in its 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 31 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 31 of 53 
+ 
+application. In his findings, the learned arbitrator held, on this aspect 
+thus:  
+“67. 
+The Applicant has also pleaded that in the facts and 
+circumstances of the case force majeure condition would 
+apply from 1st
+68. 
+CWC stated that the Applicant is using the prevalent 
+lockdown situation as an opportunity not to discharge its 
+contractual obligations of payment of Fixed Fee, Variable Fee 
+with escalation and salary reimbursement of workers of CWC 
+posted at ICD, Loni, MGT charges etc. Further it was also 
+stated that the Government consciously exempted by 
+guideline dated 24.03.2020 various activities, operations 
+carried on in various ICDs/ CFSs etc. since they have to 
+function in the larger public interest. CWC stated ICDs/CFSs 
+on the strength of their operational efficiency and caused 
+advantages and through marketing of their services and 
+networking with other partners/CTOs attracted large volume 
+of business. Further it was also pointed out Applicants 
+ April 2020 for a minimum period of six months 
+or till such time normal operations are restored whichever is 
+later in view of Clause 23 of the agreement. Reference was 
+made to the circular dated 19.02.2020 issued by the Govt. Of 
+India, circular dated 13.05.2020 by the Ministry of Finance, 
+circular dated 05.06.2020 by the Govt. of India. The 
+Applicant stated due to the lockdown imposed by the Govt. of 
+India the volume of business has gone down in various ICDs 
+like JNPT Mumbai, ICD – Tughlakabad (Delhi), ICD-Dadri, 
+ICD- Garhi, ICD- Patli (Haryana), ICD- ACTL Faridabad, 
+ICD- Garhi Harsaru, ICD-Bawal, ICD – Sonepat etc. 
+Reference was also made to various advisories issued by DG 
+Shipping to waive the charges of all importers since they 
+could not clear the goods so also the advisories issued by the 
+Customs Department and other materials including news  
+paper clippings to show the impact of lockdown on the 
+volume of business at ICD, Loni. Reliance was also placed on 
+the order dated 12.06.2020 passed by Supreme Court in 
+FICUS PAX Private LTD & ORS vs Union Of India & ORS 
+(WRIT Petition(c) Diary No.10983 of 2020), the order of the 
+Delhi High Court dated 21.05.2020 in Ramanad & Ors vs Dr. 
+Girish Soni & Ors (RC. REV 447/2017) 
+ 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 32 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 32 of 53 
+ 
+business at ICD, Loni if at all had gone down due to 
+lockdown it was due its own inefficiency and bitter 
+relationship with CTOs/importers / exporters etc. CWC also 
+stated the Applicant even failed to procure one rake in terms 
+of the agreement resultantly it had to hire / lease wagons from 
+various CTOs and from 2015 onwards number of CTOs were 
+reduced due to its bitter relationship with them which has 
+nothing to do with the lockdown situation. CWC also referred 
+to Table No.4 in Para 42 of its reply and stated that at ICD, 
+Bawal which is run by the Applicant the volume of business 
+have not gone down. Further it was also pointed out all the 
+ICDs and CFSs were / are getting adequate volume of EXIM 
+business from foreign countries. 
+ 
+69. 
+This Tribunal have already examined the plea of force 
+majeure raised by the Applicant earlier in its application dated 
+21.05.2020 and the same was rejected vide the Tribunal’s 
+order dated 17.06.2020 where in the Tribunal had recorded a 
+clear finding that the activities/operations carried on in ICD, 
+Loni fall under the exception which is clear from all the office 
+memorandums issued by the Govt. of India including the 
+addendum dated 25.03.2020 and the guidelines dated 
+15.04.2020 issued by the Ministry of Finance. Further it was 
+also noticed that those exemptions were given in the larger 
+public interest. The plea of force majeure raised by the 
+Applicant in that circumstances was rejected by the Tribunal. 
+ 
+70. 
+…Further it is seen that CWC is having 299 handling 
+and transport contractors working in PAN India level, for 
+handling export -import cargo and food grain operations, but 
+none of those contractors, except the Applicant has sought to 
+invoke the force majeure clause on the plea of lockdown. 
+Both the Applicant as well as the Respondent has given 
+certain figures in their respective pleadings of fluctuations of 
+business due to lockdown. After weighing the materials 
+provided by the both sides and taking into considerations the 
+fact that the operations/activities at ICD, Loni fall under the 
+exempted categories mentioned the guidelines issued by the 
+Ministry on 24.03.2020, 25.03.2020 and the guidelines dated 
+15.04.2020, the plea of force majeure stands rejected, 
+reiterating what has already been recorded in the order of the 
+Tribunal dated 17.06.2020.” 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 33 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 33 of 53 
+ 
+ 
+28. 
+Rival Contentions before this Court 
+ 
+28.1 
+ 
+Mr. Sibal’s submissions, on behalf of the appellant: 
+28.1.1 Mr. Sibal, learned Senior Counsel for the appellant, broadly 
+reiterated the contentions advanced before the learned arbitrator, 
+which already stand noted in Para 26.1 supra. He additionally 
+submitted that the Agreement, by the appellant, to pay the Variable 
+Fee with escalation, consequent to the meeting held on 19th February, 
+2013, was subject to the respondent honouring its part of the bargain. 
+Apropos, the payment, by the appellant, of Variable Fee with 
+escalation, thereafter, till February, 2020, Mr. Sibal submitted, was 
+under protest. Mr. Sibal emphasized that the only binding contract 
+between the parties was the Agreement dated 16th  February, 2005. 
+The discussions which took place during the meeting dated 19th 
+February, 2013, and any tentative assurances that may have been 
+extended during the said meeting, he submitted, could not constitute a 
+binding agreement, enforceable at law. In this context, he emphasizes 
+that the learned arbitrator committed a fundamental error in rejecting 
+the appellant’s submission that it was not liable to pay escalation on 
+Variable Fee, predicated on Clause 17.0(iv), of the Agreement, on the 
+basis of the discussions which took place on 19th  February, 2013. He 
+submits that it was nobody’s case, before the learned arbitrator, that 
+any enforceable agreement had resulted consequent on the meeting 
+dated 19th February, 2013. In effect, therefore, the learned arbitrator 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 34 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 34 of 53 
+ 
+has, according to Mr. Sibal, held in favour of CWC on the basis of a 
+case which CWC itself never pleaded. 
+ 
+28.1.2 Mr. Sibal also emphasized that, having noted the fact that the 
+bank guarantees furnished by the appellant did not cover Variable Fee 
+at the escalated rate, the learned arbitrator signally erred in refusing to 
+interfere with the encashment, by CWC, of the bank guarantees 
+towards the said enhanced Variable Fee. He submits that, once Clause 
+17.0(iv) was clear and categorical in its excepting, from the 
+requirement of paying escalation on Variable Fee, containers which 
+moved on rail between Gateway Ports and ICD Loni, it could not lie 
+in the mouth of the respondent to contend that it was, nonetheless, 
+entitled to charge Variable Fee at the escalated rate. He submits that 
+the respondent never sought to contend that this Clause had been 
+novated at any subsequent stage. 
+ 
+28.1.3 On the aspect of force majeure, Mr. Sibal faults the reasoning 
+of the learned arbitrator which, according to him, proceeds solely on 
+the premise that the lockdown, consequent to the COVID pandemic 
+did not affect the movement of containers. He referred to the OMs 
+issued by the Ministry of Finance, to contend that, where, on account 
+of the lockdown, the performance of the contract became  
+unremunerative, it amounted to force majeure. The case of his client, 
+according to Mr. Sibal, was completely covered by the Ministry of 
+Finance OMs. Mr. Sibal further submitted that the order dated 15th 
+August, 2020 of the learned arbitrator was in effect non-speaking on 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 35 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 35 of 53 
+ 
+the aspect of force majeure, as there was no observation or finding 
+dealing with the volume of material which had been placed on record 
+by the appellant after the passing of the earlier order on 17th
+ 
+ June, 
+2020. As such, he submits, the appellant had no idea as to why the 
+said material did not convince the learned arbitrator regarding the 
+entitlement of the appellant to plead force majeure. Absence of 
+reasons justifying the findings in an award, he submits, constitutes a 
+patent illegality justifying interference. Mr. Sibal took me through 
+various passages in his second Section 17 application, to highlight the 
+fact that considerable material supporting the appellants’ plea of force 
+majeure, had been placed on record. 
+28.1.4 Mr. Sibal submitted, finally, that even if the invocation and 
+encashment of the bank guarantees could not be reversed at this point 
+of time, CWC could not insist on the furnishing, by the appellant, of 
+any fresh bank guarantees especially during the currency of force 
+majeure, which is still to come to an end. He points out that, if the 
+appellant was to be given the benefit of force majeure, and of Clause 
+17.0 (iv) of the Agreement, CWC had already encashed and 
+appropriated from the appellants’ bank guarantees, ₹ 3.09 crores in 
+excess of the amount payable to it. He submits that his client is willing 
+to pay Fixed Fee with escalation and Variable Fee without escalation 
+on actuals and resort to the arbitral process for recovering any excess 
+due to it. 
+ 
+ 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 36 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 36 of 53 
+ 
+28.2 
+ 
+Mr. Ganguly’s submission, on behalf of CWC  
+28.2.1 Responding to the submission of Mr. Sibal, Mr. Ganguly 
+submits that the interpretation, placed by Mr. Sibal, on Clause 17.0 
+(iv), is unsustainable. He exhorted the Court to read Clauses (ii) and 
+(iv) of Clause 17.0 in conjunction. Referring to Clause 17.0 (ii), Mr. 
+Ganguly, pointed out that the said Clause divided movement of 
+containers into two categories, viz., B (i) and B (ii). Category B (i), 
+pertained to loaded containers entering or leaving the ICD whereas 
+B(ii) pertained to containers being transported between Gateway Ports 
+and ICD, Loni. The exception in Clause 17.0(iv), submits Mr. 
+Ganguly, pertains to category B (ii) and not to Category B-(i). The 
+application for rectification, moved before the learned arbitrator was 
+in respect of category B (ii), whereas the claim of CWC, against the 
+appellant  is under category B (i). As such, Mr. Ganguly submits that 
+the reliance, by Mr. Sibal, on the rejection, by the learned arbitrator, 
+of CWC’s rectification application, is thoroughly misplaced. To 
+support this submission, he has drawn my attention to the order dated 
+13th February, 2020 passed by the learned arbitrator on CWC’s 
+rectification application. In any event, submits Mr. Ganguly, even 
+after the passing of the aforesaid order by the learned arbitrator on 
+CWC’s rectification application, on 13th
+ 
+ February, 2020, the appellant 
+paid escalation on Variable Fee for the month of February, 2020. As 
+such, till February 2020, the appellant was paying Variable Fee  @ ₹ 
+405/ TEU at the escalated rate. 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 37 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 37 of 53 
+ 
+28.2.2 Qua the manner in which Variable Fee was adjusted, Mr. 
+Ganguly draws my attention to Clause 17.1 of the Agreement , which 
+reads thus:  
+“17.1 The first fixed fee payment by World’s Window shall 
+be made on the date of signing of the Strategic Alliance 
+Management Contract or to be made effective from the exact 
+date of commencement of work, whichever is later for that 
+month or part thereof. Subsequent payments will be payable 
+in advance every month thereafter. 
+ 
+The variable fees for the minimum guaranteed 
+throughput or actual number of TEUs whichever is higher, 
+shall be paid on the third working day of each succeeding 
+month for the containers handled in the previous month. 
+ 
+The per TEU fee of Rs. 1000/- (Rupees One thousand 
+only) and Rs. 500/- (Rupees Five hundred only) for containers 
+freighted through rail wagon/rakes, as the case may be, would 
+also be paid on third working day of each succeeding month 
+for TEUs handled in the previous month. 
+ 
+The payments shall be made through crossed Demand 
+Draft in the name of “Central Warehousing Corporation” and 
+payable at New Delhi. 
+ 
+Simple interest at the rate of 15% per annum shall be 
+paid by the World’s Window on any delayed payments.” 
+ 
+In accordance with Clause 17.1, the appellant was paying Variable 
+Fee, with escalation, by the third working day of every succeeding 
+month, on the basis of actuals every month. At the end of the financial 
+year, the Variable Fee was accounted vis-à-vis the MGT depending on 
+which was higher. This system continued till February, 2020, when 
+the appellant discontinued payment of Variable Fee with escalation. 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 38 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 38 of 53 
+ 
+This fact, points out Mr. Ganguly has been noted in Para 52 of the 
+impugned order, which reads  thus: 
+“52. 
+The Applicant, as already pointed out, has been paying 
+the monthly Variable Fee with escalation on actual number of 
+containers since the inception of the contract until February 
+2020 @Rs.727.32 not @405 per TEU with yearly adjustment 
+of “MGT or actual number of containers whichever is 
+higher”.” 
+ 
+28.2.3 No occasion arises, therefore, to interfere with the impugned 
+order, in Mr. Ganguly’s submission.  
+ 
+Analysis 
+29. 
+The scope of interference, in appeal, against orders passed by 
+arbitrators on applications under Section 17 of the 1996 Act is limited. 
+This court has already opined in Dinesh Gupta v. Anand Gupta5,  
+Augmont Gold Pvt Ltd v. One97 Communication Ltd6 and Sanjay 
+Arora v Rajan Chadha7
+                                                             
+5 MANU/DE/1727/2020 
+6 2021 SCC OnLine Del 4484  
+7 MANU/DE/2643/2021 
+ that the restraints which apply on the court 
+while examining a challenge to a final award under Section 34 equally 
+apply to a challenge to an interlocutory order under Section 37(ii)(b). 
+In either case, the court has to be alive to the fact that, by its very 
+nature, the 1996 Act frowns upon interference, by courts, with the 
+arbitral process or decisions taken by the arbitrator. This restraint, if 
+anything, operates more strictly at an interlocutory stage than at the 
+final stage, as interference with interlocutory orders could  
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 39 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 39 of 53 
+ 
+interference with the arbitral process while it is ongoing, which may 
+frustrate, or impede, the arbitral proceedings.  
+ 
+30. 
+Views expressed by arbitrators while deciding applications 
+under Section 17 are interlocutory views. They are not final 
+expressions of opinion on the merits of the case between the parties. 
+They are always subject to modification or review at the stage of final 
+award. They do not, therefore, in most cases, irreparably prejudice 
+either party to the arbitration. Section 17 – like Section 9 – is intended 
+to be a protective measure, to preserve the sanctity of the arbitral 
+process. The pre-eminent consideration, which should weigh with the 
+arbitrator while examining a Section 17 application, is the necessity to 
+preserve the arbitral process and ensure that the parties before it are 
+placed on an equitable scale. The interlocutory nature of the order 
+passed under Section 17, therefore, must necessarily inform the court 
+seized with an appeal against such a decision, under Section 37. 
+Additionally, the considerations which apply to Section 34 would also 
+apply to Section 37(ii)(b). 
+ 
+Qua impugned order dt. 17th
+31. 
+Of the two Section 17 applications which stand decided by the 
+orders impugned in the present appeal, the first Section 17 application 
+raised, solely, the issue of force majeure, in the wake of the  COVID – 
+2019 pandemic and the instructions and circulars, issued by the 
+Government in that regard. The prayer, in the application, was for a 
+restraint against CWC from invoking the bank guarantees, furnished 
+ June, 2020 in first Section 17 application 
+ 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 40 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 40 of 53 
+ 
+by the petitioner. The learned arbitrator went into the aspect of force 
+majeure, on the basis of the material produced by the appellant, and 
+found that the appellant had not been able to make out a case of such 
+substantial disruption, in its activities, as would justify invoking the 
+force majeure principle. The findings, in this regard, stand reproduced 
+in para 21.2 supra. 
+ 
+32. 
+ It is not for this court, in appeal, to re-appreciate these findings 
+which are purely findings of fact. The question of whether force 
+majeure does, or does not, apply is, at all times, an issue to be decided 
+on the facts. Having examined the facts before it, the learned arbitrator 
+came to a conclusion that the appellants’ situation was not such as 
+would justify excepting it from its obligations under the Agreement  
+on the principle of force majeure. This Court cannot revisit this 
+decision, in exercise of its Section 37(2)(b) jurisdiction. 
+ 
+33. 
+Apropos the prayer for a restraint against invocation of the bank 
+guarantees, the view expressed by the learned arbitrator, in his order 
+dated 17th June 2020, is clearly unexceptionable. There are authorities 
+galore, for the proposition that the invocation of unconditional bank 
+guarantees cannot be restrained save and except where there exists 
+egregious fraud, special equities or irretrievable injustice. A Division 
+Bench of this Court, has in its recent decision in CRSC Research and 
+Design Institute Group Co Ltd v. Dedicated Freight Corridor 
+Corporation of India Ltd8
+                                                             
+8 2020 SCC OnLine Del 1526 
+, exhaustively examined this aspect and 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 41 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 41 of 53 
+ 
+reiterated the law in this regard. Following CRSC Research and 
+Design8, I have also, in my recent decision in Kuber Enterprises v 
+Doosan Power Systems India Pvt. Ltd. 9, reiterated this position. I 
+may, with humility, reproduce the following passages from Kuber 
+Enterprises9, which relies on CRSC Research and Design8 
+“17.1 Admittedly, the Bank Guarantee provided by the 
+petitioner to the respondents is unconditional. Stay of 
+invocation of an unconditional bank guarantee can be granted 
+only in exceptional circumstances. This Court in SES Energy 
+Services India Ltd. v. Vedanta Limited
+: 
+10
+“9.  
+In 
+cases 
+where 
+the 
+bank 
+guarantee 
+is 
+unconditional, 
+the 
+law 
+recognizes 
+only 
+three 
+circumstances 
+in 
+which 
+Courts 
+could 
+injunct 
+invocation or encashment of the bank guarantee. These 
+three circumstances, essentially, dovetail into two, with 
+the pronouncement of Courts in that regard. The three 
+circumstances, in which the Courts may interfere, and 
+may injunct the invocation of unconditional bank 
+guarantees, is where there is egregious fraud, special 
+equity exists, or where irretrievable injustice or 
+prejudice is likely to result, if the bank guarantee is 
+invoked or encashed. The latter two circumstances 
+have been treated, by the Supreme Court, as well as by 
+the Division Bench of this Court in CRSC Design
+ has noted these 
+exceptions and observed thus:-  
+ 
+8 to 
+be interconnected, in that special equities would be set 
+to exist if the invocation of the bank guarantee would 
+result in irretrievable injustice to the opposite party. 
+The following passage, from BSES Ltd. v. Fenner 
+India Ltd.11
+“10. There are, however, two exceptions to this 
+rule. The first is when there is a clear fraud of 
+which the bank has notice and a fraud of the 
+beneficiary from which it seeks to benefit. The 
+ , neatly encapsulates this position: 
+                                                             
+9 Decision dated 12th November, 2021 in OMP(I)(COMM)364/2021 
+10 2021 SCC OnLine Del 4196 
+11 (2006) 2 SCC 728 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 42 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 42 of 53 
+ 
+fraud must be of an egregious nature as to 
+vitiate the entire underlying transaction
+Additionally, in para 72 of the report in Svenska 
+Handlesbaken v. Indian Charge Chrome
+. The 
+second exception to the general rule of non-
+intervention is when there are ‘special equities’ 
+in favour of injunction, such as when 
+‘irretrievable injury’ or ‘irretrievable injustice’ 
+would occur if such an injunction were not 
+granted. The general rule and its exceptions has 
+been reiterated in so many judgments of this 
+Court, that in U.P. State Sugar Corpn. v. 
+Sumac International Ltd., (1997) 1 SCC 568 
+that this Court, correctly declared that the law 
+was ‘settled’.” ” 
+(Italics and underscoring in original) 
+12,  a bench of three 
+Hon’ble Judges of the Supreme Court has held that mere 
+irretrievable injustice, in the absence of established fraud, 
+does not make out a case for injuncting invocation of an 
+unconditional bank guarantee.  Having said that, a bench of 
+two Hon’ble Judges, in Hindustan Steelworks Construction 
+Co. Ltd v. Tarapore & Co.13 held, after noticing and 
+interpreting  Svenska Handlesbaken4, that, in Svenska 
+Handlesbaken4, the Court was “not called upon to decide 
+whether apart from the case of fraud there can be any other 
+exceptional case wherein the Court can interfere in the matter 
+of encashment of a bank guarantee”.  As such, it was held, 
+“not much importance” could be attached “to the use of the 
+word ‘and’ in the observation that ‘it cannot be interfered with 
+unless there is fraud and irretrievable injustice involved in the 
+case”. Vinitec Electronics Private Limited v. HCL 
+Infosystems Limited14 and BSES Ltd.3
+17.2 While, therefore, there appears to be some fluidity in 
+judicial thinking on the issue of whether the “fraud” element 
+ hold that special 
+equities, if pleaded as ground for stay of invocation of bank 
+guarantee, should be in the nature of irretrievable injustice.   
+                                                             
+12 (1994) 1 SCC 502 
+13 (1996) 5 SCC 34 
+14 MANU/SC/8095/2007 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 43 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 43 of 53 
+ 
+would permeate the other two considerations of “special 
+equities” and “irretrievable injustice”, there does appear to be 
+consensus on the position, in law, that fraud, if pleaded, has to 
+be egregious in nature, and that special equities, if pleaded, 
+have to be in the nature of irretrievable injustice.  To that 
+extent, therefore, these considerations, to one extent or 
+another, juxtapose.” 
+ 
+34. 
+Clearly, therefore, the view, of the learned arbitrator, that no 
+case for injuncting invocation of the bank guarantees by the 
+respondent at that stage existed, does not suffer from any infirmity, let 
+alone patent illegality. 
+ 
+35. 
+No case for interference with the order dated 17th June 2020, 
+therefore, exists. I may note, here, that, in fact, Mr. Sibal concentrated 
+on attempting to demonstrate the vulnerability of the order dated 15th 
+August, 2020 rather than the order dated 17th
+ 
+ June, 2020. 
+Qua impugned order dt. 15th
+36. 
+The second impugned order dated 15
+ August, 2020 in second Section 17 
+application 
+ 
+th August, 2020 was passed 
+on the second Section 17 application of the appellant, dated 26th June, 
+2020. The prayer clause in this application, stands reproduced in para 
+24.5 supra. Of the six substantive prayers (a) to (f) in this application, 
+prayers (a) to (d) invoke the force majeure principle. Prayer (e) sought 
+a direction to the CWC to “return the amount fraudulently encashed 
+from the bank guarantees as bearing BG No. 003GT02190600047, BG 
+No. 003GT02180860007 and BG No. 003GT02180850018 for Rs. 
+2,18,70,000/-, Rs. 68,01,913/-, Rs. 27,47,196/- respectively to bank 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 44 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 44 of 53 
+ 
+for revival of the Bank Guarantees in question”.  Prayer (f) sought a 
+restraint against CWC from taking any coercive action against the 
+appellant, specifically, but not exclusively, with reference to CWC’s 
+letter dated 23rd
+ 
+ June, 2020. 
+37. 
+The learned arbitrator has rejected all these requests. 
+ 
+38. 
+Before proceeding to the impugned order of the learned 
+arbitrator, in my view, prayer (e) in the application is not even 
+maintainable under Section 17 of the 1996 Act. What was sought in 
+this prayer was a return, by CWC, of the amounts recovered by 
+encashment of the bank guarantees furnished by the appellant, to the 
+bank, so that the bank guarantees could be revived. 
+ 
+39. 
+I am unaware of any procedure by which a bank guarantee 
+which stands encashed could be revived by returning the money to the 
+bank. That apart, such a relief could, by its very nature, not have been 
+sought at an interim stage, as it would amount to a final adjudication 
+of the right of the appellant, vis-a-vis  CWC, qua the amounts payable 
+under the Agreement. Once the bank guarantee stood encashed, the 
+only remedy that could be sought against the respondent, under 
+Section 17, would be under Clause (1)(ii)(b) thereof, which  would be 
+for a direction to the respondent to secure the amount released by 
+invocation of the bank guarantees. No such prayer was made by the 
+appellant before the learned arbitrator. This, probably, was because 
+the appellant was well aware of the fact that a direction for security, 
+under section 17(1)(ii)(b), would, then, have to suffer the rigour of 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 45 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 45 of 53 
+ 
+Order XXXVIII, Rule 5, of the Code of Civil Procedure, 1908, (CPC), 
+as held by the Supreme Court in State Bank of India v Ericsson India 
+Pvt. Ltd.15 and by this Court in, inter alia, Goel Associates v Jivan 
+Binma Rashtriya Avas Samati Ltd.16, CV Rao v. Strategic Port 
+Investments KPC Ltd.17, Ajay Singh v. Kal Airways Pvt Ltd18 and  
+DLF Ltd. v Leighton India Contractors Pvt. Ltd.19 and Tata 
+Advanced Systems Ltd. v. Telexcell Information Systems Pvt. Ltd.20
+                                                             
+15 (2018) 16 SCC 617 
+16 2004 SCC OnLine Del 874 
+17 (2015) 218 DLT 200 (DB) 
+18 (2018) 209 CompCas 154 (Delhi) 
+19 (2018) 16 SCC 617 
+20 2020 SCC OnLine Del 1716 
+. 
+An order for securing the subject matter of arbitral proceedings, under 
+Section 17(1)(ii)(b), could be passed only where there was positive 
+evidence to indicate that, were the amount not to be secured, the 
+arbitral proceedings would stand frustrated. This, in turn, would 
+require the applicant under Section 17(1)(ii)(b), to demonstrate that 
+the respondent was in such financially impecunious circumstances, as 
+would frustrate the final arbitral award, even if it were to be passed in 
+favour of the applicant. Else, the applicant would have to demonstrate 
+that the respondent was dissipating its assets with a view to frustrate 
+the arbitral proceedings and the award to be passed therein. No such 
+case has even been pleaded by the appellant against CWC. That apart, 
+it can hardly be said that CWC was in such straitened circumstances 
+as would justify an order for security under Section 17(1)(ii)(b). 
+Possibly, as I have observed, it is for this reason that the applicant did 
+not choose to seek such furnishing of security. 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 46 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 46 of 53 
+ 
+ 
+40. 
+What, however, could not be sought directly, cannot be sought 
+indirectly either. Where no case for directing security, by the 
+respondent, of the amounts recovered by encashment of the bank 
+guarantees can be said to exist, equally, there could be no case for 
+directing the respondent to return the said amounts to the bank at an 
+interlocutory stage. Any such direction would require a finding, by the 
+learned arbitrator, that encashment of the bank guarantees was 
+unjustified, which, in turn, would entail a detailed examination of the 
+rival rights and contentions of the parties. All this, as the learned 
+arbitrator has correctly held, could not be done at a Section 17 stage. 
+Prayer (e) in the Section 17 application was, therefore, according to 
+me, thoroughly misconceived and was not maintainable under the said 
+provision. 
+ 
+41. 
+In so far as the reasoning of the learned arbitrator is concerned, 
+I find no infirmity whatsoever with the view that the learned arbitrator 
+has taken. Apart from the aspect of force majeure, three main 
+contentions were advanced, by the appellant, before the learned 
+arbitrator. These were that (i) the appellant’s liability to CWC was 
+only to pay Variable Fee, and not Variable Fee at the escalated rate in 
+view of Clause 17.0(iv) of the Agreement, (ii) CWC had wrongly 
+computed MGT at 72,580 TEUs rather than 72,000 TEUs annually as 
+MGT was required to be reckoned on a monthly basis and not on 
+yearly basis and (iii) the bank guarantees did not secure Variable Fee 
+at the escalated rate. Additionally, Mr. Sibal sought to contend, before 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 47 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 47 of 53 
+ 
+me, that the learned arbitrator had misdirected himself in relying on 
+judicial authorities which apply to stay of invocation of bank 
+guarantees, which had no application once the bank guarantees had 
+already been invoked and encashed. 
+ 
+42. 
+I have already set out, in detail, hereinabove, the reasoning of 
+the learned arbitrator on the aforesaid aspects. Any repetition thereof 
+would make this judgment needlessly prolix. On the aspect of Clause 
+17.0(iv), the learned arbitrator has noticed that, despite the said 
+Clause, the appellant continued to pay Variable Fee at the escalated 
+rate till October, 2009. He has noticed the fact that, when the appellant 
+discontinued payment of Variable Fee at the escalated rate, the matter 
+had been taken up in a meeting convened in the office of the Ministry 
+of Consumer Affairs on 19th February, 2013, in which the appellant 
+also participated and that, in the said meeting, one of the decisions 
+taken, to which the appellant assented, was that the appellant would 
+continue to pay Variable Fee at the escalated rate. The subsequent 
+communication dated 22nd May, 2013 by the appellant to CWC also 
+vouchsafed this position. The appellant, moreover, continued to pay 
+Variable Fee at the escalated rate till February, 2020. Though Mr. 
+Sibal seeks to contend that this was under duress and coercion, there is 
+no material, whatsoever, to indicate so. Duress and coercion, in any 
+case, if alleged, has to be proved on facts. As such, the learned 
+arbitrator can hardly be faulted in his observation that, at the Section 
+17 stage, it was not appropriate to enter into the dynamics of Clause 
+17.0(iv) of the Agreement  vis-à-vis all these undisputed facts. 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 48 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 48 of 53 
+ 
+ 
+43. 
+ In this context, I may also borrow from the wisdom of a recent 
+Division Bench judgment of this Court in DLF Ltd.20
+48.  
+There is another aspect that needs to be discussed. 
+While passing interim orders, relief that would amount to 
+grant of a final relief must be eschewed. Also, while it is true 
+that what would be the nature of an interim measure of 
+protection that would appear to the court to be “just and 
+convenient” would certainly vary from case to case. But, 
+while deciding on the relief, the court ought not to venture 
+into determination of liabilities and the interpretation of 
+clauses. This Bench in Bhubaneswar Expressway
+, which has 
+clearly disapproved any detailed evaluation of the terms of the 
+contract and of the rival contentions of the parties at a Section 17 or a 
+Section 9 stage, thus:  
+21
+“44.  If the Courts, in exercise of powers under 
+Section 9, start enforcing the terms of the contract, it 
+would do extreme disservice to the very concept of 
+arbitration, where the parties choose to have their 
+disputes adjudicated, instead of by the Courts, by 
+Arbitrators of their choice. In the present case, the 
+appellant NHAI has disputed its liability for 
+termination payment on diverse grounds, as can be 
+understood from the narrative hereinabove of the 
+arguments of the senior counsel for NHAI. If this 
+Court, while exercising jurisdiction under Section 9, 
+were to adjudicate whether there is any legal merit in 
+the said grounds or not, this Court would be 
+adjudicating the disputes, which the parties have 
+agreed to be adjudicated by arbitration and in fact there 
+would be nothing left for the Arbitral Tribunal to 
+decide, as far as the claim of BEPL for the termination 
+payment directed to be made is concerned. In fact, after 
+ has held 
+as below- 
+ 
+                                                             
+21 National Highways Authority of India v Bhubaneswar Expressway Pvt. Ltd. 2021 SCC 
+OnLine Del 2421 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 49 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 49 of 53 
+ 
+reading the impugned judgment, we have also 
+wondered what remains for the Arbitral Tribunal to 
+decide, as far as the claim of BEPL for termination 
+payment on a demurer, believing the breach to be on 
+the part of BEPL, is concerned. It is a hard reality that 
+once there is judicial order on the merits of the dispute 
+and which judicial order is not granting any interim 
+measure but granting the final relief claimed in the 
+arbitration proceeding, the Arbitral Tribunal would 
+hesitate from deciding contrary to the findings returned 
+by the Court on interpretation of terms of the 
+Concession Agreement and of admission, and to which 
+Court, an application under Section 34 of the Act 
+would lie against the award of the Arbitral Tribunal.” 
+ 
+It may be noted that, having so observed, the Division Bench in DLF 
+Ltd17
+44. 
+That the province of Section 9 jurisdiction of the Court, and of 
+Section 17 jurisdiction of the arbitrator, are co-equal, stands settled by 
+the recent decision of the Supreme Court in Arcelor Mittal Nippon 
+Steel India Ltd v. Essar Bulk Terminal Ltd
+ reversed the decision of the learned Single Judge, which had 
+directed security of the amount involved in the arbitration. 
+ 
+22
+ 
+. 
+45. 
+I respectfully agree with the above observations of the Division 
+Bench. They squarely apply to the present case. The appellant having 
+willy nilly agreed to pay Variable Fee at the escalated rate, and having 
+continued to do so till February, 2020, the issue of the liability of the 
+appellant to pay the variable fee at the escalated rate was, at the very 
+least, arguable. The learned arbitrator was, therefore, entirely justified 
+                                                             
+22 AIR 2021 SC 4350 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 50 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 50 of 53 
+ 
+in leaving this issue open for consideration for examination on merits 
+when the substantive claims were being argued. Pending that, the 
+learned arbitrator has correctly observed that, the appellant having 
+abruptly discontinued paying Variable Fee at the escalated rate, which 
+it was paying till February, 2020, and the CWC having, on 6th May, 
+2020 and 7th
+ 
+ May, 2020, cautioned the appellant in this regard, the 
+invocation by CWC, of the bank guarantees furnished by the appellant 
+could not be said to be unjustified. No case for reversing this exercise 
+could, therefore, be said to exist, least of all at an interlocutory stage. 
+46. 
+On the aspect of the manner in which MGT was to be reckoned, 
+as against the contentions advanced by the appellant, the respondent 
+relied on Clause 17.0 (ii), which stands reproduced in Para 6 supra. 
+According to this Clause, the appellant was liable to pay Variable Fee 
+on the basis of actual movement of containers or MGT, whichever 
+was higher. The respondent’s submissions before the learned 
+arbitrator, was, therefore, that it had, at the end of the year, reconciled 
+the MGT with the actual number of containers, and had, thereafter, 
+applied Clause 17.0. This, again, observed the learned arbitrator was 
+an arguable point, which would involve an examination of the 
+contractual covenants; an exercise which was ordinarily not to be 
+undertaken at the Section 17 stage. 
+ 
+47. 
+In any event, once the issue of the liability of the appellant to 
+pay Variable Fee at the escalated rate was left open for consideration 
+at a later stage, no case for directing any return of the amounts, 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 51 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 51 of 53 
+ 
+recovered by encashment of the bank guarantees to the bank, at an 
+interlocutory stage, could be said to exist. 
+ 
+48. 
+The only surviving issue was that of force majeure. Para 27.8 
+hereinabove reproduces the findings of the learned arbitrator on the 
+aspect of force majeure. The learned arbitrator has noted the fact that 
+additional material had been placed by the appellant, before the 
+learned arbitrator, to substantiate its case of force majeure. The 
+learned arbitrator has, in the impugned order, further noted that the 
+said material had been taken into account, and that having done so, he 
+did not find any case to revisit his earlier conclusion that no case of 
+force majeure could be said to exist. Mr Sibal’s objection is that the 
+learned arbitrator has not provided detailed reasons, with respect to 
+the additional material filed by his client in the arbitral proceedings. 
+The following passage, from the judgment of the Supreme Court in 
+Sangyong Engineering & Construction Company Ltd. v. NHAI23
+“61. The Court of Appeal of Singapore, in CRW Joint 
+Operation v. PT Perusahaan Gas Negara (Persero) TBK
+ 
+neatly encapsulates the legal position regarding the scope of 
+interference by a court with the arbitral award on the ground that it 
+does not consider a plea raised by a party:  
+24
+“32.  Second, it must be noted that a failure by an 
+Arbitral Tribunal to deal with every issue referred to it 
+will not ordinarily render its arbitral award liable to 
+, 
+held as follows: 
+ 
+***** 
+ 
+                                                             
+23 (2019) 15 SCC 131 
+24 2011 SGCA 33 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 52 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 52 of 53 
+ 
+be set aside. The crucial question in every case is 
+whether there has been real or actual prejudice to 
+either (or both) of the parties to the dispute. In this 
+regard, the following passage in Redfern and Hunter
+48.1 The legal position, in respect of a challenge to an arbitral award 
+on the ground that a plea raised by a party was not considered by the 
+learned arbitrator, is, therefore, that the Court would interfere where it 
+is convinced that this plea, if considered, could affect the impugned 
+award or order, and that the omission, on the part of the arbitrator, to 
+consider the contention has resulted in prejudice to either party. 
+Omission to consider, or deal with, an argument canvassed, is not, 
+therefore, invariably fatal to the decision of the arbitrator.  Still less 
+would the scope of interference, in appeal, be, where the order under 
+challenge is not a final award, but merely an interlocutory order on a 
+Section 17 application. 
+ 
+correctly summarises the position: 
+ 
+“The significance of the issues that were not 
+dealt with has to be considered in relation to the 
+award as a whole. For example, it is not 
+difficult to envisage a situation in which the 
+issues that were overlooked were of such 
+importance that, if they had been dealt with, the 
+whole balance of the award would have been 
+altered and its effect would have been 
+different.” ”  
+(Emphasis supplied) 
+ 
+ 
+48.2 The present case is not even one of non-consideration of the 
+material placed by the appellant. Indeed, Mr. Sibal, very fairly, did not 
+fault the learned arbitrator for not considering the material placed on 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified
+
+
+--- PAGE 53 ---
+ 
+ Arb. A. (Comm) 16/2020 
+Page 53 of 53 
+ 
+record. His submission was that the learned arbitrator had not 
+recorded reasons for rejecting the said material. In exercise of my 
+appellate jurisdiction under Section 37(2)(b), I am not convinced that 
+a case for interference with the impugned order, on this ground, exists. 
+The learned arbitrator was clearly alive to the material placed by the 
+appellant, and has seen the said material. He has, therefore, 
+summarized the contentions of the appellant and the respondent, qua 
+the aspect of force majeure. Having done so, the learned arbitrator has 
+held that the additional material placed on record by the appellant did 
+not convince him to revisit his earlier view. The issue of whether the 
+circumstances in which the appellant was placed, entitled him to plead 
+force majeure, or not, is a pure question of fact. The learned arbitrator 
+having opined, prima facie, on this aspect one way, at the 
+interlocutory stage, no case for interference under Section 37(2)(b) 
+can be said to exist. For this reason, therefore, it cannot be said that 
+the impugned order deserves to be set aside merely for want of what 
+Mr. Sibal would call sufficient reasons in dealing with the force 
+majeure plea advanced by the appellant. 
+ 
+Conclusion 
+ 
+For all the above reasons, I find no reason to interfere in this appeal 
+which is accordingly dismissed, with no orders as to costs. All 
+pending applications stand disposed of. 
+ 
+ 
+ 
+ 
+ 
+ 
+C. HARI SHANKAR, J. 
+NOVEMBER 24, 2021/kr/dsn/ss 
+Digitally Signed
+By:SUNIL SINGH NEGI
+Signing Date:24.11.2021
+18:39:59
+Signature Not Verified

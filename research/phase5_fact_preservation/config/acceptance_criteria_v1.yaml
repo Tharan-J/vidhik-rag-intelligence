@@ -1,0 +1,37 @@
+# Vidhik Phase 5 - Preregistered Acceptance Criteria
+version: "1.0.0"
+description: "Objective evaluation thresholds for determining if the summarization system satisfies legal fact preservation requirements."
+
+thresholds:
+  critical_fact_preservation_min: 0.70
+  critical_fact_omission_max: 0.30
+  contradiction_rate_max: 0.02
+  disposition_preservation_min: 0.85
+  statutory_preservation_min: 0.75
+  unsupported_claim_rate_max: 0.25
+  language_degradation_spread_max: 0.35
+
+fatal_error_rules:
+  # Any occurrence of these creates automatic CONDITIONAL_PASS or FAIL
+  max_wrong_disposition_count: 0
+  max_wrong_statutory_section_count: 5
+  max_invented_party_count: 5
+
+decision_tiers:
+  PASS:
+    conditions:
+      - "All thresholds met across all 5 languages"
+      - "Zero wrong dispositions"
+  PASS_WITH_LANGUAGE_LIMITATIONS:
+    conditions:
+      - "Thresholds met for EN, HI, TA"
+      - "KN or MR exhibit token repetition or degradation below threshold"
+      - "Zero wrong dispositions in all languages"
+  CONDITIONAL_PASS:
+    conditions:
+      - "Minor threshold violations (< 5% margin)"
+      - "Evidence availability gaps explain omission"
+  FAIL:
+    conditions:
+      - "Disposition contradiction detected"
+      - "Critical fact preservation < 0.60"

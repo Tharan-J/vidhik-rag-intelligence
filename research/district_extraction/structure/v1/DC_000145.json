@@ -1,0 +1,231 @@
+{
+  "document_id": "DC_000145",
+  "source": {
+    "sha256": "47d876e60509af32c12c394d062e024eb025dd69ae29bc292165da9514b17752",
+    "filename": "orders_2021_200800000062021_8.pdf",
+    "source_record_id": "DC-S3-145_28_1_1280004_2021_orders_2021_200800000062021_8",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 17480
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.9969
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1153,
+      "word_count": 193,
+      "raw_text": "Criminal Appeal No. 06 of 2021\n21   29.11.2024\nToday the case is ﬁxed for delivery of judgment.\nLd. Advocate for the appellant and Ld. Advocate for\nthe  respondents are present.\nJudgment is ready and the same is kept with the\nrecord. The Judgment is pronounced in the open court and\nthe operative portion of which, is as follows:-\nHence, it is,\n               Ordered \nThat the instant criminal appeal be and the same is\ndismissed on contest but without any cost.\nThe judgment and order dated 16.08.2021 passed by\nthe Ld. Judicial Magistrate First Class-II, Port Blair in G.R.\nCase No. 606  of  2013 (Trial No. 350 of 2013) stands\naﬃrmed.\n The convict T. M. Radhakrishnan is directed to\nsurrender before the Ld. Trial Court within one month from\nthis date to serve out the sentence, failing which, the Ld.\nTrial Court has been given liberty to take appropriate action\nin accordance with law.\n The criminal appeal is thus disposed of.\nLCR alongwith a copy of this judgment be sent to the\ncourt of Ld. Judicial Magistrate First Class-II, Port Blair for\ninformation and necessary action.   \nDictated & corrected by me\nSs. J   \n               Sessions Judge"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1116,
+      "word_count": 193,
+      "normalized_text": "Criminal Appeal No. 06 of 2021\n21 29.11.2024\nToday the case is fixed for delivery of judgment.\nLd. Advocate for the appellant and Ld. Advocate for\nthe respondents are present.\nJudgment is ready and the same is kept with the\nrecord. The Judgment is pronounced in the open court and\nthe operative portion of which, is as follows:-\nHence, it is,\n Ordered\nThat the instant criminal appeal be and the same is\ndismissed on contest but without any cost.\nThe judgment and order dated 16.08.2021 passed by\nthe Ld. Judicial Magistrate First Class-II, Port Blair in G.R.\nCase No. 606 of 2013 (Trial No. 350 of 2013) stands\naffirmed.\n The convict T. M. Radhakrishnan is directed to\nsurrender before the Ld. Trial Court within one month from\nthis date to serve out the sentence, failing which, the Ld.\nTrial Court has been given liberty to take appropriate action\nin accordance with law.\n The criminal appeal is thus disposed of.\nLCR alongwith a copy of this judgment be sent to the\ncourt of Ld. Judicial Magistrate First Class-II, Port Blair for\ninformation and necessary action.\nDictated & corrected by me\nSs. J\n Sessions Judge"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 1,
+    "total_sentences": 19,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 1116,
+        "word_count": 193,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000145_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 1116,
+            "word_count": 193,
+            "sentence_count": 19,
+            "text": "Criminal Appeal No. 06 of 2021\n21 29.11.2024\nToday the case is fixed for delivery of judgment.\nLd. Advocate for the appellant and Ld. Advocate for\nthe respondents are present.\nJudgment is ready and the same is kept with the\nrecord. The Judgment is pronounced in the open court and\nthe operative portion of which, is as follows:-\nHence, it is,\n Ordered\nThat the instant criminal appeal be and the same is\ndismissed on contest but without any cost.\nThe judgment and order dated 16.08.2021 passed by\nthe Ld. Judicial Magistrate First Class-II, Port Blair in G.R.\nCase No. 606 of 2013 (Trial No. 350 of 2013) stands\naffirmed.\n The convict T. M. Radhakrishnan is directed to\nsurrender before the Ld. Trial Court within one month from\nthis date to serve out the sentence, failing which, the Ld.\nTrial Court has been given liberty to take appropriate action\nin accordance with law.\n The criminal appeal is thus disposed of.\nLCR alongwith a copy of this judgment be sent to the\ncourt of Ld. Judicial Magistrate First Class-II, Port Blair for\ninformation and necessary action.\nDictated & corrected by me\nSs. J\n Sessions Judge",
+            "sentences": [
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 94,
+                "word_count": 17,
+                "text": "Criminal Appeal No. 06 of 2021\n21 29.11.2024\nToday the case is fixed for delivery of judgment."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 3,
+                "word_count": 1,
+                "text": "Ld."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 34,
+                "word_count": 6,
+                "text": "Advocate for the appellant and Ld."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 41,
+                "word_count": 6,
+                "text": "Advocate for\nthe respondents are present."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 55,
+                "word_count": 11,
+                "text": "Judgment is ready and the same is kept with the\nrecord."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 214,
+                "word_count": 38,
+                "text": "The Judgment is pronounced in the open court and\nthe operative portion of which, is as follows:-\nHence, it is,\n Ordered\nThat the instant criminal appeal be and the same is\ndismissed on contest but without any cost."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 57,
+                "word_count": 10,
+                "text": "The judgment and order dated 16.08.2021 passed by\nthe Ld."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 54,
+                "word_count": 8,
+                "text": "Judicial Magistrate First Class-II, Port Blair in G.R."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 61,
+                "word_count": 12,
+                "text": "Case No. 606 of 2013 (Trial No. 350 of 2013) stands\naffirmed."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 14,
+                "word_count": 3,
+                "text": "The convict T."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 2,
+                "word_count": 1,
+                "text": "M."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN012",
+                "sentence_index": 12,
+                "character_count": 53,
+                "word_count": 8,
+                "text": "Radhakrishnan is directed to\nsurrender before the Ld."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN013",
+                "sentence_index": 13,
+                "character_count": 93,
+                "word_count": 17,
+                "text": "Trial Court within one month from\nthis date to serve out the sentence, failing which, the Ld."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN014",
+                "sentence_index": 14,
+                "character_count": 85,
+                "word_count": 14,
+                "text": "Trial Court has been given liberty to take appropriate action\nin accordance with law."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN015",
+                "sentence_index": 15,
+                "character_count": 40,
+                "word_count": 7,
+                "text": "The criminal appeal is thus disposed of."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN016",
+                "sentence_index": 16,
+                "character_count": 65,
+                "word_count": 14,
+                "text": "LCR alongwith a copy of this judgment be sent to the\ncourt of Ld."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN017",
+                "sentence_index": 17,
+                "character_count": 84,
+                "word_count": 11,
+                "text": "Judicial Magistrate First Class-II, Port Blair for\ninformation and necessary action."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN018",
+                "sentence_index": 18,
+                "character_count": 30,
+                "word_count": 6,
+                "text": "Dictated & corrected by me\nSs."
+              },
+              {
+                "sentence_id": "DC_000145_P001_PAR001_SEN019",
+                "sentence_index": 19,
+                "character_count": 17,
+                "word_count": 3,
+                "text": "J\n Sessions Judge"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 28,
+    "state_name": "Andaman and Nicobar",
+    "district_code": 1,
+    "district_name": "Port Blair",
+    "court_complex_code": 1280004,
+    "court_complex_name": "PORT BLAIR COURT COMPLEX",
+    "year": 2021,
+    "case_type": "nan",
+    "case_number": "200800000062021",
+    "pdf_title": "Orders 2024.odt",
+    "pdf_author": "",
+    "pdf_creator": "LibreOffice 7.3.7.2",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260326113344+05'30'",
+    "pdf_mod_date": "D:20260326113344+05'30'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.9969,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "47d876e60509af32c12c394d062e024eb025dd69ae29bc292165da9514b17752",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.512712"
+  }
+}

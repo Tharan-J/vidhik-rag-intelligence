@@ -1,0 +1,45 @@
+# Gemini Independent Verifier Configuration
+role: "Independent Auditor"
+model: "gemini-3.5-flash-lite"
+endpoint: "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent"
+temperature: 0.0
+cache_dir: "phase4_summarization/verification/cache"
+caching_enabled: true
+rate_limit_requests_per_minute: 15
+retry_count: 3
+timeout_seconds: 40
+
+verifier:
+  model: "gemini-3.5-flash-lite"
+  endpoint: "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent"
+  role: "Independent Auditor"
+  temperature: 0.0
+  cache_dir: "phase4_summarization/verification/cache"
+  caching_enabled: true
+  rate_limit_requests_per_minute: 15
+  retry_count: 3
+  timeout_seconds: 40
+
+output_schema:
+  overall:
+    supported_claim_rate: "float [0.0 - 1.0]"
+    contradicted_claim_rate: "float [0.0 - 1.0]"
+    unsupported_claim_rate: "float [0.0 - 1.0]"
+    ambiguous_claim_rate: "float [0.0 - 1.0]"
+  claims:
+    - claim_id: "str"
+      claim: "str"
+      status: "SUPPORTED | CONTRADICTED | UNSUPPORTED | AMBIGUOUS"
+      evidence: "list of sentence_ids"
+      reason: "str"
+  critical_fact_errors: "list of str"
+  legal_outcome_preserved: "bool"
+
+rubric:
+  claim_decomposition: "Decompose summary into atomic factual/legal propositions."
+  label_definitions:
+    SUPPORTED: "Directly confirmed by the provided legal evidence."
+    CONTRADICTED: "Directly refuted or contradicted by the provided legal evidence."
+    UNSUPPORTED: "Not stated in the provided legal evidence (hallucination or ungrounded inference)."
+    AMBIGUOUS: "Unclear or partially plausible but lacking definitive evidence."
+    MISSING_CRITICAL_FACT: "Important source legal fact (such as disposition or party) absent from summary."

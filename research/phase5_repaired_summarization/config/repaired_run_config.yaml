@@ -1,0 +1,77 @@
+# Vidhik Phase 5 Repaired Multilingual Summarization Configuration
+experiment_id: "PHASE5_REPAIRED_SUMMARIZATION_BM25_B8"
+pipeline_version: "5.2.1"
+date: "2026-10-05"
+
+benchmark:
+  document_count: 9
+  benchmark_doc_ids:
+    - "DC_000001"
+    - "DC_000002"
+    - "DC_000003"
+    - "DC_000004"
+    - "DC_000005"
+    - "DC_000006"
+    - "DC_000007"
+    - "DC_000008"
+    - "DC_000011"
+  gold_facts_path: "phase5_source_grounded_gold/gold_facts.parquet"
+  source_coverage_path: "phase5_source_grounded_gold/source_fact_coverage.csv"
+  historical_summaries_path: "phase4_summarization/generation/summaries_v1.parquet"
+
+evidence_condition:
+  strategy: "BM25"
+  budget: 8
+  selection_method: "BM25_OKAPI_LEGAL_AWARE"
+  manifest_path: "phase5_repaired_summarization/evidence/repaired_bm25_b8_evidence.parquet"
+
+model:
+  name: "qwen3-4b-instruct"
+  ollama_tag: "qwen3:4b-instruct"
+  provider: "ollama"
+  endpoint: "http://localhost:11434/api/generate"
+  temperature: 0.1
+  top_p: 0.95
+  max_tokens: 450
+  thinking_enabled: false
+  generation_condition: "condition_c"
+
+languages:
+  en:
+    name: "English"
+    instruction: "Respond strictly in English."
+  ta:
+    name: "Tamil"
+    instruction: "Respond strictly in Tamil (தமிழ்). Translate legal concepts faithfully."
+  hi:
+    name: "Hindi"
+    instruction: "Respond strictly in Hindi (हिन्दी). Translate legal concepts faithfully."
+  kn:
+    name: "Kannada"
+    instruction: "Respond strictly in Kannada (ಕನ್ನಡ). Translate legal concepts faithfully."
+  mr:
+    name: "Marathi"
+    instruction: "Respond strictly in Marathi (मराठी). Translate legal concepts faithfully."
+
+prompt_template: |
+  You are an expert legal summarizer. Generate an evidence-grounded legal summary in {language} following these strict rules:
+  1. Use ONLY the supplied legal evidence.
+  2. Do NOT invent, assume, or hallucinate facts, dates, amounts, or names.
+  3. Preserve exact case numbers, party names, statutory sections, dates, and court dispositions.
+  4. If a fact (such as CNR, Judge Name, or specific section) is missing from the evidence, explicitly state '[Not Available in Evidence]'.
+  5. Never convert uncertainty into certainty. Do not alter the legal outcome.
+  6. Preserve legal meaning faithfully in {language}.
+
+  VERIFIED EVIDENCE:
+  {evidence_text}
+
+  EVIDENCE-CONSTRAINED SUMMARY IN {language}:
+
+acceptance_criteria:
+  critical_fact_preservation: 0.70
+  critical_omission: 0.30
+  contradiction: 0.02
+  disposition_preservation: 0.85
+  statutory_preservation: 0.75
+  unsupported: 0.25
+  language_degradation: 0.35

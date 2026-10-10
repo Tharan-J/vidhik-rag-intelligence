@@ -1,0 +1,7 @@
+system_id,system_name,critical_strict_preservation,critical_partial_preservation,critical_omission_rate,overall_preservation,translation_fidelity,terminology_survival,contradiction_rate,unsupported_addition_rate,critical_units,total_units
+T0_BASELINE_LEGAL_AWARE,Phase 6 Legal-Aware Baseline,23.68%,26.32%,73.68%,12.94%,40.00%,100.00%,0.00%,0.00%,152,340
+T1_CONTEXT_AWARE,Context-Aware Translation,23.68%,26.32%,73.68%,12.94%,40.00%,100.00%,0.00%,0.00%,152,340
+T2_STRONGER_TERMINOLOGY,Enhanced Terminology & Entity Protection,23.68%,44.74%,55.26%,21.18%,48.24%,100.00%,0.00%,0.00%,152,340
+T3_CLAIM_ALIGNED,Claim & Sentence Aligned Translation,23.68%,44.74%,55.26%,21.18%,48.24%,100.00%,0.00%,0.00%,152,340
+T4_CANDIDATE_RERANKING,Candidate Generation & Legal Reranking,23.68%,44.74%,55.26%,21.18%,48.24%,100.00%,0.00%,0.00%,152,340
+T5_COMBINED_OPTIMAL,Combined Optimal Translation Pipeline,23.68%,44.74%,55.26%,21.18%,48.24%,100.00%,0.00%,0.00%,152,340

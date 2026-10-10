@@ -1,0 +1,28 @@
+{
+  "completed_at": "2026-10-05 13:52:33",
+  "total_summaries_evaluated": 153,
+  "total_claims_audited": 946,
+  "languages": [
+    "English",
+    "Tamil",
+    "Hindi",
+    "Kannada",
+    "Marathi"
+  ],
+  "models_evaluated": [
+    "extractive-lead3-baseline",
+    "qwen3-4b-instruct",
+    "translation-baseline-en2indic",
+    "ai4bharat-indicbartss"
+  ],
+  "prompt_conditions": [
+    "condition_a",
+    "condition_b",
+    "condition_c"
+  ],
+  "verifier": "Gemini 2.5 Flash Independent Auditor (Cached / Dual-Mode)",
+  "supported_claim_rate_overall": 0.7989,
+  "contradicted_claim_rate_overall": 0.0,
+  "unsupported_claim_rate_overall": 0.0945,
+  "disposition_preservation_overall": 0.8889
+}

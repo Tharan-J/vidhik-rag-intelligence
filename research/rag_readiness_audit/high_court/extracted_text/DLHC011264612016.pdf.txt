@@ -1,0 +1,1165 @@
+--- PAGE 1 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 1 of 27 
+ 
+$~ 
+* 
+IN  THE  HIGH  COURT  OF  DELHI  AT  NEW  DELHI 
+ 
+ 
+ 
+ 
+ 
+Reserved on : 11th February, 2019 
+Date of decision : 14th March, 2019  
++  
+ 
+ 
+ 
+O.M.P. (COMM) 134/2016 
+ 
+CMI LIMITED                                                                 ..... Petitioner 
+Through: 
+Mr. S.K. Gupta, Mr. K.R. Gupta and 
+Mr. Harsh Tayal, Advocates for 
+C.M.I. (M: 9810035583). 
+ 
+ 
+ 
+ 
+versus 
+ 
+ 
+MAHANAGAR TELEPHONE NIGAM LTD & ANR.... Respondents 
+Through: 
+Mr. Ravi Sikri, Sr. Advocate with Mr. 
+Deepak Yadav and Mr. Arun Sanwal, 
+Advocates for MTNL. 
+ 
+ 
+ 
+ 
+ 
+ 
+AND 
++  
+ 
+ 
+ 
+O.M.P. (COMM) 198/2016 
+ 
+MAHANAGAR TELEPHONE NIGAM LTD.            ..... Petitioner 
+Through: 
+Mr. Ravi Sikri, Sr. Advocate with Mr. 
+Deepak 
+Yadav 
+and 
+Mr. 
+Arun, 
+Advocates. 
+ 
+ 
+ 
+ 
+ 
+versus 
+ 
+ 
+C.M.I &  ANR.                                                          ..... Respondents 
+Through: 
+Mr. S. K. Gupta, Mr. K.R. Gupta and 
+Mr. Harsh Tayal, Advocates for 
+C.M.I. (M: 9810035583). 
+ 
+CORAM: 
+JUSTICE PRATHIBA M. SINGH 
+JUDGMENT 
+Prathiba M. Singh, J. 
+ 
+1. 
+ The present petitions under Section 34 of the Arbitration and 
+Conciliation Act, 1996 (hereinafter, the „Act‟) have been filed challenging 
+the impugned award dated 2nd December, 2010. The dispute arises on the 
+
+
+--- PAGE 2 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 2 of 27 
+ 
+short question as to whether CMI- the supplier (`CMI‟) is entitled to `C‟ 
+forms or reimbursement of 6% of sales tax amount deposited in respect of 
+supplies made to the purchaser- Mahanagar Telephone Nigam Limited 
+(hereinafter „MTNL‟).  
+2.  
+OMP (COMM) 198/2016 has been filed by MTNL challenging the 
+award on the ground that the purchase order clearly contained a stipulation 
+that the price quoted by the bidder would be inclusive of sales tax and the 
+issuance of „C‟ forms was not applicable to MTNL. The Ld. Arbitrator held 
+against MTNL. OMP (COMM) 134/2016 filed by CMI Limited (hereinafter 
+„CMI‟) is on the non-grant of interest on the awarded amount.  
+3. 
+The background of the present petition is that the Department of 
+Telecommunications (hereinafter „DOT‟) issued notice inviting tenders 
+bearing tender number 14-21/94-MMT(MMS) for supply of Polythene 
+Insulated Jelly Filled (PIJF) underground cables on 30th November, 1994. 
+CMI was one of the successful bidders. The Letter of Intent was placed by 
+DOT on CMI for supplies on 22nd January 1997. As per the LOI, the 
+purchase orders were to be placed by the various circles. CMI made supplies 
+in respect of various telecom circles across the country. Disputes arose in 
+respect of supplies made to MTNL in the Delhi region.     
+4.  
+The NIT consisted of the following clauses: 
+“(a) "The Purchaser" means the Department of 
+Telecommunications acting on behalf of the President 
+of India.  
+… 
+(e) "The Advance Purchaser Order", means the 
+intention of Purchaser to place the Purchase Order on 
+the bidder.  
+… 
+
+
+--- PAGE 3 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 3 of 27 
+ 
+(f) "The Purchase Order" means the order placed by 
+the Purchaser on the Supplier signed by the Purchaser 
+including all attachments and appendices thereto and 
+all documents incorporated by reference therein. The 
+purchase order shall be deemed as "Contract" 
+appearing in the document. 
+ 
+(g) "The Contract price" means the price payable to 
+the Supplier under the purchase order for the full and 
+proper performance of its contractual obligations. 
+ 
+ 
+5. 
+In addition to these clauses in the NIT, the NIT also required the 
+supplier to provide a bid security. The relevant clause reads as under: 
+“12. BID SECURITY: 
+  12.1 Pursuant to Clause 7 the bidder shall furnish, 
+as part of his bid, a bid security for an amount of Rs. 
+20,00,000 (Rupees Twenty lakh only) The bidders 
+(Small scale Units) who are registered with National 
+Small Scale Industries Corporation under SINGLE 
+POINT REGISTRATION SCHEME; are exempted 
+from Bid security as per the existing policy of Govt. 
+of India. A proof regarding current registration with 
+NSIC for the TENDERED ITEM will have to be 
+attached along with the bid document. 
+ 
+12.2 The bid security is required to protect the 
+Purchaser against the risk of bidder‟s conduct which 
+would warrant the security‟s forfeiture, pursuant to 
+para 12.7. 
+ 
+12.3 The bid security shall be in the form of a Bank 
+Guarantee issued by a scheduled bank in favour of 
+the purchaser, valid for a period of 240 days. 
+… 
+ 
+6. 
+The NIT also provided for the terms and conditions relating to 
+placement of orders by the purchaser. The relevant clauses are extracted 
+below: 
+
+
+--- PAGE 4 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 4 of 27 
+ 
+24. AWARD OF CONTRACT: 
+24.1 The Purchaser shall consider placement of 
+orders for commercial supplies on those 
+bidders whose offers have been found 
+technically, commercially and financially 
+acceptable and whose goods have been Type 
+Approved/Validated by the Purchaser. 
+24.2 The procurement against the tender is for two 
+years requirement and the terms & conditions 
+of this tender shall be operative for the two 
+years from date of issue of first Advance 
+Purchaser Order. 
+ 
+25. PURCHASER‟S RIGHT TO VARY QUANTITIES 
+AT THE TIME OF AWARD: 
+The Purchaser reserves the right at the time of award 
+of contract to increase or decrease by upto 25% of 
+the quantity of goods and services specified in the 
+Schedule of Requirements without any change in unit 
+price of the ordered quantity or either terms and 
+conditions. 
+26. 
+PURCHASER‟S RIGHT TO ACCEPT ANY 
+BID AND TO REJECT ANY OR ALL BIDS: 
+The Purchaser reserves the right to accept or reject 
+any bid and to annul the bidding process and reject 
+all bids, at any time prior to award of contract 
+without assigning any reason whatsoever and 
+without thereby incurring any liability to the affected 
+bidder or bidders on the grounds for the Purchaser‟s 
+action. 
+ 
+27. 
+ISSUE OF ADVANCE PURCHASE ORDER: 
+27.1 The issue of an Advance Purchase Order shall 
+constitute the intention of the Purchaser to 
+enter into the contract with the bidder. 
+Purchase orders will be issued over the period 
+of 2 years for the requirements of the 
+purchaser. 
+27.2 The bidder shall within 30 days of issue of the 
+
+
+--- PAGE 5 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 5 of 27 
+ 
+Advance Purchase Order, give his acceptance 
+along with performance security in conformity 
+with section IX provided with the bid 
+documents. 
+ 
+28. 
+SIGNING OF CONTRACT: 
+28.1 The issue of Purchase Order shall constitute 
+the award of contract on the bidder. 
+28.2 Upon the successful bidder furnishing the 
+performance security for the first year 
+purchase pursuant to Clause 27 the purchaser 
+shall discharge 50% of the bid security. The 
+remaining bid security shall be discharged 
+upon the bidder furnishing the performance 
+security for the last purchase order.” 
+ 
+7. 
+The General Conditions of Contract annexed to the NIT stipulated 
+various terms and conditions relating to payment terms, sales tax etc., The 
+relevant clauses are extracted below  
+“11. PAYMENT TERMS 
+… 
+11.3 (i) (a) Sales tax on Central Government 
+purchases shall be paid at the prescribed rate 
+against "D" form for despatches outside the State of 
+manufacture. Within the state of manufacture, the 
+Sales Tax will be paid on actuals on presentation of 
+the original voucher. 
+(b)  
+Any increase in taxes and other statutory 
+duties/levies after the expiry of the delivery date 
+shall be to the contractor‟s account. However, 
+benefit of any decrease in these taxes/duties shall 
+be passed on to the Purchaser by the supplier. 
+… 
+ 
+12.1 (i) PRICES 
+ 
+ (a) Prices charged by the Supplier for 
+Goods delivered and services performed under the 
+Contract shall not be higher from the prices quoted 
+by the Supplier in his Bid. 
+
+
+--- PAGE 6 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 6 of 27 
+ 
+(b) In case of revision of Statutory Levies/Taxes 
+during the supply period the Purchaser reserves the 
+right to ask for reduction in the prices. 
+(ii)  
+(a) Price once fixed will remain valid for the 
+period of delivery. Increase and decrease in taxes 
+and other statutory duties will not affect the price 
+during this period. 
+(b)  In case of delayed supplies after delivery 
+period the advantage of reduction of tax/duty would 
+be passed on to the purchaser and no benefit of 
+increase in price will be permitted to the supplier if 
+there is any increase in tax/duty. 
+… 
+13. 
+CHANGE IN PURCHASE ORDERS: 
+13.1  The purchaser may, at any time, by a written 
+order given to the Supplier, make changes within 
+the general scope of the contract in any one or 
+more of the following. 
+(a) 
+Drawings, designs or specifications, where 
+Goods to be furnished under the Contract are to be 
+specifically manufactured for the Purchaser; 
+(b) 
+the method of transportation or packing; 
+(c) 
+the place of delivery; or 
+(d) 
+the services to be provided by the     Supplier. 
+ 
+13.2  If any such change causes an increase or 
+decrease in the cost of, or the time required for the 
+execution of the contract an equitable adjustment 
+shall be made in the Contract Price or delivery 
+schedule, or both, and the Contract shall 
+accordingly be amended. Any proposal by the 
+Supplier for adjustment under this clause must be 
+made within thirty days from the date of the receipt 
+of the change in order. 
+ 
+8. 
+The Letter of Intent was issued on 22nd January, 1997 by DOT. The 
+clause on prices in the LOI reads as under: 
+“6. Prices 
+
+
+--- PAGE 7 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 7 of 27 
+ 
+(a) The prices of the PIJF U/G Cables for the purpose 
+of obtaining present quantity will be provisional 
+till applicable prices are available, and shall be 
+calculated @ 95% of the total price(s) (inclusive of 
+all taxes and duties) finalized in tender No.14-
+21/94-MMT (MMS) dated 24.1.95 of DOT in 
+respect of PIJF U/G Cables on account of 
+(i) Total prices under TE NO.14-21/94-MMT 
+(MMS), opened on 24.1.95, shall be adjusted to the 
+Custom Duty reduction in the Budget for 1996-97” 
+9. 
+It is relevant to note here that clause 11 of the LOI, clearly recorded 
+that the purchase order was to be placed by MTNL in respect of the cities of 
+Bombay and Delhi. The said clause reads as under: 
+“11. Purchase 
+Order 
+shall be placed by 
+Mahanagar Telephone Nigam Limited, Bombay 
+and Delhi and Telecom Circles.” 
+ 
+10. 
+The DOT had also issued letters dated 8th June, 1996 and 13th 
+February, 1997. The relevant portions of these letters are set out herein 
+below: 
+Letter dated 8th June 1996 
+“4) Prices finalized and approved for each size of 
+cables are enclosed as per Annexure-III. The Annexure 
+shows in detail price of each cable size with basic 
+price, 
+Excise 
+Duty 
+and 
+Sales-Tax 
+applicable 
+separately..” 
+ 
+ 
+Letter dated 13th February, 1997 
+ 
+“Consequent upon the receipt of your unconditional 
+acceptance to the LOI No.203-2/95-MMS dated 
+22.01.97 for the procurement of PIJF, PCM, Quad and 
+Foamskin Underground Cables against the subject 
+tender enquiry, MTNL/Telecom Circle(s) have been 
+
+
+--- PAGE 8 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 8 of 27 
+ 
+authorized to place formal purchase order on your 
+firm as per the allocation enclosed. It may also be 
+noted that any order received against the subject 
+tender in excess of authorization issued earlier from 
+MTNL/Allocated Circles shall be adjusted out of this 
+allocation. You are requested to have necessary liaison 
+with the MTNL/allocated Telecom Circle(s) for getting 
+the formal purchase orders. 
+"Composite 
+Performance 
+Bank 
+Guarantee 
+No.BG/789/97 dated 28-01-97 from Dena Bank ND 
+for Rs.49,10,000/- has been accepted centrally for 
+this allocated quantity of cables."” 
+ 
+11. 
+As per the above letters, MTNL was to place the purchase order 
+which was placed by MTNL on CMI vide purchase order dated 5th March, 
+1997. The said purchase order contained the flowing clauses on sales tax: 
+“iii. Sales Tax 
+Inclusive. Issue of „C‟ forms not 
+applicable as DOT prices are 
+all inclusive” 
+ 
+12. 
+When the purchase order was placed by MTNL with the above 
+mentioned clause, CMI challenged the same and sought a clarification from 
+MTNL as the clause relating to sales tax was in contradiction with the clause 
+contained in the General Conditions of Contract as provided in the NIT. The 
+case of CMI was that the prices were quoted on the basis of „C‟ forms to be 
+issued by MTNL, which would in effect mean that CMI would be liable to 
+pay only 4% Sales Tax instead of 10% thereby giving it a benefit of 6% 
+Sales Tax. If „C‟ forms were not to be issued then the prices would have 
+been higher. After the price was fixed and the bids were accepted, changing 
+of this condition for MTNL supplies was impermissible. CMI also relied 
+upon a clarification issued by DOT to the effect that MTNL ought to issue 
+C-Forms or would be liable to reimburse the supplier. The said clarification 
+
+
+--- PAGE 9 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 9 of 27 
+ 
+dated 7th July, 1997 is set out herein below: 
+“……….. 
+Subject: Clarification in respect of „Octroi‟ 
+charges-Sales Tax against Purchase Orders issued 
+by MTNL. 
+This office has been in receipt of request from 
+MTNL seeking clarification in respect of issue of 
+exemption certificate for octroi charges and 
+availing of concessional sales tax against Purchase 
+Orders placed by MTNL. 
+Following decision is hereby conveyed:- 
+Purchase Orders are placed by MTNL for MTNL 
+where MTNL is not in a position to issue requisite 
+certificate for claiming concessional rates of sales 
+tax (Form „C‟), the supplier shall be reimbursed the 
+difference between the actual sales tax paid by him 
+and that due under concessional rates (at present 
+4%) had the certificate. 
+Similarly, if octroi exemption certificate is not 
+issued by MTNL, the actual octroi paid by the 
+supplier will be reimbursed. 
+Such reimbursement of sales tax and octroi shall be 
+considered only if documents establishing actual 
+payments are produced along with the claim. 
+This has got the concurrence of DOT Finance.” 
+ 
+13. 
+MTNL however did not agree to the clarification. Since the issues 
+relating to sales tax were not resolved, CMI invoked arbitration. The Ld. 
+Arbitrator arrived at the following conclusions: 
+ That the contract stood concluded between DOT and CMI upon the 
+NIT being floated, CMI having submitted an offer and the LOI being 
+issued by DOT; 
+ That MTNL was merely a recipient of the goods and could not change 
+the terms which were already agreed upon; 
+
+
+--- PAGE 10 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 10 of 27 
+ 
+ That the contract stood concluded with the issuance of the LOI and 
+the performance bank guarantee by CMI; 
+ The purchaser being MTNL, it did not have the power to change 
+conditions of the concluded contract; 
+ MTNL could not deny issuance of C-Form and simultaneously avail 
+concessional sales tax; 
+ Since CMI had not been given either C-Form or D-Form and had paid 
+10% sales tax along with interest to the department, the said amount 
+was liable to be reimbursed by MTNL. MTNL was only one of the 
+consignees.  
+Accordingly, the operative portion of the said award reads as under: 
+“18. The contention of the Claimant is quite in order 
+and tenable as the , contract between the Claimant and 
+the Purchaser (DOT) stands concluded with the 
+unconditional acceptance of the LOI(APO) dt.22-01-
+97and furnishing of PBG within the stipulated period 
+by the Claimant and acceptance thereof by the 
+Purchaser through letter No.203-2/95-MMS dt.13-02-
+97. The terms and conditions as stipulated in the LOI 
+(APO) dt .22-0 1-97were binding on both the parties 
+and could not be unilaterally altered by any party to 
+the contract. MTNL was merely one of the consignees 
+in terms of the concluded contract and had no locus-
+standi to alter any term of the concluded contract in it's 
+favour unilaterally. Moreover, there were explicit 
+instructions issued by the DOT(Purchaser) to all the 
+consignees including MTNL to place formal POs on 
+the successful bidders including CMI (Claimant) as per 
+terms and conditions contained in the LOI(APO) 
+issued to the Supplier (Claimant)as well as the 
+governing tender opened on 24-01-95 (This letter has 
+been taken on record). Prior to this DOT also issued 
+
+
+--- PAGE 11 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 11 of 27 
+ 
+clarifications to MTNL through it's letter No.80-16/95-
+MMC dt.07-02-97(exhibit C-6 of the claim document) 
+in respect of Octroi Charges and ST against POs 
+issued by MTNL (extract is reproduced below for 
+facility of ready reference). This letter is considered 
+very relevant and was issued in consultation with the 
+associated Finance. 
+ 
+"POs placed by MTNL for MTNL where MTNL 
+is not in a position to issue requisite certificate 
+for claiming concessional rates of ST ('C' form) 
+the supplier shall be reimbursed the difference 
+between the actual ST paid by him and that due 
+under concessional rates (at present 4%) had 
+the certificate to that effect been given. Such re-
+imbursement of ST and Octroi shall be 
+considered only if documents establishing 
+actual payments are produced along with the 
+claim." 
+ 
+19.  In view of the position explained above and 
+earlier by me all the contentions and submissions 
+made by MTNL in this regard legally fall flat and 
+hence rejected. This justifies claim No.1 in the claim 
+document relating to payment of additional ST to the 
+tune of 6% only in lieu of non- submission of 'C ' or 
+'D' form as the case may be. No interest is, however, 
+admissible on this additional ST of 6 % what so ever 
+except for the interest levied on account of payment of 
+additional ST in installments which is indicated 
+separately in claim No.1 as Rs.2,51,885/- (Rs. Two 
+lakh fifty one thousand eight hundred and eighty five 
+only.) The claim relating to additional ST of 6% is 
+payable 
+only 
+after 
+production 
+of 
+documents 
+establishing actual payment of such sum. Similarly, 
+the interest of Rs.2,51,885/- becomes payable only 
+after production of documents establishing payment of 
+such sum. This verification task will be carried out by 
+the paying authority . 
+
+
+--- PAGE 12 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 12 of 27 
+ 
+ 
+20.   Regarding issue (d) under para 14 of part(C) 
+above (Issue No.4) the Claimant replied in affirmative 
+in their written submissions a copy of which was also 
+given to the Respondent.  They cited MTNL‟s PO 
+No.MTNL/20-80 (531)/95-MM/CMI/95-96/23 dt. 28-
+8-95. In their written submissions/arguments made on 
+11-07-09., Respondent (MTNL) also agreed to having 
+issued form „C‟ against this PO dt.28-08-95 as earlier 
+ST Department was issuing „C‟ forms to MTNL but 
+stopped issuing „C‟ forms later on.  This confirms that 
+earlier MTNL was issuing „C‟ form in conformity with 
+the governing tender‟s terms and conditions.  
+ 
+21.   Regarding issues (g) and (h) under para 14 of 
+part (C) above (Issue Nos.7 and 8) I have gone 
+through the various submissions/arguments of both 
+the parties as also the case laws and judgments cited 
+by them.  Keeping in view the history of the case and 
+circumstances of the case I don‟t find any justification 
+regarding payment of interest and other charges 
+claimed and hence rejected.  As to the costs, it is 
+decided in keeping with the circumstances of the case 
+that both parties will bear their own costs. 
+ 
+D. AWARD 
+For reasons recorded above, the following 
+award is made. Para No.19 of part (C) relating to 
+PROCEEDINGS/DISCUSSIONS is to be kept in view 
+while implementing the award. 
+ 
+It is directed that MTNL do pay to the Claimant a sum 
+of Rs.60,06,629/- (Rs. Sixty lakh six thousand six 
+hundred and twenty nine only) towards additional ST 
+of 6% paid by the claimant to the Sales Tax 
+authorities (STA) due to non furnishing of requisite 
+„C‟ Form by the MTNL and Rs.2,51,885/- (Rupees 
+Two lakh fifty one thousand eight hundred and eighty 
+
+
+--- PAGE 13 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 13 of 27 
+ 
+five only) towards interest paid by the CMI to the STA 
+in the instant case subject to production of documents 
+establishing actual payments of such sums to the STA 
+within two months of submission of such documents 
+after the detailed award is announced. The amount 
+payable will be limited to actual payments made by 
+the CMI to the STA in this regard. MTNL shall pay an 
+interest @ 7% per annum after expiry of the 
+prescribed period till the amount is actually paid to 
+the Claimant.” 
+ 
+Accordingly, Ld. Arbitrator directed a refund of Rs.60,06,629/- to CMI.  
+14. 
+Mr. Sikri, ld. Counsel appearing for MTNL submits that the final 
+contract being the purchase order, the Ld. Arbitrator committed an error in 
+holding that the supplier is entitled to reimbursement. 
+15. 
+Mr. Sikri further submits that the grant of reimbursement of 6% Sales 
+Tax when admittedly the said concession given by the Sales Tax Department 
+was withdrawn qua MTNL is contrary to the express terms of the purchase 
+order.   He submits that MTNL cannot be made to bear the burden of the 
+withdrawal of the concessional sales tax.  DOT and MTNL cannot be 
+equated in this manner.  Further, the purchase order was clear and hence the 
+supplier supplied the goods with open eyes. 
+16. 
+Mr. Sikri relies upon the following two judgments.  
+ Alcatel India Limited  v.  Mahanagar Telephone Nigam Limited & 
+Anr., 2001 (59) DRJ 393 (DB) 
+ Security Printing & Minting Corporation of India Limited & Anr.  
+v.  Gandhi Industrial Corporation, (2007) 13 SCC 236 
+17. 
+Mr. K. R. Gupta, ld. counsel for CMI submits that the petition raises 
+two fundamental questions.  1) Who are the contracting parties and 2)  What 
+
+
+--- PAGE 14 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 14 of 27 
+ 
+is the contract.  He submits that the contracting parties were the Department 
+of Telecommunications („DOT‟) and the suppliers. The Letter of Intent 
+(„LOI‟), is in fact the contract between the parties.  According to Mr. Gupta, 
+MTNL being merely the beneficiary of the contract, cannot change the terms 
+and conditions of the main contract.  The supplier has supplied the goods to 
+MTNL at the direction of DOT. The definition of „purchaser‟ clearly being 
+the “Department of Telecommunications acting on behalf of the President of 
+India”, MTNL, in fact, has no locus to alter the terms of the contract. The 
+fact that the purchase orders are placed by MTNL and payments are made 
+by MTNL are merely internal arrangements between DOT and MTNL, to 
+which the supplier is not privy.  He relies on the letter of intent dated 22nd 
+January, 1997 to argue that the said documents, which have been signed by 
+the purchaser, constitute the contract between the parties.  
+18. 
+He further submits that the issuance of the purchase order was merely 
+a formality and nothing more.  It is further submitted that the reference to 
+the DOT‟s tender in the purchase order also shows that the purchase order 
+was placed under the said tender and could not be interpreted in a manner 
+alien to it.  The purchase order could not derogate from the terms and 
+conditions of the tender. To the extent that there is no contradiction, the 
+tender conditions would be binding.   
+19. 
+Thus, it is the submission of CMI that the issue of the purchase order 
+by MTNL was only a formality. The concluded contract had been entered 
+into between DOT and CMI and thus MTNL could not change the terms of 
+the contract.  It is further argued by CMI that award dated 14th February, 
+2007 passed by the Ld. Sole Arbitrator Justice Jaspal Singh (retd.) in the 
+case of Delton Cables Ltd. v Department of Telecommunications was 
+
+
+--- PAGE 15 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 15 of 27 
+ 
+contrary to the terms of the contract as the Ld. Arbitrator had failed to 
+consider the fact that as per the terms of the contract, DOT and not MTNL 
+was the purchaser. Ld. Counsel appearing for CMI seeks to distinguish the 
+judgment in Security Printing by arguing that the same was a case of 
+principal to principal and not principal to agent.  Thus, the said judgment is 
+of no application.   
+Analysis 
+20. 
+The entire dispute calls into question as to what constitutes the 
+binding contact between the parties.  While it is the case of CMI that the 
+LOI read with the NIT constitutes the binding contract, it is the case of 
+MTNL that the purchase order constitutes the binding contract.  This issue 
+can be resolved by a perusal of the various clauses in the bid documents. A 
+perusal of the definitions shows that the APO is the intention of the DOT to 
+place the purchase order. The purchase order is the order placed by the 
+purchaser on the supplier.  The definition of „purchase order‟, however, is 
+clear and states that “the purchase order shall be deemed as “Contract” 
+appearing in the document”. Thus, the definition of „purchase order‟ brooks 
+no ambiguity.   
+21. 
+The definition of contract price is also “the price payable to the 
+Supplier under the purchase order”.   Thus, while the NIT, APO, LOI, etc. 
+could constitute the background documents, the final contract is the 
+purchase order. 
+22. 
+CMI, was aware of the stipulation relating to sales tax when the 
+purchase order was placed which clearly provided that the prices were 
+inclusive of Sales Tax and issue of „C‟ forms was not applicable. Further, 
+clause 16 of the purchase order reads as under: 
+
+
+--- PAGE 16 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 16 of 27 
+ 
+“16. OTHER GENERAL/COMMERCIAL TERMS AND 
+CONDITIONS OF THE CONTRACT: 
+As per DOT Tender No.14-21/94-MMT (MMS) dated 
+30.11.94 opened on 24.1.95 and DOT LOI issued vide 
+letter No. 203-78/96-MMS(pt-II) dated 8.1.97.” 
+ 
+23.  
+Thus, once the final purchase order was placed, it was only in respect 
+of “other general/commercial terms and conditions” that the DOT tender 
+and LOI were made applicable. Though, the purchase order is referred to as 
+a formal purchase order, it was not merely a formality.  The use of the words 
+„formal purchase order,‟ in fact, meant that the said documents contained the 
+final terms and conditions and the initial documents were tentative in nature.  
+This interpretation is also supported by clause 27 & 28 of the NIT, which 
+makes it clear that the APO is merely „the intention of the purchaser to enter 
+into the contract.‟  Clause 28 stipulates that the issue of the purchase order 
+„shall constitute the award of contract on the bidder‟.  Thus, the contract, 
+which forms the basis of the arrangement between the parties, is the 
+purchase order and it is only to the extent that the purchase order does not 
+have stipulations that other general/commercial terms, were to be governed 
+by the DOT‟s tender.   
+24. 
+The clarification given by DOT, that MTNL ought to reimburse the 
+sales tax, was urged to constitute a binding direction by the DOT to MTNL. 
+However, the board of MTNL did not accept the said clarification and took a 
+decision that if the purchase order was clear, no reimbursements were to be 
+made.  Since the sales tax authorities had withdrawn the concessional tax 
+benefits to MTNL, it cannot be said that the stand of MTNL is contrary to 
+the tender conditions.  Moreover, CMI had entered into the contract with 
+open eyes.  There being no ambiguity in the sales tax related conditions in 
+
+
+--- PAGE 17 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 17 of 27 
+ 
+the Purchase order, CMI had the option of not making supplies until the 
+clarification, which it had sought, was issued.  A perusal of the 
+correspondence written by CMI to MTNL repeatedly raised various issues 
+and not just issues relating to the sale tax.  There were issues relating to the 
+pricing of other goods etc.  CMI also sought further additional orders from 
+MTNL in the various letters.  CMI understood that at the time when the 
+purchase order was placed, though it sought reimbursement/issuance of form 
+„C‟, that the clarification may, in fact, not be forthcoming from MTNL. In 
+fact, a perusal of the correspondence reveals that despite repeated letters 
+being written, it was only after the entire supplies were made and the 
+payments were received that the present dispute was raised by the CMI.  
+Reliance on clause 13.1 of the general/commercial conditions of the contract 
+is also misplaced as the same deals with „changes in purchase orders‟.  This 
+clause applies after the purchase order has come into existence and not 
+before.  Even under this clause, the purchaser has the freedom to change the 
+drawings, designs, and specifications, method of transportation or 
+packaging, the place of delivery and the services to be provided by the 
+supplier.  This clause does not mean that the purchase orders cannot be 
+different from the letter of intent or the tender conditions. There could be 
+various supervening facts such as imposition of tax and regulatory changes, 
+especially in a tender envisioning multiple supplies over a period of two 
+years.  The tender makes space for such changes and hence the definition of 
+purchase order as the final contract.  In fact, the spirit of the tender is also 
+clear from clause 11.3 and 12.1 of the General Conditions of Contract 
+annexed with the NIT, which reads as under: 
+“11.3 (i) (a) Sales tax on Central Government 
+
+
+--- PAGE 18 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 18 of 27 
+ 
+purchases shall be paid at the prescribed rate against 
+"D" form for despatches outside the State of 
+manufacture. Within the state of manufacture, the Sales 
+Tax will be paid on actuals on presentation of the 
+original voucher.” 
+ 
+(b)  
+Any increase in taxes and other statutory 
+duties/levies after the expiry of the delivery date shall 
+be to the contractor‟s account. However, benefit of 
+any decrease in these taxes/duties shall be passed on 
+to the Purchaser by the supplier. 
+ 
+12.1   (i)   (a)  Prices charged by the Supplier for 
+Goods delivered and services performed under the 
+Contract shall not be higher from the prices quoted by 
+the Supplier in his Bid. 
+(b)   In the case of revision of Statutory Levies/Taxes 
+during the supply period the Purchaser reserves the 
+right to ask for reduction in the prices. 
+(ii)  (a)   Price once fixed will remain valid for the 
+period of delivery.  Increase and decrease in taxes and 
+other statutory duties will not affect the price during 
+this period. 
+(b)  In case of delayed supplies after delivery period 
+the advantage of reduction of tax/duty would be passed 
+on to the purchaser and no benefit of increase in price 
+will be permitted to the supplier if there is any increase 
+in tax/duty.” 
+ 
+25. 
+As per clause 12.1, if there was any increase in taxes or duties, no 
+benefit of increase in the price was permissible. This is further clear from 
+clause 11.3 which provided that if there is any increase in taxes, the same 
+would be to the contractor‟s account. Thus, the seller was well aware that 
+there could be changes in the taxes/duties during the tender period.  Any 
+increase in taxes would not increase the price. The tenderer/purchaser was 
+
+
+--- PAGE 19 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 19 of 27 
+ 
+however entitled to benefit of increase in the taxes/duties, as there would be 
+no change in the price.  Withdrawal of the concession of the sales tax to the 
+MTNL is, in fact, an increase in tax, which the supplier had to bear.   
+26. 
+The submission of Mr. Gupta and the finding of the Arbitrator that 
+MTNL is merely a consignee of the cables is incorrect as a perusal of the 
+NIT along with the General Conditions and the LOI clearly shows that the 
+contract between the parties was the purchase order. Even the definition of 
+contract price is clear to the effect that the price payable to the supplier was 
+the price mentioned in the purchase order and not the NIT or any other 
+documents. Moreover, the submission that the purchaser was the DOT and 
+the NIT is also belied by a mere perusal of the purchase order itself which 
+mentions the name of the purchaser as MTNL. The extract from the 
+Purchase order reads as under: 
+“ 1. …Name of Purchaser: The Mahanagar Telephone 
+Nigam Limited,…” 
+Thus, MTNL was not merely a consignee of the goods but the purchaser 
+itself. 
+27. 
+The further submission of Mr. Gupta that the issuance of the purchase 
+order was merely a formality is also incorrect as the purchase order was to 
+conclude the final contract. 
+28. 
+The impugned award rendered by the Ld. Sole Arbitrator proceeds on 
+the argument of CMI that MTNL, on the one hand was availing the 
+concessional sales tax and was refusing to pass it on to the supplier. The 
+submission of CMI as recorded in the impugned award reads as under: 
+“In support of its claim CMI has submitted that neither 
+the DOT nor the MTNL were competent to alter or 
+
+
+--- PAGE 20 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 20 of 27 
+ 
+vary the terms and conditions of the governing tender 
+as contained in the bid documents after the conclusion 
+of the contract between the DOT and CMI (Claimant). 
+Accordingly, MTNL one of the field units can‟t deny 
+„C‟ form and simultaneously avail concessional ST. 
+MTNL can not have it both ways and therefore 
+insertion of modified ST clause in it‟s PO dt.  05-03-97 
+regarding non-supply of „C‟ forms is unauthorized, 
+illegal and is null and void.” 
+ 
+29. 
+This is a completely incorrect position as the Sales Tax Department, 
+vide notice dated 11th March, 1996, had withdrawn the concession given to 
+MTNL on various goods including underground telephone cables. This was 
+upheld by Sales Tax Officer vide order dated 16th August, 1996. A perusal 
+of the said order dated 16th August, 1996 passed by the Sales Tax Officer 
+shows that MTNL had been in the past extended the concessional sales tax 
+conditions only on the basis that it was involved in the activity of power 
+generation which the Sales Tax Officer found to be incorrect. On the ground 
+that, MTNL was engaged only in telecommunication services, the benefits 
+had been withdrawn. Thus, the award, proceeded on a factually incorrect 
+basis that MTNL was simultaneously availing the concessional sales tax 
+while refusing to pass on the same to the Supplier – CMI. 
+31. 
+In Security Printing and Minting Corporation of India (supra), the 
+Supreme Court held that the withdrawal of MODVAT credit having been 
+specified clearly in the supply order and the supplier having undertaken the 
+supplies, the completed contract is binding on the authorities. The relevant 
+paragraphs of the said judgment are extracted herein below: 
+“……………………………. 
+ 
+16. After hearing learned counsel for the parties and 
+
+
+--- PAGE 21 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 21 of 27 
+ 
+perusing the record we are of opinion that the view 
+taken by the Arbitrator and affirmed by the learned 
+Single Judge and the Division Bench of the High Court 
+cannot be sustained. Firstly, when the terms and 
+conditions have been reduced (sic to writing) in the 
+supply order dated 31-5-1995, therein the condition of 
+MODVAT credit was incorporated and it was accepted 
+by the claimant. The contract had come into existence 
+and the supply had been started on the basis of that 
+supply order. Though the claimant had protested with 
+regard to this clause but the appellant did not accede 
+to the request of the respondent for deleting that clause 
+and the appellant had informed the claimant on 31-12-
+1995 that there was no change in the conditions of the 
+supply order still claimant continued to supply the 
+goods as per the order. Therefore, on the face of this 
+condition there is no going back from that. In case the 
+claimant was not inclined to accept this clause he 
+could have very well withdrawn from the contract. But 
+it did not do so and continued with the contract. 
+Therefore, on the basis of the clear terms of the 
+contract, the claimant is bound by it and it has to 
+restore whatever MODVAT credit received by it to the 
+appellant security press. The view taken by the 
+Arbitrator that since it was not the condition when the 
+tender was floated is not correct as after the complete 
+contract having come into existence, there is no 
+purpose to refer to the terms of tender. What is binding 
+is the completed contract and not the terms of offer of 
+the advertisement. Whatever may be the offers in the 
+advertisement, once the completed contract has come 
+into existence, this is binding. There are no two 
+opinions in the matter in the present case that the terms 
+and conditions of the supply order dated 30-5-1995 
+were complete. Therefore, what is binding is the terms 
+of the contract and not the terms in the offer of 
+advertisement. Therefore, under these circumstances 
+the view taken by the Arbitrator as well as learned 
+
+
+--- PAGE 22 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 22 of 27 
+ 
+Single Judge and the Division Bench of the High Court 
+is ex facie illegal. It is true that normally the Courts 
+are very slow in interfering with the finding and 
+interpretation given by the Arbitrator. So far as the 
+principle of law is concerned, there are no two 
+opinions and it has to be accepted. But the fact remains 
+that if any perverse order is passed, then the Courts 
+are not powerless to interfere with the matter. As 
+pointed out above, once the concluded contract has 
+come into existence, then in that case the offer of 
+advertisement 
+cannot 
+override 
+the 
+terms 
+and 
+conditions of the completed contract. Therefore, in our 
+opinion, the view taken by the Arbitrator, as affirmed 
+by learned Single Judge and the Division Bench of the 
+High Court on the face of it is illegal and against the 
+law. 
+ 
+17. Secondly, learned counsel has submitted that the 
+principle of sub silentio applies in the present case. 
+There is no question of principle of sub silentio 
+involved in the present case. The terms and conditions 
+of the contract are very clear and it was clearly 
+understood by the claimant as it protested that the 
+condition with regard to MODVAT credit should not 
+be allowed to continue in the terms and conditions of 
+the contract and the same may be deleted which is 
+evident from the communications dated 5-6-1995 and 
+20-6-1995. Therefore, there was no misunderstanding. 
+There was no question of applying the principle of sub 
+silentio when the terms and conditions were well 
+known and clearly understood between the parties. 
+More so, MODVAT credit is available in order to 
+avoid double taxation on the papers which were 
+imported by the appellant security press after paying 
+the excise duty and therefore, the claimant claimed the 
+benefit of excuse duty paid by the security press and 
+the security press had issued gate passes and 
+documentary evidence for the payment of excise duty 
+on which the claimant claimed the benefit of MODVAT 
+
+
+--- PAGE 23 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 23 of 27 
+ 
+credit. Therefore, on that count also the benefit could 
+legitimately be claimed by the appellants as they have 
+paid the excise duty also. Therefore, under these 
+circumstances, we are of opinion that the view taken by 
+the Arbitrator, as well as learned Single Judge and the 
+Division Bench of the High Court cannot be sustained 
+and we accordingly, allow this appeal and set aside the 
+order of the Arbitrator with regard to MODVAT credit 
+and also the view taken by learned Single Judge and 
+the Division Bench of the High Court of Bombay to this 
+extent. The appellants will be entitled to retain the 
+amount(s) equivalent to MODVAT credit as claimed by 
+the respondent. There would be no order as to costs.” 
+ 
+32. 
+Thus, in the above case, the Supreme Court holds that no purpose 
+would be served in referring to the terms of the tender as, the final contract 
+was the supply order.   
+33. 
+In Alcatel India Limited (supra), a Division Bench of this Court has 
+held that the mere issuance of a letter of intent does not lead to creation of a 
+contract.  The relevant portion of the said judgment is extracted 
+hereinbelow: 
+“16.  After the issue of the purchase order on the 
+supplier/bidder a formal agreement between the MTNL 
+and the successful bidder is required to be executed in 
+terms of clause 2(g) of the Instructions to Bidders.  Till 
+such time a purchase order is placed on the bidder the 
+contract does not come into existence.  According to 
+clause 2(i) of the Instructions to Bidders, the contract 
+comes into existence from the „Contract Date‟, which 
+means the date on which the contract comes into effect 
+in accordance with clause No.35 of the Instructions to 
+Bidders.  Besides, unless the purchase order is issued 
+the price payable to the bidder cannot be fixed.  
+According to clause 2(h) of the Instructions to Bidders, 
+the contract price means the price payable to the 
+
+
+--- PAGE 24 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 24 of 27 
+ 
+supplier under the purchase order for the complete 
+fulfilment and proper performance of its contractual 
+obligations to the satisfaction of the M.T.N.L.  Merely 
+issuance of the letter of intent and acceptance thereof 
+by the bidder along with furnishing of the performance 
+security, does not amount to creation of a contract 
+between the parties.  By that stage even the contract 
+price and the contract date is not fixed.  LOI only 
+signifies the intention of the purchaser.  We are unable 
+to accept the submission of the learned senior counsel 
+for the appellant that furnishing of the performance 
+security and acceptance of the LOI issued by the first 
+respondent constituted a contract between the parties 
+and the first respondent was obliged to place the 
+purchase order on the appellant.  Since no binding 
+contract came into existence between the parties, there 
+was nothing to prevent the first respondent from 
+scrapping the tender. The court sitting in writ 
+jurisdiction cannot issue a mandamus to a purchaser 
+to place a purchase order on a particular seller, or to 
+command the former to enter into a contract with the 
+latter.” 
+ 
+34. 
+Mr. Gupta‟s submission that MTNL is merely a beneficiary of the 
+contract, would not be correct in the facts of the present case.  This is 
+because DOT had called for the tender on behalf of its various circles, 
+including MTNL. The NIT contained the broad terms and conditions but 
+was clear to the effect that the purchase order was to be the final contract.  
+All bidders were conscious of the fact that the actual purchase orders were to 
+be placed by the various circles in case of non-metro areas and MTNL in 
+case of Delhi and Mumbai.  The suppliers were well aware that the DOT 
+was itself not procuring but the order was to be placed by the respective 
+circles and MTNL.  Thus, they accepted the purchase order issued by 
+various circles and made the supplies.  While relying on the concessions 
+
+
+--- PAGE 25 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 25 of 27 
+ 
+given to them in the various circles without any objection, when MTNL 
+refused the benefit of sales tax under the „C‟ form, they sought to raise 
+objections in respect of the conditions in the MTNL‟s purchase order.  The 
+purchase orders were placed by the various agencies working under the 
+broad umbrella of the DOT, which was clear to the bidder right from the 
+beginning.  Thus, the contracting parties for each of the purchase orders was 
+the specific procurement agency and the bidder.  The contract was the 
+purchase order placed by each of the Circles/agencies.  The letter of intent, 
+as held in Alkatel (supra), did not by itself constitute the contract.  The letter 
+of intent signifies the intention to purchase. The final purchase order binds 
+the contracting parties.  The manner in which clause 16 of the purchase 
+order is worded, in fact, makes it clear that the terms and conditions in the 
+NIT/ APO/LOI were subservient to the main contract i.e. the purchase order 
+and not the other way round.  Security Printing and Minting Corporation 
+of India (supra) is clearly applicable in the present case as the contract, i.e., 
+the purchase order, is between MTNL and the supplier, which is a contract 
+of principal to principal. 
+35. 
+The purchaser being defined as the President of India acting through 
+DoT would not make difference to interpreting the terms of the contract. In 
+the Purchase Order, the Purchaser is defined as MTNL.   Since the NIT was 
+issued on all India basis, it was a general NIT containing the various terms 
+and conditions.  The said NIT itself stipulated that the purchase order was to 
+be deemed as the contract.  Any transaction has to be governed by the 
+document, which is the final contract and not by the identity of the 
+purchaser.  The mere fact that the NIT was a general NIT for supplies to be 
+made across the country, does not make the NIT the concluded contract 
+
+
+--- PAGE 26 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 26 of 27 
+ 
+between the parties.  The NIT thus being clear as to what constitutes the 
+contract, it cannot be argued that the NIT would overrule or prevail over the 
+actual purchase order i.e. the contract.  
+36. The contention that MTNL has no locus to change the terms and 
+conditions as it is only a sub-agent/purchasing entity, which is bound by the 
+DOT‟s direction though appealing, is liable to be rejected as the purchase 
+order constitutes the final contract.  Ld. Arbitrator is bound, as per Section 
+28 of the Arbitration Act, to decide as per the terms of the contract.  The 
+change of the stipulation relating to sales tax in the purchase order, as sought 
+by CMI is, in fact, nothing but a plea to „re-write the contract‟ i.e., `re-write 
+the purchase order‟ which is not permissible.  The facts and circumstances 
+i.e., the clauses in the NIT, clarification by DoT etc., could have had 
+persuasive value for the board of MTNL to consider changing the terms of 
+the purchase order, thereby resulting in a fresh agreement or novation.  
+However, the said facts cannot be an appeal to „rewrite‟ the contract.  The 
+purchase order continues to be the binding contract between the parties. 
+Once the purchase order, under which the supplies were made was clear, a 
+mere hope by the supplier that MTNL would clarify in its favour, could not 
+form the basis of claims. The Ld. Arbitrator has therefore clearly erred in 
+holding that the purchase order was not the concluded contract. The 
+purchase order was the concluded contract between the parties. As per the 
+terms and conditions of the NIT and the bid documents, LOI read with 
+purchase order, CMI was well aware that insofar as Delhi region of supplies 
+were to be made to the MTNL were concerned, it would not be issued any 
+C-Form as the Sales Tax Office had withdrawn the concessional benefit 
+given to MTNL. Accordingly, the impugned award is liable to be set aside. 
+
+
+--- PAGE 27 ---
+ 
+O.M.P. (COMM) 134/2016 & 198/2016                                                                           
+ Page 27 of 27 
+ 
+The award is accordingly set aside. 
+37. 
+Insofar the objections of CMI Ltd. are concerned, these are in respect 
+of non-grant of interest.  Since the award granting reimbursement of 6% 
+sales tax has been set aside, the objections of CMI are no longer liable to be 
+entertained.   
+38. 
+Thus, OMP COMM 198/2016 is allowed and the award dated 2nd 
+December, 2010 is set aside.  OMP COMM 134/2016 is dismissed.  
+However, there are no orders as to the costs.                           
+ 
+ 
+PRATHIBA M. SINGH, J. 
+JUDGE 
+MARCH 14, 2019/dk 
+ 
+ 

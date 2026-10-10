@@ -1,0 +1,46 @@
+{
+  "phase": "Phase 3 - RAG / Evidence Retrieval Experiments",
+  "pipeline_version": "1.0.0",
+  "timestamp": "2026-10-02 10:57:12",
+  "corpus_name": "District Court Experimental Corpus (s3_161)",
+  "corpus_statistics": {
+    "total_documents": 161,
+    "total_pages": 324,
+    "total_chunks": 733,
+    "chunking_strategy_default": "paragraph_level"
+  },
+  "benchmark_statistics": {
+    "total_queries": 60,
+    "calibration_queries": 20,
+    "frozen_test_queries": 40,
+    "total_qrels": 180
+  },
+  "models": {
+    "dense_embedding_model": "BAAI/bge-m3 (ONNX, 1024-d)",
+    "vector_database": "Qdrant (Local In-Memory/Path)",
+    "sparse_retrieval": "BM25Okapi (k1=1.5, b=0.75)",
+    "cross_encoder_reranker": "BAAI/bge-reranker-base"
+  },
+  "ladder_levels": [
+    "P3-L0-DENSE-V1",
+    "P3-L1-BM25-V1",
+    "P3-L2-BGE-V1",
+    "P3-L3-HYBRID-RRF-V1",
+    "P3-L4-HYBRID-RERANK-V1",
+    "P3-L5-SENTENCE-V1",
+    "P3-L5-SENTENCE-WINDOW-V1",
+    "P3-L5-PARAGRAPH-V1",
+    "P3-L5-PAGE-V1",
+    "P3-L6-SAC-V1",
+    "P3-L7-PROVENANCE-V1"
+  ],
+  "recommended_phase4_configuration": {
+    "retrieval_architecture": "Hybrid BM25 + BGE-M3 Dense + Cross-Encoder Reranker",
+    "chunk_unit": "Summary-Augmented Paragraph",
+    "candidate_k": 30,
+    "final_top_k": 5,
+    "expected_recall@5": 0.35,
+    "expected_mrr": 0.24874999999999997,
+    "provenance_accuracy": 1.0
+  }
+}

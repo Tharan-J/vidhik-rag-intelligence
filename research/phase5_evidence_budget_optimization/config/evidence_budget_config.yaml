@@ -1,0 +1,54 @@
+# Phase 5.2 Evidence Budget Optimization Experiment Configuration
+experiment_version: "5.2.0"
+pipeline_id: "P5_2_EVIDENCE_BUDGET"
+
+benchmark:
+  document_count: 9
+  benchmark_doc_ids:
+    - "DC_000001"
+    - "DC_000002"
+    - "DC_000003"
+    - "DC_000004"
+    - "DC_000005"
+    - "DC_000006"
+    - "DC_000007"
+    - "DC_000008"
+    - "DC_000011"
+  gold_facts_path: "phase5_source_grounded_gold/gold_facts.parquet"
+  candidate_evidence_path: "phase4_summarization/corpus/phase4_evidence.parquet"
+
+budgets:
+  - 2
+  - 4
+  - 6
+  - 8
+  - 10
+  - 15
+
+rrf:
+  k: 60
+  dense_weight: 0.60
+  bm25_weight: 0.40
+
+mmr:
+  lambdas:
+    - 0.7
+    - 0.8
+    - 0.9
+  default_lambda: 0.8
+
+bm25:
+  k1: 1.5
+  b: 0.75
+  epsilon: 0.25
+  tokenizer: "legal_aware"
+
+dense:
+  model_name: "BAAI/bge-m3"
+  model_path: "rag_experiments/indexes/models/bge-m3/BAAI-bge-m3_quantized.onnx"
+  tokenizer_path: "rag_experiments/indexes/models/bge-m3/tokenizer.json"
+  embedding_dim: 1024
+  cache_path: "phase5_evidence_budget_optimization/corpus/candidate_window_embeddings_bge_m3.npy"
+
+query:
+  base_task_query: "Case identity, court, presiding judge, parties, complainant, accused, charges, statutory provisions, procedural history, witness evidence, judicial findings, decision, disposition, acquittal, conviction, committal order, relief, bail custody, monetary amount."

@@ -1,0 +1,105 @@
+{
+  "document_id": "DC_000026",
+  "source": {
+    "sha256": "5832ee7b69c440622521241757d838a9a456d6626ca8f419bde0d272a2b04605",
+    "filename": "orders_2009_202100000792010_1.pdf",
+    "source_record_id": "DC-S3-026_2_10_1020104_2010_orders_2009_202100000792010_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 87925
+  },
+  "routing": {
+    "initial_route": "OCR_REQUIRED",
+    "fallback_used": false,
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER"
+  },
+  "extraction": {
+    "selected_method": "paddleocr",
+    "extractor_name": "RapidOCR-PP-OCRv4",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.374
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 72,
+      "word_count": 8,
+      "raw_text": "31 yealsKlo69het sttTpc Sstale DciuadeLaorybenig NoTN5218a9 SHOA 60756ON"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 72,
+      "word_count": 8,
+      "normalized_text": "31 yealsKlo69het sttTpc Sstale DciuadeLaorybenig NoTN5218a9 SHOA 60756ON"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 1,
+    "total_sentences": 1,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 72,
+        "word_count": 8,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000026_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 72,
+            "word_count": 8,
+            "sentence_count": 1,
+            "text": "31 yealsKlo69het sttTpc Sstale DciuadeLaorybenig NoTN5218a9 SHOA 60756ON",
+            "sentences": [
+              {
+                "sentence_id": "DC_000026_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 72,
+                "word_count": 8,
+                "text": "31 yealsKlo69het sttTpc Sstale DciuadeLaorybenig NoTN5218a9 SHOA 60756ON"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 2,
+    "state_name": "Andhra Pradesh",
+    "district_code": 10,
+    "district_name": "Kurnool",
+    "court_complex_code": 1020104,
+    "court_complex_name": "Junior Civil Judge`s Court, Alur (Taluka)",
+    "year": 2010,
+    "case_type": "nan",
+    "case_number": "202100000792010",
+    "pdf_title": "XSane scanned image",
+    "pdf_author": "",
+    "pdf_creator": "XSane version 0.999 (sane 1.0) - by Oliver Rauch",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260615095051Z00'00'",
+    "pdf_mod_date": "D:20260615095051Z00'00'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.374,
+    "quality_tier": "LOW_CONFIDENCE",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "5832ee7b69c440622521241757d838a9a456d6626ca8f419bde0d272a2b04605",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.030047"
+  }
+}

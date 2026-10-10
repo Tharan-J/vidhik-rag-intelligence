@@ -1,0 +1,178 @@
+{
+  "document_id": "DC_000075",
+  "source": {
+    "sha256": "2402d6918f56bd1cddd40b33ad4312e1f2b06dc247721f03c62604212dd952bb",
+    "filename": "orders_2020_215200019592020_1.pdf",
+    "source_record_id": "DC-S3-075_8_24_1080060_2020_orders_2020_215200019592020_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 2,
+    "file_size_bytes": 30723
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.9771
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 2823,
+      "word_count": 534,
+      "raw_text": "U;k;ky;% r`rh; vij l= U;k;k/kh'k] vjfj;kA \nA.B.P. No.1959/2020\nx;kuan 'kekZ ,oa 04 vU; \n    cuke\njkT; ljdkj \n29-01-2021\nizLrqr vfxze tekur vkosnu dqy ikap vkosndx.k 1&x;kuan 'kekZ] 2&yfyrk\nnsoh] 3&ek;kuan 'kekZ] 4&';ke dqekj 'kekZ ,oa 5&fiz;adk dqekjh dh vksj ls jkuhxat\nFkkukdkaM la[;k&503@2020 vUrxZr /kkjk&341] 342] 323] 324] 308] 354&ch] 379] 447]\n504] 506] 34 Hkk0n0fo0 ds lanHkZ esa nkf[ky fd;k x;k gSA mijksDr vkosndx.k ds fo}ku\nvf/koDrk ds }kjk bl vfxze tekur vkosnu dks vkt izpkfyr fd;k x;kA \nla{ksi esa vfHk;kstu okn lwpd yqdeku ds vuqlkj ;g gS fd fnukad 13-10-2020\ndks djhc 11%30 cts og vius tehu esa ?kj cuk jgk Fkk vkSj vfHk;qDrx.k ykBh] Qjlk\nysdj vk;k vkSj xkyh&xykSt djrs gq;s ?kj cukus ls euk djus yxkA lwpd fojks/k fd;k\nrks yfyrk nsoh mls idM+ fy;k vkSj x;kuan 'kekZ Qjlk ls mlds lj ij ekjk ftlls\nxaHkhj :i ls t[eh gksdj tehu ij fxj x;kA lwpd dks ekjrs ns[k mldh iRuh chch\njghyk [kkrwu ,oa mldk yM+dk eks0 ,tkt cpkus vk;k rks ek;kuan 'kekZ ,oa ';ke 'kekZ\nykBh] MaMk ls ekjdj t[eh dj fn;kA lwpd dh iRuh dks yfyrk nsoh [khapdj vius  ?\nkj ys tk jgh Fkh rks x;kuan 'kekZ Qjlk Qsd fn;k vkSj mldh iRuh dks tehu ij iVd\nfn;k rFkk Nkrh ij p<+dj QkbZV ls ekjihV djrs gq;s leht&lyokj QkM+ dj v)ZuXu\ndj fn;kA fiz;adk dqekjh lwpd dh iRuh ds xyk ls pkanh dk gkj [khap fy;kA gYyk ij\nxzkeh.k yksx vk;s vkSj t[eh dks vLirky ys x;sA\ncpko i{k ds fo}ku vf/koDrk dk dFku gS fd vkosndx.k funksZ\"k gS vkSj dksbZ  ?\nkVuk dkfjr ugha fd;k gSA vkosndx.k dks xzkeh.k jktuhfr vkSj tehuh fookn ds dkj.k\nxyr rjhds ls bl dkaM esa QWlk;k x;k gSA vkosndx.k us L=h dks ekjihV djus ;k\ndi+M+k mrkjus dk dksbZ ?kVuk dkfjr ugha fd;k gSA nksuksa i{kksa esa tehuh fookn gSA lwpd\ni{k us vkosndx.k i{k ds lkFk t?kU; ?kVuk dkfjr fd;k gS tks fd vkosnd yfyrk nsoh\nus jkuhxat Fkkuk dkaM la0 502@2020 bl dsl ds iwoZ esa ntZ djk;k gSA \nfo}ku vij yksd vfHk;kstd vfxze tekur dk fojks/k djrs gSaA    \nmHk; i{kksa dks lquk rFkk lEiw.kZ vfHkys[k dk voyksdu fd;kA \nvfHkys[k ,oa dkaM nSfudh dk voyksdu fd;kA dkaM nSfudh ls fofnr gksrk gS fd\nvkosnd la0 1 x;kuan 'kekZ ds mij Qjlk ls tku ekjus dh fu;r ls lwpd dks ekjus\ndk vkjksi gSA dkaM nSfudh esa lHkh lkf{k;ksa us vkosnd la0 01 x;kuan 'kekZ ds }kjk\nQjlk ls lwpd dks ekjus dh ckr dk leFkZu fd;s gSA \nmDr rF;ksa ds vkyksd esa eSa vkosnd la0 01 x;kuan 'kekZ dks vfxze tekur dk\nykHk fn;k tkuk mfpr ugha le>rk gwWA vr% vkosnd la0 01 dh vksj ls nkf[ky vfxze\ntekur vkosnu dks [kkfjt fd;k tkrk gSA \nvkosnd la[;k 2] 3] 4 ,oa 5 ds mij tku ls ekjus dk vkjksi ugha gSA dkaM\nnSfudh esa lkf{k;ksa us vkosnd la0 2] 3] 4 ,oa 5 ds ckjs esa tku ls ekjus dh uh;r ls\ngeyk djus dh ckr ugha dgh gSA vkosnd la0 1 ds vfrfjDr vU; vkosndx.k ij yxs\nvkjksi xaHkhj izd`fr ds ugha gSaA\nmDr rF;ksa ds vkyksd esa 'ks\"k pkj vkosndx.k Øe'k% vkosnd la0 2&yfyrk nsoh]\n3&ek;kuan 'kekZ] 4&';ke dqekj 'kekZ ,oa 5&fiz;adk dqekjh dh vfxze tekur ;kfpdk"
+    },
+    {
+      "page_number": 2,
+      "character_count": 724,
+      "word_count": 118,
+      "raw_text": "02.\nA.B.P. No.1959/2020\n29.01.2021\nLohdkj dh tkrh gSA bl vkns'k dh frfFk ls rhu lIrkg ds vanj fopkj.k U;k;ky; esa\nvkReleiZ.k vFkok fxj¶rkj fd;s tkus ij mijksDr vkosndx.k }kjk eks0 10]000@&\n:i;s dk ca/ki= ,oa leku jkf'k ds nks izfrHkwoksa dks nkf[ky djus ij fopkj.k U;k;ky;\ndh larqf\"V ij tekur ij NksM+s tkus dk vkns'k bl 'krZ ij fn;k tkrk gS fd &\n1- vkosndx.k vuqla/kku esa lg;ksx djsaxsA\n2- vkosndx.k /kkjk& 438¼2½ n.M izfØ;k lafgrk dk vuqikyu djsaxsA   \n3- vkosndx.k izR;sd frfFk dks lacaf/kr U;k;ky; esa lnsg mifLFkr jgsaxsA yxkrkj nks\nfrfFk;ksa rd fcuk fdlh mfpr dkj.k ds vuqifLFkr jgus ij lacaf/kr U;k;ky;\nvkosndx.k dk ca/ki= [kf.Mr dj ldrs gSA\n  ys[kkfir\n      Sd/-\n r`rh; vij l= U;k;k/kh'k \n                    vjfj;k"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 2806,
+      "word_count": 534,
+      "normalized_text": "U;k;ky;% r`rh; vij l= U;k;k/kh'k] vjfj;kA\nA.B.P. No.1959/2020\nx;kuan 'kekZ ,oa 04 vU;\n cuke\njkT; ljdkj\n29-01-2021\nizLrqr vfxze tekur vkosnu dqy ikap vkosndx.k 1&x;kuan 'kekZ] 2&yfyrk\nnsoh] 3&ek;kuan 'kekZ] 4&';ke dqekj 'kekZ ,oa 5&fiz;adk dqekjh dh vksj ls jkuhxat\nFkkukdkaM la[;k&503@2020 vUrxZr /kkjk&341] 342] 323] 324] 308] 354&ch] 379] 447]\n504] 506] 34 Hkk0n0fo0 ds lanHkZ esa nkf[ky fd;k x;k gSA mijksDr vkosndx.k ds fo}ku\nvf/koDrk ds }kjk bl vfxze tekur vkosnu dks vkt izpkfyr fd;k x;kA\nla{ksi esa vfHk;kstu okn lwpd yqdeku ds vuqlkj ;g gS fd fnukad 13-10-2020\ndks djhc 11%30 cts og vius tehu esa ?kj cuk jgk Fkk vkSj vfHk;qDrx.k ykBh] Qjlk\nysdj vk;k vkSj xkyh&xykSt djrs gq;s ?kj cukus ls euk djus yxkA lwpd fojks/k fd;k\nrks yfyrk nsoh mls idM+ fy;k vkSj x;kuan 'kekZ Qjlk ls mlds lj ij ekjk ftlls\nxaHkhj :i ls t[eh gksdj tehu ij fxj x;kA lwpd dks ekjrs ns[k mldh iRuh chch\njghyk [kkrwu ,oa mldk yM+dk eks0 ,tkt cpkus vk;k rks ek;kuan 'kekZ ,oa ';ke 'kekZ\nykBh] MaMk ls ekjdj t[eh dj fn;kA lwpd dh iRuh dks yfyrk nsoh [khapdj vius ?\nkj ys tk jgh Fkh rks x;kuan 'kekZ Qjlk Qsd fn;k vkSj mldh iRuh dks tehu ij iVd\nfn;k rFkk Nkrh ij p<+dj QkbZV ls ekjihV djrs gq;s leht&lyokj QkM+ dj v)ZuXu\ndj fn;kA fiz;adk dqekjh lwpd dh iRuh ds xyk ls pkanh dk gkj [khap fy;kA gYyk ij\nxzkeh.k yksx vk;s vkSj t[eh dks vLirky ys x;sA\ncpko i{k ds fo}ku vf/koDrk dk dFku gS fd vkosndx.k funksZ\"k gS vkSj dksbZ ?\nkVuk dkfjr ugha fd;k gSA vkosndx.k dks xzkeh.k jktuhfr vkSj tehuh fookn ds dkj.k\nxyr rjhds ls bl dkaM esa QWlk;k x;k gSA vkosndx.k us L=h dks ekjihV djus ;k\ndi+M+k mrkjus dk dksbZ ?kVuk dkfjr ugha fd;k gSA nksuksa i{kksa esa tehuh fookn gSA lwpd\ni{k us vkosndx.k i{k ds lkFk t?kU; ?kVuk dkfjr fd;k gS tks fd vkosnd yfyrk nsoh\nus jkuhxat Fkkuk dkaM la0 502@2020 bl dsl ds iwoZ esa ntZ djk;k gSA\nfo}ku vij yksd vfHk;kstd vfxze tekur dk fojks/k djrs gSaA\nmHk; i{kksa dks lquk rFkk lEiw.kZ vfHkys[k dk voyksdu fd;kA\nvfHkys[k ,oa dkaM nSfudh dk voyksdu fd;kA dkaM nSfudh ls fofnr gksrk gS fd\nvkosnd la0 1 x;kuan 'kekZ ds mij Qjlk ls tku ekjus dh fu;r ls lwpd dks ekjus\ndk vkjksi gSA dkaM nSfudh esa lHkh lkf{k;ksa us vkosnd la0 01 x;kuan 'kekZ ds }kjk\nQjlk ls lwpd dks ekjus dh ckr dk leFkZu fd;s gSA\nmDr rF;ksa ds vkyksd esa eSa vkosnd la0 01 x;kuan 'kekZ dks vfxze tekur dk\nykHk fn;k tkuk mfpr ugha le>rk gwWA vr% vkosnd la0 01 dh vksj ls nkf[ky vfxze\ntekur vkosnu dks [kkfjt fd;k tkrk gSA\nvkosnd la[;k 2] 3] 4 ,oa 5 ds mij tku ls ekjus dk vkjksi ugha gSA dkaM\nnSfudh esa lkf{k;ksa us vkosnd la0 2] 3] 4 ,oa 5 ds ckjs esa tku ls ekjus dh uh;r ls\ngeyk djus dh ckr ugha dgh gSA vkosnd la0 1 ds vfrfjDr vU; vkosndx.k ij yxs\nvkjksi xaHkhj izd`fr ds ugha gSaA\nmDr rF;ksa ds vkyksd esa 'ks\"k pkj vkosndx.k Øe'k% vkosnd la0 2&yfyrk nsoh]\n3&ek;kuan 'kekZ] 4&';ke dqekj 'kekZ ,oa 5&fiz;adk dqekjh dh vfxze tekur ;kfpdk"
+    },
+    {
+      "page_number": 2,
+      "character_count": 699,
+      "word_count": 118,
+      "normalized_text": "02.\nA.B.P. No.1959/2020\n29.01.2021\nLohdkj dh tkrh gSA bl vkns'k dh frfFk ls rhu lIrkg ds vanj fopkj.k U;k;ky; esa\nvkReleiZ.k vFkok fxj¶rkj fd;s tkus ij mijksDr vkosndx.k }kjk eks0 10]000@&\n:i;s dk ca/ki= ,oa leku jkf'k ds nks izfrHkwoksa dks nkf[ky djus ij fopkj.k U;k;ky;\ndh larqf\"V ij tekur ij NksM+s tkus dk vkns'k bl 'krZ ij fn;k tkrk gS fd &\n1- vkosndx.k vuqla/kku esa lg;ksx djsaxsA\n2- vkosndx.k /kkjk& 4381⁄421⁄2 n.M izfØ;k lafgrk dk vuqikyu djsaxsA\n3- vkosndx.k izR;sd frfFk dks lacaf/kr U;k;ky; esa lnsg mifLFkr jgsaxsA yxkrkj nks\nfrfFk;ksa rd fcuk fdlh mfpr dkj.k ds vuqifLFkr jgus ij lacaf/kr U;k;ky;\nvkosndx.k dk ca/ki= [kf.Mr dj ldrs gSA\n ys[kkfir\n Sd/-\n r`rh; vij l= U;k;k/kh'k\n vjfj;k"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 2,
+    "total_sentences": 7,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 2806,
+        "word_count": 534,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000075_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 2806,
+            "word_count": 534,
+            "sentence_count": 4,
+            "text": "U;k;ky;% r`rh; vij l= U;k;k/kh'k] vjfj;kA\nA.B.P. No.1959/2020\nx;kuan 'kekZ ,oa 04 vU;\n cuke\njkT; ljdkj\n29-01-2021\nizLrqr vfxze tekur vkosnu dqy ikap vkosndx.k 1&x;kuan 'kekZ] 2&yfyrk\nnsoh] 3&ek;kuan 'kekZ] 4&';ke dqekj 'kekZ ,oa 5&fiz;adk dqekjh dh vksj ls jkuhxat\nFkkukdkaM la[;k&503@2020 vUrxZr /kkjk&341] 342] 323] 324] 308] 354&ch] 379] 447]\n504] 506] 34 Hkk0n0fo0 ds lanHkZ esa nkf[ky fd;k x;k gSA mijksDr vkosndx.k ds fo}ku\nvf/koDrk ds }kjk bl vfxze tekur vkosnu dks vkt izpkfyr fd;k x;kA\nla{ksi esa vfHk;kstu okn lwpd yqdeku ds vuqlkj ;g gS fd fnukad 13-10-2020\ndks djhc 11%30 cts og vius tehu esa ?kj cuk jgk Fkk vkSj vfHk;qDrx.k ykBh] Qjlk\nysdj vk;k vkSj xkyh&xykSt djrs gq;s ?kj cukus ls euk djus yxkA lwpd fojks/k fd;k\nrks yfyrk nsoh mls idM+ fy;k vkSj x;kuan 'kekZ Qjlk ls mlds lj ij ekjk ftlls\nxaHkhj :i ls t[eh gksdj tehu ij fxj x;kA lwpd dks ekjrs ns[k mldh iRuh chch\njghyk [kkrwu ,oa mldk yM+dk eks0 ,tkt cpkus vk;k rks ek;kuan 'kekZ ,oa ';ke 'kekZ\nykBh] MaMk ls ekjdj t[eh dj fn;kA lwpd dh iRuh dks yfyrk nsoh [khapdj vius ?\nkj ys tk jgh Fkh rks x;kuan 'kekZ Qjlk Qsd fn;k vkSj mldh iRuh dks tehu ij iVd\nfn;k rFkk Nkrh ij p<+dj QkbZV ls ekjihV djrs gq;s leht&lyokj QkM+ dj v)ZuXu\ndj fn;kA fiz;adk dqekjh lwpd dh iRuh ds xyk ls pkanh dk gkj [khap fy;kA gYyk ij\nxzkeh.k yksx vk;s vkSj t[eh dks vLirky ys x;sA\ncpko i{k ds fo}ku vf/koDrk dk dFku gS fd vkosndx.k funksZ\"k gS vkSj dksbZ ?\nkVuk dkfjr ugha fd;k gSA vkosndx.k dks xzkeh.k jktuhfr vkSj tehuh fookn ds dkj.k\nxyr rjhds ls bl dkaM esa QWlk;k x;k gSA vkosndx.k us L=h dks ekjihV djus ;k\ndi+M+k mrkjus dk dksbZ ?kVuk dkfjr ugha fd;k gSA nksuksa i{kksa esa tehuh fookn gSA lwpd\ni{k us vkosndx.k i{k ds lkFk t?kU; ?kVuk dkfjr fd;k gS tks fd vkosnd yfyrk nsoh\nus jkuhxat Fkkuk dkaM la0 502@2020 bl dsl ds iwoZ esa ntZ djk;k gSA\nfo}ku vij yksd vfHk;kstd vfxze tekur dk fojks/k djrs gSaA\nmHk; i{kksa dks lquk rFkk lEiw.kZ vfHkys[k dk voyksdu fd;kA\nvfHkys[k ,oa dkaM nSfudh dk voyksdu fd;kA dkaM nSfudh ls fofnr gksrk gS fd\nvkosnd la0 1 x;kuan 'kekZ ds mij Qjlk ls tku ekjus dh fu;r ls lwpd dks ekjus\ndk vkjksi gSA dkaM nSfudh esa lHkh lkf{k;ksa us vkosnd la0 01 x;kuan 'kekZ ds }kjk\nQjlk ls lwpd dks ekjus dh ckr dk leFkZu fd;s gSA\nmDr rF;ksa ds vkyksd esa eSa vkosnd la0 01 x;kuan 'kekZ dks vfxze tekur dk\nykHk fn;k tkuk mfpr ugha le>rk gwWA vr% vkosnd la0 01 dh vksj ls nkf[ky vfxze\ntekur vkosnu dks [kkfjt fd;k tkrk gSA\nvkosnd la[;k 2] 3] 4 ,oa 5 ds mij tku ls ekjus dk vkjksi ugha gSA dkaM\nnSfudh esa lkf{k;ksa us vkosnd la0 2] 3] 4 ,oa 5 ds ckjs esa tku ls ekjus dh uh;r ls\ngeyk djus dh ckr ugha dgh gSA vkosnd la0 1 ds vfrfjDr vU; vkosndx.k ij yxs\nvkjksi xaHkhj izd`fr ds ugha gSaA\nmDr rF;ksa ds vkyksd esa 'ks\"k pkj vkosndx.k Øe'k% vkosnd la0 2&yfyrk nsoh]\n3&ek;kuan 'kekZ] 4&';ke dqekj 'kekZ ,oa 5&fiz;adk dqekjh dh vfxze tekur ;kfpdk",
+            "sentences": [
+              {
+                "sentence_id": "DC_000075_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 48,
+                "word_count": 7,
+                "text": "U;k;ky;% r`rh; vij l= U;k;k/kh'k] vjfj;kA\nA.B.P."
+              },
+              {
+                "sentence_id": "DC_000075_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 992,
+                "word_count": 178,
+                "text": "No.1959/2020\nx;kuan 'kekZ ,oa 04 vU;\n cuke\njkT; ljdkj\n29-01-2021\nizLrqr vfxze tekur vkosnu dqy ikap vkosndx.k 1&x;kuan 'kekZ] 2&yfyrk\nnsoh] 3&ek;kuan 'kekZ] 4&';ke dqekj 'kekZ ,oa 5&fiz;adk dqekjh dh vksj ls jkuhxat\nFkkukdkaM la[;k&503@2020 vUrxZr /kkjk&341] 342] 323] 324] 308] 354&ch] 379] 447]\n504] 506] 34 Hkk0n0fo0 ds lanHkZ esa nkf[ky fd;k x;k gSA mijksDr vkosndx.k ds fo}ku\nvf/koDrk ds }kjk bl vfxze tekur vkosnu dks vkt izpkfyr fd;k x;kA\nla{ksi esa vfHk;kstu okn lwpd yqdeku ds vuqlkj ;g gS fd fnukad 13-10-2020\ndks djhc 11%30 cts og vius tehu esa ?kj cuk jgk Fkk vkSj vfHk;qDrx.k ykBh] Qjlk\nysdj vk;k vkSj xkyh&xykSt djrs gq;s ?kj cukus ls euk djus yxkA lwpd fojks/k fd;k\nrks yfyrk nsoh mls idM+ fy;k vkSj x;kuan 'kekZ Qjlk ls mlds lj ij ekjk ftlls\nxaHkhj :i ls t[eh gksdj tehu ij fxj x;kA lwpd dks ekjrs ns[k mldh iRuh chch\njghyk [kkrwu ,oa mldk yM+dk eks0 ,tkt cpkus vk;k rks ek;kuan 'kekZ ,oa ';ke 'kekZ\nykBh] MaMk ls ekjdj t[eh dj fn;kA lwpd dh iRuh dks yfyrk nsoh [khapdj vius ?"
+              },
+              {
+                "sentence_id": "DC_000075_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 357,
+                "word_count": 73,
+                "text": "kj ys tk jgh Fkh rks x;kuan 'kekZ Qjlk Qsd fn;k vkSj mldh iRuh dks tehu ij iVd\nfn;k rFkk Nkrh ij p<+dj QkbZV ls ekjihV djrs gq;s leht&lyokj QkM+ dj v)ZuXu\ndj fn;kA fiz;adk dqekjh lwpd dh iRuh ds xyk ls pkanh dk gkj [khap fy;kA gYyk ij\nxzkeh.k yksx vk;s vkSj t[eh dks vLirky ys x;sA\ncpko i{k ds fo}ku vf/koDrk dk dFku gS fd vkosndx.k funksZ\"k gS vkSj dksbZ ?"
+              },
+              {
+                "sentence_id": "DC_000075_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 1406,
+                "word_count": 276,
+                "text": "kVuk dkfjr ugha fd;k gSA vkosndx.k dks xzkeh.k jktuhfr vkSj tehuh fookn ds dkj.k\nxyr rjhds ls bl dkaM esa QWlk;k x;k gSA vkosndx.k us L=h dks ekjihV djus ;k\ndi+M+k mrkjus dk dksbZ ?kVuk dkfjr ugha fd;k gSA nksuksa i{kksa esa tehuh fookn gSA lwpd\ni{k us vkosndx.k i{k ds lkFk t?kU; ?kVuk dkfjr fd;k gS tks fd vkosnd yfyrk nsoh\nus jkuhxat Fkkuk dkaM la0 502@2020 bl dsl ds iwoZ esa ntZ djk;k gSA\nfo}ku vij yksd vfHk;kstd vfxze tekur dk fojks/k djrs gSaA\nmHk; i{kksa dks lquk rFkk lEiw.kZ vfHkys[k dk voyksdu fd;kA\nvfHkys[k ,oa dkaM nSfudh dk voyksdu fd;kA dkaM nSfudh ls fofnr gksrk gS fd\nvkosnd la0 1 x;kuan 'kekZ ds mij Qjlk ls tku ekjus dh fu;r ls lwpd dks ekjus\ndk vkjksi gSA dkaM nSfudh esa lHkh lkf{k;ksa us vkosnd la0 01 x;kuan 'kekZ ds }kjk\nQjlk ls lwpd dks ekjus dh ckr dk leFkZu fd;s gSA\nmDr rF;ksa ds vkyksd esa eSa vkosnd la0 01 x;kuan 'kekZ dks vfxze tekur dk\nykHk fn;k tkuk mfpr ugha le>rk gwWA vr% vkosnd la0 01 dh vksj ls nkf[ky vfxze\ntekur vkosnu dks [kkfjt fd;k tkrk gSA\nvkosnd la[;k 2] 3] 4 ,oa 5 ds mij tku ls ekjus dk vkjksi ugha gSA dkaM\nnSfudh esa lkf{k;ksa us vkosnd la0 2] 3] 4 ,oa 5 ds ckjs esa tku ls ekjus dh uh;r ls\ngeyk djus dh ckr ugha dgh gSA vkosnd la0 1 ds vfrfjDr vU; vkosndx.k ij yxs\nvkjksi xaHkhj izd`fr ds ugha gSaA\nmDr rF;ksa ds vkyksd esa 'ks\"k pkj vkosndx.k Øe'k% vkosnd la0 2&yfyrk nsoh]\n3&ek;kuan 'kekZ] 4&';ke dqekj 'kekZ ,oa 5&fiz;adk dqekjh dh vfxze tekur ;kfpdk"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "character_count": 699,
+        "word_count": 118,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000075_P002_PAR001",
+            "paragraph_index": 1,
+            "character_count": 699,
+            "word_count": 118,
+            "sentence_count": 3,
+            "text": "02.\nA.B.P. No.1959/2020\n29.01.2021\nLohdkj dh tkrh gSA bl vkns'k dh frfFk ls rhu lIrkg ds vanj fopkj.k U;k;ky; esa\nvkReleiZ.k vFkok fxj¶rkj fd;s tkus ij mijksDr vkosndx.k }kjk eks0 10]000@&\n:i;s dk ca/ki= ,oa leku jkf'k ds nks izfrHkwoksa dks nkf[ky djus ij fopkj.k U;k;ky;\ndh larqf\"V ij tekur ij NksM+s tkus dk vkns'k bl 'krZ ij fn;k tkrk gS fd &\n1- vkosndx.k vuqla/kku esa lg;ksx djsaxsA\n2- vkosndx.k /kkjk& 4381⁄421⁄2 n.M izfØ;k lafgrk dk vuqikyu djsaxsA\n3- vkosndx.k izR;sd frfFk dks lacaf/kr U;k;ky; esa lnsg mifLFkr jgsaxsA yxkrkj nks\nfrfFk;ksa rd fcuk fdlh mfpr dkj.k ds vuqifLFkr jgus ij lacaf/kr U;k;ky;\nvkosndx.k dk ca/ki= [kf.Mr dj ldrs gSA\n ys[kkfir\n Sd/-\n r`rh; vij l= U;k;k/kh'k\n vjfj;k",
+            "sentences": [
+              {
+                "sentence_id": "DC_000075_P002_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 3,
+                "word_count": 1,
+                "text": "02."
+              },
+              {
+                "sentence_id": "DC_000075_P002_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 6,
+                "word_count": 1,
+                "text": "A.B.P."
+              },
+              {
+                "sentence_id": "DC_000075_P002_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 688,
+                "word_count": 116,
+                "text": "No.1959/2020\n29.01.2021\nLohdkj dh tkrh gSA bl vkns'k dh frfFk ls rhu lIrkg ds vanj fopkj.k U;k;ky; esa\nvkReleiZ.k vFkok fxj¶rkj fd;s tkus ij mijksDr vkosndx.k }kjk eks0 10]000@&\n:i;s dk ca/ki= ,oa leku jkf'k ds nks izfrHkwoksa dks nkf[ky djus ij fopkj.k U;k;ky;\ndh larqf\"V ij tekur ij NksM+s tkus dk vkns'k bl 'krZ ij fn;k tkrk gS fd &\n1- vkosndx.k vuqla/kku esa lg;ksx djsaxsA\n2- vkosndx.k /kkjk& 4381⁄421⁄2 n.M izfØ;k lafgrk dk vuqikyu djsaxsA\n3- vkosndx.k izR;sd frfFk dks lacaf/kr U;k;ky; esa lnsg mifLFkr jgsaxsA yxkrkj nks\nfrfFk;ksa rd fcuk fdlh mfpr dkj.k ds vuqifLFkr jgus ij lacaf/kr U;k;ky;\nvkosndx.k dk ca/ki= [kf.Mr dj ldrs gSA\n ys[kkfir\n Sd/-\n r`rh; vij l= U;k;k/kh'k\n vjfj;k"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 8,
+    "state_name": "Bihar",
+    "district_code": 24,
+    "district_name": "Araria",
+    "court_complex_code": 1080060,
+    "court_complex_name": "Civil Court, Araria",
+    "year": 2020,
+    "case_type": "nan",
+    "case_number": "215200019592020",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "Writer",
+    "pdf_producer": "LibreOffice 4.2",
+    "pdf_creation_date": "D:20210129075507+05'00'",
+    "pdf_mod_date": ""
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.9771,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "ENTITY_ADDED_CASE_NUMBERS",
+      "ENTITY_ADDED_DATES"
+    ],
+    "all_entities_preserved": false
+  },
+  "provenance": {
+    "source_sha256": "2402d6918f56bd1cddd40b33ad4312e1f2b06dc247721f03c62604212dd952bb",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.295636"
+  }
+}

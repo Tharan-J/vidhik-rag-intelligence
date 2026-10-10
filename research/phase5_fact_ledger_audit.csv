@@ -1,0 +1,16 @@
+Category,Criticality,Count,Valid_Pct,Major_Issues
+CASE_NUMBER,CRITICAL,161,92.0,Some internal filing/docket registration numbers instead of formal CC numbers
+PARTIES,CRITICAL,188,78.0,10 truncated party names (<10 chars); docket headers like Accused DOCKET ORDER captured as parties
+STATUTORY_SECTION,CRITICAL,97,95.0,Generally reliable; minor OCR hyphenation artifacts
+DISPOSITION,CRITICAL,86,85.0,Administrative transfers (vide Proc.Dis.No) captured as judicial dispositions
+RELIEF,CRITICAL,2,50.0,Severe under-extraction (only 2 facts across 161 documents); duplicates disposition text
+JUDICIAL_FINDING,CRITICAL,9,75.0,Under-extracted (9 facts across 161 documents)
+BAIL_STATUS,CRITICAL,9,90.0,Reliably extracted when present
+CHARGE,CRITICAL,4,80.0,Under-extracted (4 facts across 161 documents)
+COURT,IMPORTANT,142,96.0,Reliable court complex and magistrate names
+DECISION_DATE,IMPORTANT,151,90.0,Raw text contains surrounding phrase (Given under my hand...); norm value is valid YYYY-MM-DD
+AMOUNT,IMPORTANT,84,61.9,"32 of 84 facts (38.1%) are malformed currency fragments (rs,) without numeric values"
+PROCEDURAL_ACTION,IMPORTANT,23,85.0,Captures docket advancements and transfers
+ISSUE,IMPORTANT,1,100.0,Severe under-extraction (1 fact across 161 documents)
+ARGUMENT,IMPORTANT,0,0.0,Completely missing from ledger (0 facts across 161 documents)
+OTHER_CRITICAL_FACT,CONTEXTUAL,16,90.0,Header calendar notices

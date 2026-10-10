@@ -1,0 +1,39 @@
+# Vidhik Phase 2 - Quality Assessment & Diagnostic Thresholds
+quality_version: "v1.0.0"
+
+diagnostics:
+  min_chars_per_page_native: 100
+  min_words_per_page_native: 20
+  max_symbol_ratio: 0.18
+  max_replacement_char_count: 2
+  scanned_image_coverage_threshold: 0.85
+  repeated_line_threshold: 0.35
+
+routing_rules:
+  # Native Good: Clear digital text stream, high density, low symbol noise
+  native_good:
+    min_total_words: 35
+    min_chars_per_page: 150
+    max_symbol_ratio: 0.12
+    max_replacement_chars: 0
+    require_all_pages_text: true
+
+  # Native Suspicious: Borderline words, moderate symbols or short text that might be genuine order
+  native_suspicious:
+    word_range: [15, 34]
+    max_symbol_ratio: 0.22
+    max_replacement_chars: 3
+
+  # OCR Required: Scanned image, empty text layer, extreme symbols, or complete extraction failure
+  ocr_required:
+    max_total_words: 14
+    max_chars_per_page: 50
+    min_symbol_ratio: 0.22
+    image_only: true
+
+classification_labels:
+  - "NATIVE_VALID"
+  - "OCR_VALID"
+  - "OCR_FALLBACK_VALID"
+  - "LOW_CONFIDENCE"
+  - "UNRECOVERABLE"

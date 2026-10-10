@@ -1,0 +1,2 @@
+metric_scope,total_evaluations,unique_gold_facts,total_supported,overall_preservation_rate,critical_preservation_rate,critical_omission_rate,contradiction_rate,disposition_preservation_rate,statutory_preservation_rate,legal_outcome_preservation_rate,language_degradation,simple_language_mean_overall,simple_language_mean_critical
+OVERALL_UNIQUE_FACT_DENOMINATOR,425,85,94,0.2212,0.2316,0.7263,0.0,0.1333,0.2667,0.1826,0.7895,0.2212,0.2316

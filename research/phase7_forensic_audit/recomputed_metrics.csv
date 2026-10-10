@@ -1,0 +1,7 @@
+system_id,critical_eligible,critical_supported,critical_partial,critical_omitted,strict_critical_preservation,partial_inclusive_critical_preservation,critical_omission_rate,overall_preservation,translation_fidelity,terminology_survival,contradictions,unsupported_additions
+T0_BASELINE_LEGAL_AWARE,152,36,4,112,23.68%,26.32%,73.68%,12.94%,40.00%,100.00%,0,0
+T1_CONTEXT_AWARE,152,36,4,112,23.68%,26.32%,73.68%,12.94%,40.00%,100.00%,0,0
+T2_STRONGER_TERMINOLOGY,152,36,32,84,23.68%,44.74%,55.26%,21.18%,48.24%,100.00%,0,0
+T3_CLAIM_ALIGNED,152,36,32,84,23.68%,44.74%,55.26%,21.18%,48.24%,100.00%,0,0
+T4_CANDIDATE_RERANKING,152,36,32,84,23.68%,44.74%,55.26%,21.18%,48.24%,100.00%,0,0
+T5_COMBINED_OPTIMAL,152,36,32,84,23.68%,44.74%,55.26%,21.18%,48.24%,100.00%,0,0

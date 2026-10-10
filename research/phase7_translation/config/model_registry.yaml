@@ -1,0 +1,22 @@
+# Phase 7 Model & Runtime Registry
+model:
+  name: "IndicTrans2 Distilled 200M"
+  hf_model_id: "ai4bharat/indictrans2-en-indic-dist-200M"
+  tokenizer: "ai4bharat/indictrans2-en-indic-dist-200M"
+  framework: "HuggingFace Transformers (Seq2SeqLM)"
+  processor: "IndicTransToolkit.IndicProcessor"
+  torch_dtype: "float16"
+  device: "cuda"
+
+languages:
+  en: "eng_Latn"
+  ta: "tam_Taml"
+  hi: "hin_Deva"
+  kn: "kan_Knda"
+  mr: "mar_Deva"
+
+decoding_parameters:
+  num_beams: 4
+  max_length: 256
+  min_length: 0
+  use_cache: false

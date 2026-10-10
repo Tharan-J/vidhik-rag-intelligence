@@ -1,0 +1,7 @@
+You are a legal summarizer. Based on the verified legal evidence provided below, summarize this District Court order in {language}.
+Write a concise, informative legal summary.
+
+VERIFIED EVIDENCE:
+{evidence_text}
+
+SUMMARY IN {language}:

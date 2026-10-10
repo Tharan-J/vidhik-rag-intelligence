@@ -1,0 +1,48 @@
+# Phase 4 Evaluation Metrics & Taxonomy Configuration
+metrics:
+  text_generation:
+    - rouge1
+    - rouge2
+    - rougeL
+  claim_factuality:
+    - supported_claim_rate
+    - contradicted_claim_rate
+    - unsupported_claim_rate
+    - critical_fact_omission_rate
+  legal_entity_preservation:
+    - case_number
+    - parties
+    - dates
+    - statutory_sections
+    - amounts
+    - procedural_actions
+    - disposition
+    - relief
+
+disposition_classes:
+  - allowed
+  - dismissed
+  - rejected
+  - disposed
+  - withdrawn
+  - acquitted
+  - convicted
+  - granted
+  - denied
+  - discharged
+
+hallucination_taxonomy:
+  E1: "Unsupported factual claim"
+  E2: "Contradicted factual claim"
+  E3: "Wrong date"
+  E4: "Wrong amount"
+  E5: "Wrong case number"
+  E6: "Wrong party"
+  E7: "Wrong statutory section"
+  E8: "Wrong procedural action"
+  E9: "Wrong judicial finding"
+  E10: "Wrong disposition"
+  E11: "Wrong relief"
+  E12: "Critical omission"
+  E13: "Translation-induced legal meaning change"
+  E14: "Unsupported inference"

@@ -1,0 +1,4109 @@
+--- PAGE 1 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 1 of 86 
+ 
+IN THE HIGH  COURT  OF  DELHI  AT  NEW  DELHI 
+% 
+ 
+ 
+ 
+ 
+Judgment delivered on: 24.04.2024 
++  
+FAO(OS) (COMM) 178/2021 and CM Nos.46299/2021, 
+46300/2021, 46301/2021, 46302/2021, 19118/2022, 19119/2022 
+and 30850/2022 
+NATCO PHARMA 
+ 
+ 
+ 
+ 
+..... Appellant  
+versus 
+NOVARTIS AG AND ANR.  
+ 
+ 
+..... Respondents 
+Advocates who appeared in this case: 
+ 
+For the Appellant 
+ : Mr J. Sai Deepak, Mr G. Nataraj, 
+ 
+   Mr Shashikant Yadav, and Mr Rahul 
+ 
+   Bhujbal, Advocates. 
+For the Respondents  
+: Mr Hemant Singh, Ms Mamta Rani Jha,    
+ Mr Siddhant Sharma and Ms Garima  
+ Mehta, Advocates. 
+CORAM 
+HON’BLE MR JUSTICE VIBHU BAKHRU 
+HON’BLE MR JUSTICE AMIT MAHAJAN 
+ 
+JUDGMENT 
+ 
+VIBHU BAKHRU, J 
+INTRODUCTION  
+1. 
+The appellant (hereafter referred to as Natco) has filed the present 
+appeal impugning a judgment dated 13.12.2021 (hereafter the impugned 
+judgment) delivered by the learned Single Judge in an application filed 
+by the respondents (hereafter collectively referred to as Novartis) under 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 2 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 2 of 86 
+ 
+Order XXXIX Rules 1 and 2 of the Code of Civil Procedure, 1908 
+(hereafter the CPC) being IA No. 6980/2021 in CS(COMM) 256/2021, 
+seeking an interim relief.  
+2. 
+The respondents had filed the aforementioned suit, inter alia, 
+seeking a decree of permanent injunction restraining Natco from using, 
+manufacturing, importing, selling, offering for sale, exporting, or 
+dealing in Active Pharmaceutical Ingredient (hereafter API), or 
+formulations containing Eltrombopag bis (monoethanolamine) as may 
+amount to infringement of its suit patent IN 233161 (hereafter also 
+referred to as IN’161 or the suit patent). Novartis also seeks rendition 
+of account of profits earned by manufacture and sale of infringing 
+products; damages based on profits earned by Natco through its 
+infringing activities; and a decree for delivery of stocks of products that 
+infringe the suit patent. 
+3. 
+The application for interim relief was allowed. In terms of the 
+impugned judgment, the learned Single Judge has restrained Natco from 
+manufacturing, using, selling, distributing, advertising, marketing, 
+exporting, offering for sale, importing or dealing in any manner in API, 
+pharmaceutical products, or formulation containing Eltrombopag bis 
+(monoethanolamine) (hereafter Eltrombopag Olamine or ELT-O) either 
+separately or in combination with any other compound, infringing  the 
+suit patent, of respondent no.1 (hereafter Novartis AG), either under the 
+brand “Trombopag” or any other brand.   
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 3 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 3 of 86 
+ 
+4. 
+Novartis had filed the afore-mentioned suit alleging infringement 
+of the suit patent, IN’ 161, granted on 27.03.2009 (species patent) 
+pursuant to the Patent Application No.3400/DELNP/2004, which was 
+filed as a national phase entry of Patent Cooperation Treaty (PCT) 
+International Application No.PCT/US2003/16255 dated 21.05.2003. 
+The said application was filed by SmithKline Beecham Corporation 
+(subsequently known as GlaxoSmithKline LLC). GlaxoSmithKline 
+LLC had assigned the suit patent to Glaxo Group Limited on 
+05.10.2015. On the same date, Glaxo Group Limited had assigned the 
+suit patent to Novartis Pharma AG, which in turn assigned the suit 
+patent to Novartis AG (respondent no.1). Novartis claims that it was 
+constrained to file the suit [CS(COMM) 256/2021] as it had become 
+aware through the field force and medical practitioners that Natco had 
+announced the launch of a pharmaceutical drug product containing 
+ELT-O, which was covered by the suit patent.   
+5. 
+It is Natco’s defence that ELT-O was covered under an earlier 
+Patent No. IN 213176 (hereafter IN’176), which expired on 24.05.2021. 
+Thus, ELT-O was not entitled to any patent protection after 24.05.2021. 
+Natco has filed its written statement contesting the suit principally on 
+three fronts.  First, that the suit is barred under Section 53(4) of the 
+Patents Act, 1970 (hereafter the Act); Novartis has not, prima facie, 
+satisfied the condition that the suit patent is valid and; the suit patent is 
+invalid on several grounds as set out in Section 64(1) of the Act.    
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 4 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 4 of 86 
+ 
+6. 
+It is Natco’s case that two separate patents were secured in 
+respect of the same product being ELT-O by suppression and 
+misrepresentation. Whilst, IN’176, which covered the API Eltrombopag 
+(hereafter also referred to as ELT) as well pharmaceutically acceptable 
+salts, expired on 24.05.2021, after expiry of the period of twenty years, 
+the monopoly in respect of the same product is claimed on account of 
+securing the suit patent. Natco claims that this is an attempt to evergreen 
+the patent in respect of ELT.   
+7. 
+There is no dispute that IN’176 covers the product ELT-O. 
+However, Novartis claims that IN’176 is a Markush claim and discloses 
+Eltrombopag free acid (ELT); it does not disclose ELT-O, which is the 
+subject matter of rights under IN’161.   
+8. 
+It is not seriously contested that ELT, which is covered under 
+IN’176 is the API in the formulations marketed by Novartis under the 
+brand names PROMACTATM and REVOLADETM. REVOLADETM 
+received marketing approval in India on 05.01.2011. Admittedly, 
+REVOLADETM was covered in IN’ 176.  
+9. 
+ELT is also the API of Tromobopag (the formulation launched 
+by Natco) and is the subject matter of the interim injunction issued in 
+terms of the impugned judgement. The suit patent, IN’ 161 covers the 
+substance, ELT-O which is a salt form of ELT.  
+10. 
+The principal controversy that falls for consideration is whether 
+Natco has presented a credible challenge to the validity of IN’161. 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 5 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 5 of 86 
+ 
+Natco claims that there is no evidence or material on record to establish 
+that ELT-O has a higher therapeutic efficacy than ELT, which is 
+admittedly disclosed and covered by IN’176.  It claims that ELT-O is a  
+new (salt) of a known substance (ELT) and therefore, is not patentable 
+on the anvil of Section 3(d) of the Act. It claims that ELT-O is not an 
+invention and therefore its patent, IN’161 is invalid [Section 64(1)(d) 
+of the Act].   
+11. 
+Natco also assails the validity of the suit patent on the following 
+grounds: 
+❖ Prior claiming [Section 64(1)(a) of the Act] as covered under the 
+expired patent IN’176.  
+❖ The claim ELT-O is not an invention [ Section 64(1)(d) of the 
+Act] being a new form (Salt) of a known substance. 
+❖ Lack of novelty [ Section 64(1)(e) of the Act] 
+❖ Lack of inventive step [ Section 64(1)(f) of the Act] 
+❖   Obtained by misrepresentation [ Section 64(1)(j) of the Act] 
+❖ Claim not patentable under the Act [ Section 64(1)(k) of the Act] 
+❖ Failure to disclose information under Section 8 of the Act [ 
+Section 64(1)(m) of the Act] 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 6 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 6 of 86 
+ 
+12. 
+ In the present proceedings, Natco’s principal challenge is 
+founded on ELT-O not being an invention in terms of Section 3(d) of 
+the Act which has been pressed in conjunction with the patent being 
+invalid on account of prior claiming, prior publication, lack of inventive 
+step amongst other grounds.  
+13. 
+Novartis claims that although, ELT-O is a salt of ELT, it falls 
+within the exception of Section 3(d) of the Act as its therapeutic efficacy 
+is significantly higher than ELT on account of higher bioavailability.   
+FACTUAL BACKGROUND  
+14. 
+As noticed above, the controversy in this appeal, essentially, 
+involves the questions whether Natco has laid a credible challenge to 
+the validity of the suit patent and whether Novartis was entitled to an 
+interim injunction restraining Natco from dealing with ELT-O which 
+was launched under the trade name TROMBOPAGTM. The substratal 
+dispute being, whether Novartis is entitled to patent rights in respect of 
+ELT-O, notwithstanding that ELT-O was also covered under IN’176 
+which expired prior to Natco launching its product.   
+IN’176 
+15. 
+Novartis AG is the patentee of the expired patent IN’176. 
+SmithKline Beecham Corporation, a company organised under the laws 
+of Pennsylvania, the United States of America had applied for the said 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 7 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 7 of 86 
+ 
+patent in continuation of the US Application No.10/296688 filed on 
+03.07.2000 
+claiming 
+priority 
+of 
+International 
+Application 
+No.PCT/US01/16863 filed on 24.05.2001. The same was ultimately 
+assigned to Novartis AG.  
+16. 
+IN’176 expired on 24.05.2021. 
+17. 
+ The applicant had disclosed that invention related to 
+Thrombopoietin (TPO) mimetics and their use as promoters of 
+thrombopoiesis and megakaryocytopoiesis. The invention ELT, which 
+is the subject matter of IN’176, was claimed to be effective as an 
+agonists of TPO receptor and potent TPO mimetics. ELT is claimed to 
+be useful in enhancing platelet production and is indicated for treatment 
+of chronic idiopathic thrombocytopenia (that is, abnormally low platelet 
+counts), which was noticed in patients suffering from immune system 
+disorders, leukaemia as well as side effects due to certain drugs and 
+surgical procedures.   
+18. 
+The applicant had made, in all, nine claims. Claim Nos. 1 to 8 
+consist of substances and Claim no.9 relates to a process for preparing 
+the compound. It is relevant to refer to Claim nos.1 to 8, which are set 
+out below: 
+ 
+IN 213176 
+Claim 1: A compound represented by the following Formula (II): 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 8 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 8 of 86 
+ 
+ 
+wherein: 
+R, R1, R2 and R3 are each independently selected from 
+hydrogen, C1-6alkyl, -(CH2)pOR4,- C(O)OR4, formyl, nitro, cyano, 
+halogen, aryl, substituted aryl, substituted alkyl, -S(O)nR4, 
+cycloalkyl, -NR5R6, protected -OH, -CONR5R6, phosphonic acid, 
+sulfonic acid, phosphinic acid, - SO2NR5R6, and a heterocyclic 
+methylene substituent as represented by Formula (III), 
+ 
+where 
+p is 0-6, 
+n is 0-2, 
+V, W, X and Z are each independently selected from 0, S, and NR16, 
+where R16 is selected from: hydrogen, alkyl, cycloalkyl; C1-C12aryl, 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 9 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 9 of 86 
+ 
+substituted alkyl, substituted cycloalkyl and substituted C1-C12aryl, 
+R4 is hydrogen, alkyl, cycloalkyl, C1-C12aryl substituted alkyl, 
+substituted cycloalkyl, and substituted C1-C12aryl, and R5 and R6 
+are each independently selected from hydrogen, alkyl, substituted 
+alkyl, C3-6cycloalkyl, 
+and aryl, or  
+R5 and R6 taken together with the nitrogen to which they are 
+(attached represent a 5 to 6 member saturated ring containing up to 
+one other heteroatom selected from oxygen and nitrogen; 
+R15 is selected from the group consisting of alkyl, C1-C12aryl, 
+hydroxy, alkoxy, substituted alkyl, substituted C1-C12aryl and 
+halogen; m is 0-6; and  
+ 
+Y is selected from alkyl, substituted alkyl and a cyclic or polycyclic 
+aromatic ring containing from 3 to 14 carbon atoms and 
+optionally containing from one to three heteroatoms, provided that 
+when the number of carbon atoms is 3 the aromatic ring contains 
+at least two heteroatoms and when the number of carbon atoms is 
+4 the aromatic ring contains at least one heteroatom, and optionally 
+substituted with one or more substituents selected from the 
+group consisting of: alkyl, substituted alkyl, C1-C12 aryl, 
+substituted cycloalkyl, substituted C1-C12aryl, hydroxy, aryloxy, 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 10 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 10 of 86 
+ 
+alkoxy, cycloalkyl, nitro, cyano, halogen and protected -OH; and 
+pharmaceutically acceptable salts, hydrates, solvates and esters 
+thereof; provided that at least one of R, R1, R2 and R3 is a 
+substituted aryl group or a heterocyclic methylene substituent as 
+represented in Formula (III). 
+Claim 2: A compound represented by Formula (II), as claimed in 
+claim 1, wherein: 
+either:  
+R is a substituted aryl and R1 is hydrogen; or:  
+R is hydrogen; and R1 is a substituted aryl;  
+and in either case:  
+R2 and R3 are each independently selected from hydrogen, C1-
+6 alkyl, C1- 6alkoxy, nitro, cyano, halogen, aryl, substituted aryl, 
+substituted alkyl, cycloalkyl, phosphonic acid, phosphinic acid and 
+sulfonic acid;  
+R15 is selected from the group consisting of alkyl, substituted alkyl, 
+C1- C12 aryl, alkoxy and halogen; 
+m is 0-4; and 
+Y is selected from phenyl, pyridinyl and pyrimidinyl, where the 
+phenyl, pyridinyl and pyrimidinyl are optionally substituted with 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 11 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 11 of 86 
+ 
+from one to three substituents selected from the group 
+consisting of: alkyl, substituted alkyl, C1-12aryl, substituted C1-
+12aryl, alkoxy and halogen; and pharmaceutically acceptable 
+salts, hydrates, solvates and esters thereof. 
+Claim 3: A compound represented by Formula (II), as claimed in 
+claim 1 or 2, wherein: 
+R is a substituted C1-C12aryl; 
+and 
+R1 is hydrogen; 
+R2 and R3 are each independently selected from hydrogen; C1-
+6alkyl, C1-6alkoxy, nitro, cyano, halogen, substituted alkyl and 
+cycloalkyl; 
+R15 is selected from the group consisting of alkyl, substituted 
+alkyl, C1-C12 aryl, alkoxy and halogen; 
+m is 0-2; and 
+Y is selected from phenyl, pyridinyl and pyrimidinyl, where the 
+phenyl, pyridinyl and pyrimidinyl are optionally substituted with 
+from one to three substituents selected from the group 
+consisting of: alkyl, substituted alkyl, C1-C12 aryl, substituted 
+C1-C12 aryl, alkoxy and halogen; and  
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 12 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 12 of 86 
+ 
+pharmaceutically acceptable salts, hydrates, solvates and esters 
+thereof. 
+Claim 4: A compound represented by Formula {II), as claimed in 
+any one of claims 1 to 3, wherein:  
+R is a substituted phenyl or pyridinyl ring; and  
+R1 is hydrogen; 
+R2 and R3 are each independently selected from hydrogen, C1-
+6alkyl, C1-6 alkoxy, nitro, cyano, halogen, substituted alkyl and 
+cycloalkyl; R15 is selected from the group consisting of alkyl, 
+substituted alkyl, C1- C12aryl and halogen; m is O; and Y is 
+selected from, phenyl, pyridinyl and pyrimidinyl, where the 
+phenyl, pyridinyl and pyrimidinyl is optionally substituted with 
+from one to three substituents selected from the group 
+consisting of: alkyl, substituted alkyl, C1-Cl2 aryl, substituted C1-
+C12 aryl, alkoxy and halogen; and pharmaceutically acceptable 
+salts, hydrates, solvates and esters thereof. 
+Claim 6: A compound as claimed in claim 1, which is 3’[(2Z)[1-
+(3,4 dimethylphenyl)-1,5-dihydro-3-methyl-5-oxo-4H-pyrazol-4-
+ylidene]hydrazino]-2’-hydroxy-[1,1’-Biphenyl]-3-Carboxylic 
+Acid and pharmaceutically acceptable salts, hydrates, solvates 
+and esters thereof. 
+Claim 8: A pharmaceutical composition for use in enhancing 
+platelet production which comprises a compound as claimed in 
+claim 1 and a pharmaceutically acceptable carrier. 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 13 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 13 of 86 
+ 
+ 
+19. 
+The background of the invention as set out in the patent 
+application indicates that the invention Thrombopoietin (TPO) was 
+found in several studies to increase platelet counts, platelet size, and 
+isotope incorporation into platelets of recipient animals. Since, platelets 
+(thrombocytes) are necessary for blood clotting, patients with low 
+platelet count are at risk of death from haemorrhage.  TPO has 
+potentially useful application in both diagnosis and treatment of various 
+haematological disorders.  It was stated that ongoing clinical trials with 
+TPO indicate that TPO can be administered safely to patients. Further, 
+studies had provided the basis for projection of efficacy of TPO therapy 
+in 
+the 
+treatment 
+of 
+thrombocytopenia, 
+and 
+particularly 
+thrombocytopenia resulting from chemotherapy, radiation therapy, or 
+bone marrow transplant as a treatment for cancer or a treatment of 
+lymphoma. Thus, it would be desirable for the treatment of 
+thrombocytopenia by acting as a TPO mimetic.  The compounds as 
+claimed were discovered as effective, agonists of TPO receptor and are 
+potent TPO mimetics.   
+IN’161 
+20. 
+The suit patent is in respect of the following invention:  
+“3’-[2Z)-[1-(3,4-dimethylphenyl)-1,5-dihydro-3-methyl-5-
+oxo-4H-pyrazol-4-ylidene]hydrazino]-2’-hydroxy-[1,1’-
+Biphenyl]-3- Carboxylic Acid bis-(monoethanolamine)”  
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 14 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 14 of 86 
+ 
+21. 
+Novartis AG’s predecessor claimed that the aforesaid invention 
+relates to an improved thrombopoietin mimetic. The aforesaid invention 
+is covered under Claim no.1.  Claim no.2 is of the aforesaid compound 
+as and when used as a pharmaceutical composition along with the 
+pharmaceutically acceptable carrier or diluents of the kind as described. 
+Claim no.3 related to the process of preparing the compound as claimed 
+in Claim no.1.   
+22. 
+Claim nos. 1, 2 and 3 in respect of the suit patent IN’161 are 
+reproduced hereinbelow: 
+IN 233161 
+The compound 3’[(2Z)[1-(3,4- dimethylphenyl)-1,5-dihydro-3-
+methyl-5-oxo-4H-pyrazol-4-ylidene]hydrazino]-2’-hydroxy-[1,1’-
+Biphenyl]-3- Carboxylic Acid bis- (monoethanolamine). 
+ELT Olamine is represented by the following chemical structure: 
+ 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 15 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 15 of 86 
+ 
+ 
+A transposition of the substituents from IN’176 is as follows:  
+R is substituted aryl where the substitution is -COOH:;  
+R1, R2 and R3 are each -H;  
+M=0 which leads to only -OH being present at position 5 on the 
+phenyl  
+R15 is alkyl i.e. methyl ;  
+Y is phenyl substituted with two alkyl i.e. two methyl moieties  
+and the sale is a monoethanolamine salt. 
+Claim 2: A compound as claimed in claim 1 as and when used as a 
+pharmaceutical composition along with the pharmaceutically 
+acceptable carrier or diluents of the kind such as herein described. 
+Note: Claim 2 of IN’161 specifically stipulates that the 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 16 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 16 of 86 
+ 
+diluent/carrier etc are as “herein described”. The preceding 
+description stipulates that the diluents and carriers are conventional 
+and exactly as those used in IN’ 176. 
+Claim 3: A process for preparing the compound as claimed in 
+claim 1, which process comprises: 
+i) dissolving 3′-[(2Z)-[1 -(3,4-dimethyiphenyl)- 1,5-dihydro-3- 
+methyl-5-oxo-4H-pyrazol-4- ylidene]hydrazino]-2′-hydroxy-[1,1′- 
+biphenyl]-3-carboxylic acid in an appropriate organic solvent, 
+preferably Tetrahydrofuran (THF) and ethanol to form a solution;  
+ii) adding two or more equivalents of ethanolamine to the solution; 
+and resulting dark red suspension was stirred and dried at 50ºC in 
+a vacuum oven over night; and 
+iii) isolating the prepared compound. 
+ 
+23. 
+The detailed description of the invention, as set out, indicates that 
+it expressly incorporates by reference, the entire disclosure made in 
+IN’176 and further claims that Bis-(monoethanolamine), the salt of ELT 
+(which is a free acid) had numerous advantages over the free acid.  It is 
+claimed that the free acid (ELT) was poorly soluble in water, which 
+adversely affects its ability to be formulated into a pharmaceutical 
+dosage form and reduce the bioavailability of the compound in vivo.  It 
+is claimed that the suit patent (IN’161) had advantages of enhanced 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 17 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 17 of 86 
+ 
+solubility and bioavailability. The relevant extract of the detailed 
+description of invention is set out below: 
+“3'-{N'-[1-(3,4-dimethylphenyl)-3-methyl-5-oxo-1,5-
+dihydropyrazol-4-ylidene]hydrazino)-2'-hydroxybiphenyl-3-
+carboxylic acid is a compound which is disclosed and 
+claimed, along with pharmaceutically acceptable salts, 
+hydrates, solvates and esters thereof, as being useful as an 
+agonist of the TPO receptor, particularly in enhancing platelet 
+production 
+and 
+particularly 
+in 
+the 
+treatment 
+of 
+thrombocytopenia, 
+in 
+International 
+Application 
+No. 
+PCT/US01/16863, having an International filing date of May 
+24, 2001; International Publication Number WO 01/89457 
+and an International Publication date of November 29, 2001 
+(Indian Patent application no. IN/PCT/2002, 1666/MUM 
+which is now Indian Patent No. 213176), the entire disclosure 
+of which is hereby incorporated by reference. International 
+Application No. PCT/US01/16863 does not specifically 
+disclose a salt form for any of the compounds disclosed 
+therein. 
+It has now surprisingly been found that the bis-
+(monoethanolamine) 
+salt 
+of 
+3'-[(2Z)-[1-(3,4-
+dimethylphenyl)-1,5-dihydro-3-methyl-5-oxo-4H-pyrazol-4-
+ylidene]hydrazino]-2'-hydroxy-[1,1'-biphenyl]-3-carboxylic 
+acid has numerous advantages over the free acid. The free 
+acid is poorly soluble in water (approximately 5 micrograms 
+per milliliter). This poor solubility adversely affects the 
+ability of the free acid to be formulated into pharmaceutical 
+dosage forms and reduces the bioavailability of the compound 
+in vivo.” 
+24. 
+The structure of ELT is as under: 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 18 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 18 of 86 
+ 
+ 
+ 
+ 
+ 
+25. 
+The structure of ELT-O is set out below: 
+ 
+ 
+ 
+ 
+THE IMPUGNED JUDGMENT  
+26. 
+The learned Single Judge examined the rival contentions in the 
+light of the decisions rendered by the Supreme Court in Novartis AG v. 
+Union of India & Ors.1and the decision of this Court in Merck Sharpe 
+ 
+1 (2013) 6 SCC 1 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 19 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 19 of 86 
+ 
+& Dohme v. Glenmark Pharmaceuticals2 and Astrazeneca AB and 
+Anr. v. Intas Pharmaceuticals Ltd. & Ors.3 as well as various other 
+decisions.   
+27. 
+The learned Single Judge rejected the contention that enhanced 
+bioavailability or solubility absent other factors enhancing the 
+effectiveness of the invention as a drug cannot be used as the basis for 
+claiming enhanced therapeutic efficacy. The learned Single Judge 
+rejected the contention that the decision of the Supreme Court in 
+Novartis v. UoI1 laid down any such proposition4. The learned Single 
+Judge observed that the therapeutic efficacy of API would remain 
+constant. However, if the therapeutic efficacy of API is enhanced by 
+making the ingredient more available to the body, in the modified 
+formulation, the same would be patentable under Section 3(d) of the 
+Act5.   
+28. 
+After referring to various decisions, the learned Single Judge 
+summarized the principles emanating from the various decisions in 
+Paragraph no. 30 of the impugned judgement. The relevant extracts of 
+the said paragraphs are set out below: 
+“30.  
+Several stellar principles emanate from a 
+reading of the afore-quoted judicial authorities. So 
+pivotal are these principles to assessment of 
+infringement, and the aspect of vulnerability of the 
+ 
+2 2015 SCC OnLine Del 8227 
+3 (2021) SCC OnLine Del 1130 
+4 Paragraph 14.2.11 
+5 Paragraph 14.2.13 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 20 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 20 of 86 
+ 
+patent alleged to be infringed, that, at the cost of 
+repetition, I deem it appropriate to enumerate the 
+principles, thus:  
+(i) On patentability  
+(a) Inventions, alone, are entitled to patents.  
+(b) An invention must (i) be new, i.e. not 
+anticipated, (ii) involve an inventive step, (iii) 
+be capable of industrial application, i.e. of 
+being made or used in the industry and (iv) 
+entail technical advance over existing 
+knowledge, or have economic significance, 
+rendering the invention not obvious to a 
+person skilled in the art.  
+(c) The triple test of patentability is, therefore, 
+novelty, the existence of an inventive step and 
+industrial 
+applicability. 
+In 
+Merck 
+v. 
+Glenmark, it was held that these tests stood 
+satisfied by the SFB disclosed in the Markush 
+patent.  
+(d) The claim in a patent could conceivably 
+encompass embodiments to be invented in 
+future without particularly advantageous 
+properties, provided such inventions employ 
+the technical contribution made by the 
+invention.  
+(e) “Patentability” requires that the product 
+(a) must be an invention within the meaning 
+of Section 2(j) and (b), must not fall within 
+the exceptions in Section 3. 
+(f) Section 3(d) is not an exception to Section 
+2(1)(j). While assessing patentability of a 
+claim for grant of patent, it had to be 
+examined, in the first instance, whether the 
+product was disentitled to patent on any of the 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 21 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 21 of 86 
+ 
+grounds envisaged by Section 3(d). The 
+patentability of products would then have to 
+be assessed, for determination of their 
+patentability on the basis of Section 2(1)(j) 
+read with Section 2(1)(j)(a). 
+(g) 
+A 
+mere 
+claim, 
+without 
+enabling 
+disclosure, as would enable a person skilled 
+in the art to work the invention, is not 
+patentable.  
+(h) The role of the complete specification 
+accompanying a patent application is to teach 
+what the invention was, how it was to be 
+made, and how it was to be used. 
+(i) One invention is entitled only to one 
+patent. One patent may, however, cover more 
+than one invention, provided all inventions 
+involved the same inventive steps. 
+(j) Grant of repeated patents for the same 
+invention 
+results 
+in 
+the 
+malaise 
+of 
+evergreening of a patent beyond its life, 
+which is impermissible.  
+(ii) Mere grant of a patent is not necessarily a 
+prima facie indicator of its validity.  
+(iii) Infringement:  
+(a) Examination of any claim of infringement 
+requires (i) determination of the meaning and 
+scope of the claims in the suit patent and (ii) 
+comparison of the claim so interpreted with 
+the allegedly infringing product of the 
+defendants. The comparison has to be of the 
+defendants’ product vis-a-vis the plaintiffs’ 
+patent and not product-to-product. 
+(b) This has to be determined on the basis of 
+claim construction. The plea of a defendant 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 22 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 22 of 86 
+ 
+that the plaintiff may have itself applied for 
+grant of patent in respect of the allegedly 
+infringing product, and abandoned the claim 
+later, was held, in Merck v. Glenmark, to be 
+irrelevant. In a visible departure, however, 
+where the claim of the plaintiff was rejected, 
+Roche v. Cipla held this to be an indicator, 
+prima facie, that the defendant’s product 
+infringed the suit patent. 
+(iv) Section 3(d)  
+(a) Once a patent was granted to an Active 
+Pharmaceutical Ingredient (API), Section 
+3(d) protects all products of such API, in any 
+form, from grant of a subsequent patent. The 
+manufacture or marketing by any third party 
+of any product-derivative of a patented API 
+would amount to infringement. The API is the 
+molecular entity which exerts the therapeutic 
+effect of medicine and is biologically active. 
+Patent protection is ordinarily granted to the 
+API.  
+(b) In the case of pharmaceutical products, the 
+derivatives envisaged by Section 3(d) would 
+include (a) prodrugs, which are not active, but 
+are metabolized in the body so as to result in 
+pharmaceutically 
+active 
+substances, 
+(b) 
+combinations of more than one APIs or the 
+combination of an API with an inert carrier 
+and (c) drug delivery systems, which are 
+compositions enabling the constituents to be 
+administered in a particular fashion. 
+(c) In Novartis, examining the vulnerability 
+of Imatinib Mesylate to invalidity on the 
+ground of Section 3(d), the Supreme Court 
+held that (i) the obtaining of approval for 
+Imatinib 
+Mesylate 
+on 
+the 
+basis 
+of 
+Zimmerman patent, (ii) the obtaining of 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 23 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 23 of 86 
+ 
+patent term extension for the Zimmerman 
+patent on the ground of pendency of 
+regulatory approval for Imatinib Mesylate, 
+(iii) the obtaining, by Novartis, of injunction 
+against marketing of Imatinib Mesylate by 
+any third party on the basis of the Zimmerman 
+patent and (iv) the view of the Board of Patent 
+Appeals that the Zimmerman patent had the 
+teaching to convert Imatinib to Imatinib 
+Mesylate, in conjunction, indicated that 
+Imatinib Mesylate was not a “new product”, 
+within the meaning of Section 3(d), vis-à-vis 
+the Zimmerman patent, but merely a “known 
+substance”.  
+(d) “Efficacy” in Section 3(d) refers to the 
+function, utility and purpose of the product 
+under 
+consideration. 
+Hence, 
+for 
+pharmaceutical products, “efficacy” would 
+mean “therapeutic efficacy”. “Therapeutic 
+efficacy” was required to be judged strictly 
+and narrowly.  
+(e) Enhanced properties, which were inherent 
+to the forms of the known substance, 
+visualized in the explanation to Section 3(d) 
+would 
+not 
+imply 
+enhanced 
+efficacy. 
+Enhanced therapeutic efficacy was a must. 
+(f) “Enhanced solubility” is no indicator of 
+enhanced 
+efficacy 
+in 
+pharmaceutical 
+products.  
+(g) Applying this principle, the admission, by 
+Novartis, that “all indicated inhibitory and 
+pharmacological effects of the β-crystalline 
+form of Imatinib Mesylate are present in the 
+free base”, was held by the Supreme Court in 
+Novartis, to indicate that the β-crystalline 
+form of Imatinib Mesylate did not possess 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 24 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 24 of 86 
+ 
+enhanced efficacy vis-à-vis the Imatinib free 
+base.  
+(h) As no research data had been placed by 
+Novartis on record to indicate enhanced 
+therapeutic efficacy of the β-crystalline form 
+over the Zimmerman patent, except in respect 
+of properties already possessed by the 
+Zimmerman patent, the Supreme Court, in 
+Novartis, that the β-crystalline form of 
+Imatinib Mesylate did not possess enhanced 
+therapeutic efficacy vis-à-vis the free base or 
+the non crystalline form of Imatinib Mesylate.  
+(i) Whether increased bioavailability would 
+or would not, result in enhanced therapeutic 
+efficacy had to be decided on the basis of 
+research data, and had to be specifically 
+claimed.  
+(v) Coverage, claim construction and disclosure 
+(a) The coverage of a claim, for the purposes 
+of determination the scope of protection 
+under Section 48 of the Patents Act65 had to 
+be determined by claim construction. Claim 
+construction involved reading of the wording 
+of the claim with its enabling disclosures as 
+contained in the complete specifications, as 
+understood by a person skilled in the art, 
+acquainted with the technology in question. A 
+product could be treated as covered by the 
+claim, for the purposes of patent protection if, 
+on the basis of the wording of the claim read 
+with the enabling disclosures in the complete 
+specifications, the person skilled in the art 
+would be in a position to work the invention 
+so as to make it available to the public by the 
+expiry of the patent term.  
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 25 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 25 of 86 
+ 
+(b) The qualities of an enabling disclosure 
+were well delineated in the Wands tests. They 
+involved (i) the quantity of experimentation 
+necessary, (ii) the amount of guidance 
+available 
+in 
+the 
+patent, 
+(iii) 
+the 
+presence/absence of working examples, (iv) 
+the nature of invention, (v) the state of prior 
+art, (vi) the related skill of those in the art, 
+(vii) the predictability/unpredictability of the 
+art and (viii) the breadth of the claims.  
+(c) Some of the principles of claim 
+construction are that (i) the claim defines the 
+scope and territory of the patent, (ii) claims in 
+a patent may be dependent or independent, 
+(iii) different claims in one patent define 
+different embodiments of the same inventive 
+concept, (iv) invalidation must be of each 
+claim separately and independently, (v) 
+where the claim was worded using the 
+expression “comprising of” various elements, 
+the addition of another element would 
+infringe the patent, (f) where, however, the 
+claim was “consisting of” various elements, 
+infringement would require the subsequent 
+patent to have all the elements in the claim 
+and non other, with the addition of any other 
+element defeating infringement and (g) 
+claims were not to be construed on the basis 
+of prior material or subsequent conduct.  
+(d) In this context, in my opinion, 
+demystification of the concept of “coverage”, 
+when used in the concept of claim 
+construction and claim protection in patent 
+law, is essential, as there is considerable 
+debate on this issue in nearly every case, with 
+Counsel, relying on the same decisions, 
+adopting near irreconciliable stances. There 
+is, in my view, a distinction between the 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 26 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 26 of 86 
+ 
+“broad coverage” of a claim in a patent, and 
+the “protected coverage”, i.e. the coverage 
+which would be entitled to patent protection 
+under Section 48. The following passage 
+from Merck v. Glenmark is important in this 
+regard: 
+“Construction of the patent by this court, 
+to verify its coverage is fundamental. 
+This coverage depends on the nature of 
+the 
+claims 
+made 
+(and 
+enabling 
+disclosures specified) by MSD in its 
+‘Complete Specification’ under Form 2 
+of the Act. The words used to describe 
+the claims – as read by a person of 
+ordinary skill in the art – determine the 
+breadth of the monopoly granted by the 
+patent, for which the substantive (and 
+indeed, substantial) rights under Section 
+48 of the Act are triggered.” 
+(Emphasis supplied) 
+Judgements are not to be read like statutes. 
+While referring to a precedent, it is necessary 
+to discern, with care, what exactly the court 
+seeks to convey. The reference to “coverage”, 
+in the afore-extracted passage from Merck v. 
+Glenmark, is, in my view, to be understood 
+as referring not to the “broad coverage” of the 
+claim, but to that coverage which would be 
+entitled to patent protection under Section 48. 
+The Division Bench holds that the coverage 
+encompassed by the claim, as worded, read 
+with the enabling disclosure, would be 
+entitled to protection under Section 48. A case 
+in point is SPM, which was subject matter of 
+consideration in Merck v. Glenmark. The 
+claim in IN 816, as worded, encompassed 
+“Sitagliptin 
+with 
+its 
+pharmaceutically 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 27 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 27 of 86 
+ 
+acceptable salts”. Sitagliptin Hydrochloride 
+was specifically exemplified in the complete 
+specifications in IN 816. The SFB, and 
+Sitagliptin Hydrochloride, therefore were, on 
+a plain reading, entitled to patent protection. 
+Paras 38 and 39 of the report in Merck v. 
+Glenmark goes on to suggest that, possibly, 
+enabling disclosure, in respect of SPM, was 
+also to be found in IN 816 (though, later, the 
+judgement leaves this issue open for more 
+detailed analysis). The paragraphs (to the 
+extent relevant) read thus: 
+“38. 
+... 
+The 
+section 
+‘Detailed 
+Description of the Invention’, which 
+discloses 
+Formula 
+1 
+(reproduced 
+below), corresponds to claim 1 of the 
+patent 
+specification, 
+discloses 
+the 
+following compound structure: 
+39. This is the Sitagliptin free base. Each 
+element of this structure, and selection 
+of particular elements to reach this 
+structure, is further detailed at pages 5 
+and 6 of the specification. Page 10 
+further details the separation of racemix 
+mixtures of the compound to isolate 
+individual enantiomers, including the R 
+form of the compound that is ultimately 
+used in Januvia and Janumet. The term 
+“pharmaceutically acceptable salts” – it 
+is stated – “refers to salts prepared from 
+pharmaceutically acceptable non-toxic 
+bases or acids including” inter alia 
+phosphoric acid, which is the second 
+element in SPM (i.e. the P in SPM). The 
+M – or monohydrate – is indicated by 
+stating that "salts... may also be in the 
+form of hydrates" (page 10 of the Form 
+2 filing).” 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 28 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 28 of 86 
+ 
+If, thus, the disclosure contained in IN 816 
+enabled the person skilled in the cart to arrive 
+at SPM, SPM would also be covered by IN 
+816 so as to be entitled to patent protection 
+under Section 48.” This, then, would, as held 
+in para 38 of Merck v. Glenmark, be the 
+“coverage” 
+which 
+would 
+trigger 
+the 
+protection provided by Section 48. 
+(e) As against this, the “broad coverage” of 
+the claim in the patent, as worded, may 
+include products for which there is no 
+enabling disclosure. For example, in IN 816, 
+all pharmaceutically acceptable salts of 
+Sitagliptin are within the “broad coverage” of 
+the claim as worded. Assuming, however, 
+that there is, in the complete specifications in 
+IN 816, no enabling disclosure (arguendo) 
+except in respect of SPM – excepting 
+Sitagliptin Hydrochloride, which is claimed 
+by exemplification, such pharmaceutically 
+acceptable salts, which are not disclosed in IN 
+816, but are, nonetheless, within the coverage 
+of the claim as worded, would not be entitled 
+to patent protection under Section 48. 
+“Coverage”, in this sense, is, therefore, wider 
+than “disclosure”. 
+(f) While this distinction between “coverage” 
+of a claim, as understood in absolute terms, 
+and the “disclosures” in the complete 
+specifications relating thereto does exist, the 
+gap between coverage and disclosure could 
+not be so wide as to enable an artful draftsman 
+to so draft a claim as to escape coverage by 
+the prior art. 
+(g) Applying this principle, the contention of 
+Novartis that the Zimmerman patent covered, 
+but did not disclose Imatinib Mesylate, was 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 29 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 29 of 86 
+ 
+rejected by the Supreme Court in Novartis. 
+The Supreme Court held that (a) as the 
+Imatinib free base was covered and disclosed 
+in the Zimmerman patent, (b) the Zimmerman 
+patent 
+also 
+claimed 
+pharmaceutically 
+acceptable salts of the Zimmerman free base, 
+(c) Imatinib Mesylate was a “known 
+substance” from the Zimmerman patent and 
+(d) Imatinib Mesylate was a pharmaceutically 
+acceptable salt of the Imatinib free base, 
+Imatinib Mesylate was claimed and disclosed 
+in the Zimmerman patent. 
+(h) Similarly, in Merck v. Glenmark, even 
+while expressing no final opinion in that 
+regard, it was observed that (a) the disclosure, 
+in the prior art, of the method of isolation of 
+the Sitagliptin free base, (b) the identification 
+of pharmaceutically acceptable salt of 
+Sitagliptin, in the prior art, as including salts 
+made from phosphoric acid and (c) the 
+suggestion, 
+in 
+the 
+prior 
+art, 
+that 
+pharmaceutically acceptable salts of the 
+Sitagliptin free base may also be in the form 
+of hydrates, indicated that SPM was disclosed 
+in the prior art. 
+(i) Where the attached salt radical was a mere 
+inert career, and pharmaceutical activity was 
+attributable to the free base, the disclosure of 
+the free base in prior art would imply 
+disclosure of the salt, as novelty existed in the 
+free base, even if the combination with the 
+inert salt radical was useful for effective 
+administration of the drug. 
+(vi) Obviousness: 
+(a) “Prior disclosure”, for the purposes of 
+obviousness, meant disclosure which, if 
+performed, would infringe the patent.  
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 30 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 30 of 86 
+ 
+(b) Prior art, for the purposes of obviousness, 
+was required to have been published before 
+the priority date of the suit patent. 
+(c) The test of obviousness was whether, if 
+the prior art document was placed in the 
+hands of a competent draftsman endowed 
+with common general knowledge at the 
+priority date, faced with the problem which 
+the patentee solved in the suit patent, but not 
+endowed with the knowledge of the patented 
+invention, the draftsman would have said 
+“this gives me what I want.” 
+(d) In Roche v. Cipla-I, various combination 
+tests have been approved by the Division 
+Bench, to assess “obviousness”. These are the 
+following: 
+(i) The first is the triple test of 
+obviousness, involving determination of 
+the scope and content of the prior art, 
+difference between the prior art and the 
+claims and issue and the level of ordinary 
+skill in the pertinent art resolved. Against 
+this background, the obviousness or non-
+obviousness of the subject matter is 
+determined. 
+Such 
+secondary 
+considerations as commercial success, 
+long felt but unsolved needs, failure of 
+others, etc., might be utilized to give light 
+to the circumstances surrounding the 
+origin of the subject matter sought to be 
+patented. 
+(ii) The second test involves the 
+following four steps: 
+(a) 
+identifying 
+the 
+inventive 
+concept embodied in the patent; 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 31 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 31 of 86 
+ 
+(b) imputing to a normally skilled 
+but unimaginative addressee what 
+was common general knowledge 
+in the art at the priority date;  
+(c) identifying the differences if 
+any between the matter cited and 
+the alleged invention; and 
+(d) 
+deciding 
+whether 
+those 
+differences, viewed without any 
+knowledge 
+of 
+the 
+alleged 
+invention, constituted steps which 
+would have been obvious to the 
+skilled man or whether they 
+required any degree of invention.  
+(iii) The third test involves the following 
+five steps:  
+“Step No. 1 – To identify an 
+ordinary person skilled in the art,  
+Step No. 2 – To identify the 
+inventive concept embodied in the 
+patent, 
+Step No. 3 – To impute to a 
+normal skilled but unimaginative 
+ordinary person skilled in the art 
+what 
+was 
+common 
+general 
+knowledge in the art at the priority 
+date.  
+Step No. 4 – To identify the 
+differences, if any, between the 
+matter cited and the alleged 
+invention and ascertain whether 
+the 
+differences 
+are 
+ordinary 
+application of law or involve 
+various different steps requiring 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 32 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 32 of 86 
+ 
+multiple, theoretical and practical 
+applications,  
+Step No. 5 – To decide whether 
+those differences, viewed in the 
+knowledge of alleged invention, 
+constituted steps which would 
+have been obvious to the ordinary 
+person skilled in the art and rule 
+out a hideside (sic hindsight) 
+approach.” 
+(e) The reason or motivation for making the 
+choices which would lead the persons skilled 
+in the art to arrive at the suit patent from the 
+prior art, must be apparent in the prior art, i.e. 
+in the claim in the prior art read with its 
+enabling disclosure, for “obviousness” to 
+exist. The “motivation” must include the 
+motivation to select and the motivation to 
+combine.76 
+(f) The suit patent is obvious from the prior 
+art if the invention claimed in the suit patent, 
+as a whole, would have been obvious, prior to 
+the priority date of the suit patent, to a person 
+skilled in the art, from the claim in the prior 
+art read with its enabling disclosures. In this, 
+the first step is the selection of the prior art as 
+the lead compound. 
+(g) Clear differences in molecular structure 
+would militate against any inference of 
+obviousness.  
+(h) In assessing obviousness, hindsight 
+analysis is impermissible. In other words, 
+while assessing whether the suit patent is 
+vulnerable to invalidity on the ground of 
+obviousness, the teachings in the suit patent 
+cannot be used as a guide. If the teachings in 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 33 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 33 of 86 
+ 
+the suit patent are required to be referred, it 
+would imply that the exercise is one of 
+hindsight analysis. 
+(i) The simple test to ascertain whether the 
+suit patent is obvious from the prior art, is, 
+therefore, to arm the mythical person skilled 
+in the art with the complete specifications of 
+the prior art, and the objective which the suit 
+patent ultimately achieved. If the person is 
+able to use the teaching in the prior art to 
+arrive at the suit patent, the suit patent is 
+obvious. If he is not able to do so, it is not. 
+(j) The “person skilled in the art” is “a person 
+who practices in the field of endeavor, 
+belongs to the same industry as the invention, 
+possesses average knowledge and ability and 
+is aware of what was common general 
+knowledge at the relevant date”. 
+(k) A claim of infringement, by the product of 
+the defendant, of the suit patent as well as the 
+prior art, would itself defeat, prima facie, the 
+allegation of infringement, as it would imply 
+that the suit patent is obvious from the prior 
+art. 
+(l) In the case of a Markush patent, and a 
+subsequent patent for a specific entity, where 
+the Markush does not contain any precise 
+enabling disclosure teaching the way to the 
+subsequent patent, the question to be 
+addressed while examining the vulnerability 
+of the subsequent patent as obvious from the 
+Markush, would be as to how far the 
+subsequent patent is subsumed in the earlier 
+Markush patent. 
+(m) Where the inventor of the prior art and the 
+suit patent is the same, the appropriate test to 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 34 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 34 of 86 
+ 
+be applied would be that of “a person in 
+know, rather than a person skilled in the art.”  
+(vii) Industrial applicability and commercial 
+utility: 
+(a) On the aspect of industrial applicability, in 
+Merck v. Glenmark, it was held that, once the 
+SFB had been disclosed, alongwith disclosure 
+of its usefulness in treating diseases and the 
+mode of administration of the drug resulting 
+from the free base, the SFB was capable of 
+industrial application. 
+(b) Capability of industrial application has to 
+be decided on the basis of the API, not on the 
+basis of the particular salt. The requirement of 
+combination of the API with an inert career, 
+for its administration, was irrelevant to the 
+issue of industrial application.  
+(c) The inert career is not the crux of the 
+invention, as the therapeutic efficacy is 
+attributable to the API alone.  
+(d) 
+The 
+criteria 
+to 
+assess 
+industrial 
+application are (i) that the patent must 
+disclose its practical application and be of 
+profitable use, (ii) the use of the patent in 
+industrial practice must be derivable directly 
+from the description in the complete 
+specifications read with common general 
+knowledge, 
+(iii) 
+speculative 
+use 
+is 
+insufficient in this regard and (iv) the 
+complete specification, read with common 
+general knowledge, was required to be 
+sufficient to enable a person skilled in the art 
+to exploit the invention without undue burden 
+and without having to carry out a research 
+programme. 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 35 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 35 of 86 
+ 
+(e) In pharmaceutical compounds, generally, 
+a patent is capable of industrial application if 
+(i) the function of the entity is disclosed in the 
+patent and (ii) the function disclosed relates 
+to usefulness of the entity in the medical 
+industry. 
+(f) Breakthrough inventions, even if not 
+commercially viable at the time of their 
+conceptualization, 
+or 
+invention, 
+are 
+nonetheless 
+useful 
+and 
+industrially 
+applicable. In this context, “commercial 
+utility” 
+must 
+be 
+distinguished 
+from 
+“patentable utility”. “Commercial utility” is 
+not a sine qua non for patentability.  
+(g) Any challenge to the validity of a patent 
+on the ground of want of commercial utility, 
+in order to succeed, would require the 
+challenger 
+to 
+show 
+that 
+the 
+later 
+commercially successful patent owed nothing 
+to the original patent. 
+(h) A patent could be treated as lacking 
+commercial utility only if, even if worked as 
+suggested by the complete specifications, it 
+would not yield the promised result. If it does, 
+commercial utility is established. 
+(viii) Section 8: 
+(a) The requirement of compliance with 
+Section 8 of the Patents Act is mandatory. 
+(b) As violation of Section 8 renders the 
+patent vulnerable to revocation, the provision 
+is required to be strictly construed. 
+(c) Section 8 is applicable only to foreign 
+patents. 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 36 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 36 of 86 
+ 
+(d) The use of the word “may” in Section 8 
+indicates that, breach does not automatically 
+result in revocation of the patent and that 
+revocation is discretionary. 
+(e) At the interlocutory stage, it is normally 
+not advisable to reject a request for injunction 
+on the ground of violation, in obtaining the 
+suit patent, of Section 8. 
+(f) The failure, by the plaintiff, to disclose the 
+earlier application filed by the plaintiff for the 
+patent in respect of the allegedly infringing 
+product later released by the defendant, 
+would not be fatal where, at the time of 
+applying for the suit patent, the plaintiff was 
+of the opinion that the allegedly infringing 
+product was a separate invention. This 
+principle was applied in Roche, in the context 
+of 
+Erlotinib 
+Hydrochloride 
+vis-à-vis 
+polymorph B thereof.” 
+ 
+29. 
+Insofar as Natco’s challenge to the validity of IN’161 on the anvil 
+of Section 3(d) of the Act is concerned, the learned Single Judge held 
+that in the case of Novartis v. UoI1, the Supreme Court had accepted 
+that bioavailability could be an indicator of increased therapeutic 
+efficacy. The learned Single Judge further observed that the decision in 
+the case of Novartis v. UoI1 was in the context of a challenge to the 
+rejection of an application for registration of a patent and thus, the 
+applicant was required to establish the increase in therapeutic efficacy 
+of the invention. However, in the present case since, the patent in 
+respect of ELT-O was granted, the onus would lie heavily on Natco to 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 37 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 37 of 86 
+ 
+establish the vulnerability of the suit patent on the ground of invalidity.  
+The learned Single Judge held that the challenge to the validity of patent 
+must be a credible challenge, which occupies a higher pedestal than a 
+challenge, which is worthy of consideration.   
+30. 
+ The learned Single Judge referred to the data provided by 
+Novartis and observed that ELT, when combined with Olamine 
+increases the yield of Eltrombopag (the free acid). The learned Single 
+Judge also, prima facie, accepted the contention that the maximum 
+plasma concentration of ELT-O was thrice the plasma concentration of 
+ELT.  The learned Single Judge did not accept that Natco had laid a 
+credible challenge to the validity of  IN’161 on the ground that it did 
+not enhance the therapeutic efficacy of ELT.   
+31. 
+The learned Single Judge also rejected the contention that the suit 
+patent was vulnerable under Section 64(1)(a) of the Act on the ground 
+of anticipation by prior claim. The learned Single Judge held that the 
+suit patent would be vulnerable only if ELT-O as claimed was contained 
+in complete specifications of IN’176. The learned Single Judge held 
+that to sustain the challenge under Section 64(1)(a) of the Act, the claim, 
+the validity of which is challenged, must be identical to the claim in a 
+prior art or of a co-equal extent and amplitude. Since, Claim no.1 in 
+IN’161 specifically claimed ELT-O, it was necessary for Natco to 
+establish that the prior art (IN’176) also specifically claimed ELT-O.  
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 38 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 38 of 86 
+ 
+32. 
+It was contended on behalf of Natco that selecting the appropriate 
+compounds as mentioned in the specification in IN’176 would yield 
+ELT-O solubility. However, the said contention was rejected as the 
+learned Single Judge was of the view that the selection of various 
+compounds was by resorting to hindsight deduction. The learned Single 
+Judge was of the view that it was not permissible for Natco to make out 
+a case of vulnerability of IN’161 on the ground of anticipation by prior 
+claiming by “cherry picking substituents from those suggested in the 
+complete specifications in the prior art and substituting them at the 
+appropriate site in the Markush moiety as to arrive at the suit patent.” 
+The learned Single Judge held that for claiming anticipation by prior 
+claiming, the claim in the suit patent must be shown to have been 
+claimed in the prior art.   
+33. 
+The learned Single Judge sought to draw a distinction between a 
+broad coverage of a claim based on its wording and the coverage of a 
+claim as would entitle patent protection under Section 48 of the Act. 
+The learned Single Judge held that protection under Section 48 of the 
+Act is available only to the coverage of the claim as it emerges from the 
+claim construction read with the enabling disclosure accompanying the 
+claim in the complete specifications.  Thus, although Claim no.6 in 
+IN’176 would broadly cover ELT-O as a pharmaceutically acceptable 
+salt of ELT, but it could not be accepted that ELT-O was claimed under 
+Claim no.6 in IN’176 read with the enabling disclosure.  
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 39 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 39 of 86 
+ 
+34. 
+The learned Single Judge also rejected the contention that the 
+PTE (Patent Term Extension) and SPC (Supplementary Protection 
+Certificate) applications filed by Novartis for its predecessor in respect 
+of US’870 and EP’378 or the entry in the orange book could constitute 
+the basis for a credible challenge to the suit patent- IN’161.   
+35. 
+The learned Single Judge did not prima facie accept the 
+contention that ELT-O was claimed and disclosed either in US’870 or 
+in EP’378 merely, because it was stated that the said patents “read on” 
+to the approved drug product (that is, Eltrombopag Olamine). The 
+learned Single Judge held that these are matters, which would require 
+the detailed examination during trial.  
+36. 
+The learned Single Judge did not accept that Form No.27 filed by 
+Novartis in respect of IN’176 and IN’161 were relevant in determining 
+whether ELT-O was claimed in IN’176.   
+37. 
+The learned Single Judge did not accept that Natco’s challenge 
+to IN’161 on the ground of obviousness under Section 64(1)(d) of the 
+Act prima facie presented a credible challenge to IN’176. The learned 
+Single Judge held that on a plain comparison of Claim nos.1 to 4 in 
+IN’176 and Claim no. 1 in Suit Patent, IN’161, it is clear that the 
+exercise to show that ELT-O was obvious from the teachings of IN’176 
+was an exercise of hindsight, which was not permissible. The learned 
+Single Judge held that motivation to select certain compounds out of 
+several compounds provided in the prior art (IN’176) and the 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 40 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 40 of 86 
+ 
+motivation to substitute them at the appropriate site so as to achieve the 
+desired purpose, are both required to be shown to exist in the prior art 
+itself.  The learned Single Judge held that the exercise undertaken to 
+arrive at Claim no.1 of IN’176 from Claim no.1 to 5 of IN’161 was 
+clearly one of hindsight analysis.  
+38. 
+The learned Single Judge prima facie accepted the contention 
+that ELT-O was unknown as a pharmaceutically acceptable salt of ELT 
+prior to the priority date of IN’161. Therefore, it was a novel invention.  
+The learned Single Judge, therefore, rejected the contention that Claim 
+no.6 of IN’176 enabled a person skilled in the art to arrive at ELT-O.  
+Natco had cited certain prior arts, which reflected the use of Olamine.  
+Natco had claimed that a person skilled in art could, thus, arrive at a suit 
+patent by using Olamine to form a pharmaceutically acceptable salt of 
+ELT. In view of the above, the learned Single Judge restrained Natco 
+from manufacturing or distributing ELT-O. 
+REASONS AND CONCLUSION 
+ 
+Standard of Challenge to validity at Interim stage 
+39. 
+At the outset, it is relevant to note that there is no presumption of 
+validity of a patent by virtue of the same being granted by the Patent 
+Office. Thus, the fact that the examiners have conducted necessary 
+investigations prior to the grant of patent does not render a patent 
+immune from challenge to its validity. The contention that there was no 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 41 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 41 of 86 
+ 
+pre-grant or post-grant opposition to IN’161 and therefore, Natco has to 
+cross a very high threshold to assail the validity of the patent, is 
+unmerited. The Act expressly enables a challenge to the validity of a 
+patent at various stages. Section 25(1) of the Act enables any person to 
+challenge the grant of a patent after the application for the patent has 
+been published. This is, essentially, in aid of the examination process6. 
+In terms of Section 25(2) of the Act, an interested person can challenge 
+the grant of a patent on the grounds as set out in the said sub-section, 
+subject to the said challenge being raised within a period of one year 
+from the date of publication of the patent. Section 64(1) of the Act also 
+enables a person to file a petition for revocation of a patent on the 
+grounds as set out in Section 64(1) of the Act. In terms of Section 64(1) 
+of the Act, any person interested, or the Central Government is entitled 
+to apply for revocation of the patent, either, by way of a petition or by 
+way of a counter-claim in a suit for infringement on the grounds as set 
+out in Section 64(1) of the Act. Additionally, in terms of Section 105 of 
+the Act, any person is entitled to institute a suit for declaration, that the 
+use by him of any process, or the making, use or sale of any article by 
+him does not, or would not constitute infringement of a claim of a 
+patent.  
+40. 
+It is also material to note that there is no statutory provision 
+similar to Section 31 of the Trade Marks Act, 1999, which posits a 
+statutory presumption of validity on grant of a patent. It is also relevant 
+ 
+6 UCB Farchim Sa v. Cipla Ltd. & Ors.: 2010 SCC OnLine Del 523  
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 42 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 42 of 86 
+ 
+to refer to Section 13(4) of the Act, which expressly provides that the 
+investigation required under Section 12 of the Act – the pre-grant 
+investigations and inquiries leading to the grant of patent – does in any 
+way warrant the validity of any patent.   
+41. 
+Absent any statutory presumption and given the scheme of the 
+Act, which enables challenge to the validity of a patent at several stages, 
+there is neither any presumption as to the validity of a patent nor renders 
+the patent immune for challenge to its validity.  
+42. 
+Thus, in an action for infringement of a patent, defence as to the 
+invalidity of the patent on the grounds as provided in Section 64(1) of 
+the Act, is available to the defendant. The court is required to examine 
+the challenge with an open mindset and not from the standpoint of an 
+assumption that the patent is validly granted.  
+43. 
+Unless there is no real prospect of the defendant to succeed in its 
+challenge and an appropriate application to allow the action is made 
+prior to framing of issues, the questions as to the validity of the patent 
+asserted, are required to be determined at the trial.  However, at the 
+stage of interim relief, the defendant has to establish its assertion that 
+its defence is not insubstantial and sets out a credible challenge to the 
+validity of the patent. The defendant is not required to establish that the 
+patent is invalid, it has to merely show that the patent is vulnerable. If 
+the challenge raised to the validity is substantial, the threshold standard 
+for resisting an interim injunction in this regard – subject to other 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 43 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 43 of 86 
+ 
+relevant considerations –would be met. In this context, it is relevant to 
+refer to the decision of the Division Bench of this Court in F. 
+Hoffmann-LA Roche Ltd. & Anr.  v. Cipla Ltd.7. In the said case, the 
+Division Bench had rejected the contention that the defendant had a 
+heavy burden to discharge and would have to establish a stronger prima 
+facie case than the plaintiff.  The Division Bench had also not accepted 
+the contention that since there is a multi-level examination of opposition 
+to the grant of patent, it ought to be accorded the highest weightage.  
+The relevant extract of the said decision is set out below: 
+“53. The plea of the plaintiff that since there is a multi-
+layered, multi-level examination of the opposition to the grant 
+of patent it should accorded the highest weightage, is not 
+entirely correct. The contention that there is a heavy burden 
+on the defendant to discharge since it has to establish that it 
+has a stronger prima facie case of the plaintiff is contra 
+indicated of the decisions in the context of Section 13(4). 
+Reference may be made to the decisions in Biswanath Prasad 
+Radhey Shyam v. Hindustan Metal Industries, (1979) 2 SCC 
+511 : AIR 
+1982 
+SC 
+1444 : 
+Supp 
+(1) 
+PTC 
+731 
+(SC), Standipack Pvt. Ltd. v. Oswal Trading Co. Ltd., AIR 
+2000 
+Del 
+23 : (1999) 
+19 
+PTC 
+479 (Del), Bilcare 
+Ltd. v. Amartara 
+Pvt. 
+Ltd., (2007) 
+34 
+PTC 
+419 (Del), Surendra Lal Mahendra v. Jain Glazers, 1980 
+SCC OnLine Del 219. In Beecham Group Ltd. v. Bristol 
+Laboratories 
+Pty 
+Ltd., (1967-1968) 
+118 
+CLR 
+618 
+and Australian Broadcasting Corporation v. O'Neill, (2006) 
+229 ALR 457 it was held that the defendant alleging 
+invalidity bears the onus of establishing that there is “a 
+serious question” to be tried on that issue. In Hexal Australai 
+Pty Ltd. v. Roche Therapeutics Inc., 66 IPR 325 it was held 
+that where the validity of a patent is raised in interlocutory 
+ 
+7 2009 SCC OnLine Del 1074 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 44 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 44 of 86 
+ 
+proceedings, “the onus lies on the party asserting invalidity to 
+show that want of validity is a triable question.” In Abbot 
+Laboratories v. Andrx Pharmaceuticals Inc. (decision dated 
+22nd June 2006 of the U.S. Court of Appeals for the Federal 
+Circuit 05-1433) the Court of Appeals followed its earlier 
+ruling in Helifix Ltd. v. Blok-Lok Ltd. 208 F.3d 1339 where it 
+was held (at 1359): “In resisting a preliminary injunction, 
+however, one need not make out a case of actual invalidity. 
+Vulnerability is the issue at the preliminary injunction stage, 
+while validity is the issue at trial. The showing of a substantial 
+question as to invalidity thus requires less proof than the clear 
+and convincing showing necessary to establish invalidity 
+itself.” (emphasis supplied) In Erico Int'll Corprn v. Vutec 
+Corprn (U.S. Court of Appeals for the Federal Circuit, 2007-
+1168) it was held that the “defendant must put forth a 
+substantial question of invalidity to show that the claims at 
+issue are vulnerable.” 
+54. In the present case, the grant of a patent to the 
+plaintiffs for Erlotinib Hydrochloride as a mixture of 
+Polymorphs A and B will not ipso facto entitle them to an 
+interim injunction if the defendant is able to satisfy the court 
+that there is a serious question to be tried as to the validity of 
+the patent. The use by the learned Single Judge of the 
+expressions “strong credible challenge”, “arguable case” or 
+that the defendants claim being not unfounded, cannot be 
+termed as vague and inconsistent since they convey the same 
+meaning in the context of the strength of the defendant's 
+challenge. 
+55. The question before this Court is when can it be said 
+that the defendant has raised a credible challenge to the 
+validity of a patent held by the plaintiff in an infringement 
+action? During the course of the argument it was suggested 
+by counsel that the challenge had to be both strong and 
+credible. Also, the defendant resisting the grant of injunction 
+by challenging the validity of the patent is at this stage 
+required to show that the patent is “vulnerable” and that the 
+challenge raises a “serious substantial question” and a triable 
+issue. Without indulging in an exercise in semantics, the 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 45 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 45 of 86 
+ 
+Court when faced with a prayer for grant of injunction and a 
+corresponding plea of the defendant challenging the validity 
+of the patent itself must enquire whether the defendant has 
+raised a credible challenge. In other words, that would in the 
+context of pharmaceutical products, invite scrutiny of the 
+order granting patent in the light of Section 3(d) and the 
+grounds set out in Section 64 of the Patents Act, 1970. At this 
+stage of course the Court is not expected to examine the 
+challenge in any great detail and arrive at a definite finding 
+on the question of validity. That will have to await the trial. At 
+the present stage of considering the grant of an interim 
+injunction, the defendant has to show that the patent that has 
+been granted is vulnerable to challenge. Consequently, this 
+Court rejects the contentions of the plaintiffs on this issue and 
+affirms the impugned judgment of the learned Single Judge” 
+ 
+ 
+44. 
+It is also relevant to refer to the decision of the learned Single 
+Judge of this Court in Astrazeneca AB & Anr. v. Intas 
+Pharmaceuticals Ltd.8.  In the said case, the learned Single Judge 
+rejected the contention that since the suit patents were old, they should 
+be presumed to be valid.  The learned Single Judge did so for two 
+reasons.  First, the learned Single Judge found – much like in the present 
+appeal where it is the stated case that ELT-O is covered under both IN’ 
+176 and the suit patent IN’ 161 – that there was an overlap in the genus 
+patent and the species patent.  And second, that the presumption of 
+validity exists only till such time the patent is challenged and the 
+challenge is credible.  The relevant extract of the said decision is set out 
+below: 
+ 
+8 2020 SCC OnLine Del 2765 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 46 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 46 of 86 
+ 
+“51. Furthermore, the argument advanced on behalf of the 
+plaintiffs that since the suit patents are old and thus, should be 
+presumed to be valid cannot be accepted for two reasons. 
+i. 
+First, there is a period of overlap between the genus 
+patent i.e. IN 147 and the species patent i.e. IN 625. The 
+defendants, in this case, chose to wait [in line with 
+arguments advanced in their defence of the suit actions] 
+till such time the validity period of the genus patent i.e. 
+IN 147 expired. 
+ii. 
+Second, as indicated above, the scheme of the Act does 
+not foreclose the right of the defendants in defence to an 
+infringement action to question the validity of the patent. 
+Section 107 of the Act, expressly confers a right on the 
+defendants to raise, in defence, in an infringement suit, 
+all those grounds on which the patent can be revoked 
+under Section 64 of the very same Act. Therefore, the 
+judgment in Bristol-Myers Squibb Company v. J.D. 
+Joshi, 2015 SCC OnLine Del 10109, if read in context, 
+would demonstrate that it has not emasculated the right 
+of the defendant, as conferred under the Act, to challenge 
+the validity of the patent. The presumption of validity 
+exists only till such time the patent is challenged - a 
+challenge which is credible and no further. In my 
+opinion, if the plaintiffs' argument was to be accepted, 
+then, it would have to be held that the older the patent, 
+the stronger the firewall. Such an interpretation, in my 
+view, would be contrary to the plain words of the Statute. 
+[Emphasis added] 
+45. 
+The appeal against the said decision was dismissed by the 
+Division Bench of this Court as being without any merit.  
+46. 
+In the present case, the learned Single Judge held that even if a 
+prima facie ground for revocation is made out, revocation is not 
+automatic as the patent authority retains discretion not to revoke the 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 47 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 47 of 86 
+ 
+patent if not absolutely necessary. And, the vulnerability to revocation 
+must also be adjudged on the same standard. The learned Single Judge 
+also concluded that this standard is therefore, high rather than low.  It 
+was further observed that the credible challenge occupies a higher 
+pedestal than challenge, which is merely worthy of consideration. The 
+learned Single Judge held that “When an infringer seeks to defend 
+infringement on the ground that the patent he infringes is invalid, the 
+onus, to prove such invalidity heavily lies on him. This standard has to 
+be met, when applying the principle of “credibility””. The standard as 
+articulated in the impugned judgement is in clear variance with the 
+decision of the Division Bench of this court in F. Hoffmann-LA Roche 
+Ltd. & Anr.  v. Cipla Ltd.7. In the said case, the Division Bench had 
+expressly rejected the contention that the defendant has a heavy burden 
+to discharge as it has to establish a stronger prima facie case. It is 
+apparent that in the present case, the learned Single Judge has applied a 
+higher standard for examining whether a credible challenge to the 
+validity of a patent is made out, than as explained by the Division 
+Bench. In effect, the learned Single Judge has read in a presumption as 
+to the validity of the patent, where none exists. Obviously, a challenge 
+to a patent, that is insubstantial, would be wholly insufficient to resist 
+an order of interdiction. However, if a prima facie ground of revocation 
+is made out, the threshold standard of credible challenge is met 
+notwithstanding the discretion vested with the patent authority in regard 
+to revocation of the patent.  The fact that the patent authority may have 
+the discretion not to revoke the patent despite a ground for the same 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 48 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 48 of 86 
+ 
+being established, is not a relevant consideration for granting an interim 
+injunction restraining the infringement of a patent on the ground that 
+the defendant has not met the threshold standard of a credible challenge 
+to the validity of the patent, if a prima facie ground for revoking the 
+patent is made out.  
+47. 
+If the defendant raises a substantial challenge, which merits a 
+trial, the question whether an injunction ought to be granted would 
+necessarily have to be determined on other considerations for grant of 
+such injunctions including balance of convenience and irreparable 
+harm.    
+Natco’s principal challenge 
+48. 
+Natco’s principal challenge to the validity of IN’161 is premised 
+on basis that the same substance was claimed and covered in IN’176.  
+As noted at the outset, there is no dispute that ELT-O was covered in 
+IN’176.  Novartis also claims that Natco’s product TROMBOPAGTM 
+would also infringe IN’176 during its term.  It is Novartis’ contention 
+that although, ELT-O was covered under IN’ 176, it was not disclosed 
+and therefore, Natco’s challenge to IN’161 on the ground of prior 
+claiming and prior publication fails. Additionally, the challenge on the 
+ground of lack of inventive step and obviousness, which is also to some 
+extent premised on the grant of IN’176, is also liable to be rejected.  
+Novartis claims that ELT-O is an incremental invention with added 
+advantages and it satisfies the requirements of patentability, novelty and 
+inventive step.   
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 49 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 49 of 86 
+ 
+49. 
+The tension between a ‘genus patent’ and a ‘species patent’, 
+which often finds its way in Courts in different forms, is central to the 
+present dispute. The term ‘genus patent’ and the term ‘species patent’ 
+are not statutorily defined. However, the expression ‘genus patent’ is 
+often used for patents in respect of claims that are broad and cover 
+several compounds with a common core and inventive concept. In 
+pharmaceutical substances, it usually discloses molecules with 
+therapeutic value, which are used in formulations. The term ‘species 
+patent’ is used to describe one or more specific compounds falling 
+within the broad claims covered under the term ‘genus patent’. In 
+Novartis v. UoI1 the appellant claimed patent in respect of β-crystaline-
+Imatinib Mesylate (hereafter β-IM). According to the appellant, β-IM 
+(species patent) was developed from the invention Imatinib free base – 
+a derivative of a chemical compound called ‘N-phenyl-2-pyrimidine-
+amine’, – US Zimmermann Patent No.5,521,184 (genus patent). In 
+Merck vs Glenmark2, the appellant/plaintiff (hereafter Merck) claimed 
+that the respondent/defendant’s product Sitagliptin Phosphate 
+Monohydrate (species patent) infringed Sitagliptin Molecule, covered 
+by IN’209816 (genus patent). Similarly, in Astrazeneca AB & Anr. v. 
+Intas Pharmaceuticals Ltd.9 the appellants/plaintiffs filed nine appeals 
+restraining the respondents/defendants from infringing the product 
+comprising of the compound Dapaglifrozin (hereafter DAPA). DAPA 
+ 
+9 2021 SCC OnLine Del 3746 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 50 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 50 of 86 
+ 
+was said to be the subject matter of two pre-existing Indian patents, 
+IN’147 (genus patent) and IN’625 (species patent). 
+50. 
+ In cases where a genus patent and species patent are asserted by 
+the patentee, the issue that arises is whether monopoly granted in 
+respect of the substance can be extended on account of it being covered 
+under a patent that expires later.   
+51. 
+It is common ground that ELT-O was covered under the broad 
+Markush claim ‘IN’ 176’.  Thus, the patent holder of IN’ 176 (Novartis 
+AG as the assignee) was during the term of the patent entitled to prevent 
+any person from manufacturing, using or selling any products that 
+included the API ELT (Eltrombopag), which was admittedly disclosed 
+in the complete specifications of IN’176.  It now seeks an extension of 
+the said rights by virtue of a species patent (IN’161) granted in respect 
+of ELT-O, which is a salt of ELT. 
+52. 
+Natco’s main challenge to the validity of IN’ 161 is premised on 
+the basis that it is a new form of a known substance covered in IN’ 176. 
+Whilst, there is no serious dispute that ELT-O is a salt of ELT, Novartis 
+claims that ELT-O is a novel substance and qualifies all tests of 
+patentability (novelty, utility and non-obviousness). It claims that 
+IN’161 is an incremental invention and has added advantages of 
+enhanced solubility and bioavailability over Eltrombopag (ELT). Natco 
+disputes that ELT-O is an invention as the claimed added advantages 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 51 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 51 of 86 
+ 
+do not include increased therapeutic efficacy. Section 3(d) of the Act is 
+at the core of this dispute. 
+Section 3(d) of the Act   
+53. 
+The Act was amended by the Patents (Amendment) Ordinance, 
+2004 (Ordinance No. 7 of 2004) which came into effect from 
+01.01.2005. The said amendments were made to broadly make the 
+patent law compliant with the mandate of the TRIPS (Trade-Related 
+Aspects of Intellectual Property Rights Agreement) for granting product 
+patent for pharmaceutical and agricultural chemical substances. The 
+said ordinance was replaced by the Patents (Amendment) Act, 2005 
+(hereafter the 2005 amendment).  Clause (d) of Section 3 of the Act was 
+amended. The language of the clause was changed and an Explanation 
+was added. The Pre-Amendment clause and the Amended clause, read 
+as under: 
+The Pre-Amendment Clause 
+“3(d)  the mere discovery of any new property or new use for a 
+known substance or of the mere use of a known process, 
+machine or apparatus unless such known process results 
+in a new product or employs at least one new reactant;” 
+The Amended Clause  
+“3(d) the mere discovery of a new form of a known substance 
+which does not result in the enhancement of the known 
+efficacy of that substance or the mere discovery of any 
+new property or new use for a known substance or of the 
+mere use of a known process, machine or apparatus unless 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 52 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 52 of 86 
+ 
+such known process results in a new product or employs 
+at least one new reactant.  
+Explanation.—For the purposes of this clause, salts, 
+esters, ethers, polymorphs, metabolites, pure form, 
+particle size, isomers, mixtures of isomers, complexes, 
+combinations and other derivatives of known substance 
+shall be considered to be the same substance, unless they 
+differ significantly in properties with regard to efficacy;”  
+54. 
+In Novartis v. UoI1, the Supreme Court has noted the legislative 
+history and the reasons why Clause (d) of Section 3 of the Act was 
+amended in the manner that it was. It was contended on behalf of 
+Novartis in that case that the amendment to clause (d), particularly the 
+introduction of the Explanation, was ex majore cautela (out of abundant 
+caution) and even prior to the 2005 amendment, forms of known 
+substances were not inventions.  The Supreme Court rejected the said 
+contention and held that Section 3(d) of the Act as amended, sets a 
+higher invention threshold for medicines, drugs and other chemical 
+substances.  The relevant observations of the Supreme Court are set out 
+below:  
+“87. We are clearly of the view that the importance of the 
+amendment made in Section 3(d), that is, the addition of 
+the opening words in the substantive provision and the 
+insertion of the Explanation to the substantive provision, 
+cannot be underestimated. It is seen above that, in course 
+of the Parliamentary debates, the amendment in Section 
+3(d) was the only provision cited by the Government to 
+allay the fears of the Opposition members concerning the 
+abuses to which a product patent in medicines may be 
+vulnerable. We have, therefore, no doubt that the 
+amendment/addition made in Section 3(d) is meant 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 53 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 53 of 86 
+ 
+especially to deal with chemical substances, and more 
+particularly pharmaceutical products. The amended 
+portion of Section 3(d) clearly sets up a second tier of 
+qualifying 
+standards 
+for 
+chemical 
+substances/ 
+pharmaceutical products in order to leave the door open 
+for true and genuine inventions but, at the same time, to 
+check any attempt at repetitive patenting or extension of 
+the patent term on spurious grounds.”      
+55. 
+There is no cavil that Section 3(d) of the Act sets a higher 
+invention threshold in respect of medicines, drugs and other chemical 
+substances. The second tier of the qualifying standards for chemical 
+substances/pharmaceutical products is that its properties must differ 
+significantly with regard of efficacy.    Thus, the challenge to the validity 
+of IN’161 is required to be examined on the anvil whether it qualifies 
+the higher standard as indicated in Section 3(d) of the Act.   
+56. 
+The Explanation to Section 3(d) of the Act amply sets out what 
+are not be considered as inventions. The statute expressly provides that 
+salts, esters, ethers, polymorphs, metabolites, pure form, particle size, 
+isomers, mixtures of isomers, complexes, combinations and other 
+derivatives of known substance would be considered as the same 
+substance.  However, the legislature also left room for incremental 
+inventions and has excluded from the Explanation substances, which 
+differ significantly in their properties with regard to efficacy 
+(therapeutic efficacy in pharmaceutical/chemical products)   
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 54 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 54 of 86 
+ 
+57. 
+The learned Single Judge held that as the first step, it is to be 
+examined whether the claim qualifies as an invention under Section 3(d) 
+of the Act and then to determine whether it is patentable.  
+58. 
+The term “invention” is defined in clause (j) of Section 2(1) of 
+the Act, which reads as under:  
+“Section 2. Definitions and interpretation.—(1) In this 
+Act, unless the context otherwise requires,—  
+(j) “invention” means a new product or process involving 
+an inventive step and capable of industrial application.” 
+ 
+59. 
+The expression “inventive step” is defined as under: 
+“(ja) “inventive step” means a feature of an invention that 
+involves technical advance as compared to the existing 
+knowledge or having economic significance or both and 
+that makes the invention not obvious to a person skilled in 
+the art;” 
+ 
+60. 
+As is apparent from the above, there are two features of an 
+inventive step. First, that it involves a technical advancement as 
+compared to existing knowledge or economic significance or both. And 
+second, that the invention is not obvious to a person skilled in the art.   
+61. 
+ Section 3(d) of the Act, in effect, sets a supra standard to qualify 
+as an invention. This is in addition to being a new product and involving 
+an inventive step.  As held in Novartis  v. UOI 1, Section 3(d) of the Act 
+sets a higher threshold to qualify as an invention in respect of medicinal 
+products and chemical substances. In view of Section 3(d) of the Act as 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 55 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 55 of 86 
+ 
+amended, the inventive step as defined is, in effect, further narrowed in 
+respect of pharmaceutical products and chemicals. Thus, a 
+pharmaceutical product/chemical may satisfy the criteria involving 
+technical advancement over existing knowledge and not being obvious 
+to a person skilled in the art, and yet be excluded from being considered 
+as an invention if it is a new form (as specified in the Explanation to 
+Section 3(d) of the Act) of a known substance. The said Explanation 
+excludes certain forms of known substance (salts, esters, ethers, 
+polymorphs, metabolites, pure form, particle size, other forms etc.) as 
+expressly set out. The clear objective of specifically excluding such 
+forms of pharmaceutical substances/chemicals is to posit a higher 
+threshold for a claim to be eligible for grant of patent by excluding 
+claims on the basis of known and usual qualities attributed to the 
+specified forms. However, to retain room for incremental inventions, 
+the Explanation admits exceptions to the given forms if their properties 
+in respect efficacy (therapeutic efficacy in pharmaceutical/chemical 
+products) differ significantly from those of the known substance.  
+62. 
+In the context of the present case, ELT-O being a pharmaceutical 
+salt of the known substance (ELT) would not qualify as an invention 
+notwithstanding that (i) it may involve technical advancement (as 
+compared to the existing knowledge); (ii) it has economic significance; 
+and (iii) it is not obvious to a person skilled in the art, if its properties 
+are not significantly different in regard to the therapeutic efficacy of the 
+known substance (ELT).   
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 56 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 56 of 86 
+ 
+63. 
+Thus, unless the person claiming a patent in respect of one of the 
+forms of pharmaceutical substances/ chemicals establishes that the 
+medicine, drug or chemical substance differs significantly in properties 
+with regard to efficacy from known-substance, the new chemical / 
+medicine would not be patentable.  In the context of a medicine, the 
+Supreme Court had clarified that the test of efficacy can only be on 
+‘therapeutic efficacy’10.   
+64. 
+Undisputedly, ELT-O would not qualify the higher standard for 
+being considered as an invention if its properties did not differ 
+significantly in respect of therapeutic efficacy from those of ELT.    
+65. 
+It is relevant to note that the only added advantage that was 
+claimed in respect of ELT-O over ‘IN 176’ was that of enhanced 
+solubility and bioavailability. The specifications of ‘IN 176’ 
+incorporated the entire disclosure in ‘IN 176’ as a part of its disclosure. 
+It is claimed that ELT, which was admittedly disclosed in ‘IN 176”, is 
+poorly soluble in water and this affects its ability to be formulated into 
+pharmaceutical dosage forms. However, ELT-O had added advantage 
+of enhanced solubility and bioavailability over the free acid (ELT).  The 
+relevant extract of the said application is set out below: 
+“It has now surprisingly been found that the bis-
+(monoethanolamine) 
+salt 
+of 
+3’-[(2Z)-[1-(3,4-
+dimethylphenyl)-1,5-dihydro-3-methyl-5-oxo-4H-
+pyrazol-4-ylidene]hydrazino}-2’-hydroxy-[1,1’-
+biphenyl-3-carboxylic acid has numerous advantages over 
+ 
+10 Paragraph 157 of Novartis AG v. Union of India & Ors.: (2013) 6 SCC1  
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 57 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 57 of 86 
+ 
+the free acid.  The free acid is poorly soluble in water 
+(approximately 5 micrograms per milliliter).  This poor 
+solubility adversely affects the ability of the free acid to 
+be formulated into pharmaceutical dosage forms and 
+reduces the bioavailability of the compound in vivo.  
+ 
+While the free acid is highly useful as an agonist of the 
+TPO 
+receptor, 
+particularly 
+in 
+enhancing 
+platelet 
+production and particularly in the treatment of 
+thrombocytopenia, the bis-(monoethanolamine) salt of 3’-
+[(2Z)-[l-(3,4-dimethylphenyl)-1,5-dihydro-3-methyll-5- -
+4H-pyrazol-4-ylidene] 
+hydrazino}-2’-hydroxy-[1,1’-
+biphenyl-3-carboxylic acid has the added advantages of 
+enhanced solubility and bioavailability.” 
+ 
+ 
+ 
+ 
+ 
+ 
+[emphasis added] 
+66. 
+In the aforesaid context one of the principal questions to be 
+addressed was whether the properties of enhanced solubility and 
+bioavailability can be construed as higher therapeutic efficacy or merely 
+overcome the disadvantage of ELT’s poor solubility which adversely 
+affects its ability to be formulated into pharmaceutical dosage forms   
+67. 
+As noted above, in Novartis v. UoI1, the Supreme Court had 
+considered the interpretation of the Explanation to Section 3(d) of the 
+Act and the significance of excluding salts, esters, ethers etc. of known 
+substance as inventions.  The Supreme Court accepted the contention 
+that inherent properties of the forms mentioned in the Explanation of 
+Section 3(d) of the Act would not be considered as enhancing 
+therapeutic efficacy.  Paragraphs 158 and 159 of the said decision are 
+relevant and are set out below: 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 58 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 58 of 86 
+ 
+“158. While dealing with the Explanation it must also be 
+kept in mind that each of the different forms mentioned in 
+the Explanation have some properties inherent to that form 
+e.g. solubility to a salt and hygroscopicity to a polymorph. 
+These forms, unless they differ significantly in property 
+with regard to efficacy, are expressly excluded from the 
+definition of “invention”. Hence, the mere change of form 
+with properties inherent to that form would not qualify as 
+“enhancement of efficacy” of a known substance. In other 
+words, the Explanation is meant to indicate what is not to 
+be considered as therapeutic efficacy. 
+159. We have just noted that the test of enhanced 
+therapeutic efficacy must be applied strictly, but the 
+question needs to be considered with greater precision. In 
+this connection, we take note of two slightly diverging 
+points of view urged before this Court.” 
+ 
+ 
+ 
+ 
+ 
+[emphasis added] 
+ 
+68. 
+It is well accepted that properties such as greater bioavailability, 
+solubility, stability, and hygroscopicity are usual properties of the given 
+forms. A well-known text11 mentions the salt form as one of the factors 
+affecting absorption and bioavailability as under: 
+“ii) Salt Form 
+The dissolution rate of a particular salt is usually different 
+from that of the parent compound. Salts of weakly acidic 
+drugs as a rule, are highly water soluble. Free acidic drug 
+is precipitated from these salts in a microcrystalline form 
+which has faster dissolution rate and hence enhanced 
+bioavailability, e.g., tolbutamide sodium and phenytoin 
+sodium have better bioavailability than tolbutamide and 
+phenytoin (as free drugs).”  
+ 
+11 H.L. SHARMA & K.K. SHARMA, PRINCIPLES OF PHARMACOLOGY 32-32 (Paras Medical 
+Publisher 3d ed. 2018)  
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 59 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 59 of 86 
+ 
+69. 
+Undisputedly, properties of higher solubility and bioavailability 
+are common properties associated with the salt form. 
+70. 
+As noted above, the rationale of excluding the specified forms of 
+known substances was to exclude the evergreening of the patents in 
+respect of pharmaceutical/chemical substances. The transition was from 
+a position when product patents in respect of pharmaceutical and 
+agricultural chemicals were not granted to a position where monopoly 
+was granted for a period of twenty years but no more. Thus, Section 5 
+of the Act was deleted and Section 3(d) was amended. The objective of 
+the 2005 amendment to Section 3(d) of the Act is to ensure that the 
+monopoly in respect of a pharmaceutical or a chemical substance ends 
+with the expiry of the patent term and it is not rejuvenated by 
+introduction of another form. Therefore, notwithstanding that the given 
+new forms of the pharmaceutical products may be novel or include 
+inventive steps, the same were not eligible for being monopolised. 
+However, this did not exclude incremental inventions provided, the 
+same resulted in added therapeutic efficacy. 
+71. 
+ The question whether greater bioavailability could be considered 
+as enhanced therapeutic efficacy was also raised before the Supreme 
+Court in Novartis v. UoI1. It was contended on behalf of certain 
+objectors that a demonstration of increase in bioavailability is not a 
+demonstration of enhanced efficacy.  The said submissions are recorded 
+in the aforesaid judgment and are reproduced below: 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 60 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 60 of 86 
+ 
+“160. Mr. Anand Grover, learned counsel appearing for 
+one of the objectors, Cancer Patients Aid Association, 
+took a somewhat rigid position. The learned counsel 
+submitted that in the pharmaceutical field, drug action is 
+explained by “pharmacokinetics” (effect of the body on 
+the drug) and “pharmacodynamics” (effect of the drug on 
+the body). He further submitted that efficacy is a 
+pharmacodynamic property, and contended that, in the 
+field of pharmaceuticals, efficacy has a well-known 
+meaning. Efficacy is the capacity of a drug to produce an 
+effect. The IUPAC describes efficacy as “the property that 
+enables drugs to produce responses”. It is that property of 
+a drug which produces stimulus. When comparing the 
+efficacy of two substances, efficacy describes “the relative 
+intensity with which agonists vary in the response they 
+produce even when they occupy the same number of 
+receptors”. [IUPAC Glossary of Terms Used in Medicinal 
+Chemistry, 1998 in CPAA Compilation Vol. 9, at p. 7.]. In 
+the words of Goodman and Gilman, “the generation of 
+response from the drug receptor complex is governed by a 
+property described as efficacy”. They further clarify that 
+“efficacy is that property intrinsic to a particular drug that 
+determines how good an agonist the drug is” [Goodman 
+and Gilman in CPAA Compilation, Vol. 9, at p. 22, LHC]. 
+Another source describes efficacy as “the ability of the 
+drug to produce the desired therapeutic effect” [Dorland’s 
+Medical Dictionary in Novartis’ Vol. P, at p. 19]. 
+161. Mr. Grover further submitted that in pharmacology, 
+efficacy 
+is 
+distinct 
+from 
+affinity, 
+potency 
+and 
+bioavailability. Affinity, a pharmacodynamics property, 
+“is the tendency of a molecule to associate with another”. 
+The affinity of a drug is its ability to bind to its biological 
+target (receptor, enzyme, transport system, etc.). Potency 
+is “the dose of drug required to produce a specific effect 
+of given intensity as compared to a standard reference”. 
+Bioavailability, on the other hand, is a pharmacokinetic 
+property. It “is the term used to indicate the fraction extent 
+to which a dose of drug reaches its site of action or a 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 61 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 61 of 86 
+ 
+biological fluid from which the drug has access to its site 
+of action” [Goodman and Gilman in CPAA Compilation, 
+Vol. …, internal p. 4]; or “the degree to which a drug or 
+other substance becomes available to the target tissue after 
+administration” [Dorland’s Medical Dictionary in 
+Novartis’ Vol. B, at p. 65]. A demonstration of increase in 
+bioavailability is not a demonstration of enhanced 
+efficacy. 
+162 Prof. Basheer, who appeared before this Court purely 
+in academic interest as an intervenor-cum-amicus, agreed 
+that not all advantageous properties of a new form (such 
+as improved processability or flow characteristics, storage 
+potential, etc.) ought to qualify under Section 3(d), but 
+only those properties that have some bearing on efficacy. 
+However, taking a less rigid position than Mr Grover, 
+Prof. Basheer argued that safety or significantly reduced 
+toxicity should also be taken into consideration to judge 
+enhanced therapeutic efficacy of a pharmaceutical product 
+in terms of Section 3(d). [ Prof. Basheer traced the origins 
+of the amended part of Section 3(d) in Article 10(2)(b) of 
+the European Drug Regulatory Directive, 2004 which 
+defines a “generic medicinal product” as:“… a medicinal 
+product which has the same qualitative and quantitative 
+composition in active substances and the same 
+pharmaceutical form as the reference medicinal product, 
+and whose bioequivalence with the reference medicinal 
+product 
+has 
+been 
+demonstrated 
+by 
+appropriate 
+bioavailability studies. The different salts, esters, ethers, 
+isomers, mixtures of isomers, complexes or derivatives of 
+an active substance shall be considered to be the same 
+active substance, unless they differ significantly in 
+properties with regard to safety and/or efficacy. In such 
+cases, additional information providing proof of the safety 
+and/or efficacy of the various salts, esters or derivatives of 
+a authorised active substance must be supplied by the 
+applicant.” He pointed out that the expressions used in a 
+different context in the European Drug Regulatory 
+Directive were incorporated in the Patents Act for an 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 62 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 62 of 86 
+ 
+altogether different purpose and raised some important 
+and interesting points for interpretation of Section 3(d) but 
+in this case we see no reason to go into those aspects of the 
+matter.]” 
+72. 
+However, the Supreme Court did not address the issue whether 
+bioavailability was a pharmacokinetic property and thus, not a 
+demonstration of enhanced efficacy because the decision on the 
+question involved in that case – whether Novartis was entitled to patent 
+in respect of β-crystaline-Imatinib Mesylate was rightly rejected by the 
+Patent Office – could be rendered without considering the said issue. 
+This is apparent from the following passages that were penned down by 
+the Supreme Court after noting the aforesaid submissions:  
+“163. We have taken note of the submissions made by Mr 
+Grover and Prof. Basheer in deference to the importance 
+of the issue and the commitment of the counsel to the 
+cause. However, we do not propose to make any 
+pronouncement on the issues raised by them, as this case 
+can be finally and effectively decided without adverting to 
+the different points of view noted above. 
+164. In whatever way therapeutic efficacy may be 
+interpreted, this much is absolutely clear: that the physico-
+chemical properties of the beta crystalline form of 
+Imatinib Mesylate, namely, (i) more beneficial flow 
+properties, (ii) better thermodynamic stability, and (iii) 
+lower hygroscopicity, may be otherwise beneficial but 
+these properties cannot even be taken into account for the 
+purpose of the test of Section 3(d) of the Act, since these 
+properties have nothing to do with therapeutic efficacy. 
+165. This leaves us to consider the issue of increased 
+bioavailability. It is the case of the appellant that the beta 
+crystalline form of Imatinib Mesylate has 30 per cent 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 63 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 63 of 86 
+ 
+increased bioavailability as compared to Imatinib in free 
+base form. If the submission of Mr. Grover is to be 
+accepted, then bioavailability also falls outside the area of 
+efficacy in case of a medicine. Leaving aside the 
+submission of Mr. Grover on the issue, however, the 
+question is, can a bald assertion in regard to increased 
+bioavailability lead to an inference of enhanced 
+therapeutic efficacy? Prof. Basheer quoted from a 
+commentator on the issue of bioavailability as under: 
+“It is not the intent of a bio-availability study to 
+demonstrate effectiveness, but to determine the rate 
+and extent of absorption. If a drug product is not bio-
+available, it cannot be regarded as effective. However 
+a determination that a drug product is bio-available 
+is not in itself a determination of effectiveness.” 
+(emphasis added) 
+166. Thus, even if Mr. Grover’s submission is not taken 
+into consideration on the question of bioavailability, the 
+position that emerges is that just increased bioavailability 
+alone may not necessarily lead to an enhancement of 
+therapeutic efficacy. Whether or not an increase in 
+bioavailability leads to an enhancement of therapeutic 
+efficacy in any given case must be specifically claimed 
+and established by research data. In this case, there is 
+absolutely nothing on this score apart from the adroit 
+submissions of the counsel. No material has been offered 
+to indicate that the beta crystalline form of Imatinib 
+Mesylate will produce an enhanced or superior efficacy 
+(therapeutic) on molecular basis than what could be 
+achieved with Imatinib free base in vivo animal model.” 
+73. 
+The learned Single Judge has construed the above observations 
+to hold that enhanced bioavailability is relevant while assessing 
+enhanced therapeutic efficacy.  We find ourselves unable to concur with 
+the said view.  The Court did not conclude that the property of enhanced 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 64 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 64 of 86 
+ 
+bioavailability was a relevant factor in determining whether the 
+invention had a higher therapeutic efficacy.  On the contrary, the Court 
+had emphasized the quote from a text – “However a determination that 
+a drug product is bio-available is not in itself a determination of 
+effectiveness”.   
+74. 
+After noting the submissions on behalf of the Objectors [as 
+recorded in Paragraphs 161 to 163 in Novartis v. UoI1], the Supreme 
+Court clarified that it did not propose to make pronouncement on the 
+issues raised as the matter could be decided without adverting to those 
+contentions.  It is also apparent that the Supreme Court did not accept 
+that a demonstration of increase in bioavailability was a demonstration 
+of increase in enhanced efficacy.  This is evident from the observations 
+made by the Supreme Court that “Whether or not an increase in 
+bioavailability leads to an enhancement of therapeutic efficacy in any 
+given case must be specifically claimed and established by research 
+data”. 
+75. 
+At this stage it is relevant to recall that the only added advantages 
+claimed by the patentee in respect of ELT-O over ELT acid free base, 
+are enhanced solubility and bioavailability. In so far as solubility is 
+concerned, the same is a Physico-chemical property and not a property 
+of therapeutic efficacy. Mr Hemant Singh fairly did not press that the 
+said claimed advantage in regard to this property falls within the 
+exception of the Explanation to Section 3(d) of the Act. 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 65 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 65 of 86 
+ 
+76. 
+In the aforesaid view, it would be necessary to consider whether 
+enhanced bioavailability is per se indicative of higher therapeutic 
+efficacy and whether ELT-O has significant advantage of a higher 
+therapeutic efficacy.  
+77. 
+Mr. Hemant Singh had contended, we may add quite forcefully, 
+that there would be no question of enhanced therapeutic efficacy as 
+ELT-O was not a drug and therefore, there was no question of ELT 
+having any therapeutic efficacy.  He contended that the data provided 
+in IN’176 is only in vitro data and therefore, there was no question of 
+ELT having any therapeutic efficacy.  We are unable to accept this 
+contention.   
+78. 
+A plain reading of the field of invention and background of 
+invention as set up in the application for the grant of IN’176 clearly 
+indicates that the substance claimed has a useful application in 
+treatment of platelet disorders.  The summary of invention as set out in 
+the application for IN’176 clearly states that: 
+ “present invention also relates to the discovery that the 
+compounds of Formula (I) are active as agonists of the TPO 
+receptor.  In a further aspect of the invention there is provided 
+novel processes and novel intermediates useful in preparing 
+the presently invented TPO mimetic compounds” 
+79. 
+It is also noted that the 
+ “pharmaceutically active compounds within the scope 
+of invention are useful as TPO mimetic in mammals 
+particularly humans, in need thereof.  Some of the preferred 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 66 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 66 of 86 
+ 
+compounds within the scope of the invention showed 
+activation from about 4% to 100% control at a concentration 
+of 0.001-10 uM in the luciferase assay. The preferred 
+compounds of the invention also promoted the proliferation 
+of UT7TPO and 32D-mpl cells at a concentration of 0.003 
+uM.  The preferred compounds of the invention also showed 
+activity in the CD41 megakaryocytic assay at a concentration 
+of 0.003 to 30uM. The present invention therefore provides a 
+method of treating thrombocytopenia and other conditions 
+with depressed platelet production, which comprises 
+administering 
+a 
+compound 
+of 
+Formula 
+(I) 
+or 
+a 
+pharmaceutically acceptable sale, hydrate, solvate or ester 
+thereof in a quantity effective to enhance platelet production.  
+The compounds of Formula (I) also provide for a method for 
+treating the above indicated disease states because of their 
+demonstrated ability to act as TPO mimetic.  The drug may be 
+administered to a patient in need thereof by any conventional 
+route of administration, including, but not limited to 
+intravenous, intramuscular, oral, subcutaneous, intradermal, 
+and parenteral” 
+80. 
+The application also describes the dosage units which would be 
+efficacious and nontoxic. The relevant extract of the said application is 
+set out below:  
+“Doses of the presently invented pharmaceutically 
+active compounds in a pharmaceutical dosage unit as 
+described above will be an efficacious, nontoxic quantity 
+preferably selected from the range of 0.001 – 100 mg/kg of 
+active compound, preferably 0.001-50 mg/kg.  When treating 
+a human patient in need of a TPO mimetic, the selected 5 dose 
+is administered preferably from 1-6 times daily, orally or 
+parenterally.  Preferred forms of parenteral administration 
+include topically, rectally, transdermally, by injection and 
+continuously by infusion.  Oral dosage units for human 
+administration preferably contain from 0.05 to 3500 mg of 
+active compound.  Oral administration, which uses lower 
+dosages is preferred.  Parenteral administration, at high 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 67 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 67 of 86 
+ 
+dosages, however, also can be used when safe and convenient 
+for the patient”.  
+81. 
+It is also relevant to refer to Examples 114, 115 and 116 set out 
+in the application, which were in respect of the Capsule Composition, 
+Injectable 
+Parenteral 
+Composition 
+and 
+Tablet 
+Composition, 
+respectively.  It is also relevant to refer to the following extract of the 
+last example as provided by the patentee: 
+“The most preferred among the compounds of the 
+invention is, 
+ 3’-{N-[1-(3,4-Dimethylphenyl)-3-methyl-5-oxo-1,5-
+dihydro-pyrazol-4-ylidene] hydrazino}-2’-hydroxybiphenyl-
+3-carboxcylic acid.  
+The 
+compound 
+3’{N’-[1-(3,4-Dimethylphenyl)-3-
+methyl-5-oxo-1,5-dihydropyrazol-4ylidene] hydrazino} – 2’-
+hydroxybiphenyl -3-carboxylic acid demonstrated an activity 
+of EC50=0.03 uM, 100%  TPO in the above proliferation 
+assay.” 
+ 
+ 
+ 
+ 
+ 
+[emphasis added] 
+82. 
+Mr. Hemant Singh referred to the response submitted to the 
+Patent Office to contend that Novartis had provided data to establish 
+that ELT-O had a higher therapeutic efficacy than ELT free acid. The 
+said response is also set out in the impugned judgment and is 
+reproduced below: 
+“Data: The bioavailability comparison of eltrombopag 
+free acid and eltrombopag bio-monoethanolamine was 
+conductedin dogs-dosed as granules in capsules Cmax and AUC 
+were approximately 3 fold higher for GR salt compared to fee 
+acid. The mean (±SD) pharmacokinetic parameter estimates for 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 68 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 68 of 86 
+ 
+SB-497115 in male Beagle dogs following oral administration 
+(5 mg/kg) are summarised in the following table:  
+Formulation  
+Cmax (pg/ml) Tmax (h) 
+AUC(0.inf) 
+(ug.h/mL) 
+Milled Free Acid 
+(Wet granulation 
+as capsule) 
+2.98±0.42 
+2.38±1.38 
+45.3±29.3 
+Milled 
+Ethanolamine Salt 
+(Wet Granulation) 
+as capsule 
+8.19±2.61 
+1.38±0.26 
+102.7±28.0” 
+ 
+83. 
+The learned Single Judge had prima facie accepted the aforesaid 
+data as that establishing enhanced therapeutic efficacy.  
+84. 
+We are unable to concur with the said view as the data clearly 
+discloses that it sets out the comparison between the bioavailability data 
+of milled ELT free acid and milled Ethanolamine Salt. Bioavailability 
+is one of the pharmacokinetic parameters and not a direct measure of 
+therapeutic efficacy. 
+85. 
+The text in Essentials of Medical Pharmacology12 explains the 
+expression “Bio Availability” as under: 
+“BIOAVAILABILITY 
+Bioavailability refers to the rate and extent of absorption 
+of a drug from a dosage form as determined by its 
+concentration-time curve in blood or by its excretion in 
+ 
+12 K.D. TRIPATHI, ESSENTIALS OF MEDICAL PHARMACOLOGY 16-16 (Jaypee Brothers 
+Medical Publishers (P) Ltd. 7th ed. 2013) 
+ 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 69 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 69 of 86 
+ 
+urine (Fig.206).  It is a measure of the fraction (f) of 
+administered dose of a drug that reaches the systemic 
+circulation in the unchanged form. Bioavailability of drug 
+injected i.v. is 100%, but is frequently lower after oral 
+ingestion because–  
+(a) the drug may be incompletely absorbed.  
+(b) the absorbed drug may undergo first pass metabolism 
+in the intestinal wall/liver or be excreted in bile.  
+Incomplete bioavailability after s.c. or i.m. injection is 
+less common, but may occur due to local binding of the 
+drug.” 
+86. 
+Enhanced bioavailability is not synonymous with higher 
+therapeutic efficacy.  As noted above, in Novartis v. UoI 1, the Supreme 
+Court had – without going into the question whether increased 
+bioavailability by itself would lead to an enhancement of therapeutic 
+efficacy, expressly held that, if such a claim is made, the same would 
+require to be established by research and data.  
+87. 
+The assumption that enhanced bioavailability necessarily leads to 
+higher therapeutic efficacy is too broad an assumption. It is desirable to 
+have optimal pharmacokinetic parameters. In cases where a formulation 
+has side effects, a lower bioavailability may be more beneficial. 
+88. 
+In the present case, the applicant (the predecessor in interest of 
+Novartis AG) had made no claim for enhanced therapeutic efficacy in 
+its patent application; the only added advantage claimed in respect of 
+ELT-O was “enhanced solubility and bioavailability”.   
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 70 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 70 of 86 
+ 
+89. 
+Essentials of Medical Pharmacology13 explains ‘therapeutic 
+efficacy’ in the following terms: 
+“Therapeutic efficacy 
+The ‘therapeutic efficacy’ or ‘clinical effectiveness’ is a 
+composite attribute of a drug different from the foregoing 
+pharmacological description of ‘potency’ and ‘efficacy’. 
+It depends not only on the relative potency and efficacy of 
+the 
+drug, 
+but 
+on 
+many 
+pharmacokinetic 
+and 
+pathophysiological variables as well.  It is often expressed 
+in terms of (a) degree of benefit/relief afforded by the drug 
+(in the recommended dose range) or (b) the success rate in 
+achieving a defined therapeutic end point. For example, 
+the degree of relief in parkinsonian symptoms afforded by 
+levodopa-carbidopa is much greater than that possible 
+with trihexyphenidyl: the former has higher therapeutic 
+efficacy than the latter. A drug which makes a higher 
+percentage of epileptic patients totally seizure free than 
+another drug, is the more therapeutically effective 
+antiepileptic.”  
+90. 
+We may at this stage also refer to observations made by the 
+Division Bench of this Court in Merck v. Glenmark2 in respect of the 
+defence raised on account of the challenge raised by Merck Sharp and 
+Dohme in respect of its patented product “Sitagliptin” (genus patent) 
+having Indian Patent No. 209816 on account of utility and lack of 
+industrial applicability.  The Court rejected the contention that the suit 
+patent, Sitagliptin (the genus patent) did not disclose utility.  The Court 
+noted that the claim referred to an active ingredient, which results in 
+ 
+13 K.D. TRIPATHI, ESSENTIALS OF MEDICAL PHARMACOLOGY 55-55 (Jaypee Brothers 
+Medical Publishers (P) Ltd. 7th ed. 2013) 
+ 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 71 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 71 of 86 
+ 
+therapeutic effect.  It was contemplated that the said active ingredient 
+(Sitagliptin molecule) would be combined with a carrier of some form.  
+However, the said carrier would be inert and of no therapeutic value.  It 
+is also relevant to note that in that case, the respondent had also 
+contended that since, Sitagliptin simpliciter cannot be administered, it 
+had no real application. This is the mirror image of the contentions 
+advanced on behalf of Novartis in this case. The same being that since, 
+ELT (free acid) cannot be administered, as it is not soluble, ELT-O must 
+necessarily be considered as one enhancing therapeutic efficacy, as 
+without the pharmaceutical salt (Olamine), ELT would not be available 
+to the body for any therapeutic effect.   
+91. 
+The Division Bench rejected the aforesaid contention and 
+observed that “carrier, however, is not the crux of the invention, but 
+only an inert component that does not add value to the therapeutic or 
+medical value, which is the true core of the invention”.  The learned 
+Division Bench further observed that “Whilst manufacturers may 
+determine which salt carriers the active component the best – those 
+carriers do not in any manner affect the therapeutic working of the 
+active component itself.” The said observations suggest that efficiency 
+of administration of an API by choice of an appropriate carrier, would 
+not affect the API’s therapeutic value.  
+92. 
+It is also material to note that the data relied upon by Novartis, is 
+the comparison between milled Ethanolamine Salt and milled Free 
+Acid.  IN’176 is not in respect of free acid alone.  The examples and 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 72 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 72 of 86 
+ 
+claims also include salts. This is apart from the fact that IN’ 176 
+expressly claims the formula in Claim No.1 of IN’176 and 
+pharmaceutically acceptable salts. The said claim reads as under: 
+ 
+“6. A compound as claimed in claim 1, which is  
+3'-{N'-(1-(3,4-Dimethylphenyl)-3-methyl-5-oxo-1,5-
+dihydropyrazol-4-ylidene] 
+hydrazino}-2 
+'-
+hydroxybiphenyl-3-carboxylic 
+acid, 
+and 
+a 
+pharmaceutically acceptable salts, hydrates, solvates, and 
+esters, thereof” 
+93. 
+In the given facts, the conclusion that Natco has not raised a 
+credible challenge to the validity of IN’176 is erroneous. 
+94. 
+The question whether ELT-O was disclosed in IN’ 176 is a 
+contentious issue.  However, assuming that ELT-O was not disclosed 
+in ‘IN 176’ it would be necessary to examine the enhanced efficacy of 
+ELT-O in comparison with compounds that were disclosed in ‘IN 176’. 
+Coverage vs Disclosure 
+95. 
+ In addition to challenging the validity of IN’161 on the ground 
+that it was not in respect of invention in view of Section 3(d) of the Act 
+[Section 64(1)(d) of the Act]. Natco had also laid challenge to the 
+validity of the suit patent on other grounds including that it was claimed 
+in a valid claim of earlier priority date contained in the complete 
+specifications of another patent granted in India [Section 64(1)(d) of the 
+Act] and lack of novelty as disclosed in a prior publication [Section 
+64(1)(e) of the Act].  
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 73 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 73 of 86 
+ 
+96. 
+The aforesaid challenges were founded on the basis that 
+Eltrombopag free acid along with pharmaceutically acceptable salts, 
+was expressly claimed in IN’176. Since, ELT-O is a pharmaceutically 
+acceptable salt of ELT, the same was covered in the claims under 
+IN’176 – a patent in respect of which the patentee had enjoyed a 
+monopoly for the full term of twenty years.  Novartis does not dispute 
+that ELT-O is covered under IN’176; it claims that it is covered, but not 
+disclosed. The learned Single Judge to some extent accepted the 
+contention that a patent may cover a substance and yet not disclose the 
+same and held that there may be a gap between the coverage of a patent 
+and its disclosure.  Natco’s challenge to the validity of IN’161 on the 
+ground of prior claiming [Section 64(1)(a) of the Act] and lack of 
+novelty [Section 64(1)(e) of the Act] was rejected on the ground that 
+ELT-O was not specifically disclosed in the complete specifications of 
+IN’176.   
+97. 
+We are unable to concur with the reasoning of the learned Single 
+Judge to the extent that it accepts that there is a gap between coverage 
+and disclosure.  The learned Single Judge also referred to Novartis v. 
+UoI1, supporting the said view.  However, a plain reading of the said 
+judgment indicates to the contrary.  The relevant extract of the said 
+decision is set out below: 
+“119.  
+The dichotomy that is sought to be drawn 
+between coverage or claim on the one hand and disclosure 
+or enablement or teaching in a patent on the other hand, 
+seems to strike at the very root of the rationale of the law 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 74 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 74 of 86 
+ 
+of patent. Under the scheme of patent, a monopoly is 
+granted to a private individual in exchange of the 
+invention being made public so that, at the end of the 
+patent term, the invention may belong to the people at 
+large who may be benefited by it. To say that the coverage 
+in a patent might go much beyond the disclosure thus seem 
+to negate the fundamental rule underlying the grant of 
+patents.” 
+ 
+98. 
+There is no ambiguity in the aforesaid decision that there cannot 
+be dichotomy between coverage or claim on one hand and the disclosure 
+on the other.  However, the learned Single Judge had referred to 
+Paragraph no. 134 of the said decision and concluded that the Supreme 
+Court had accepted that there could be some gap between coverage and 
+disclosure.  Paragraph 134 of the decision of the Supreme Court is set 
+out below: 
+“134. However, before leaving Hogan and proceeding 
+further, we would like to say that in this country the law 
+of patent, after the introduction of product patent for all 
+kinds of substances in the patent regime, is in its infancy. 
+We certainly do not wish the law of patent in this country 
+to develop on lines where there may be a vast gap between 
+the coverage and the disclosure under the patent; where 
+the scope of the patent is determined not on the intrinsic 
+worth of the invention but by the artful drafting of its 
+claims by skilful lawyers, and where patents are traded as 
+a commodity not for production and marketing of the 
+patented products but to search for someofne who may be 
+sued for infringement of the patent.” 
+99. 
+We are unable to accept, on a plain reading of the aforesaid 
+observation of the Supreme Court, that the same in any manner, 
+contradicts or militates against the Supreme Court’s decision to reject 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 75 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 75 of 86 
+ 
+the contention that there is any dichotomy between the coverage or 
+claim on one hand and disclosure on the other. The Supreme Court has 
+in an unequivocal language held that such a dichotomy seems “to negate 
+the fundamental rule underlying the grant of patents”.  
+100. A Division Bench of this Court had considered the similar 
+contention in Merck v. Glenmark2.  The Division Bench referred to the 
+decision of the Supreme Court in Novartis v. UoI1 and concluded that 
+“mere claims, without an enabling disclosure, cannot be sustained. The 
+patent must – as a quid pro quo for the grant of monopoly – enable a 
+person of ordinary skill in the art to work the invention as claimed.” 
+101.  A similar contention was also rejected by the Division Bench of 
+this Court in Astrazeneca AB & Anr. v. Intas Pharmaceuticals Ltd. & 
+Ors.9 in the following words:  
+“32. As far as the arguments of the counsel for the 
+appellants/plaintiffs, of DAPA being only covered and not 
+disclosed in IN 147 and being disclosed for the first time 
+in IN 625, and of DAPA being not obvious from and 
+capable of being anticipated from IN 147 are concerned, 
+we 
+are 
+also 
+of 
+the 
+opinion 
+that 
+once 
+the 
+appellants/plaintiffs, in the plaints in their suits claimed 
+the 
+action 
+of 
+the 
+respondent(s)/defendant(s) 
+of 
+manufacturing medicines having DAPA as their 
+ingredient to be an infringement of both IN 147 and IN 
+625, the appellants/plaintiffs are deemed to have admitted 
+DAPA to be the invention subject matter of both, IN 147 
+and IN 625. Without DAPA being disclosed in IN 147, 
+there could be no patent with respect to DAPA in IN 147 
+and 
+which 
+was 
+being 
+infringed 
+by 
+the 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 76 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 76 of 86 
+ 
+respondent(s)/defendant(s) by manufacturing drugs/ 
+medicines with DAPA as ingredient.” 
+ 
+102. Having stated the above, it is also necessary to clarify that a broad 
+claim, which covers a large number of compounds with a common 
+inventive concept at its core, also referred to as a Markush claim, is 
+permissible, provided that the same is not overbroad or vague. The 
+disclosure made would require to be seen in the light of the invention 
+sought to be patented and disclosed. Thus, in cases where an active 
+therapeutic ingredient, having therapeutic value is claimed and 
+disclosed, the same may be patentable.  The protection in respect of the 
+said claim would extend to substances disclosed as well as to those that 
+are not specifically disclosed but are obvious to a person skilled in art 
+and/or can be anticipated.  The gap between coverage and disclosure 
+would thus, necessarily have to be confined to only those substances 
+which are otherwise anticipated or obvious to a person skilled in the art.  
+It cannot extend to other substances or products that are neither 
+disclosed nor are obvious to or anticipated by a person skilled in the art. 
+103. Mr Hemant Singh had relied on the decision in Merck v. 
+Glenmark2, and had suggested that the later decision in Astrazeneca 
+AB and Anr. v. Intas Pharmaceuticals Limited9 conflicted with the 
+said decision. In Merck v. Glenmark2, Merck had instituted an action 
+for restraining Glenmark from using its patented product Sitagliptin 
+covered by IN’209816. The said patent concerned a medicinal 
+compound for lowering blood sugar levels in Type II Diabetes Mellitus 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 77 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 77 of 86 
+ 
+patients. Glenmark had launched its products (Zita and Zitamet) 
+containing Sitagliptin Phosphate Monohydrate (SPM in short) salt. 
+Merck sought an injunction restraining Glenmark from manufacturing, 
+selling or dealing with the said products.  Glenmark resisted the said 
+action inter alia on the plea that SPM had different physical and 
+chemical properties than Sitagliptin.  It relied on the fact that the 
+patentee had filed a separate application (Application No. 5948) in 
+respect of “Phosphoric Acid Salt of DPP-IV Inhibitor”, which claimed 
+Dihydrogenphosphate salt of Sitagliptin, and had subsequently 
+abandoned the application.  In the said application, Merck had made 
+assertions to the effect that Dihydrogenphosphate salt of Sitagliptin was 
+novel.   
+104. In addition, Glenmark claimed that the suit patent did not disclose 
+SPM but Sitagliptin free base and SPM did not use Sitagliptin free base 
+or Sitagliptin Hydrochloride salt, as raw material. Further, the same was 
+also not generated or formed as an intermediate in the manufacturing 
+process.  Additionally, Glenmark claimed that SPM was qualitatively 
+different from Sitagliptin free base and enhanced its pharmaceutical 
+qualities.  The first claim of the suit patent was in respect of Sitagliptin 
+free base.  Claim No. 1 represented a general formula of complex 
+chemical structure.  Under Claim No. 19, the patentee claimed 
+Sitagliptin free base “or a pharmaceutical acceptable salt thereof”. 
+However, the claim did not specifically disclose SPM.  The only salt 
+specifically disclosed was Sitagliptin Hydrochloride salt. The Trial 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 78 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 78 of 86 
+ 
+Court declined the interim injunction sought by Merck and it appealed 
+the said decision before the Division Bench. The Division Bench noted 
+that the active therapeutic component of the invention is Sitagliptin free 
+base and not the attaching Phosphate, Hydrochloride salt or other 
+carriers.  It was acknowledged that such carrier salts are needed to 
+deliver the drug into the body and the salt must contain certain crucial 
+properties that allow the drug to be administered properly.  However, 
+the Division Bench noted that the Sitagliptin free base activity on the 
+DPP-IV enzyme was not affected by the attached salts, although the 
+efficacy of administration of the drug was dependent on the carrier.   
+105. It is also material to note that it was conceded by Merck that 
+Sitagliptin Hydrochloride salt, specifically disclosed as example no. 7, 
+is not desirable for solid dosage formulations due to flow issues.  The 
+Division Bench observed that Sitagliptin Hydrochloride salt could not 
+be used as a commercial drug, but SPM had no such issues and was 
+used by both the parties as a commercial drug.  Notwithstanding, that 
+SPM was not specifically disclosed in the specifications. The Division 
+Bench allowed the appeal and granted the interim injunction as claimed 
+by Merck, albeit subject to certain conditions. The Division Bench also 
+permitted Glenmark to sell the stocks that were already manufactured.   
+106. It is material to note that the Division Bench had also briefly 
+considered (on a prima facie basis) the applicability of Section 3(d) of 
+the Act in the context of the application for Dihydrogenphosphate salt 
+of Sitagliptin being abandoned. The Court held that Section 3(d) of the 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 79 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 79 of 86 
+ 
+Act would not be applicable backwards. Each claim was regulated by 
+its own terms.  Insofar as the objection regarding industrial application 
+is concerned, the court accepted the contention that Sitagliptin free base 
+was capable of industrial application and for use in the medical industry.  
+It specifically noted that for the purposes of industrial applicability, it 
+was recognised that the Sitagliptin free base would be attached to some 
+carrier.  However, the carrier was not the invention but only an inert 
+component that did not add to the therapeutic or the medicinal value, 
+which was the true core of the invention. The relevant extract of the said 
+decision is set out below: 
+“67. This Court notes that a “specification must be read as 
+a whole, just as any document is” (Cornish at 183). The 
+role of the specification is to teach (i.e written description) 
+what the invention is and the method of making and using 
+it (i.e enablement). While the claim (claims 1 and 19) 
+disclose the Sitagliptin free base, the description relating 
+to the issue of industrial applicability recognizes that the 
+Sitagliptin free base will be attached to some carrier. That 
+carrier, however, is not the crux of the invention, but only 
+an inert component that does not add value to the 
+therapeutic or medical value, which is the true core of the 
+invention. It would be a far cry to hold that Sitagiptin “is 
+useless for any known purpose” (Chiron Corp v. Murex 
+Diagnostics Ltd. and Other, [1996] RPC 535). Sitagliptin 
+was not known before, and its introduction allows for the 
+inhibition of the DPP-IV enzyme in such a manner as 
+previously unknown. It can - in that sense - be used, 
+whether through one inert carrier or another.” 
+ [emphasis original] 
+107. We are inclined to agree with the contentions advanced by Shri. 
+Sai Deepak on behalf of Natco that the decision in the case of Merck v. 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 80 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 80 of 86 
+ 
+Glenmark2 and the decision of the Division Bench in Astrazeneca AB 
+and Anr. v. Intas Pharmaceuticals Limited9 are two sides of the same 
+coin.   
+108. In Merck v. Glenmark2, the suit patent was in the nature of a 
+Markush claim, which sought to cover Sitagliptin and all 
+pharmaceutical acceptable salts thereof.  One of the challenges raised 
+by Glenmark was that it was too broad and included possibly 4.9 billion 
+compounds.  It claimed that such elastic claims could not be sustained. 
+The court interdicted the use of the salt form (SPM), which Glenmark 
+claimed had different physical and chemical properties. At the interim 
+stage, the court did not go into the question whether the suit patent 
+disclosed SPM and left the question open.  The court proceeded on the 
+basis that since the suit patent sufficiently discloses Sitagliptin free 
+base, which was the active ingredient and to that extent, the suit patent 
+was prima facie valid. In Astrazeneca AB and Anr. v. Intas 
+Pharmaceuticals Limited9, the appellants/plaintiffs had claimed that 
+the product in question, DAPA was covered under IN’147 (which was 
+the genus patent) as well as IN’625 (which was the species patent) and 
+the manufacturer of DAPA infringed both the patents.  In the aforesaid 
+context, the Division Bench denied the interim relief on the prima facie 
+view that one product could not be covered by two patents.  The court 
+also noted that the appellants/plaintiffs had not pleaded industrial 
+application of any product other than DAPA in respect of IN’147. In the 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 81 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 81 of 86 
+ 
+present case as well, Novartis claimed that IN’176 has been worked on 
+account of manufacture and sale of the drug ELT-O.   
+109. Thus, in both cases, Merck v. Glenmark2 and the decision of the 
+Division Bench in Astrazeneca AB and Anr. v. Intas Pharmaceuticals 
+Limited9, the interim orders were passed on the basis that the genus 
+patent covered the product in question. In the former case, the interim 
+injunction was granted, and in the latter, it was denied. We do not find 
+the said decisions to be conflicting, as contended by Mr Hemant Singh. 
+110. The learned Single Judge has sought to distinguish the decision 
+in the case of Astrazeneca AB and Anr. v. Intas Pharmaceuticals 
+Limited9, inter alia, on the basis that in the said decision, the 
+appellants/plaintiffs had claimed that the product DAPA infringed both 
+the suit patents, IN’147 and IN’625. The court reasoned that if the 
+appellants/plaintiffs had elected to pursue the claim of infringement in 
+respect of only one patent, the decision would have been different.  We 
+are unable to accept that the decision in Astrazeneca AB and Anr. v. 
+Intas Pharmaceuticals Limited9 could be distinguished on the 
+aforesaid basis, from the facts as obtaining in the present case. In the 
+present case too, Novartis is claiming that the product in question (ELT-
+O) infringes both IN’176 and IN’161. The fundamental question 
+involved in both cases is whether a patentee can claim protective rights 
+in respect of the same compound as covered under two product patents: 
+one, a broad claim covering several compounds with an essential core, 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 82 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 82 of 86 
+ 
+claiming to possess therapeutic value, and the second a specific claim, 
+in respect of the compound in question.  
+111. The decision in Astrazeneca AB and Anr. v. Intas 
+Pharmaceuticals Limited9 is, at the interim stage, squarely applicable 
+to the facts in this case as well. 
+112. Natco had also asserted that the predecessor-in-interest of 
+Novartis had specifically claimed that ELT-O, which was being sold 
+under the brand name PROMACTATM was covered under Claim 1 of 
+US Patent 7160870 (US’870).  Undisputedly, Claim No.1 of US’870 is 
+Claim No.6 of IN’176. It was contended on behalf of Natco – and not 
+controverted by Novartis – that the predecessor-in-interest of Novartis 
+had applied for a Patent Term Extension (PTE) for US’870 to 
+compensate for the time spent in obtaining regulatory approvals.  And, 
+had, inter alia, averred as under:  
+“Patent Claims to the Approved Product: 
+As indicated above, the following claims of U.S. 
+Patent No. 7,160,870 read on the approved product. 
+1. A compound selected from the group consisting 
+essentially of: 3'-{N'-(1-(3,4-Dimethylphenyl)-3-
+methyl-5-oxo-1,5-dihydropyrazol-4-ylidene] 
+hydrazino}-2'-hydroxybiphenyl-3-carboxylic acid, 
+and a pharmaceutically acceptable salt, a hydrate, a 
+solvate, and an ester, thereof. 
+  
+Claim 1 of U.S. Patent No. 7,160,870 reads 
+on the approved product, PromactaⓇ tablets, 
+because the active ingredient of the approved 
+product, eltrombopag olamine, is encompassed 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 83 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 83 of 86 
+ 
+by claim 1. Eltrombopag is present in the 
+approved product as a 2-aminoethanol (1:2) salt. 
+2. The compound of claim 1, wherein the compound 
+is the pharmaceutically acceptable salt. 
+  
+Claim 2 of U.S. Patent No. 7,160,870 reads 
+on the approved product, PromactaⓇ tablets, 
+because the active ingredient of the approved 
+product, eltrombopag olamine, is a compound 
+encompassed by claim 1. Eltrombopag is present 
+in the approved product as a pharmaceutically 
+active salt. 
+3. 
+The 
+pharmaceutical 
+composition 
+which 
+comprises the compound of claim 1 and a 
+pharmaceutically acceptable carrier. 
+  
+Claim 3 of U.S. Patent No. 7,160,870 reads 
+on the approved product, because the approved 
+product is a pharmaceutical composition that 
+contains eltrombopag olamine, which is a 
+compound encompassed by claim 1, and several 
+inactive ingredients, which are pharmaceutically 
+acceptable carriers.  
+[emphasis added]” 
+113. The US Food and Drug Administration (USFDA) had also sent a 
+communication dated 22.02.2011 to the US Patent Office confirming 
+that US’870 (which is the counterpart of IN’176) claims 
+PROMACTATM (Eltromopobag Olamine).   
+114. As noticed earlier, Novartis has also furnished “statement 
+regarding the working of patented invention on commercial scale in 
+India” in Form 27 regarding IN’176 and IN’161. The said statement 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 84 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 84 of 86 
+ 
+indicated that Novartis had worked the patent inventions on a 
+commercial scale in India on the basis of ELT-O.   
+115. Mr Hemant Singh contended on behalf of Novartis that the 
+application for PTE for US’870 could not be construed to mean ELT-O 
+was disclosed in US’870. He also stated that the patent regulations in 
+the United States of America were different.  Although there is some 
+variance in the patent laws as applicable in the United States of America 
+and India. However, the statement of fact made by the predecessor-in-
+interest of Novartis to the effect that Claim 1 of US’870 “reads on the 
+approved product, PROMACTATM tablets” must be construed as it reads 
+at least at the interim stage. As noticed hereinabove, it was not seriously 
+disputed that ELT is the API and ELT-O being a salt form aids in its 
+administration on account of its properties. The insert in the packaging 
+of the drug REVOLADETM also indicates that ELT is the API of the 
+formulation.  
+116. It is relevant to refer to Section 10 of the Act. Section 10(1) of 
+the Act requires that every specification shall describe the invention and 
+shall begin with the title indicating the subject matter to which the 
+invention relates.  Section 10(4) of the Act requires every complete 
+specifications to (a) fully and particularly describe the invention and its 
+operation or use and the method by which it is to be performed;  (b) 
+disclose the best method of performing the invention which is known to 
+the applicant and for which he is entitled to claim protection; (c) end 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 85 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 85 of 86 
+ 
+with a claim or claims defining the scope of the invention for which 
+protection is claimed; and (d) be accompanied by an abstract to provide 
+technical information on the invention.   
+117. In terms of Section 10(5) of the Act, the claim or claims of a 
+complete specification shall relate to a single invention, or to a group of 
+inventions linked so as to form a single inventive concept. Thus, a claim 
+can be made in respect of a group of inventions linked to form a single 
+inventive concept. However, the same must be fully and particularly 
+described. It would also be necessary to describe the best method of 
+performing the invention.   
+118. If the complete specifications furnished are compliant with 
+Section 10 of the Act and the claim is valid, then it would follow that a 
+compound, which is covered within the said claim is also included in 
+the complete specifications. Thus, the second patent for such a 
+compound that was fully covered would be vulnerable to challenge on 
+the ground of prior claiming [under Section 64(1)(a) of the Act] and 
+lack of novelty [Section 64(1)(e) of the Act] and lack of inventive steps 
+[Section 64(1)(f) of the Act].   
+119. In view of the above, Natco did satisfy the standard of raising a 
+credible challenge to the validity of IN’161. The impugned judgement 
+to the extent it holds otherwise is set aside. It is not necessary for the 
+Court to dilate in other issues as the term of IN’161 has expired and it 
+is not necessary for this Court to pass any further orders.  
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified
+
+
+--- PAGE 86 ---
+   
+ 
+ 
+ 
+FAO(OS) (COMM) 178/2021 
+ 
+                                                   Page 86 of 86 
+ 
+120. It is clarified that the observations made in the present order are 
+prima facie views, and are for the limited purpose of considering the 
+challenge to impugned judgement denying interim relief. The same 
+would not preclude the parties from raising such contentions as advised 
+in the pending suit. All rights and contentions of the parties are reserved.   
+121. The appeal is disposed of in the aforesaid terms. All pending 
+applications are also disposed of.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    VIBHU BAKHRU, J 
+ 
+ 
+AMIT MAHAJAN, J 
+APRIL 24, 2024 
+RK/GSR 
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signing Date:26.04.2024
+Signature Not Verified

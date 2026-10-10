@@ -1,0 +1,1674 @@
+--- PAGE 1 ---
+IN THE HIGH COURT OF JUDICATURE AT MADRAS
+DATED:    14 /2/2020
+C O R A M  
+THE HON'BLE MR.A.P.SAHI, CHIEF JUSTICE
+AND
+THE HON'BLE MR.JUSTICE SUBRAMONIUM PRASAD
+Writ Petition No.1538 of 2020
+a n d
+W.M.P.No.1814 and 1816 of 2020
+Kamala Srinivasan
+...
+Petitioner 
+Vs
+1.  Union of India
+     rep. By its Secretary to Ministry of Corporate Affairs
+     A Wing, Shastri Bhawan
+     Rajendra Prasad Road 
+     New Delhi 110 001.
+2.  The Regional Director
+     Southern Region 
+     Ministry of Corporate Affairs 
+     5th Floor, Shastri Bhawan
+     26 Haddows Road 
+     Chennai 600 006.
+3.  Investor Education and Protection Fund Authority
+     rep. By its Chief Executive Officer 
+     Ministry of Corporate Affairs 
+     Ground Floor, Jeevan Vihar Building 
+     3 Sansad Marg
+     New Delhi 110 001.
+4.  M/s. Oracle Financial Services Software Limited
+     rep. By its Director Venkatachalam Sambasivan
+     Oracle Park, Off.Western Express Highway 
+     Goregaon (East)
+     Mumbai 400 063.
+  ...
+Respondents
+Page 1 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 2 ---
+Prayer:- Petition filed under Article 226 of the
+Constitution of India praying for the issuance of a writ of
+declaration to declare Section 124 (6) of the Companies Act,
+2013 and corresponding Rules 6 & 7 of the Investor Education and
+Protection Authority Fund (Accounting, Audit, Transfer and
+Refund) Rules, 2016, as unconstitutional being violative of
+Articles 14, 21 and 300 A of the Constitution of India.
+For petitioner 
+...
+Mr.M.Sricharan Rangarajan
+For respondents 
+...
+Mr.R.Durga Rani,CGSC
+for R.R.1 and 2.
+- - - - - -
+O R D E R
+SUBRAMONIUM PRASAD,J
+The instant writ petition challenges the vires of Section
+124 (6) of the Companies Act, 2013 and Rule 6 and 7 of the
+Investor Education and Protection Fund Authority (Accounting,
+Audit, Transfer and Refund) Rules, 2016 as unconstitutional
+being violative of Article 14, 21 and 300 A of the Constitution
+of India.
+2.  The petitioner states that her son R.Murali Srinivasan
+passed away on 30/8/1993 intestate at Quriyat, Oman, leaving
+behind the petitioner and his wife.  The petitioner's son was
+having shares in a Company called I-Flex Solutions Limited
+(IFLEX).  The said Company was taken over by M/s. Oracle
+Financial Services Software Limited, fourth respondent herein.
+These shares were allotted to the petitioner in the year 1992.
+3.  Over the years,  bonus shares were issued and the
+petitioner was holding 3200 shares.  The market value of the
+share as on date would be about 1.14 crores.  It is also stated
+that after the petitioner's son passed away, the dividends which
+were not received and as on date, unclaimed dividends worth
+Rs.29,92,000/-. It is stated by the petitioner that Section 124
+(6) of the Companies Act, which deals with unclaimed dividends
+provides that all the shares in respect of which dividends have
+not been claimed for seven consecutive years or more than shall
+be transferred by the Company in the name of Investor Education
+and Protection Fund along with a statement containing such
+details as may be prescribed.  Proviso to sub-Section 6 of
+Section 124 states that claimant of the shares shall be entitled
+to claim the transfer of shares from the Investor Education and
+Protection Fund in accordance with such procedure and on
+submission of such documents as may be prescribed.  
+Page 2 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 3 ---
+4.  Section 124 of the Companies  Act, 2013, reads as
+under:-
+"124. Unpaid Dividend Account.—
+(1) Where a dividend has been declared by a company but
+has not been paid or claimed within thirty days from the
+date of the declaration to any shareholder entitled to
+the payment of the dividend, the company shall, within
+seven days from the date of expiry of the said period of
+thirty days, transfer the total amount of dividend which
+remains unpaid or unclaimed to a special account to be
+opened by the company in that behalf in any scheduled
+bank to be called the Unpaid Dividend Account.
+(2) The company shall, within a period of ninety days
+of making any transfer of an amount under sub-section
+(1) to the Unpaid Dividend Account, prepare a statement
+containing the names, their last known addresses and
+the unpaid dividend to be paid to each person and place
+it on the website of the company, if any, and also on
+any other website approved by the Central Government
+for this purpose, in such form, manner and other
+particulars as may be prescribed.
+(3) If any default is made in transferring the total
+amount referred to in sub-section (1) or any part
+thereof to the Unpaid Dividend Account of the company,
+it shall pay, from the date of such default, interest
+on so much of the amount as has not been transferred to
+the said account, at the rate of twelve per cent per
+annum and the interest accruing on such amount shall
+ensure to the benefit of the members of the company in
+proportion to the amount remaining unpaid to them.
+(4) Any person claiming to be entitled to any money
+transferred under sub-section (1) to the Unpaid
+Dividend Account of the company may apply to the
+company for payment of the money claimed.
+(5) Any money transferred to the Unpaid Dividend
+Account of a company in pursuance of this section which
+remains unpaid or unclaimed for a period of seven years
+from the date of such transfer shall be transferred by
+the company along with interest accrued, if any,
+thereon to the Fund established under sub-section (1)
+of Section 125 and the company shall send a statement
+in the prescribed form of the details of such transfer
+to the authority which administers the said Fund and
+that authority shall issue a receipt to the company as
+Page 3 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 4 ---
+evidence of such transfer.
+(6) All shares in respect of which dividend has not
+been paid or claimed for seven consecutive years or
+more shall be transferred by the company in the name of
+Investor Education and Protection Fund along with a
+statement containing such details as may be prescribed:
+Provided that any claimant of shares transferred above
+shall be entitled to claim the transfer of shares from
+Investor Education and Protection Fund in accordance
+with such procedure and on submission of such documents
+as may be prescribed.
+[Explanation.—For the removal of doubts, it is hereby
+clarified that in case any dividend is paid or claimed
+for any year during the said period of seven
+consecutive years, the share shall not be transferred
+to Investor Education and Protection Fund.]
+(7) If a company fails to comply with any of the
+requirements of this section, the company shall be
+punishable with fine which shall not be less than five
+lakh rupees but which may extend to twenty-five lakh
+rupees and every officer of the company who is in
+default shall be punishable with fine which shall not
+be less than one lakh rupees but which may extend to
+five lakh rupees."
+5.  In exercise of powers conferred under sub-Section 1, 2,
+3, 4, 8, 9, 10 and 11 of Section 125 and sub-Section 6 of 124
+r/w. Section 469 of the Companies Act, the Central Government
+brought out the Investor Education and Protection Fund
+Authority (Accounting, Audit, Transfer and Refund) Rules, 2016.
+Rule 6 and 7 of the said Act read as under:-
+"Rule 6.  Manner of transfer of shares under sub-
+section (6) of section 124 to the Fund.
+(1) The shares shall be credited to DEMAT Account of
+the Authority to be opened by the Authority for the
+said purpose, within a period of thirty days of such
+shares becoming due to be transferred to the Fund:
+Provided that, in case the beneficial owner has
+encashed any dividend warrantor any dividend amount
+has been credited to bank account of the owner of such
+shares during the last seven years, such shares shall
+not be required to be transferred to the Fund even
+though some dividend warrants may not have been
+encashed:
+Page 4 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 5 ---
+Provided further that in cases where the period of
+seven years provided under sub-section (5) of section
+124 has been completed or being completed during the
+period from 7th September, 2016 to 31st October, 2017,
+the due date of transfer of such shares shall be
+deemed to be 31st October, 2017.
+Provided further that in cases where the period of
+seven years provided under sub-section (5) of section
+124 has been completed or being completed during the
+period from 7th September, 2016 to 31st October, 2017,
+the due date of transfer of such shares shall be
+deemed to be 31st October, 2017.
+Provided further that transfer of shares by the
+companies to the Fund shall be deemed to be
+transmission of shares and the procedure to be
+followed for transmission of shares shall be followed
+by the companies while transferring the shares to the
+fund.
+Explanation.-For removal of all doubts, it is hereby
+clarified that all shares in respect of which dividend
+has been transferred to Investor Education and
+Protection Fund on or before the 7th September 2016,
+shall also be transferred by the company in the name
+of Investor Education and Protection Fund.
+(2) For the purposes of effecting transfer of such
+shares, the Board shall authorise the Company
+Secretary or any other person to sign the necessary
+documents.
+(3) The company shall follow the following procedure
+while transferring the shares, namely:-
+(a) The company shall inform, at the latest available
+address, the shareholder concerned regarding transfer
+of shares three months before the due date of transfer
+of shares and also simultaneously publish a notice in
+the leading newspaper in English and regional language
+having wide circulation informing the concerned that
+the names of such shareholders and their folio number
+or DP ID – Client ID are available on their website
+duly mentioning the website address.
+Page 5 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 6 ---
+(b) In case, where there is a specific order of Court
+or Tribunal or statutory Authority restraining any
+transfer of such shares and payment of dividend or
+where such shares are pledged or hypothecated under
+the provisions of the Depositories Act, 1996 or shares
+already been transferred under sub-rule (1) above, the
+company shall not transfer such shares to the Fund:
+Provided that the company shall furnish details of
+such shares and unpaid dividend to the Authority in
+Form No. IEPF 3within thirty days from the end of
+financial year.
+(c) For the purposes of effecting the transfer, where
+the shares are dealt with in a depository-
+(i) the Company shall inform the depository by way of
+corporate action, where the shareholders have their
+accounts for transfer in favour of the Authority.
+(ii) on receipt of such intimation, the depository
+shall effect the transfer of shares in favour of DEMAT
+account of the Authority.
+(d)For the purposes of effecting the transfer where
+the shares are held in physical form-
+(i) the Company Secretary or the person authorised by
+the Board shall make an application, on behalf of the
+concerned shareholders, to the company, for issue of a
+new share certificates;
+(ii) on receipt of the application under clause (a), a
+new share certificate for each such shareholder shall
+be issued and it shall be stated on the face of the
+certificate that “Issued in lieu of share certificate
+No….. for purpose of transfer to IEPF” and the same be
+recorded in the register maintained for the purpose; 
+(iii) particulars of every share certificate shall be
+in Form No. SH-1 as specified in the Companies (Share
+Capital and Debentures) Rules, 2014;
+Page 6 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 7 ---
+(iv) after issue of a new share certificates, the
+company shall inform the depository by way of
+corporate action to convert the share certificates
+into DEMAT form and transfer in favour of the
+Authority.
+(4).  The company shall make such transfers through
+corporate action and shall preserve copies for its
+records.
+(5).While effecting such transfer, the company
+shall send a statement to the Authority inForm No.
+IEPF-4within thirty days of the corporate action taken
+under clause (c) of sub-rule (3) of rule 6 containing
+details of such transfer and the company shall also
+attach a copy of the public notice published under
+clause (a) of sub-rule (3) of rule 6 in Form No. IEPF-
+4.
+(6) The voting rights on shares transferred to the
+Fund shall remain frozen until the rightful owner
+claims the shares:
+Provided that for the purpose of the Securities and
+Exchange Board of India (Substantial Acquisition of
+Shares and Takeovers) Regulations, 2011, the shares
+which have been transferred to the Authority shall not
+be excluded while calculating the total voting rights.
+(7)The company shall maintain all such statements
+filed under sub – rule (5) in the same format along
+with all supporting documents and the Authority shall
+have the powers to inspect such records.
+(8)All benefits accruing on such shares like bonus
+shares, split, consolidation, fraction shares and the
+like except right issue shall also be credited to such
+DEMAT account [by the company which shall send a
+statement to the Authority in Form No. IEPF-4within
+thirty days of the corporate action containing details
+of such transfer.]
+(9) The shares held in such DEMAT account shall not be
+transferred or dealt with in any manner whatsoever
+except for the purposes of transferring the shares
+Page 7 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 8 ---
+back to the claimant as and when he approaches the
+Authority or in accordance with sub-rule (10) and
+(11).
+(10) If the company is getting delisted, the Authority
+shall surrender shares on behalf of the shareholders
+in accordance with the Securities and Exchange Board
+of India (Delisting of Equity Shares) Regulations,
+2009 and the proceeds realised shall be credited to
+the Fund and a separate ledger account shall be
+maintained for such proceeds.
+(11) In case the company whose shares or securities
+are held by the Authority is being wound up, the
+Authority may surrender the securities to receive the
+amount entitled on behalf of the security holder and
+credit the amount to the Fund and a separate ledger
+account shall be maintained for such proceeds.
+(12) Any further dividend received on such shares
+shall be credited to the Fund and a separate ledger
+account shall be maintained for such proceeds.
+(13)Any amount required to be credited by the
+companies to the Fund as provided under sub-rules
+(10), (11) and sub-rule (12) shall be remitted into
+the specified account of the IEPF Authority maintained
+in the Punjab National Bank and the details thereof
+shall be furnished to the Authority in Form No. IEPF 7
+within thirty days from the date of remittance or
+within thirty days from the date of enforcement of
+these Rules, as the case may be.
+(14)Authority shall furnish to its report to the
+Central Government as and when noncompliance of the
+rules by companies came to its knowledge.
+7.  Refunds to claimants from Fund:-
+(1) Any person whose shares, unclaimed dividend,
+matured deposits, matured debentures, application
+money due for refund, or interest thereon, sale
+Page 8 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 9 ---
+proceeds of fractional shares, redemption proceeds of
+preference shares etc., has been transferred to the
+Fund, may claim the shares under proviso to sub-
+Section (6) of Section 124 or apply for refund under
+clause (a) of sub-Section (3) of Section 125 or under
+proviso to sub-Section (3) of Section 125, as the case
+may be, to the Authority by submitting an online
+application in Form IEPF-5 available on the website
+www.jepf.gov.in along with fee specified by the
+Authority from time to time in consultation with the
+Central Government.
+(2).  Upon submission, Form No.IEPF-5 shall be
+transmitted online to the Nodal Officer of the Company
+for verification of claim:
+Provided that the claimant after making an
+application in Form No.IEPF-5 under sub-rule 1, shall
+send original physical share certificate, original
+bond, deposit certificate, debenture certificate, as
+the case may be, along with Indemnity Bond, Advance
+Receipts, any other document as enumerated in Form
+No.IEPF-5, duly signed by him, to the Nodal Officer of
+the concerned company at its registered office for
+verification of the claim.
+2 A.  Every company which is required to credit
+amounts or shares to the fund or has deposited the
+amount or transferred the shares to the Fund shall
+nominate a Nodal Officer, who shall either be a
+Director or Chief financial Officer or Company
+Secretary of the company, for the purposes of
+verification of claims and coordination with Investor
+Education and Protection Fund Authority:
+Provided that a company may appoint one or more
+Officer as Deputy Nodal Officer to assist the Nodal
+Officer for the purposes of verification of claim and
+for coordination with Investor Education and
+Protection Fund Authority:
+Provided further that the Nodal Officer shall be
+solely liable for all actions of any officer appointed
+as Deputy Nodal Officer:
+Page 9 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 10 ---
+Provided also that in case a company fails to appoint
+Nodal Officer, every director of the company shall be
+deemed to be nodal officer and be liable for any
+failure to comply with requirement of these rules.
+(2B)The details of the Nodal Officer and Deputy Nodal
+Officer duly indicating his or her designation, postal
+address, telephone and mobile number and company
+authorized e-mail ID shall be communicated to the
+Investor Education and Protection Fund Authority in
+Form No. IEPF-2within fifteen days from the date of
+publication of these rules and the company shall
+display the name of Nodal Officer and his e-mail ID on
+its website:
+Provided that any change in the Nodal Officer or his
+details shall be communicated to the Authority through
+Form No. IEPF-2within seven days of such change along
+with board resolution thereof.
+(3)The company shall, within thirty days from the date
+of receipt of claim, send an online verification
+report to the Authority after verification of details
+in Form No. IEPF-5 in the format specified by the
+Authority along with all the documents submitted by
+the claimant and shall attach the scanned copy of all
+the original documents submitted by the claimant in
+physical form duly certified by its Nodal Officer
+along with the e-verification report along with a
+scanned copy of both sides of original physical share
+certificate or original bond or deposit or debenture
+certificate/s duly cancelled and certified:
+Provided that if the online verification report is not
+sent by the company within thirty days of filing of
+claim, the company may do so by paying additional fee
+of fifty rupees for every day subject to maximum of
+two thousand and five hundred rupees:
+Provided further that the company shall be liable to
+maintain the original documents submitted to it by the
+claimant and shall produce such documents whenever
+required:
+Page 10 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 11 ---
+Provided also that in case of non-receipt of
+verification report along with documents by the
+Authority after the expiry of sixty days from the date
+of filing of Form No. IEPF-5, the Authority may reject
+FForm No. IEPF-5, after sending a communication to the
+claimant and the concerned company, on the e-mail
+address of the claimant and the company, to furnish
+response within a period of fifteen days:
+Provided also that for failure to submit verification
+report of the claim in accordance with these rules,
+the company and its Nodal Officer shall be punishable
+as per the provisions of the Act.
+Explanation.- In case (i) loss of original physical
+share certificate or original bond or deposit or
+debenture certificate or proof of entitlement, the
+company and the claimant shall follow the procedure as
+laid down in the Companies (Share Capital and
+Debenture) Rules, 2014 , the Securities and Exchange
+Board of India (Listing Obligation and Disclosure
+Requirements) Regulation, guidelines, procedures and
+circulars issued from time to time and Schedule III of
+these rules and attach certified copies of all
+documents as may be required under the said rules or
+guidelines with the e-verification report; (ii) In
+addition, the company shall attach a scanned copy of
+both sides of share certificate generated under clause
+(d) of sub-rule (3) of rule 6 of these rules along
+with the e-verification report;(iii) The Company shall
+be solely responsible for collecting original physical
+share certificate or original bond or deposit or
+debenture certificate or proof of entitlement from the
+claimant and shall be liable for any misuse thereof.
+(3) The company shall, within fifteen days from the
+date of receipt of claim, send a verification report
+to the Authority in the format specified by the
+Authority along with all the documents submitted by
+the claimant.
+(4) After verification of the entitlement of the
+claimant-
+(a) to the amount claimed, the Authority and then
+Drawing and Disbursement Officer of the Authority
+Page 11 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 12 ---
+shall present a bill to the Pay and Accounts Office
+for e- payment as per the guidelines,
+(b) to the shares claimed, the Authority shall issue a
+refund sanction order with the approval of the
+Competent Authority and shall credit the shares to the
+DEMAT account of the claimant to the extent of the
+claimant’s entitlement.
+(5) The Authority shall, in its records, cause a note
+to be made of all the payments made under sub-rule
+(4).
+(6) An application received for refund of any claim
+under this rule duly verified by the concerned company
+shall be disposed off by the Authority within sixty
+days from the date of receipt of the verification
+report from the company, complete in all respects and
+any delay beyond sixty days shall be recorded in
+writing specifying the reasons for the delay and the
+same shall be communicated to the claimant in writing
+or by electronic means.
+(7)Where the Authority, on examining any application
+for claim, finds it necessary to call for further
+information or finds such application or e-form or
+document to be defective or incomplete in any respect,
+the Authority shall give intimation of such
+information called for or defects or incompleteness,
+by e-mail on the email address of the claimant and the
+company, which has filed such application or e-form or
+document, directing him or it to furnish such
+information or to rectify such defects or
+incompleteness or to re-submit such application or e-
+Form or document within fifteen days from the date of
+receipt of such communication, failing which the
+Authority may reject the claim or e-form No. IEPF-5:
+Provided that if such information or incompleteness is
+called from the claimant, he shall file the e-form and
+shall send such documents as called for within fifteen
+days, duly signed by him, to the Nodal Officer of the
+concerned company at its registered office for
+verification of the claim and company shall send a
+revised verification report:
+Page 12 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 13 ---
+Provided further that if any such information or
+incompleteness is called from the company, the company
+shall file the revised verification report and shall
+send such documents as called for within thirty days:
+Provided also that the provisions of sub-rule (3) of
+rule 7 shall apply mutatis mutandis to this sub-Rule.
+(8)In case, claimant is a legal heir or successor or
+administrator or nominee of the registered share
+holder, the claimant shall ensure to submission of
+self-attested scanned copy of all documents detailed
+inScheduleIIof these rules online along with theForm
+No. IEPF-5:
+Provided that in case of loss of securities held in
+physical form, he has to ensure to submission of self-
+attested scanned copy of additional documents detailed
+in Schedule III of these rules online along with the
+Form No. IEPF-5:
+Provided further that the claimant shall submit in
+original all these documents duly signed by him, to
+the Nodal Officer of the concerned company at its
+registered office for verification of the claim.
+(9)  In case, claimant is a legal heir or successor or
+administrator or nominee of any other registered
+security or in cases where request of transfer or
+transmission of shares is received after the transfer
+of shares by company to the Authority, the company
+shall verify all requisite documents required for
+registering transfer or transmission and shall issue
+letter to the claimant indicating his entitlement to
+the said security and furnish a copy of the same to
+the Authority while verifying the claim of such
+claimant through its e-verification report.
+Provided that. the authority shall dispose such
+request of transfer or transmission based on the e-
+verification report of the company subject to
+verification of such request.
+(10) ........
+Page 13 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 14 ---
+(11) The company shall be liable under all
+circumstances whatsoever to indemnify the Authority in
+case of any dispute or lawsuit that may be initiated
+due to any incongruity or inconsistency or disparity
+in the verification report or otherwise and the
+Authority shall not be liable to indemnify the
+security holder or Company for any liability arising
+out of any discrepancy in verification report
+submitted etc., leading to any litigation or complaint
+arising thereof.
+(b)Any fraudulent claim by the claimant shall be
+deemed to be fraud within the meaning of section 447
+of the Act and the claimant shall be liable
+accordingly.
+(c)If any person deceitfully personates an owner of
+any security or of any share warrant or coupon issued
+in pursuance of this Act and thereby files any claim
+to obtain or attempts to obtain any such security or
+interest or any such warrant or coupon due to the
+lawful owner, he shall be punishable under sections
+57, 447 and 448 of the Act.”
+6.  It is the contention of the petitioner that Section 124
+of the Companies Act, 2013 corresponds to Section 205 A of the
+Companies Act, 1956.  It is contended that under the 1956 Act
+where dividends have been declared by the Company and where
+within 30 days from the date of declaration, the said amount
+have not been claimed even after a period of seven days, the
+Company had to transfer the amount of dividend which remain
+unpaid to an account called unpaid dividend account from the
+date of expiry of 30 days period,and if the money transferred to
+the unpaid dividend account remains unclaimed for a period of
+seven years, it got transferred to the Investor Education and
+Protection Fund (IEPF).  
+7.  It is the contention of the petitioner that under the
+erstwhile Section, the title in the shares never got transferred
+and the shares continued to remain with the share holder.  It is
+therefore, submitted that by virtue of 124 (6), of the Companies
+Act 2013, the share holder looses his  shares, which is property
+and is violative of 300 A of the Constitution of India.  It is
+contended that a share is a bundle of rights and is movable
+Page 14 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 15 ---
+property cannot be taken  away merely because the dividends
+which is a share in the profits given to the share holder has
+not been claimed.
+8.  It is the contention of the petitioner that failure to
+claim dividends cannot amount to divesting the rights in the
+shares which is  property.  It is further contended that there
+is no public purpose for bringing out under Section 124 (6).  It
+is contended that Section 124 (b) also applies where dividends
+are not paid by the Company.  It is therefore, stated that if
+the dividends are not paid by the Company, then the shareholder
+cannot be divested of his property and such an action is
+completely unreasonable and unfair and is in violation of
+Article 14 of the Constitution of India.
+9.  It is contended that divesting the rights of a
+shareholder by transfer of such shares to the Investor Education
+and Protection  Fund, just because the dividends are not paid,
+or that the dividends are unclaimed is completely unjustifiable,
+arbitrary and violative of Article 14, 21 and 300 A of the
+Constitution of India.
+10. It is contended that it is well settled that before a
+person is divested of his rights in any property and affected
+person ought to be heard.  Taking away the right of a
+shareholder even without affording a hearing, cannot be
+sustained and such law which permits such a procedure of
+divesting property is unsustainable and deserves to be struck
+down.
+11.  It is also contended by the learned counsel for the
+petitioner that Rules 6 and 7 of  the Investor Education and
+Protection Fund Authority (Accounting, Audit, Transfer and
+Refund) Rules, 2016, is so cumbersome that it virtually makes it
+impossible to comply with the procedure.  It is contended that
+Rules 6 and 7 in as much as it relates to transfer of shares
+along with the unclaimed dividend is patently illegal and
+arbitrary in as much as the said rules render the transfer of
+shares to IEPF as transmission thereby divesting the shareholder
+and his legal heirs from their  title to the said share.
+12.  It is further contended that Rule 7 elaborates the
+procedure on claiming shares transferred to Investor Education
+Page 15 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 16 ---
+and Protection Fund account.  Sub-Rule 8 read with sub-Rule 1
+initially held that the legal heirs of the claimants who are
+entitled for such shares need only send Form IEPF – 5 online to
+IEPF regarding the claim and complete the entire transmission
+process with the company.  However, vide a recent amendment
+w.e.f. 20/9/2019, the legal heirs are forced to send two sets of
+documents both the authority and to the Company regarding the
+very same claim.  The legal heirs now are compelled to complete
+the transmission process with the company and also the
+satisfaction of the authority.  Therefore, the object of
+claiming unclaimed shares will only be rendered futile if the
+procedure to retrieve the same is onerous.
+13.  It is further contended that Schedule II appended to
+the amended Rules lists out the documents to be sent by the
+legal heirs to the IEPF.  The list clearly stipulates that for
+shares held in physical form without any nomination and for
+value above Rs.2,00,000/-, obtaining of Succession Certificate
+or probate or will or letter of administration is mandatory.
+Therefore, the legal heirs are constrained to take legal
+recourse and incur additional expenses instead of being entitled
+to the shares  simply by transmission.
+14.  It is further contended that Schedule III renders an
+even more arduous case where the legal heirs are compelled to
+furnish surety affidavit of value equal to the market value of
+shares as on the date of execution in case of loss of original
+share certificates/documents.  It is contended in the petition
+that in the instant case, the claims are around Rs.22 lakhs and
+the petitioner being a senior citizen, who had just realised the
+existence of such shares is now compelled to file such a surety
+affidavit to claim the shares that she is legally entitled to
+otherwise under law as the sole surviving legal heir.
+15.  It is further contended that Rule  7 (3) initially held
+that even shares held in physical form could be transferred to
+the Authority by issuing a duplicate certificate and the
+Authority shall endeavour to dematerialize all such shares and
+retain some shares in physical form.  However, vide amendment
+w.e.f 13/10/2017, the rule was amended where the company is
+forced to convert all such shares in DEMAT form.  Thus, the
+burden is now on the company to convert such shares and incur
+exorbitant costs.
+Page 16 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 17 ---
+16.  It is further contended that neither the Companies Act,
+1956 nor 2013 Act stipulate any condition/list of documents to
+be adduced for transmission of shares to the legal heirs.
+However, the Rules which are procedural in nature, have gone
+beyond the scope of the Act and had mandated the legal heirs to
+produce additional documents which are never prescribed in the
+Act.  In as much as Section 124 (6) and the corresponding Rule 6
+and 7 make it mandatory that the shares in relation to which the
+unclaimed dividend shall be transferred to IEPF, the same is
+arbitrary and illegal as the shareholder is divested of his
+title to the shares.
+17.  Heard Mr.M.Sricharan Rangarajan, learned counsel for
+the petitioner and Ms.R.Durga Rani, Central Government Standing
+Counsel for the respondents 1 and 2.
+18. Mr.Sricharan Rangarajan, learned counsel for the
+petitioner, would submit that there is no rationale behind
+Section 124(6) of the Act which provides for transfer of shares
+along with dividend remaining unpaid or unclaimed for a period
+of 7 years from the Unpaid Dividend account of the company to
+the Investors Education and Protection Fund (IEPF). He would
+submit that the erstwhile Companies Act, 1956 did not have any
+provision which provided for transfer of shares along with
+unpaid/unclaimed dividend. This was introduced only in the new
+Companies Act, 2013. He would state that the introduction of the
+Section does not effectively remedy any mischief which was
+present under the erstwhile Act. He would state that no reasons
+have been given in order to bring out the intent behind its
+introduction.  He would state that the reason for introducing
+the impugned Sections for transfer of shares along with such
+unpaid/unclaimed dividend was not discussed in the Companies
+Bill, 2009 and in fact, the bill only provided for transfer of
+unpaid dividend. 
+19. He would submit that the reason given in the report
+submitted by the Parliamentary Standing Committee of Finance
+dated 26.06.2012, was that the underlying securities may be
+misused by vested parties, but no explanation had been given as
+to who are the vested parties and how it could be misused. No
+rationale has been accorded as to the introduction of transfer
+of shares along with unpaid/unclaimed dividend. He would state
+that the report submitted by the Parliamentary Standing
+Committee of Finance dated 26.06.2012, the Ministry had remarked
+that provisions are retained to achieve a broader objective of
+Page 17 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 18 ---
+safety and security in capital market since unclaimed securities
+could be misused by unscrupulous persons for money laundering
+activities, but there is no explanation as to who such
+unscrupulous persons and the manner of such misuse are. No
+rationale has been given for the introduction of transfer of
+shares along with unpaid/unclaimed dividend. He would therefore
+that the legislative intent behind the introduction of the
+Section is non-existent and no reason has been cited by the
+Legislature as to its introduction and implementation. 
+20. Mr.Sricharan Rangarajan, learned counsel for the
+petitioner, in his challenge to Rule 6 and Rule 7 of the
+Investor Education and Protection Authority Fund (Accounting,
+Audit, Transfer and Refund) Rules, 2016, would state that the
+procedure as prescribedin the said Rules are extremely
+cumbersome. Heavy expenditure has to be incurred by the
+claimants for retriving their shares. He would state that
+initially the 2016 rules provided for return of physical
+certificates of shares transferred to IEPF. However, after the
+2017 amendment, such shares are to be mandatorily converted to
+DEMAT form while transferring to IEPF. Therefore, the
+claimants/legal heirs are forced to incur additional expenditure
+to open DEMAT accounts in order to claim back their own shares.
+He would state that even though some companies are not mandated
+to keep their shares in DEMAT form, due to the transfer of
+shares to IEPF, the companies are forced to incur high
+expenditure for the conversion of physical shares to DEMAT and
+to subsequently transfer the same to IEPF’s DEMAT Account. 
+21. He would submit that Rule 7 originally provided that in
+case of claimants being legal heirs or representatives of the
+deceased claimant, they ought to complete the transmission
+process alone in order to obtain refund of shares and the
+unpaid/unclaimed dividend. However, after the amendment in 2019,
+the process of completion of transmission has been completely
+done away with and the legal heirs/representatives are forced to
+undergo an arduous procedure where they are mandated to provide
+a Succession Certificate/Probate/Letter of Administration in
+addition to other documents as per Schedule II in case the value
+of securities are above Rs. 2,00,000/-. He would state that in
+addition to the above, if the securities held in physical mode
+are lost, as per Schedule III, the claimant also ought to
+provide a surety affidavit of value equal to the market value of
+shares in addition to Notarised copy of FIR/Police complaint,
+indemnity bond and copy of advertisement for the same. He would
+state that in the instant case, the market value of the shares
+Page 18 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 19 ---
+are Rs. 1,14,00,000/-, therefore, the legal heirs are forced to
+incur heavy litigation expenses and are forced to wait for a
+longer period to claim back the shares. 
+22. Mr.Sricharan Rangarajan, learned counsel for the
+petitioner, also submits that Section 124(6) and Rule 6 and 7 of
+Investor Education and Protection Authority Fund (Accounting,
+Audit, Transfer and Refund) Rules, 2016, are violative of
+Article 300A of the Constitution of India. he would state that
+share is a movable property, with all the tributes of such
+property. A person whose name is entered in the Register as a
+member of the company holding such shares is entitled to
+exercise all or any rights that emanate from such shares.
+Mr.Sricharan Rangarajan, learned counsel for the petitioner,
+would argue that shares constitute a bundle of rights and
+sharing of profits in the company is only one of the many rights
+that a shareholder is entitled to. Merely because a shareholder
+does not exercise one right in the share does not entitle the
+Government to divest the shares from the shareholder. The
+deprivation of right without any purpose is manifestly arbitrary
+(as held in Shayira Banu vs Union of India 2017 9 SCC 1). There
+is no intelligible differentia as to how the right to claim
+dividend is given primacy over other rights. He would state that
+there might be a case where a shareholder who actively
+participates in the management and exercises his voting right
+does not claim dividends for a period of 7 years. In such a
+case, merely because he fails to claim dividend, his shares are
+transferred and he is restrained from exercising his voting
+rights as the same are frozen as per Rule 6(6).  He would argue
+that transfer of shares/securities along with the unpaid
+dividend to IEPF is illegal as the property which vests with a
+person cannot be transferred without the permission/authority of
+the owner. It is the owner’s prerogative to exercise all/some of
+his rights on the property and merely because a right is not
+exercised does not automatically vest with the Government to
+take up the property to itself. 
+23. In the instant case, the petitioner is an 81 year old
+woman who was not aware even about the existence of the shares
+until recently on 2019. Since the shares were acquired by her
+son who died on 1993 in Oman, the petitioner had no way of
+knowing the shares on her own. Therefore, the shares were
+dormant for more than 7 years and in such a case, the shares are
+also unreasonably transferred to IEPF where the shareholder had
+actually died and the claimants were unaware of their existence. 
+Page 19 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 20 ---
+24. Mr.Sricharan Rangarajan, learned counsel for the
+petitioner, places reliance on the judgment of the Hon'ble
+Supreme Court in K.T. Plantation (P) Ltd. v. State of Karnataka,
+(2011) 9 SCC 1, paras 190,191 & 2019), for the proposition that
+the transfer of shares/securities along with the unpaid dividend
+to IEPF is violative of Article 300A of the Constitution of
+India, not having followed the twin tests of compensation and
+public purpose. No public purpose is served in transferring the
+shares of a person to IEPF merely because dividends had not been
+claimed with respect to such shares, more particularly when the
+rationale behind the introduction of this concept has not been
+elaborated by the legislature and no reason till date has been
+adduced by the Legislature. 
+25. He would state that Article 300A provides that no person
+shall be deprived of his property save by the authority of law.
+On a conjoint reading of the Section and the Rules, shares being
+property of a person are arbitrarily transferred to IEPF, a
+statutory authority without the consent of the owner therein.
+Article 300A strikes down at the very first instance, any law
+where any person is divested of their property without the
+proper sanction of law. Article 300A does not provide that mere
+provision of a recovery mechanism saves the illegality in the
+acquisition of such property. No exceptions are made in Article
+300A merely because a person is given a right to claim back the
+property. 
+26. The procedure for transfer of shares is onerous as the
+Claimant/legal heir of the claimant is forced to undergo an
+ordeal of procedure to get back their own property. The
+procedure given under the Rules after the amendment is not in
+conformity with the substantial due process and fairness, as
+mentioned above, the Section and the Rules are manifestly
+arbitrary. 
+27. Neither the Section nor the rules provide for any checks
+and balances and effective adjudicative mechanism through which
+its civil right in shares can be divested. It is an essential
+facet of law and matter of fundamental policy in India that a
+person, whose rights are affected, ought to be heard. Therefore,
+the lack of such opportunity and effective mechanism by itself
+renders the section and the rules arbitrary and
+unconstitutional. 
+28.
+Lastly he would submit that simplified procedure of
+transmission done away with:
+Page 20 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 21 ---
+Parliament noted a large and growing trend of companies, in
+improperly declaring and distributing dividend. It is for this
+reason that the Companies (Amendment)Act, 1974 was enacted.
+Sections 205-A and 205-B were introduced, and the Statement of
+Objects and Reasons for the introduction of the Sections is
+extracted below: 
+"Clause 
+16.—It has been observed that large
+established companies have been in the practice of
+declaring dividends even in a year in which profits
+are not adequate for payment of large dividends out of
+reserves accumulated in previous years. Such
+accumulated reserves which should have been normally
+available as a plough-back for the furtherance of the
+company’s business are thus used in a manner
+prejudicial to public interest. It is, therefore,
+proposed to incorporate in the statute provisions to
+the effect that declaration of dividend out of
+reserves could be made only in accordance with the
+rules to be prescribed by the Central Government or in
+special cases with the previous approval of the
+Government. It is also proposed to make it obligatory
+for companies to transfer the total amount which is to
+be distributed to shareholders as dividend in any year
+to a special account to be opened by the Company in
+any Scheduled Bank, within seven days from the date of
+the declaration. This is intended to prevent companies
+from declaring dividends when no profits in the shape
+of liquid funds are readily available. It has also
+been observed that very large amounts declared as
+dividends to shareholders by companies lie unclaimed
+or undistributed for several years. Hence it is
+proposed that such amounts lying unpaid for a period
+of three years should be transferred by the company to
+the general revenue account of the Central Government.
+In this way the possibility of the misuse of the money
+due to shareholders by management is avoided while the
+Central Government empowered to pay individual
+claimants as and when the claims are preferred. It is
+also proposed to make it obligatory to deposit in the
+general
+ 
+revenue
+ 
+account
+ 
+unclaimed
+ 
+dividends
+outstanding at the commencement of the amending Act."
+29. Section 205-A of the erstwhile Companies Act, 1956 was
+introduced by Parliament in the year 1974. It provided for
+instructions/directions to the companies to create a separate
+account for the dividend declared, which was unpaid. In other
+words, in the event dividend declared by a company was not
+collected by a shareholder, the dividend payable to such
+Page 21 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 22 ---
+absentee shareholder, was to be maintained by the company in a
+separate account. Under Section 205-A, (5), before its amendment
+in 1999, unclaimed dividend would within three year from date of
+the payment vest in the Central Government. Section 205-A(5) as
+it was enacted is extracted below:
+"(5) Any money transferred to the unpaid dividend
+account of a company in pursuance of this section
+which remains unpaid or unclaimed for a period of
+three years from the date of such transfer, shall be
+transferred by the company to the general revenue
+account of the Central Government but a claim to any
+money so transferred to the general revenue account
+may be preferred to the Central Government by the
+person to whom the money is due and shall be dealt
+with as if such transfer to the general revenue
+account had not been made, the order, if any, for
+payment of the claim being treated as an order for
+refund of revenue"
+30. Section 205-B, on the other hand provided a remedy for
+such shareholder, who would have been entitled to the dividend,
+if he had claimed the dividend. It provided the shareholder the
+right to approach the Central Government to recover the money he
+was entitled to.
+31. In the year 1999, these provisions underwent a drastic
+change. Section 205-C was introduced, and amendments were made
+to Sections 205-A and 205-B. Under Section 205-A (5), the
+unclaimed dividend would after a period of 7 years, be
+transferred to the Investor Education and Protection Fund
+(hereinafter “IEPF”), established under Section 205-C. Section
+205-A(5) as after the 1999 amendment, as well as Section 205-C
+are extracted below:
+"Section 205-A. (5) any money transferred to the
+unpaid dividend account of a company in pursuance
+of this section which remains unpaid or unclaimed
+for a period of seven years from the date of such
+transfer shall be transferred by the company to the
+Fund established under sub-section (1) of Section
+205-C.
+205-C. Establishment of Investor Education and
+Protection Fund.—(1) The Central Government shall
+establish a fund to be called the Investor
+Education and Protection Fund (hereafter in this
+section referred to as the “Fund”).
+Page 22 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 23 ---
+(2) There shall be credited to the Fund the
+following amounts, namely :—
+(a) amounts in the unpaid dividend accounts of
+companies;
+(b) the application moneys received by companies
+for allotment of any securities and due for refund;
+(c) matured deposits with companies;
+(d) matured debentures with companies;
+(e) the interest accrued on the amounts referred to
+in clauses (a) to (d);
+(f) grants and donations given to the Fund by the
+Central Government, State Governments, companies or
+any other institutions for the purposes of the
+Fund; and
+(g) the interest or other income received out of
+the investments made from the Fund:
+Provided that no such amounts referred to in
+clauses (a) to (d) shall form part of the Fund
+unless such amounts have remained unclaimed and
+unpaid for a period of seven years from the date
+they became due for payment.
+Explanation.—For the removal of doubts, it is
+hereby declared that no claims shall lie against
+the Fund or the company in respect of individual
+amounts which were unclaimed and unpaid for a
+period of seven years from the dates that they
+first became due for payment and no payment shall
+be made in respect of any such claims.
+(3) The Fund shall be utilised for promotion of
+investors’ awareness and protection of the
+interests of investors in accordance with such
+rules as may be prescribed.
+(4) The Central Government shall, by notification
+in the Official Gazette, specify an authority or
+committee, with such members as the Central
+Government may appoint, to administer the Fund, and
+maintain separate accounts and other relevant
+records in relation to the Fund in such form as may
+be prescribed in consultation with the Comptroller
+and Auditor-General of India.
+(5) It shall be competent for the authority or
+committee appointed under sub-section (4) to spend
+moneys out of the Fund for carrying out the objects
+for which the Fund has been established.
+Page 23 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 24 ---
+32. Before 1999, in the event that dividend was unclaimed or
+unpaid for a period of 3 years from the date of its declaration,
+the money would be transferred by the company to the Central
+Government. Any shareholder retained the right to obtain such
+unclaimed dividend either from the company itself, within 3
+years from the date of declaration of the dividend. In the event
+that the shareholder was unable to avail of this opportunity,
+the shareholder could recover such dividend by making an
+application under Section 205-B, to the Central Government.
+33. After the amendments introduced in 1999, any company
+declaring dividend was required to maintain a dividend account
+for a period of 7 years. After the expiry of 7 years, the amount
+would then be transferred to the IEPF. This amount however would
+not be recoverable once the transfer was made by the Company to
+the IEPF. The explanation appended to Sub-Section 2 of Section
+205-C, read with Section 205-A(5) makes this position abundantly
+clear.
+34. Thus, a time limit of 7 years was imposed for claiming
+any dividend due to a shareholder, after which the money would
+instead be used by the IEPF, for fulfilling its various
+objectives. Parliament in its infinite wisdom felt that money
+owed to careless shareholders ought to be put to good use, i.e.
+used for the purposes of the IEPF. In this manner, the right of
+the shareholder, to recover dividend in respect of his forgotten
+investments was curtailed. A shareholder could only recover
+dividend for upto 7 years, from the date on which he made an
+application to the company.
+35. The vires of Section 205-C were challenged before the
+Delhi High Court in case Titled Nivedita Sharma Versus The
+Industrial Credit & Investment Corporation Of India & Ors, W.P.
+(C) No. 10157 of 2009. The Delhi High Court vide judgement dated
+07.07.2011 dismissed the Challenge to Section 205-C, and held as
+under:
+"Section 205 C is a salutary and virtuous provision.
+It has been enacted to ensure that a company does not
+unjustifiably and unduly enrich themselves, as the
+depositors have failed to stake claim and have not
+been paid for a period of seven years from the date
+the amount became due. The word “unclaimed” used in
+the proviso to Section 205 C (2) clarifies that in
+case a claim is made within a period of seven years
+from the date amount became due and payable; the
+Page 24 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 25 ---
+money shall not be transferred to the said fund.
+Thus, if a person makes a claim within a period of
+seven years, Section 205 C will not apply. Period of
+seven years is substantially long. A depositor or a
+person dealing with a company, therefore, should make
+a claim within a period of seven years. In case he
+makes a claim, provisions of Section 205 C of the Act
+are not applicable and money cannot be transferred to
+the fund. We do not see any reason to hold that the
+said provisions areunconstitutional or they violate
+Article 14 or any other provisions of the
+Constitution. It cannot be said that the aforesaid
+provisions are faulty and violate the fundamental
+rights guaranteed in the Constitution. 
+9. To strike down Section 205 C will amount to
+negating and striking down a worthy and meritorious
+legislation which is on the whole beneficial and
+advantageous and in public interest. The petitioner
+is aggrieved because she did not stake her claim for
+refund within seven years. She did not inform change
+of address and, therefore, could not be communicated
+and informed about the premature redemption. The
+petitioner also did not bother to read the terms and
+conditions of allotment including the early
+redemption clause. These are serious lapses on the
+part of the petitioner. It is because of these lapses
+that the petitioner is in the present infelicitous
+situation. However, these cannot be a ground to
+strike down Section 205 C, which has been enacted in
+public interest and has a public purpose. Another
+contention during the course of arguments raised was
+that forfeiture clause should be struck down as
+unreasonable. It is not possible to agree with the
+said contention. The investors or public when they
+deposit the amount must make a claim within seven
+years otherwise, they will lose their right to make
+the claim. Rules oflimitation are founded on
+consideration of public policy. The law of limitation
+affords a guarantee and ensures that cause of action
+is not raised after a lapse of particular period.
+Limitation is preventive and not curative and seeks
+to give quietus to claims which have not been
+enforced. It ensures that litigants are diligent in
+seeking remedies in court and prohibits stale claims.
+It ensures promptitude and assist vigilant persons
+who do not sleep over their rights. Laws prescribing
+reasonable period of limitation have been upheld,
+Page 25 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 26 ---
+though whenever the period prescribed expires a
+claimant suffers, but this invariably happens as the
+said litigant has been grossly negligent and has
+failed to take steps. This has happened in the
+present case."
+36. A Special Leave Petition, bearing SLP (CC) No. 19616 of
+2011 was preferred against this Judgement before the Hon’ble
+Supreme Court of India. On 02.01.2012, the Petition was
+dismissed as withdrawn with the liberty to approach the
+appropriate forum, once again.
+37. Consequently, W.P. (C) No.1098 of 2012, titled Nivedita
+Sharma Versus Ministry Of Corporate Affairs & Ors, was preferred
+before the Delhi High Court. This Petition too was dismissed
+vide Judgement and order dated 20.04.2012.
+38. Thus, the vires of Section 205-C, was upheld and the
+creation of a period of limitation, in respect of the right of a
+shareholder to claim dividend was deemed to be constitutionally
+valid. 
+39. Subsequently, The Companies Act, 1956 was repealed by
+the Companies Act, 2013. Consequently, sections 205-A, 205-B and
+205-C all were replaced by Sections 124 and 125 of the New Act.
+Section 124 has been quoted in an earlier portion of the
+judgment and Section 125 reads as under:-
+"125. Investor Education and Protection Fund.—(1) The
+Central Government shall establish a Fund to be called
+the Investor Education and Protection Fund (herein
+referred to as the Fund).
+(2) There shall be credited to the Fund—
+(a) the amount given by the Central Government by way
+of grants after due appropriation made by Parliament
+by law in this behalf for being utilised for the
+purposes of the Fund;
+(b) donations given to the Fund by the Central
+Government, State Governments, companies or any other
+institution for the purposes of the Fund;
+(c) the amount in the Unpaid Dividend Account of
+companies transferred to the Fund under sub-section
+Page 26 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 27 ---
+(5) of Section 124;
+(d) the amount in the general revenue account of the
+Central Government which had been transferred to that
+account under sub-section (5) of Section 205-A of the
+Companies Act, 1956 (1 of 1956), as it stood
+immediately before the commencement of the Companies
+(Amendment) Act, 1999 (21 of 1999), and remaining
+unpaid or unclaimed on the commencement of this Act;
+(e) the amount lying in the Investor Education and
+Protection Fund under Section 205-C of the Companies
+Act, 1956 (1 of 1956);
+(f) the interest or other income received out of
+investments made from the Fund;
+(g) the amount received under sub-section (4) of
+Section 38;
+(h) the application money received by companies for
+allotment of any securities and due for refund;
+(i) matured deposits with companies other than banking
+companies;
+(j) matured debentures with companies;
+(k) interest accrued on the amounts referred to in
+clauses (h) to (j);
+(l) sale proceeds of fractional shares arising out of
+issuance of bonus shares, merger and amalgamation for
+seven or more years;
+(m) redemption amount of preference shares remaining
+unpaid or unclaimed for seven or more years; and
+(n) such other amount as may be prescribed:
+Provided that no such amount referred to in clauses
+(h) to (j) shall form part of the Fund unless such
+amount has remained unclaimed and unpaid for a period
+of seven years from the date it became due for
+payment.
+(3) The Fund shall be utilised for—
+(a) the refund in respect of unclaimed dividends,
+matured deposits, matured debentures, the application
+money due for refund and interest thereon;
+(b) promotion of investors’ education, awareness and
+protection;
+(c) distribution of any disgorged amount among
+eligible and identifiable applicants for shares or
+debentures,
+ 
+shareholders,
+ 
+debenture-holders
+ 
+or
+depositors who have suffered losses due to wrong
+actions by any person, in accordance with the orders
+made by the Court which had ordered disgorgement;
+Page 27 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 28 ---
+(d) reimbursement of legal expenses incurred in
+pursuing class action suits under Sections 37 and 245
+by members, debenture-holders or depositors as may be
+sanctioned by the Tribunal; and
+(e) any other purpose incidental thereto,
+in accordance with such rules as may be prescribed:
+Provided that the person whose amounts referred to in
+clauses (a) to (d) of sub-section (2) of Section 205-C
+transferred to Investor Education and Protection Fund,
+after the expiry of the period of seven years as per
+provisions of the Companies Act, 1956 (1 of 1956),
+shall be entitled to get refund out of the Fund in
+respect of such claims in accordance with rules made
+under this section.
+Explanation.—The disgorged amount refers to the amount
+received through disgorgement or disposal of
+securities.
+(4) Any person claiming to be entitled to the amount
+referred in sub-section (2) may apply to the authority
+constituted under sub-section (5) for the payment of
+the money claimed.
+(5) The Central Government shall constitute, by
+notification, an authority for administration of the
+Fund consisting of a chairperson and such other
+members, not exceeding seven and a chief executive
+officer, as the Central Government may appoint.
+(6) The manner of administration of the Fund,
+appointment of chairperson, members and chief
+executive officer, holding of meetings of the
+authority shall be in accordance with such rules as
+may be prescribed.
+(7) The Central Government may provide to the
+authority such offices, officers, employees and other
+resources in accordance with such rules as may be
+prescribed.
+(8) The authority shall administer the Fund and
+maintain separate accounts and other relevant records
+in relation to the Fund in such form as may be
+prescribed after consultation with the Comptroller and
+Auditor-General of India.
+(9) It shall be competent for the authority
+constituted under sub-section (5) to spend money out
+of the Fund for carrying out the objects specified in
+Page 28 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 29 ---
+sub-section (3).
+(10) The accounts of the Fund shall be audited by the
+Comptroller and Auditor-General of India at such
+intervals as may be specified by him and such audited
+accounts together with the audit report thereon shall
+be forwarded annually by the authority to the Central
+Government.
+(11) The authority shall prepare in such form and at
+such time for each financial year as may be prescribed
+its annual report giving a full account of its
+activities during the financial year and forward a
+copy thereof to the Central Government and the Central
+Government shall cause the annual report and the audit
+report given by the Comptroller and Auditor-General of
+India to be laid before each House of Parliament."
+40. Sections 124 and 125 of the New Companies Act, 2013,
+replaced Sections 205-A, 205-B and 205-C. The mechanism of the
+transfer of unpaid dividend to the IEPF, remain unchanged.
+However, under the New Act, shares for which dividend had not
+been paid for over 7 years, would also now be transferred to the
+IEPF, by virtue of Section 124(6). The proviso to Section 124(6)
+however protected the right of a shareholder to recover the
+share from the IEPF. A shareholder, whose shares stood
+transferred to the IEPF, could make an application in accordance
+with the Rules laid down.
+41. For the purposes of Section 124(6), the Investor
+Education and Protection Fund Authority (Accounting, Audit,
+Transfer and Refund) Rules, 2016 were brought into force by the
+Central Government in exercise of its powers under Sections 124,
+125 and 469 of the Companies Act, 2013.
+42. Under Rule 3(2)(b), all shares in accordance with
+Section 124(6) were to be transferred to the IEPF.
+43. The present Petition seeks to challenge, Section 124(6)
+of the 2013 Act, and the rules made thereunder. It is the case
+of the Petitioner, that the provisions related to the transfer
+of shares to the IEPF, i.e. 124(6), and the rules made
+thereunder, deprive a person of their right to property and are
+violative of Article 300-A of the Constitution of India. It is
+Page 29 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 30 ---
+further the case of the Petitioner that the provision and the
+rules made thereunder, are onerous and are manifestly arbitrary.
+44. Article 300-A, is extracted below.
+"300-A. Persons not to be deprived of property save
+by authority of law.—No person shall be deprived of
+his property save by authority of law."
+45. It is settled law that Article 300-A ensures that no
+person shall be deprived of their property, except in accordance
+with law. The protection offered under this Article ensures that
+an executive fiat cannot result in the deprivation of property,
+and that law must be made by the appropriate legislature, to
+deprive a person of their property. 
+46. In the case of Jilubhai Nanbhai Khachar v. State of
+Gujarat, 1995 Supp (1) SCC, the Hon’ble Supreme Court explained
+the meaning of the expression, “deprivation of the property of a
+person,” as under:
+"48. The word ‘property’ used in Article 300-A must be
+understood in the context in which the sovereign power
+of eminent domain is exercised by the State and
+property expropriated. No abstract principles could be
+laid. Each case must be considered in the light of its
+own facts and setting. The phrase “deprivation of the
+property of a person” must equally be considered in the
+fact situation of a case. Deprivation connotes
+different concepts. Article 300-A gets attracted to an
+acquisition or taking possession of private property,
+by necessary implication for public purpose, in
+accordance with the law made by Parliament or a State
+Legislature, a rule or a statutory order having force
+of law. It is inherent in every sovereign State by
+exercising its power of eminent domain to expropriate
+private property without owner’s consent………."
+47. Additionally, it must be remembered that Article 300-A
+protects the private property of a person from Executive Action.
+In addition to affirming the Judgement in Jilubhai’s case, the
+Constitution Bench in the case of K.T. Plantation (P) Ltd. v.
+State of Karnataka, (2011) 9 SCC 1 has held as under:
+Page 30 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 31 ---
+"168.Article 300-A proclaims that no person can be
+deprived of his property save by authority of law,
+meaning thereby that a person cannot be deprived of
+his property merely by an executive fiat, without any
+specific legal authority or without the support of law
+made by a competent legislature. The expression
+“property” in Article 300-A confined not to land
+alone, it includes intangibles like copyrights and
+other intellectual property and embraces every
+possible interest recognised by law.
+169. This Court in State of W.B. v. Vishnunarayan and
+Associates (P) Ltd.94, while examining the provisions
+of the West Bengal Great Eastern Hotel (Acquisition of
+Undertaking) Act, 1980, held in the context of Article
+300-A that the State or executive officers cannot
+interfere with the right of others unless they can
+point out the specific provisions of law which
+authorises their rights.
+170.Article 300-A, therefore, protects private
+property against executive action. But the question
+that looms large is as to what extent their rights
+will be protected when they are sought to be illegally
+deprived of their properties on the strength of a
+legislation. Further, it was also argued that the twin
+requirements of “public purpose” and “compensation” in
+case of deprivation of property are inherent and
+essential elements or ingredients, or “inseparable
+concomitants” of the power of eminent domain and,
+therefore, of List III Entry 42, as well and, hence,
+would apply when the validity of a statute is in
+question."
+48. Thus, Article 300A, is attracted to those situations
+where the property of a person is acquired only by an executive
+fiat, and not on the basis of any law, validly made. It is the
+case of the Petitioners that the impugned provisions deprive
+them of their property, and are violative of Article 300-A of
+the Constitution of India. This argument is liable to be
+rejected because there is no actual deprivation of property
+taking place. 
+49. There is no doubt that as a result of the impugned
+provisions, the shares on which dividend is unclaimed for more
+than 7 years are to be transferred to the IEPF, but that does
+not amount to deprivation of property.This is for two reasons.
+Firstly, under Section 124(6), there is no statutory vesting of
+Page 31 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 32 ---
+the shares so transferred to the IEPF. Section 124(6), only
+contemplates a transfer of shares to the IEPF, and does not
+confer ownership of the shares on IEPF. This position is
+reflected in the proviso to Setion 124(6), which provides that a
+person shall always be permitted to re-claim his shares, from
+the IEPF. Secondly, the Rules prescribed under Section 124(6),
+provide for a procedure for the refund of the shares so
+transferred to the IEPF.Rule 7, of the IEPF Rules, 2016 a
+procedure is prescribed for the refund of the shares by the IEPF
+to the owner of the shares. Rule 7(1) is extracted below:
+"7. Refund to claimants from Fund.—(1) Any person whose
+shares, unclaimed dividend, matured deposits, matured
+debentures, application money due for refund, or
+interest thereon, sale proceeds of fractional shares,
+redemption proceeds of preference shares etc., has been
+transferred to the Fund, may claim the shares under
+proviso to sub-section (6) of Section 124 or apply for
+refund under clause (a) of sub-section (3) of Section
+125 or under proviso to sub-section (3) of Section 125,
+as the case may be, to the Authority by submitting an
+online application in Form IEPF-5 available on the
+website www.iepf.gov.in along with fee specified by the
+Authority from time to time in consultation with the
+Central Government."
+50. Thus, we are of the view that no deprivation of property
+is taking place, under the Impugned Provisions, and as such
+Article 300-A is not attracted in this case. The Delhi High
+Court in INDIA AWAKE FOR TRANSPARENCY versus UNION OF INDIA REP.
+BY SECRETARY, MINISTRY OF CORPORATE AFFAIRS AND ANR W.P.(C)
+10589/2017, which was a Public Interest Litigation seeking
+directions for the strict enforcement of the Rules, remarked
+about the nature of the transfer contemplated under Section 124
+(6), and held as under:
+"23. To summarize, the Court holds that Section 124(6)
+does not result in a statutory vesting of any
+property; it merely transfers through transmission of
+shares in companies which have yielded dividends for
+seven years that have not been claimed. Such shares
+are then transferred to the Fund which then holds them
+as a custodian – in whichever manner one would wish to
+say it. The Central Government further is mandated to
+devise appropriate procedures to enable shareholders
+to reclaim their property in the shares, by an
+appropriate procedure. For the duration of transfer of
+the shares, the companies cannot issue bonus shares or
+Page 32 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 33 ---
+add anything prohibited under Section 126. As far as
+the operationalisation of this provision goes, the
+Rules, especially the first and second amendments had
+the effect of giving companies adequate time to notify
+and comply with the three month public W.P.(C)
+10589/2017 Page 24 of 24 notice period to their
+shareholders about the event of transfer. The Court
+also notices that the transfer of such shares or
+classes of shares is not a one-time measure but an
+ongoing event given the obligation of each company to
+identity such shares after the holding of every AGM."
+[Emphasis Supplied]
+51. Even if we are to accept the argument of the Petitioner
+that by the transfer of shares under 124(6), they are being
+deprived of their property, such deprivation would be in
+accordance with law, as a result of law made by Parliament, and
+not as a result of an executive fiat.
+52. The other argument advanced by the Petitioner is that
+the impugned provisions being onerous are manifestly arbitrary,
+and are liable to be struck down under Article 14 of the
+Constitution of India. It is a settled principle of law that a
+law made by Parliament or the Legislature, can be struck down,
+on the ground of being manifestly arbitrary in the event that
+the it is shown that the action of the legislature was
+capricious, irrational, excessive or disproportional. The
+Constitution Bench of this Court in the case of Shayara Bano v.
+Union of India, (2017) 9 SCC 1, noted the principles to borne in
+mind while determining, whether the action of the legislature
+can be struck down on the grounds of being manifestly arbitrary.
+The Constitution Bench in Shayara Bano v. Union of India, (2017)
+9 SCC 1, observed as under:-
+“87. The thread of reasonableness runs through
+the entire fundamental rights chapter. What is
+manifestly arbitrary is obviously unreasonable and
+being contrary to the rule of law, would violate
+Article 14. Further, there is an apparent
+contradiction in the three-Judge Bench decision
+inMcDowell[State of A.P.v.McDowell & Co., (1996) 3 SCC
+709] when it is said that a constitutional challenge
+can succeed on the ground that a law is
+‘disproportionate, excessive or unreasonable’, yet
+such challenge would fail on the very ground of the
+law being ‘unreasonable, unnecessary or unwarranted’.
+The arbitrariness doctrine when applied to legislation
+Page 33 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 34 ---
+obviously would not involve the latter challenge but
+would only involve a law being disproportionate,
+excessive or otherwise being manifestly unreasonable.
+All the aforesaid grounds, therefore, do not seek to
+differentiate between State action in its various
+forms, all of which are interdicted if they fall foul
+of the fundamental rights guaranteed to persons and
+citizens in Part III of the Constitution.”
+"101. It will be noticed that a Constitution
+Bench of this Court in Indian Express Newspapers
+(Bombay) (P) Ltd. v. Union of India [Indian Express
+Newspapers (Bombay) (P) Ltd. v. Union of India, (1985)
+1 SCC 641 : 1985 SCC (Tax) 121] stated that it was
+settled law that subordinate legislation can be
+challenged on any of the grounds available for
+challenge against plenary legislation. This being the
+case, there is no rational distinction between the two
+types of legislation when it comes to this ground of
+challenge under Article 14. The test of manifest
+arbitrariness, therefore, as laid down in the
+aforesaid judgments would apply to invalidate
+legislation as well as subordinate legislation under
+Article 14. Manifest arbitrariness, therefore, must be
+something done by the legislature capriciously,
+irrationally and/or without adequate determining
+principle. Also, when something is done which is
+excessive and disproportionate, such legislation would
+be manifestly arbitrary. We are, therefore, of the
+view that arbitrariness in the sense of manifest
+arbitrariness as pointed out by us above would apply
+to negate legislation as well under Article 14. "
+53. The decision in Shayara Bano, holds that legislation or
+state action which is manifestly arbitrary would have elements
+of caprice and irrationality and would be characterized by the
+lack of an adequately determining principle. An “adequately
+determining principle” is a principle which is in consonance
+with constitutional values. With respect to criminal
+legislation, the principle which determines the “act” that is
+criminalized as well as the persons who may be held criminally
+culpable, must be tested on the anvil of constitutionality. The
+judgment of the Hon'ble Supreme Court in Shayara Banu (supra)
+has been consistently quoted with approval in a number of
+judgments.
+Page 34 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 35 ---
+54. Thus, the position of law that, is that it is open for
+the courts to quash/strike down legislation on the grounds that
+it is manifestly arbitrary. In order to prove that a legislation
+is manifestly arbitrary, the burden is therefore to show that
+legislature has done something capriciously, irrationally and/or
+without adequate determining principle or if something is done
+which is excessive and disproportionate. In the facts of the
+present case however we do not find that the impugned provisions
+are “manifestly arbitrary. There is an awoved purpose for
+bringing this peice of legislation. It has been enacted to
+ensure that a company does not unjustifiably and unduly enrich
+themselves, as the depositors have failed to stake claim and
+have not been paid for a period of seven years from the date the
+amount became due. We do not see any reason to hold that the
+said provisions areunconstitutional or they violate Article 14
+or any other provisions of the Constitution. It cannot be said
+that the aforesaid provisions are faulty and violate the
+fundamental rights guaranteed in the Constitution. To strike
+down Section 124(6) of Investor Education and Protection
+Authority Fund (Accounting, Audit, Transfer and Refund) Rules,
+2016, Rules will amount to negating and striking down a worthy
+and meritorious legislation which is on the whole beneficial and
+advantageous and in public interest. As observed by the Delhi
+High Court while upholding Section 205 of the Companies Act
+1956, the investors or public when they deposit the amount must
+make a claim within seven years otherwise, they will lose their
+right to make the claim. Rules oflimitation are founded on
+consideration of public policy. The law of limitation affords a
+guarantee and ensures that cause of action is not raised after a
+lapse of particular period. Limitation is preventive and not
+curative and seeks to give quietus to claims which have not been
+enforced. It ensures that litigants are diligent in seeking
+remedies in court and prohibits stale claims. It ensures
+promptitude and assist vigilant persons who do not sleep over
+their rights. Laws prescribing reasonable period of limitation
+have been upheld, though whenever the period prescribed expires
+a claimant suffers, but this invariably happens as the said
+litigant has been grossly negligent and has failed to take
+steps. 
+55. It is also equally well settled that just because Rules
+are cumbersome and it is difficult to carryout the procedure
+prescribed under the Rules cannot make the Rules violative of
+Article 14. Section 124(6) has been brought out to ensure that
+the companies do not profit out of unclaimed dividends. The
+Rules have been brought out only to ensure that only claims of
+genuine persons can be entertained. The fact that the procedure
+Page 35 of 58
+https://hcservices.ecourts.gov.in/hcservices/
+
+
+--- PAGE 36 ---
+to reclaim the shares and the dividend is more expensive and the
+conditions are more onerous does not make it fall foul of
+Article 14 of the Constitution of India. 
+56. In view of the above, writ petition is dismissed.  No
+costs.  Consequently, the connected Miscellaneous Petitions are
+closed.
+-s/d-
+ Assistant Registrar
+ True Copy
+Sub-Assistant Registrar
+mvs/pkn.
+To
+1.  Secretary to Ministry of Corporate Affairs,
+     Union of India
+     A Wing, Shastri Bhawan
+     Rajendra Prasad Road 
+     New Delhi 110 001.
+2.  The Regional Director
+     Southern Region 
+     Ministry of Corporate Affairs 
+     5th Floor, Shastri Bhawan
+     26 Haddows Road 
+     Chennai 600 006.
+3.  Investor Education and Protection Fund Authority
+     rep. By its Chief Executive Officer 
+     Ministry of Corporate Affairs 
+     Ground Floor, Jeevan Vihar Building 
+     3 Sansad Marg
+     New Delhi 110 001.
++1 cc to Mr.Sricharan Rangarajan Advocate sr12260
++1 cc to M/s.R.Durga Rani Advocate sr12045
+Pre-delivery order in
+Writ Petition No.1538 of 2020
+nrl(co)
+aa14/05/2020
+Page 36 of 58
+https://hcservices.ecourts.gov.in/hcservices/

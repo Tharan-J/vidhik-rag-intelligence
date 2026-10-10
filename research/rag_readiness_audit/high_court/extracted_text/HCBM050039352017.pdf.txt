@@ -1,0 +1,490 @@
+--- PAGE 1 ---
+1
+txa nos.2,9,23 & 26 of 2018
+IN THE HIGH COURT OF BOMBAY AT GOA
+TAX APPEALS No.2,9, 23, AND 26 of 2018
+TAX APPEAL NO.2 OF 2018
+The Pr. Commissioner of Income Tax,
+Aayakar Bhavan, Patto Plaza,
+Panaji, Goa.
+…. Appellant 
+Versus
+M/s. The Quepem Urban Co-operative 
+Credit Society Ltd., Ground Floor, 
+Cindios apartment, Quepem, Salcete, Goa.
+… Respondent
+Ms. Susan Linhares, Standing Counsel for the Appellant.
+Mr. Chythanya K.K. with Mr. Tata Krishna & Mr. S. Redkar, Advocates
+for the Respondent. 
+WITH
+TAX APPEALS No.9, 23 & 26 of 2018
+The Pr. Commissioner of Income Tax,
+Aayakar Bhavan, Patto Plaza,
+Panaji, Goa.
+…. Appellant 
+Versus
+M/s. VPK Urban Cooperative Credit Society Ltd.
+Mahalasa Apartments, Near Post Office,
+Mardol, Ponda-Goa.
+… Respondent 
+Ms. Amira Razaq, Standing Counsel for the Appellant.
+Mr. D.J. Pangam with Mr. P. Sawant, Advocates for the Respondent.
+ 
+ Coram: - 
+M.S. SONAK & 
+      
+                            DAMA SESHADRI NAIDU, JJ.
+  Reserved on: 8 JANUARY 2021
+  Pronounced on: 7 MAY 2021
+
+
+--- PAGE 2 ---
+2
+txa nos.2,9,23 & 26 of 2018
+JUDGMENT: (Per Dama Seshadri Naidu, J.)
+Introduction: 
+A cooperative credit society, registered under the Goa Cooperative
+Societies Act, 2001, claims deductions under section 80P(2)(a) (i) of the
+Income-Tax Act, 1961 ("IT Act"). It is in the face of section 80P(4) of the
+same Act, effective from 01.04.2007. The question is, with its lending and
+borrowing involving non-members, whether the society still retains its
+character as cooperative society or whether it should be treated as a
+cooperative bank, disentitled to the benefits under section 80P(2)(a)(i) of
+the IT Act.  
+Facts: 
+2. There are four appeals. In all those appeals, the facts are similar
+and the issues, too, are identical. The learned counsel on both sides have
+advanced common arguments. So we dispose of all the appeals through
+this common judgment. For the narrative convenience, we will refer to the
+facts in Tax Appeal No.2 of 2018. 
+3. The Respondent (“the Assessee”) is a Co-operative credit society
+said to be engaged in the activity of providing credit facilities to its
+members and carrying on the business of Banking. On 31 March 2013, the
+Assessee filed its e-return of income for the Assessment Year 2012-13
+declaring total income as Nil after claiming deduction under section 80P
+of the Act. On 8 August 2013, the Assessee’s return was processed under
+section 143(1) of the IT Act, and subsequently the case was selected for
+scrutiny under CASS and notice dated 08.08.2013 was issued under
+section 143(2). 
+4. Through Assessment Order, dated 10.03.2015, passed under
+section 143(3) of the Act, the Assessment Officer (AO) held that the
+Assessee is not a co-operative credit society but a Primary Co-operative
+Bank. As a result, it was declared ineligible for deductions under section
+
+
+--- PAGE 3 ---
+3
+txa nos.2,9,23 & 26 of 2018
+80P(2)(a)(i) and 80P(2)(c)(ii) of the Act. Besides, the AO has also held that
+because of  section 40a(ia) of the IT Act, the entire expenditure of ₹
+94,38,864/- is liable to be disallowed for the Assessee’s failure to comply
+with section 194A of the IT Act. The Audit Fee of 2,34,222/- was also
+₹
+disallowed for the Assessee’s failing to comply with section 194J. The AO
+has assessed the Assessee’s total income at 3,69,82,101/-.
+₹
+5. Aggrieved, the Assessee appealed to the Commissioner of Income
+Tax (Appeals), Panaji-1 (CIT). Through Order, dated 29.11.2016, the
+CIT(A) held that the issue of disallowance made under section 80P(2)(a)(i)
+of the IT Act stands precedentially established in the Assessee’s favour.
+That is, the previous year, in Assessee’s own case, this Court has ruled in
+Assessee’s favour. The addition of  94,38,864/- under section 40(a)(ia) of
+₹
+the IT Act was deleted because the assessee’s case is covered by clause (v)
+to section 194A(3) of the IT Act. But CIT(A) has upheld the disallowance
+of audit fees of 2,34,222/-.
+₹
+6. Aggrieved by the CIT (A)’s Order, dated 29.11.2016, the Revenue
+appealed under section 253 of the IT Act to the Income Tax Appellate
+Tribunal (Tribunal). The Tribunal by Order, dated 10.07.2017, dismissed
+the Revenue’s appeal. Further aggrieved, in November 2017, the Revenue
+has preferred this appeal under section 260A of the IT Act, 1961.
+7. On 26 February 2018, this Court admitted the appeal after
+framing these substantial questions of law: 
+Substantial Questions of Law: 
+I. Is the Income Tax Appellate Tribunal right in not appreciating the
+fact that the assessee is a co-operative society which fulfills all the
+three conditions of being held a Primary Co-operative Bank, as given
+in Section 5(ccv) of Banking Regulation Act, 1949?
+II. Is the Tribunal right in not appreciating the definition of a co-
+operative bank, which, as per explanation below Section 80P(4) “The
+
+
+--- PAGE 4 ---
+4
+txa nos.2,9,23 & 26 of 2018
+Co-operative bank”, shall have the meaning assigned to it in part-V of
+the Banking Regulation Act, 1949?
+III. Is the Tribunal right in not appreciating the facts that the assessee
+Society being a credit cooperative society engaged in banking business
+is a Primary Co-operative Bank within the definition of Section 5(ccv)
+of the Banking Regulation Act, 1949 and, as such, is not eligible for
+deduction under Section 80P(2)(a)(i) of the Income Tax Act, 1961?
+IV. Has the Tribunal exercised its power as contemplated and
+conferred under the provisions of the Income Tax Act, 1961?
+Submissions: 
+8. Given the clear precedential position, we need not set out the
+rival contentions in detail; it will suffice it we extract the core of
+contentions, especially, by the Revenue.
+9. The learned Advocate General has raised these issues: (1) the
+Assessee is a co-operative society in the name, but it carries on its full-
+blown banking operations with nonmembers; and (2) this position having
+been admitted, it ought to be treated as a co-operative bank, rather than as
+a co-operative society. To support his contentions, the learned Advocate
+General has taken us through the statutory position: Section 80P(2)(a)(i)
+& (ii) and section 80P(4) of the IT Act; sections 3, 5(b), 22(1)(b), and
+section 56 of the Banking Regulation Act, 1949, the provisions of the Goa
+State Cooperative Societies Act, 2001, as well as the Assessee’s bye-laws. 
+10. On the other hand, all the learned counsel for the Assessees
+have defended the impugned judgments. The learned counsel have
+submitted that the main object of the societies is to accept the deposits and
+provide financial accommodation to their membes So, they have asserted
+that the Assessees’ core activity continues to the that of a cooperative
+credit society. They have pointed out that even the AO has accepted that
+for the earlier assessment years, the jurisdictional High Court (this Court)
+
+
+--- PAGE 5 ---
+5
+txa nos.2,9,23 & 26 of 2018
+has ruled that the Assessee is entitled to the deductions under section 80P
+of the IT Act. The AO has also acknowledged that this Assessment Year,
+too, they Assessee has not changed character, much less its activities. As
+there are no changed circumstances, the ruling on the jurisdictional High
+Court for the previous years must be applied with all vigour and vitality.
+Discussion: 
+11. The assessment concerns AY 2012-13. Under section 143 (3) of
+the IT Act, the AO held that the Assessee is not a co-operative credit
+society, but a primary co-operative bank. As a consequence, he ruled that
+the Assessee was ineligible for deductions under section 80P(2)(a)(i) and
+80P(2)(a)(ii) of the IT Act. Invoking section 40 a (ia) of the IT Act, the AO
+also held that the entire expenditure of 94,38,864/- is liable to be
+₹
+disallowed for the Assessee's failure to comply with section 194A of the IT
+Act. Besides, The AO is disallowed the audit fee of over ₹2 lakh for the
+assessee's failure to comply with section 194J of the IT Act. Thus, the AO
+assessed to tax a total income of 3,69, 82,101/-. 
+₹
+12. To put the issue in perspective, we must appreciate the previous
+litigation involving the same Assessee. Indisputably, the appellant is Co-
+operative society registered under the Goa Co-operative Societies Act,
+2001 ('Cooperative Act'). Earlier, there was a common order, dated 26
+November 2014, passed by the Tribunal relating to assessment years
+2008-09, 2009-10 and 2011-12. 
+The Quepem Urban Co-operative Credit Society Ltd. (2015): 
+13. First, the AO disallowed the Assessee’s claim for deduction
+under Section 80P(2)(a)(i) of the IT Act. This was on the ground that the
+Assessee was a primary Co-operative Bank and, therefore, was hit by
+section 80P(4) of the IT Act, which excludes the benefit of section 80P of
+the IT Act to cooperative banks. 
+14. On appeal, the Commissioner of Income Tax (Appeals)
+(“CIT(A)”) accepted the Assessee’s contention and held that the Assessee
+
+
+--- PAGE 6 ---
+6
+txa nos.2,9,23 & 26 of 2018
+is not a Cooperative Bank but a Co-operative Credit Society. It is, thus,
+not hit by the exclusion provided under section 80P(4) of the Act. Then, it
+was the Revenue’s turn to appeal. The Tribunal allowed the Revenue’s
+appeal. It has held that the Assessee is a Cooperative Bank and, therefore,
+not entitled to the benefit of Section 80P(2)(a)(i) of the Act. It has brought
+in the statutory exclusion under section 80P(4) of the IT Act. It has, thus,
+restored the AO’s order. 
+15. Eventually, the Assessee came to this Court. This Court framed
+this substantial question of law: Was the Tribunal right in holding that
+the Assessee is a Co-operative Bank and, hence, is not entitled to
+deduction under Section 80P(2)(a)(i) by virtue of Section 80P(4) of the
+Act? 
+16. This Court, through its judgment, dated 17 April 2015, in TXA
+Nos.22, 23, and 24 of 2015, has examined the statutory scheme under
+section 80P of the IT Act. In paragraph 9 of the judgment, this Court has
+held that indisputably, the Assessee is a cooperative society as the same is
+registered under the Co-operative Societies Act. The Assessee is claiming
+deduction of income earned on providing credit facilities to its members as
+provided under Section 80P(2)(a)(i) of the Act. It is Assessee’s  case that it
+is not carrying on the business of the banking. In other words, not being a
+co-operative bank, it faces no hurdle through section 80P(4) of the Act to
+claime the benefit of deduction under Section 80P(2)(a)(i) of the Act. 
+17. This Court has further observed that in terms of Section 80P of
+the Act, the meaning of the words Cooperative Bank is as assigned in
+Chapter V of the Banking Regulation Act, 1949. A cooperative bank is
+defined in Section 5(cci) of Banking Regulation Act to mean a State
+Cooperative Bank, a Central Cooperative Bank, and a primary cooperative
+bank. Admittedly, the Assessee is not a State Cooperative Bank or a
+Central Cooperative Bank. Thus what has to be examined, according this
+
+
+--- PAGE 7 ---
+7
+txa nos.2,9,23 & 26 of 2018
+Court, is whether the Assessee is a primary Cooperative Bank as defined
+in Para V of the Banking Regulation Act. 
+18. As we may note, section 5(ccv) of the Banking Regulation Act
+defines a primary cooperative bank to mean a cooperative society which
+cumulatively satisfies the following three conditions: 
+(1) Its principal business or primary object should be banking business
+of Banking; 
+(2) Its paid up share capital and reserves should not be less that rupees
+one lakh. 
+(3) Its bye-laws do not permit admission of any other cooperative
+society as its member. 
+19. It is an accepted position that condition No.(2) is satisfied as the
+share capital is in excess of one lakh rupees. But, as the Assessee has
+contended, the conditions Nos. (1) and (3) have not been satisfied.
+20. That apart, the fact remains that the Assessee does deal with
+non-members in a few cases; it accepts deposits from them. This activity,
+taken with its Bye law 43, allowed the Revenue to conclude that the
+Assessee is carrying on banking business.  Before the Tribunal also the
+Assessee did not dispute that in a few cases it had dealt with non-membes
+That said, the Assessee contended that the Bye-law 43 only permits the
+society to accept deposits from its members. In other words, Bye-law 43
+does not permit deposits from persons other then members; the word “any
+person”, the Assessee asserted, is a gloss the Tribunal added in the
+impugned order, though it is not found in Bye-law 43. 
+21. Then, this Court has held that indisputably the transactions
+with non-members are insignificant or miniscule. So it has refused to
+conclude that the Assessee’s principal business is of accepting deposits
+from public and that it is in banking business. At any rate, the Assessee’s
+principal business is not banking. 
+
+
+--- PAGE 8 ---
+8
+txa nos.2,9,23 & 26 of 2018
+22. In the end, this Court has noted that Section 80P(1) of the Act
+restricts the benefits of deduction of Co-operative Society’s income to the
+extent it earns by providing credit facilities to its members On the
+converse, to the extent of the income it earns by its dealings with the
+nonmembers, the benefit of Section 80P of the Act would not be available.
+So, the Court has concluded that the authorities under the IT Act would
+restrict the benefit of deduction under Section 80P of the Act only to the
+extent that the same is earned by the Asseesee by carrying on its business
+of providing credit facilities to its members, but not non-members. 
+ 
+23. Here, too, for the Appeasement Year 2012-13, the contentions
+and counter-contentions are identical. But we need not labour further on
+this point. Recently, the Apex Court, speaking through a three-Judge
+Bench, put paid to any controversy on whether a cooperative credit
+society can be regarded as a cooperative bank given its activities.  
+Mavilayi Service Co-operative Bank Ltd: 
+24. In Mavilayi Service Co-operative Bank Ltd. v. Commissioner of
+Income Tax (SC), the question concerns the deductions a primary
+agricultural credit society can claim under section 80P(2)(a) (i) of the
+Income-Tax Act, 1961 (“IT Act”) after the introduction of section 80P(4)
+of that Act.
+25. To provide the background for Mavilayi (SC), we may examine
+how the dispute reached the Supreme Court. To begin with, a Division
+Bench of the Kerala High Court has answered the above issue in Chirakkal
+Service Co-operative Bank td. v. CIT (2016) 384 ITR 490 (Ker.). It has held
+that once a Co-operative Society is classified by the Registrar of Co-
+operative Societies under the Kerala Act as being a primary agricultural
+credit society, the authorities under the IT Act cannot go behind the
+certificate so granted. That is, the certified credit society can claim the
+benefit under section 80P(2)(a) (i) of the IT Act.
+
+
+--- PAGE 9 ---
+9
+txa nos.2,9,23 & 26 of 2018
+26. But Chirakkal Service Co-operative Bank was said to be in
+ignorance of Perinthalmanna Service Co-operative Bank Ltd. v. ITO, (2014)
+363 ITR 268 (Ker.), a co-equal Bench decision. This judgment, on the
+contrary, permits an inquiry by the IT authorities into the factual
+situation: whether a society is in fact conducting business as a co-operative
+bank but not as a primary agricultural credit society. 
+27. In fact, these divergent views compelled the Kerala High Court
+to refer the matter to a Full Bench. Then, in Mavilayi Service Co-operative
+Bank Ltd. v. Commissioner of Income Tax, Calicut, 2019 (2) KHC 287,
+(“Mavilayi HC”) the Full Bench has endorsed Perinthalmanna Service Co-
+operative Bank’s view: that the IT Authority can go behind the certificate
+granted by the Registrar of Co-operative Societies. To hold thus, the Full
+Bench has relied on the Supreme Court’s Citizen Cooperative Society Ltd. v.
+Asst. CIT, Hyderabad (2017) 9 SCC 364. The Full Bench decision taken in
+further appeal, the Supreme Court, finally, in Mavilayi SC considered the
+controversy threadbare and reversed the Kerala High Court’s Full Bench
+decision. It has, thus, endorsed Chirakkal Service Co-operative Bank’s view.
+28. Here, before us, an identical question of law has arisen. It will
+suffice if we examine the case holding of Mavilayi SC and see whether it
+applies on all four. For here, too, the Revenue relies on Citizen Cooperative
+Society, as did Mavilayi (HC).
+29. To begin with, a three-Judge Bench of the Apex Court in
+Mavilayi (SC) has noted that though the main object of the primary
+agricultural society is to   provide financial assistance in the form of loans
+to its members for agricultural and related purposes, yet some of the
+objects go well beyond, and include banking operations ‘as per rules
+prevailing from time to time’. Then, Mavilayi SC has examined the case
+holding of Citizen Cooperative Society. In fact, Mavilayi SC underlines the
+
+
+--- PAGE 10 ---
+10
+txa nos.2,9,23 & 26 of 2018
+fact that even Citizen Cooperative Society acknowledges that section 80-P of
+the IT Act is a benevolent provision; it was enacted by Parliament to
+encourage and  promote  growth  of  cooperative sector  in  the  country.
+Citizen Cooperative Society, as noticed by Mavilayi SC, has further accepted
+that once the assessee is entitled to avail itself of deduction, the entire
+amount of profits and gains of business that are attributable to any one or
+more activities mentioned in subsection (2) of section 80P must be given
+by way of deduction. Further, Citizen Cooperative Society also accepts that
+section 80P(4) is in the nature of a proviso to the main provision contained
+in section 80P(1) and (2). This proviso specifically excludes only co-
+operative banks which are cooperative societies that must possess a licence
+from the RBI to do banking business. In this backdrop, on facts, Citizen
+Cooperative Society concludes that the appellant assessee did not have RBI
+licence; so it would “not fall within the mischief of section 80P(4)”.
+30. Mavilayi SC points out that in Citizen Cooperative Society the
+counsel for the assessee advanced no argument that “the assessing officer
+and other authorities under the IT Act could not go behind the
+registration of the co-operative society” to discover whether it was
+conducting business in accordance with its bye-laws. Without that
+question in the Court’s contemplation, Citizen Cooperative Society,
+according to Mavilayi SC, stands robbed of its precedential on a point that
+has never been raised and, thus, never discussed. For a decision binds not
+because of its conclusion but because of the ratio and the principle it lays
+down. In other words, a decision is only an authority for what it actually
+decides. What matters in a decision is its ratio and not every observation
+found in it or what logically follows from the various observations made
+in it.
+31. Then, Mavilayi SC turns to the proper interpretation of Section
+80P of the IT Act. In interpreting that provision, it refers, among other
+
+
+--- PAGE 11 ---
+11
+txa nos.2,9,23 & 26 of 2018
+things, to (a) the marginal note to Section 80P to ascertain the general
+“drift” of the provision; to  the Finance  Minister’s speech, dated
+28.02.2006, on the floor of Parliament; to a Circular dated 28.12.2006,
+explaining the provision as found in the Finance  Act,  2006. Eventually,
+Mavilayi SC holds that to earn eligibility for deduction, the assessee must
+be a “co-operative society”; it is unnecessary to probe any further whether
+the co-operative society is classified as X or Y. Besides, the gross total
+income must include income that is referred to in sub-section (2) of section
+80P of IT Act. 
+32. Mavilayi (SC) has referred to sub-section (4) of section 80P,
+which, according to it, is in the nature of a proviso to that section. This
+sub-section clarifies that no deduction shall be admissible for a cooperative
+bank. But, if it is a primary agricultural credit society or a primary
+cooperative agricultural and rural development bank, the deduction will
+still be provided. Thus, only cooperative banks now specifically stand
+excluded from the ambit of Section 80-P of the Act. 
+33. On the facts, Mavilayi (SC)  has noted that the appellant cannot
+be termed a cooperative bank. It is also a matter of common knowledge
+that in order to do the business of a cooperative bank, it is imperative for
+that bank to have a licence from Reserve Bank of India. And, admittedly,
+the appellant does not have it. In Mavilayi (SC), as is the case here, the
+main reason for the Revenue to disentitle the appellant from getting the
+deduction under Section 80-P of the Act is not sub-section (4). It is the
+appellant’s alleged activities in violation of the Cooperative Societies Act,
+under which it is formed. The AO has pointed out that the appellant has
+been catering to two distinct categories of people: the first category is the
+resident members or ordinary members; the second category is the
+"nominal members". These are those members who are making deposits
+
+
+--- PAGE 12 ---
+12
+txa nos.2,9,23 & 26 of 2018
+with the assessee for the purpose of obtaining loans, etc. And, in fact, they
+are not members in real sense. 
+34. As Mavilayi (SC)  has noted, most of the appellant’s business was
+with this second category of persons, who have been giving deposits,
+which are kept in fixed deposits with a motive to earn maximum returns.
+A portion of these deposits is utilised to advance gold loans, etc. to the
+members of the first category. It is found, as a matter of fact, that the
+depositors and borrowers are quite distinct. 
+35. In reality, the appellant’s activity, Mavilayi (SC)  agrees, is that
+of finance business and cannot be termed as cooperative society. It is also
+found that the appellant is engaged in the activity of granting loans to
+general public as well. All this is done without any approval from the
+Registrar of the Societies. With indulgence in such kind of activity by the
+appellant, the AO has concluded that the appellant’s activity violates the
+Cooperative Societies Act. Moreover, it is a cooperative credit society
+which is not entitled to deduction under Section 80-P(2)(a)(i) of the Act. 
+36. The appellant in Mavilayi (SC)  has argued that the assessing
+officer and other authorities under the IT Act could not go behind the
+registration of the co-operative society in order to discover as to whether
+it was conducting business in accordance with its bye-laws. Accepting this
+contention, Mavilayi (SC)  observes:  
+Nor can it be said that it would logically follow from the finding on
+facts that the assessing officer can go behind the registration of a
+society and arrive at a conclusion that the society in question is
+carrying on illegal activities. 
+ * * *
+Secondly, for purposes of eligibility for deduction, the assessee must
+be a "co-operative society". A co-operative society is defined in
+Section 2(19) of the IT Act, as being a co-operative society
+registered either under the Co-operative Societies Act, 1912 or
+
+
+--- PAGE 13 ---
+13
+txa nos.2,9,23 & 26 of 2018
+under any other law for the time being in force in any State for the
+registration of co-operative societies. This, therefore, refers only to the
+factum of a co-operative society being registered under the 1912 Act or
+under the State law. For purposes of eligibility, it is unnecessary to probe
+any further as to whether the co-operative society is classified as X or Y. 
+(Italics supplied)
+37. Section 80P being a beneficial provision, according to Mavilayi
+(SC), must be construed with the object of furthering the co-operative
+movement generally. And section 80P(2)(a) (i) must be contrasted with
+section 80P(2)(a)(iii) to (v), which expressly speaks of agriculture. It must
+also further be contrasted with sub-clause (b), which speaks only of a
+"primary" society engaged in supplying milk etc. thereby defining which
+kind of society is entitled to deduction, unlike the provisions contained in
+section 80P(2)(a)(i). Also, the proviso to section 80P(2), when it speaks of
+subclauses (vi) and (vii), further restricts the type of society which can get
+the deductions contained in those two sub-clauses, unlike any such
+restrictive language in Section 80P(2)(a)(i). 
+38. Mavilayi (SC) emphasises that once a co-operative society is
+providing credit facilities to its members, the fact that it is providing
+credit facilities to non-members does not disentitle the society from
+availing itself of the deduction. The distinction between eligibility for
+deduction and attributability of amount of profits and gains to an activity
+is a real one. Since profits and gains from credit facilities given to
+nonmembers cannot be said to be attributable to the activity of providing
+credit facilities to its members, such amount cannot be deducted. 
+39. To sum up, Mavilayi (SC)  has held that the ratio decidendi of
+Citizen Cooperative Society Ltd., must be given effect to. Section 80P of the
+IT Act, being a benevolent provision enacted by Parliament to encourage
+and promote the credit of the co-operative sector in general must be read
+liberally and reasonably. And if there is ambiguity, it must be resolved the
+
+
+--- PAGE 14 ---
+14
+txa nos.2,9,23 & 26 of 2018
+Assessee’s favour. A deduction given without any reference to any
+restriction or limitation cannot be restricted or limited by implication.
+Conclusion: 
+40. First, the Assessee has all these years continued with the same
+set of activities. And this has been accepted by AO. On earlier occasions,
+until the Assessment Year we are considering (2012-13), this Court has
+consistently declared that the Assessee continues to be a cooperative
+credit society entitled to the benefits under section 80P of the IT Act. We
+see no reason for the AO to take a different stand this Assessment Year.
+41. That apart, the Apex Court has put a quietus to the controversy
+whether the Revenue could go behind the registration certificate of co-
+operative society and examine its activities to determine its true nature, if
+any. In Mavilayi (SC), the enunciation  of law is emphatic: the authorities
+under the IT Act cannot go behind the certificate. Here, indisputably, all
+the Assessees have been registered as cooperative credit societies.
+Banking, as understood by the Revenue, has never been its core activity.
+Their accepting deposits from nonmembers does not disqualify them from
+claiming benefits under section 80P of the IT Act.
+Result: 
+So all the substantial questions of law are answered against the
+Revenue and for the Assessees.
+DAMA SESHADRI NAIDU, J.
+       M.S. SONAK, J.  
+NH
+VAIGANKAR 
+ESHA SAINATH
+Digitally signed by 
+VAIGANKAR ESHA 
+SAINATH 
+Date: 2021.05.07 17:26:20 
++05'30'

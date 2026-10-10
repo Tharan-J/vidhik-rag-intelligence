@@ -1,0 +1,154 @@
+{
+  "document_id": "DC_000120",
+  "source": {
+    "sha256": "a3e2c0155c79b689b138555bd8a0f682751beec2d4f1bae360ba71093aa7e36b",
+    "filename": "orders_2024_201700000192024_2.pdf",
+    "source_record_id": "DC-S3-120_27_1_1270001_2024_orders_2024_201700000192024_2",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 25387
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.912
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 644,
+      "word_count": 102,
+      "raw_text": "19/2024\nM/s Floorex Tiles vs. M/s Crystal Ceramic Industries\nPresent:-\nSh. Subodh Walia, Advocate for plaintiff.\nArguments not addressed. \nHeard. \nOn request, the case stands adjourned to 04.01.2025 for\narguments on the application under Order 23 Rule 1 CPC read along with\nOrder 7 Rule 10 CPC, order 13 Rule 7 (2), Section 16 of Court Fees Act and\nSection 151 CPC.\nNo documents have been placed on record regarding pre-\ninstitution of mediation under Section 12 A.\nSame be filed on 04.01.2025.\nDate of Order: 24.12.2024\nSameer, Steno Gr. III\nAshwani Kumar\nAdditional District Judge-cum-\nPresiding Judge, Commercial\nCourt, Chandigarh UID-HR0106"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 638,
+      "word_count": 100,
+      "normalized_text": "19/2024\nM/s Floorex Tiles vs. M/s Crystal Ceramic Industries\nPresent:-\nSh. Subodh Walia, Advocate for plaintiff.\nArguments not addressed.\nHeard.\nOn request, the case stands adjourned to 04.01.2025 for\narguments on the application under Order 23 Rule 1 CPC read along with\nOrder 7 Rule 10 CPC, order 13 Rule 7 (2), Section 16 of Court Fees Act and\nSection 151 CPC.\nNo documents have been placed on record regarding preinstitution of mediation under Section 12 A.\nSame be filed on 04.01.2025.\nDate of Order: 24.12.2024\nSameer, Steno Gr. III\nAshwani Kumar\nAdditional District Judge-cumPresiding Judge, Commercial\nCourt, Chandigarh UID-HR0106"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 1,
+    "total_sentences": 8,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 638,
+        "word_count": 100,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000120_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 638,
+            "word_count": 100,
+            "sentence_count": 8,
+            "text": "19/2024\nM/s Floorex Tiles vs. M/s Crystal Ceramic Industries\nPresent:-\nSh. Subodh Walia, Advocate for plaintiff.\nArguments not addressed.\nHeard.\nOn request, the case stands adjourned to 04.01.2025 for\narguments on the application under Order 23 Rule 1 CPC read along with\nOrder 7 Rule 10 CPC, order 13 Rule 7 (2), Section 16 of Court Fees Act and\nSection 151 CPC.\nNo documents have been placed on record regarding preinstitution of mediation under Section 12 A.\nSame be filed on 04.01.2025.\nDate of Order: 24.12.2024\nSameer, Steno Gr. III\nAshwani Kumar\nAdditional District Judge-cumPresiding Judge, Commercial\nCourt, Chandigarh UID-HR0106",
+            "sentences": [
+              {
+                "sentence_id": "DC_000120_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 112,
+                "word_count": 16,
+                "text": "19/2024\nM/s Floorex Tiles vs. M/s Crystal Ceramic Industries\nPresent:-\nSh. Subodh Walia, Advocate for plaintiff."
+              },
+              {
+                "sentence_id": "DC_000120_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 24,
+                "word_count": 3,
+                "text": "Arguments not addressed."
+              },
+              {
+                "sentence_id": "DC_000120_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 6,
+                "word_count": 1,
+                "text": "Heard."
+              },
+              {
+                "sentence_id": "DC_000120_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 218,
+                "word_count": 42,
+                "text": "On request, the case stands adjourned to 04.01.2025 for\narguments on the application under Order 23 Rule 1 CPC read along with\nOrder 7 Rule 10 CPC, order 13 Rule 7 (2), Section 16 of Court Fees Act and\nSection 151 CPC."
+              },
+              {
+                "sentence_id": "DC_000120_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 97,
+                "word_count": 15,
+                "text": "No documents have been placed on record regarding preinstitution of mediation under Section 12 A."
+              },
+              {
+                "sentence_id": "DC_000120_P001_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 28,
+                "word_count": 5,
+                "text": "Same be filed on 04.01.2025."
+              },
+              {
+                "sentence_id": "DC_000120_P001_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 43,
+                "word_count": 7,
+                "text": "Date of Order: 24.12.2024\nSameer, Steno Gr."
+              },
+              {
+                "sentence_id": "DC_000120_P001_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 103,
+                "word_count": 11,
+                "text": "III\nAshwani Kumar\nAdditional District Judge-cumPresiding Judge, Commercial\nCourt, Chandigarh UID-HR0106"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 27,
+    "state_name": "Chandigarh",
+    "district_code": 1,
+    "district_name": "Chandigarh",
+    "court_complex_code": 1270001,
+    "court_complex_name": "District Court, Chandigarh",
+    "year": 2024,
+    "case_type": "nan",
+    "case_number": "201700000192024",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "PDFsam Basic v5.2.4",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260330034107+05'30'",
+    "pdf_mod_date": "D:20260330034107+05'30'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.912,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "a3e2c0155c79b689b138555bd8a0f682751beec2d4f1bae360ba71093aa7e36b",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.449950"
+  }
+}

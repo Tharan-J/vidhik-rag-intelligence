@@ -1,0 +1,46 @@
+# Vidhik Phase 2 - OCR Engine & Benchmarking Configuration
+ocr_version: "v1.0.0"
+
+engines:
+  paddleocr:
+    enabled: true
+    backend: "rapidocr_onnxruntime"
+    model_family: "PP-OCRv4"
+    render_dpi: 150
+    det_limit_side_len: 960
+    box_thresh: 0.5
+    unclip_ratio: 1.6
+    text_score: 0.5
+    use_angle_cls: true
+
+  tesseract:
+    enabled: true
+    backend: "pymupdf_embedded_tesseract"
+    version: "5.x"
+    tessdata_dir: "/home/tharan/Seeds/vidhik/tessdata"
+    languages:
+      - "eng"
+      - "osd"
+    render_dpi: 150
+    page_segmentation_mode: 3 # Fully automatic page segmentation
+
+benchmark:
+  sample_size: 15
+  metrics:
+    - "character_error_rate"
+    - "word_error_rate"
+    - "case_number_preservation"
+    - "date_preservation"
+    - "statutory_section_preservation"
+    - "court_name_preservation"
+    - "amount_preservation"
+    - "disposition_preservation"
+
+selection_scoring:
+  weights:
+    text_coverage: 0.25
+    character_quality: 0.20
+    symbol_cleanliness: 0.15
+    legal_entity_preservation: 0.30
+    language_confidence: 0.10
+  fallback_threshold: 0.65

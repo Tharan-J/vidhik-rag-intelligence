@@ -1,0 +1,42 @@
+# ==============================================================================
+# Vidhik Evidence + RAG Engine Configuration
+# ==============================================================================
+# Production configuration for evidence selection, context assembly,
+# evidence-constrained Qwen generation, and claim-level provenance resolution.
+
+# Hybrid Retrieval Settings
+retrieval:
+  top_k: 20
+
+# Evidence Selection Settings
+evidence:
+  max_evidence_chunks: 5
+  min_rrf_score_threshold: 0.005
+  deduplicate_by_chunk_id: true
+
+# Context Assembly Settings
+context:
+  max_tokens: 2500
+  format: "labeled_brackets"  # [EVIDENCE 1] / [E1]
+
+# Generator (Qwen Model Runtime)
+generator:
+  provider: "ollama"
+  endpoint: "http://localhost:11434/api/generate"
+  model: "qwen3:4b-instruct"
+  temperature: 0.0
+  top_p: 0.95
+  max_tokens: 600
+  timeout: 180.0
+
+# Legal Grounding Constraints
+grounding:
+  require_evidence: true
+  allow_unsupported_claims: false
+  insufficient_evidence_threshold: 1
+
+# Logging Settings
+logging:
+  log_dir: "logs"
+  log_file: "rag.log"
+  level: "INFO"

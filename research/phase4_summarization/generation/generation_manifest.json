@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-10-05 07:29:54",
+  "total_summaries": 153,
+  "total_claims": 946,
+  "documents_evaluated": 9,
+  "languages": [
+    "en",
+    "ta",
+    "hi",
+    "kn",
+    "mr"
+  ],
+  "models": [
+    "qwen3-4b-instruct",
+    "extractive-lead3-baseline",
+    "translation-baseline-en2indic",
+    "ai4bharat-indicbartss"
+  ],
+  "prompt_conditions": [
+    "condition_a",
+    "condition_b",
+    "condition_c"
+  ],
+  "sha256_verified": true
+}

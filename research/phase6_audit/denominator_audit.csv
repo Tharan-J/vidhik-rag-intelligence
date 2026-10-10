@@ -1,0 +1,7 @@
+scope,universe,units,critical_units,description
+Full Benchmark Gold Fact Set,Gold facts across 9 documents,85,38,Ground truth source facts
+Full Multilingual Gold Universe (5 languages),"85 facts x 5 languages (en, ta, hi, kn, mr)",425,190,Theoretical maximum fact-language combinations
+Indic Target Universe (4 languages),"85 facts x 4 Indic languages (ta, hi, kn, mr)",340,152,Actual Indic deployment target for translation/direct multilingual evaluation
+English Control Universe (1 language),85 facts x 1 language (en),85,38,English intermediate summarization baseline
+Per-Language Subsets (Single language),85 facts x 1 language,85,38,"Language-specific denominator for ta, hi, kn, or mr"
+Terminology Protection Set,Named entities across 9 documents x 4 Indic languages,100,N/A,Protected legal entities evaluated for verbatim survival

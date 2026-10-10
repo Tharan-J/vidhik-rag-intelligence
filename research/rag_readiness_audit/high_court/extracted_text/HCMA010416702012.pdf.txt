@@ -1,0 +1,345 @@
+--- PAGE 1 ---
+2025:MHC:481
+T.C.(A)No.237 of 2012
+IN THE HIGH COURT OF JUDICATURE AT MADRAS
+DATED: 22.11.2024
+CORAM :
+THE HONOURABLE DR.JUSTICE ANITA SUMANTH
+and
+THE HONOURABLE MR.JUSTICE G. ARUL MURUGAN
+T.C.(A).No.237 of 2012
+S.Krishna Kumar
+.. Appellant
+vs
+The Assistant Commissioner of Income Tax,
+Circle-III,
+Tiruchirapalli-620 001.
+.. Respondent
+Prayer  : Appeal filed under Section 260A of the Income Tax Act, 1961, against 
+the order of the Income Tax Appellate Tribunal, Chennai “C” Bench, dated 
+04.05.2012 in ITA No.837/Mds/2012.
+For Appellant 
+:
+Mr.Varun Ranganathan
+for Mr.K.Ravi
+For Respondent
+:
+Mr.J.Narayanaswamy
+Senior Standing Counsel
+JUDGMENT
+(Delivered by Dr. ANITA SUMANTH.,J)
+The challenge is to an order of the Income Tax Appellate Tribunal (ITAT) 
+dated 04.05.2012 at the instance of the Assessee/Appellant. The substantial 
+question of law that has been admitted is as follows:
+1
+https://www.mhc.tn.gov.in/judis
+
+
+--- PAGE 2 ---
+T.C.(A)No.237 of 2012
+'Whether in the facts and circumstances of the case, the 
+Income Tax Appellate Tribunal is right in setting aside the order of 
+the Commissioner of Income Tax passed in exercise of power under 
+Section 263 of the Income Tax Act when the preconditions for 
+exercise of power under Section 263, namely erroneous and 
+prejudicial to the interest of the revenue are not on record before 
+the Commissioner of Income tax and restoring the issue back to the 
+file of the Commissioner?
+2. The Appellant had filed a return of income under the provisions of the 
+Income tax Act 1961 (Act) for Assessment Year (AY) 2007-08 and an intimation 
+had come to be issued under Section 143(1) on 31.12.2008. Thereafter, a notice 
+under Section 148 had been issued and an order came to be passed under Section 
+143(3) read with Section 147 of the Act on 27.10.2009. The issues dealt with 
+under the order of re-assessment were addition in regard to hire charges, 
+disallowance of vehicle expenses and rent paid.
+3. While so, a notice came to be issued under Section 263 of the Act 
+containing a proposal for setting aside assessment order dated 27.10.2009 insofar 
+as the Commissioner of Income Tax (CIT) was of the view that the assessing 
+authority ought not to have accepted the claim of Appellant for exemption under 
+Section 54F being the owner of two houses, one in Bangalore and the other in 
+Trichy (referred to in common as ‘Properties/Properties in question’). 
+4. The Appellant objected to the proposal, stating that he was not the 
+owner of the properties, overriding which the CIT proceeds to deem the assessee 
+2
+https://www.mhc.tn.gov.in/judis
+
+
+--- PAGE 3 ---
+T.C.(A)No.237 of 2012
+as the owner of those properties, disentitling the Appellant to exemption under 
+Section 54F of the Act. The assessment made under Section 143(3) read with 
+Section 147 on 27.10.2009 was revised and set aside and the Assessing 
+Authority was directed to re-assess the income by disallowing the deduction 
+under Section 54F.
+5. At the outset, we may state that order dated 28.03.2012 under Section 
+263 revising order dated 27.10.2009 is itself incorrect insofar as the issue of 
+exemption under Section 54F was not an issue that figured either in the reasons 
+for re-assessment or in order of re-assessment dated 27.10.2009. The claim of 
+exemption had hence attained finality  even at the stage of issuance of intimation 
+on 31.12.2008. The limitation for revision qua the claim of exemption under 
+section 263 must hence be reckoned from the date of intimation. 
+6. Section 263(2) of the Act provides for a limitation of two years from the 
+end of the financial year when the order was passed for revision of the order. The 
+intimation u/s 143(1) was issued on 31.12.2008 and hence the period of two 
+years expired on 31.03.2011. The order under section 263 came to be passed on 
+28.03.2012 beyond a period of two years and on this one ground, we find that the 
+proceedings for re-assessment are vitiated as barred by limitation. 
+7. Be that as it may, since this issue has not been raised by the Appellant 
+in appeal, we proceed to hear the matter further on the question framed for our 
+3
+https://www.mhc.tn.gov.in/judis
+
+
+--- PAGE 4 ---
+T.C.(A)No.237 of 2012
+resolution. In the order of revision, the CIT reiterates the factual assumption in 
+the show cause notice that the two residential houses, one at Trichy and the other 
+at Bangalore belong to the assessee.  
+8. An appeal was filed by the Assessee before the Income Tax Appellate 
+Tribunal (ITAT/Tribunal) and the matter was disposed on 04.05.2012, as 
+allowed for statistical proposes. It is as against that order that the Assessee is in 
+appeal before us. We have heard the submissions of Mr.Varun Ranganathan, 
+learned counsel, for the Appellant/Assessee and Mr.J.Narayanaswamy, learned 
+Senior Standing Counsel, for the Income-Tax Department.
+9. In the return of income, the appellant had made a claim for exemption 
+under section 54 F of the Act in respect of the properties at Trichy and 
+Bangalore. The claims were not disturbed in re-assessment. While so, a proposal 
+had been issued by the CIT for revision, wherein the CIT had expressed the 
+prima facie view that the grant of exemption u/s 54F was erroneous and 
+prejudicial to the interests of the revenue. The proposal reads thus:
+It is seen from the assessment records that you have claimed 
+exemption u/s.54F form Rs.90,85,586/- while computing long term 
+capital gain for the assessment year 2007-08. But as per the records 
+available you have two residential houses, one at Trichy and 
+another at Bangalore.
+During the assessment proceedings your representative filed 
+a letter stating that these two house properties belongs to your wife 
+and it was also stated that for one property you had lend money for 
+the construction of the property and for another property yourself 
+and your wife had availed loan from HDFC jointly and the 
+4
+https://www.mhc.tn.gov.in/judis
+
+
+--- PAGE 5 ---
+T.C.(A)No.237 of 2012
+instalments were paid from your account, therefore, the income 
+from the above property is included under sec.64(i).
+However, you have admitted income under the head ‘income 
+from house property’ from the above house properties, therefore, 
+you are treated as deemed owner of the above house properties. 
+Since ownership includes deemed ownership, you are not entitled to 
+claim exemption u/s.54F.
+10. The assessee objected to the proposal stating that stating that the 
+properties belong to his wife. In respect of one property, he had only lent money 
+towards construction, and in respect of the other property, both himself and his 
+wife had jointly availed a loan from HDFC Bank.  Since the instalments in 
+repayment of the loan were from the account of the assessee, the assessee had 
+clubbed the income from those properties and returned the same to tax in his 
+assessment in terms of Section 64(1) of the Act.
+11. The proposals were confirmed under order dated 28.03.2012.  The CIT 
+notes that the assessee had admitted income from two properties, one in 
+Bangalore and the other in Trichy. Hence he proceeds to assume that the 
+appellant was owner of both properties disentitling him to the claim under 
+Section 54F. The CIT thus concludes that the assessee is not entitled to claim 
+deduction under Section 54F of the Act. As against this order, the Appellant filed 
+an appeal before the Income tax Appellate Tribunal (Tribunal).  
+5
+https://www.mhc.tn.gov.in/judis
+
+
+--- PAGE 6 ---
+T.C.(A)No.237 of 2012
+12. The Tribunal records the submission of the Appellant that he was not 
+the owner of either of the properties. The Tribunal also observes that the CIT had 
+not brought on record any material to establish the ownership of the house. In 
+conclusion, the Tribunal sets aside the matter and remanded to the file of the CIT 
+with a direction to look into the issue, conduct proper enquiry and verification as 
+per law after affording an opportunity of hearing. 
+13. The question that arises for our consideration is as to whether revision 
+in terms of Section 263 of the Act is sustainable in the absence of the CIT having 
+brought on record any material to establish that the order of assessment is 
+‘erroneous’. The pre-requisites for Section 263 are concurrent satisfaction of the 
+revisional authority that an order is both erroneous and prejudicial to the interests 
+of revenue. 
+14. In the absence of supporting material that the Appellant is the owner of 
+the properties in question, it remains to be seen how the CIT has come to the 
+duel conclusion that the assessment is both erroneous and prejudicial to the 
+interests of revenue. As learned counsel for the Appellant rightly points out, the 
+title deeds of both the properties in question had been produced before the CIT 
+and there is no finding in that regard by the CIT.  
+15. The fact that the property documents have been produced before the 
+CIT discharges the Appellant from the onus cast upon it to answer the question 
+6
+https://www.mhc.tn.gov.in/judis
+
+
+--- PAGE 7 ---
+T.C.(A)No.237 of 2012
+of ownership of the properties, at least prima facie. However, the CIT has 
+however not brought on record any material whatsoever, nor even rendered a 
+justification, let alone a conclusive finding, in regard to the ownership of the 
+properties by the Appellant. 
+16. This aspect is also noted by the Tribunal at paragraph 12 of the 
+impugned order, and a factual finding is rendered to the effect that 'the 
+Commissioner of Income Tax also has brought no relevant material on record 
+to show that both the house property were owned by the assessee'. With this, the 
+matter ought to have attained closure. Instead, however, the order of the CIT has 
+been set aside and the issue restored to the file of the CIT for proper enquiry and 
+verification in the light of the discussion of the Tribunal.
+17. The discussion of the Tribunal is as follows:
+’12.In the instant case, the claim of the CIT is that the assessee 
+is the owner of house properties situated at Trichy and Bangalore 
+and therefore, the said decision is not squarely applicable to the 
+facts of the case. In our considered view, if the house properties 
+situated at Trichy and Bangalore are owned by the assessee’s wife 
+then the same cannot be considered as owned by the assessee for 
+disallowing exemption u/s 54F of the Act. We find that the assessee 
+has brought no material before us to show that either the house 
+property situated at Trichy or Bangalore is not owned by him. As 
+already held herein above that the CIT also has brought no relevant 
+material on record to show that both the house properties were 
+owned by the assessee. The circumstances in which the income from 
+both the house properties were shown in the return of income by the 
+assessee is also not clear from materials available before us. We, 
+therefore, set aside the order of the CIT and restore the issue back to 
+the file of the CIT for proper enquiry and verification in the light of 
+7
+https://www.mhc.tn.gov.in/judis
+
+
+--- PAGE 8 ---
+T.C.(A)No.237 of 2012
+the discussion made herein above and thereafter to pass a speaking 
+order as per law after allowing the assessee sufficient opportunity of 
+hearing. Thus, the grounds of appeal of the assessee are allowed for 
+statistical purposes.
+13.In the result, the appeal of the assessee is allowed for 
+statistical purposes.’
+18. The exercise of power under Section 263 of the Act is to be by the 
+revisional authority alone, and Section 263 states so in unequivocal terms. The 
+provision states that ‘The Principal Commissioner or Commissioner may call 
+for and examine the record of any proceeding under this Act, and if he 
+considers that any order passed therein by the Assessing Officer is erroneous in 
+so far as it is prejudicial to the interests of the revenue, he may, after giving the 
+assessee an opportunity of being heard and after making or causing to be made 
+such inquiry as he deems necessary, pass such order thereon as the 
+circumstances of the case justify, including an order enhancing or modifying 
+the assessment, or cancelling the assessment and directing a fresh assessment.
+19. The term Record is defined to state ‘record’ shall include and shall be 
+deemed always to have included all records relating to any proceeding under 
+this Act available at the time of examination by the Principal Commissioner or 
+Commissioner.
+20. The pre-conditions for the exercise of revisional jurisdiction require the 
+concurrent satisfaction of the revisional authority that the order under revision 
+contains an error, and prejudice is caused to the Department by virtue of that 
+8
+https://www.mhc.tn.gov.in/judis
+
+
+--- PAGE 9 ---
+T.C.(A)No.237 of 2012
+error. The error must be based on the record of that assessment as available to 
+the authority.
+21. In the present case, the CIT merely identifies what he believes is an 
+error without any tangible material to base that conclusion on. According the 
+Assessee the record would include documents to support his case that the 
+properties belonged to his wife. The Tribunal, the final fact finding authority, has 
+concluded that that no material has been brought on record by the CIT to 
+establish that the assessee was the owner of the two houses, dis-entitling him to 
+the claim under Section 54F. In our considered view, the aforesaid position is 
+fatal to the proceedings and to the assumption of jurisdiction by the CIT.
+22. The existence of an error is a statutory pre-condition and such ‘error’ 
+must be based on facts on record and not assumptions/presumptions. In Carona 
+Ltd. v. Parvathy Swaminathan & Sons [(2007) 8 SCC 559], the Supreme Court 
+had occasion to deal with the interpretation of the provisions of the Maharashtra 
+Rent Control Act, 1999. In the course of the discussion, the Bench deliberated 
+upon the import of jurisdictional and adjudicatory facts and adumbrates upon the 
+distinction between the two.
+23. At paragraph 27, the Court dilates on what would constitute a 
+jurisdictional fact in the following terms:
+'27.Stated simply, the fact or facts upon which the 
+jurisdiction of a court, a tribunal or an authority depends can be 
+9
+https://www.mhc.tn.gov.in/judis
+
+
+--- PAGE 10 ---
+T.C.(A)No.237 of 2012
+said to be a “jurisdictional fact”. If the jurisdictional fact exists, a 
+court, tribunal or authority has jurisdiction to decide other issues. 
+If such fact does not exist, a court, tribunal or authority cannot 
+act. It is also well settled that a court or a tribunal cannot wrongly 
+assume existence of jurisdictional fact and proceed to decide a 
+matter. The underlying principle is that by erroneously assuming 
+existence of a jurisdictional fact, a subordinate court or an 
+inferior tribunal cannot confer upon itself jurisdiction which it 
+otherwise does not possess.' 
+24. The existence of a jurisdictional fact is a condition precedent for 
+assumption of jurisdiction by an authority and for further decision on 
+adjudicatory facts. Thus, it is only upon establishing the existence of a 
+jurisdictional fact that the CIT could have drawn or assumed the power unto 
+himself to invoke revisional jurisdiction. At paragraph 36, the Court says: ‘It is 
+thus clear that for assumption of jurisdiction by a court or a tribunal, existence 
+of jurisdictional fact is a condition precedent.  But once such jurisdictional fact 
+is found to exist, the court or tribunal has power to decide adjudicatory facts or 
+facts in issue.’
+25. In the present case, the CIT concludes in order dated 28.03.2012 that 
+the assessee, being the owner of two properties, is not entitled to claim 
+exemption under section 54F. However, the foundational facts necessary for him 
+to have arrived at such a conclusion have not been established. Such 
+foundational/jurisdictional fact must emanate post a detailed verification/enquiry 
+as to the title to/ownership of the two properties. It is only upon such enquiry that 
+10
+https://www.mhc.tn.gov.in/judis
+
+
+--- PAGE 11 ---
+T.C.(A)No.237 of 2012
+the CIT could have arrived at a satisfaction that the assessee was the owner of 
+the subject properties. 
+26. This exercise has not been undertaken and in the absence of the 
+jurisdictional facts, it was premature for the authority to have arrived at an 
+adjudicatory fact/conclusion. The Tribunal has noticed that the CIT had not 
+brought on record any relevant material to establish that the two house properties 
+are owned by the assessee. This has not been disproved by the Department 
+before us. In fact, they would accede to the position that there was no material 
+based on which the CIT could have arrived at the conclusion that he has. 
+27. In such circumstances, we are convinced that the conclusion of the 
+Tribunal to set aside the matter and re-direct examination of the issue is 
+erroneous. In fact, such a direction is unworkable in light of the admitted position 
+that the CIT was not in any possession of any material to indicate that the 
+Appellant was the owner of two residential properties. 
+28. In light of the aforesaid discussion, the substantial question of law is 
+answered in favour of the assessee and this tax case (appeal) is allowed. No 
+costs.
+ [A.S.M., J]       [G.A.M., J]
+    22.11.2024
+Index: Yes
+Speaking order
+11
+https://www.mhc.tn.gov.in/judis
+
+
+--- PAGE 12 ---
+T.C.(A)No.237 of 2012
+Neutral Citation:Yes
+vs
+To
+The Assistant Commissioner of Income Tax,
+Circle-III,
+Tiruchirapalli-620 001.
+12
+https://www.mhc.tn.gov.in/judis
+
+
+--- PAGE 13 ---
+T.C.(A)No.237 of 2012
+DR. ANITA SUMANTH.,J.
+and
+G. ARUL MURUGAN.,J.
+vs
+T.C.A.No.237 of 2012
+22.11.2024
+13
+https://www.mhc.tn.gov.in/judis

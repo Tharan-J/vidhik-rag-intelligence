@@ -1,0 +1,54 @@
+# Vidhik Phase 5 - Master Configuration
+project: "Vidhik"
+phase: "Phase 5 - Legal Fact Preservation Validation"
+version: "1.0.0"
+
+frozen_inputs:
+  corpus:
+    total_documents: 161
+    total_pages: 324
+    manifest_path: "district_extraction/source_manifest/district_source_manifest_v1.parquet"
+    structured_json_dir: "district_extraction/structure/v1"
+    paragraphs_parquet: "district_extraction/structure/v1/paragraphs_provenance_v1.parquet"
+    sentences_parquet: "district_extraction/structure/v1/sentences_provenance_v1.parquet"
+  retrieval:
+    architecture: "BM25Okapi + BAAI/bge-m3 with RRF"
+    rrf_k: 60
+    dense_weight: 0.60
+    bm25_weight: 0.40
+    context_format: "3_sentence_window"
+    evidence_parquet: "phase4_summarization/corpus/phase4_evidence.parquet"
+  generation:
+    model_id: "qwen3-4b-instruct"
+    prompt_condition: "condition_c"
+    temperature: 0.1
+    top_p: 0.95
+    max_tokens: 450
+    thinking_enabled: false
+    languages:
+      - "en"
+      - "ta"
+      - "hi"
+      - "kn"
+      - "mr"
+
+evaluation:
+  evaluator_model: "gemini-3.5-flash-lite"
+  gemini_cache_db: "phase5_fact_preservation/cache/phase5_gemini_cache.sqlite3"
+  deterministic_fallback: true
+  matrix:
+    documents: 161
+    languages: 5
+    total_expected_summaries: 805
+
+directories:
+  config: "phase5_fact_preservation/config"
+  corpus: "phase5_fact_preservation/corpus"
+  generation: "phase5_fact_preservation/generation"
+  claims: "phase5_fact_preservation/claims"
+  validation: "phase5_fact_preservation/validation"
+  evaluation: "phase5_fact_preservation/evaluation"
+  cache: "phase5_fact_preservation/cache"
+  reports: "phase5_fact_preservation/reports"
+  manifests: "phase5_fact_preservation/manifests"
+  tests: "phase5_fact_preservation/tests"

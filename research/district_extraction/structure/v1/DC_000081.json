@@ -1,0 +1,356 @@
+{
+  "document_id": "DC_000081",
+  "source": {
+    "sha256": "ccdb7d62355296a0ad13eddf50ed4d45b9d04e8b9a0cde7be2d610b78d5509a7",
+    "filename": "orders_2020_215200019532020_1.pdf",
+    "source_record_id": "DC-S3-081_8_24_1080060_2020_orders_2020_215200019532020_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 3,
+    "file_size_bytes": 30455
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 1.0
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 2772,
+      "word_count": 443,
+      "raw_text": "Court of the Ist Addl. Sessions, Araria.\n    A.B.P. No-1953/20.\n08.01.201.  This anticipatory bail petition filed on behalf of the\npetitioner Md. Ashique, who is apprehending his arrest in connection\nwith Tarabari Case No- 77/20, G.R. No- 2952/20 U/s 147,148,149,341,\n323,324,326,307,379,427,504,506/34 IPC is taken up for hearing.\nHeard both sides and perused the case record including the\ncase diary.\nAs per F.I.R on 11.08.20 at about 2 p.m while the informant\nImran Adil was going to Zamuwa riding on scooti with his nephew\nnamely Md. Masoom and when reached at Mantu chowk the petitioners\nand other co-accused persons named in the FIR surrounded them and\nstarted abusing an on the order of the co-accused Md. Matin the\npetitioner gave knife blow upon the nephew of the informant Md.\nMasoom due to which he sustained knife blow injury on his ribs and he\nfell down and the co-accused Washique assaulted the brother of the\ninformant namely Abuzar. The co-accused Md. Usman and Md.\nMukhatar assaulted the informant. The injured persons Md. Moosa,\nAbuzar and Isha brought to Sadar Hospital, Araria for their treatment. \nThe learned counsel for the petitioner has submitted that the\npetitioner is innocent  and falsely been implicated in this case due to\nlocal politics and enmity. Allegation is totally false, baseless and absurd.\nThe offence u.s 307,326 and 379 IPC are omnibus and general in nature\nand not attracted against the petitioner as the injured persons sustained\ninjury in a accident, under such circumstance the petitioner may be\nreleased on anticipatory bail.\nThe learned Addl. P.P. opposed the prayer for anticipatory\nbail.\nFrom perusal of the record it appears that the petitioner is\nnamed in the FIR and there is direct and specific allegation against him\nfor giving knife blow upon the nephew of the informant Md. Masoom\nresulting into his ribs fracture injury which is dangerous weapon on the\nvital part f the body as Panjara (in between the stomach, back of the\nbody) would be caused the death. So, it appears to me that it was\npreplanned crime to commit heinous offence with the informant and his\nnephew the injured Masoom and others. The informant and the\nwitnesses have supported the prosecution case vide para-\n6,7,8,9,10,27,28,29 of the case diary and still investigation is pending. \nHaving considered the aforesaid facts and circumstances of\nthe case, evidence available in the case diary and basically considering\nthe injury of injured nephew of the informant Md. Masoom and still\ninvestigation is pending, considering all these facts,  I am not inclined to\nenlarge the petitioner on anticipatory bail and accordingly, this\nanticipatory bail petition is hereby rejected.\n    (Dictated)\n  \n         Sd/-\n         Ist Addl. Sessions Judge, Araria."
+    },
+    {
+      "page_number": 2,
+      "character_count": 0,
+      "word_count": 0,
+      "raw_text": ""
+    },
+    {
+      "page_number": 3,
+      "character_count": 0,
+      "word_count": 0,
+      "raw_text": ""
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 2743,
+      "word_count": 443,
+      "normalized_text": "Court of the Ist Addl. Sessions, Araria.\n A.B.P. No-1953/20.\n08.01.201. This anticipatory bail petition filed on behalf of the\npetitioner Md. Ashique, who is apprehending his arrest in connection\nwith Tarabari Case No- 77/20, G.R. No- 2952/20 U/s 147,148,149,341,\n323,324,326,307,379,427,504,506/34 IPC is taken up for hearing.\nHeard both sides and perused the case record including the\ncase diary.\nAs per F.I.R on 11.08.20 at about 2 p.m while the informant\nImran Adil was going to Zamuwa riding on scooti with his nephew\nnamely Md. Masoom and when reached at Mantu chowk the petitioners\nand other co-accused persons named in the FIR surrounded them and\nstarted abusing an on the order of the co-accused Md. Matin the\npetitioner gave knife blow upon the nephew of the informant Md.\nMasoom due to which he sustained knife blow injury on his ribs and he\nfell down and the co-accused Washique assaulted the brother of the\ninformant namely Abuzar. The co-accused Md. Usman and Md.\nMukhatar assaulted the informant. The injured persons Md. Moosa,\nAbuzar and Isha brought to Sadar Hospital, Araria for their treatment.\nThe learned counsel for the petitioner has submitted that the\npetitioner is innocent and falsely been implicated in this case due to\nlocal politics and enmity. Allegation is totally false, baseless and absurd.\nThe offence u.s 307,326 and 379 IPC are omnibus and general in nature\nand not attracted against the petitioner as the injured persons sustained\ninjury in a accident, under such circumstance the petitioner may be\nreleased on anticipatory bail.\nThe learned Addl. P.P. opposed the prayer for anticipatory\nbail.\nFrom perusal of the record it appears that the petitioner is\nnamed in the FIR and there is direct and specific allegation against him\nfor giving knife blow upon the nephew of the informant Md. Masoom\nresulting into his ribs fracture injury which is dangerous weapon on the\nvital part f the body as Panjara (in between the stomach, back of the\nbody) would be caused the death. So, it appears to me that it was\npreplanned crime to commit heinous offence with the informant and his\nnephew the injured Masoom and others. The informant and the\nwitnesses have supported the prosecution case vide para-\n6,7,8,9,10,27,28,29 of the case diary and still investigation is pending.\nHaving considered the aforesaid facts and circumstances of\nthe case, evidence available in the case diary and basically considering\nthe injury of injured nephew of the informant Md. Masoom and still\ninvestigation is pending, considering all these facts, I am not inclined to\nenlarge the petitioner on anticipatory bail and accordingly, this\nanticipatory bail petition is hereby rejected.\n (Dictated)\n\n Sd/-\n Ist Addl. Sessions Judge, Araria."
+    },
+    {
+      "page_number": 2,
+      "character_count": 0,
+      "word_count": 0,
+      "normalized_text": ""
+    },
+    {
+      "page_number": 3,
+      "character_count": 0,
+      "word_count": 0,
+      "normalized_text": ""
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 2,
+    "total_sentences": 30,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 2743,
+        "word_count": 443,
+        "paragraph_count": 2,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000081_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 2701,
+            "word_count": 437,
+            "sentence_count": 29,
+            "text": "Court of the Ist Addl. Sessions, Araria.\n A.B.P. No-1953/20.\n08.01.201. This anticipatory bail petition filed on behalf of the\npetitioner Md. Ashique, who is apprehending his arrest in connection\nwith Tarabari Case No- 77/20, G.R. No- 2952/20 U/s 147,148,149,341,\n323,324,326,307,379,427,504,506/34 IPC is taken up for hearing.\nHeard both sides and perused the case record including the\ncase diary.\nAs per F.I.R on 11.08.20 at about 2 p.m while the informant\nImran Adil was going to Zamuwa riding on scooti with his nephew\nnamely Md. Masoom and when reached at Mantu chowk the petitioners\nand other co-accused persons named in the FIR surrounded them and\nstarted abusing an on the order of the co-accused Md. Matin the\npetitioner gave knife blow upon the nephew of the informant Md.\nMasoom due to which he sustained knife blow injury on his ribs and he\nfell down and the co-accused Washique assaulted the brother of the\ninformant namely Abuzar. The co-accused Md. Usman and Md.\nMukhatar assaulted the informant. The injured persons Md. Moosa,\nAbuzar and Isha brought to Sadar Hospital, Araria for their treatment.\nThe learned counsel for the petitioner has submitted that the\npetitioner is innocent and falsely been implicated in this case due to\nlocal politics and enmity. Allegation is totally false, baseless and absurd.\nThe offence u.s 307,326 and 379 IPC are omnibus and general in nature\nand not attracted against the petitioner as the injured persons sustained\ninjury in a accident, under such circumstance the petitioner may be\nreleased on anticipatory bail.\nThe learned Addl. P.P. opposed the prayer for anticipatory\nbail.\nFrom perusal of the record it appears that the petitioner is\nnamed in the FIR and there is direct and specific allegation against him\nfor giving knife blow upon the nephew of the informant Md. Masoom\nresulting into his ribs fracture injury which is dangerous weapon on the\nvital part f the body as Panjara (in between the stomach, back of the\nbody) would be caused the death. So, it appears to me that it was\npreplanned crime to commit heinous offence with the informant and his\nnephew the injured Masoom and others. The informant and the\nwitnesses have supported the prosecution case vide para-\n6,7,8,9,10,27,28,29 of the case diary and still investigation is pending.\nHaving considered the aforesaid facts and circumstances of\nthe case, evidence available in the case diary and basically considering\nthe injury of injured nephew of the informant Md. Masoom and still\ninvestigation is pending, considering all these facts, I am not inclined to\nenlarge the petitioner on anticipatory bail and accordingly, this\nanticipatory bail petition is hereby rejected.\n (Dictated)",
+            "sentences": [
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 40,
+                "word_count": 7,
+                "text": "Court of the Ist Addl. Sessions, Araria."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 6,
+                "word_count": 1,
+                "text": "A.B.P."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 11,
+                "word_count": 1,
+                "text": "No-1953/20."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 10,
+                "word_count": 1,
+                "text": "08.01.201."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 69,
+                "word_count": 11,
+                "text": "This anticipatory bail petition filed on behalf of the\npetitioner Md."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 88,
+                "word_count": 14,
+                "text": "Ashique, who is apprehending his arrest in connection\nwith Tarabari Case No- 77/20, G.R."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 96,
+                "word_count": 11,
+                "text": "No- 2952/20 U/s 147,148,149,341,\n323,324,326,307,379,427,504,506/34 IPC is taken up for hearing."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 70,
+                "word_count": 12,
+                "text": "Heard both sides and perused the case record including the\ncase diary."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 134,
+                "word_count": 26,
+                "text": "As per F.I.R on 11.08.20 at about 2 p.m while the informant\nImran Adil was going to Zamuwa riding on scooti with his nephew\nnamely Md."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 174,
+                "word_count": 30,
+                "text": "Masoom and when reached at Mantu chowk the petitioners\nand other co-accused persons named in the FIR surrounded them and\nstarted abusing an on the order of the co-accused Md."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 73,
+                "word_count": 13,
+                "text": "Matin the\npetitioner gave knife blow upon the nephew of the informant Md."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN012",
+                "sentence_index": 12,
+                "character_count": 161,
+                "word_count": 28,
+                "text": "Masoom due to which he sustained knife blow injury on his ribs and he\nfell down and the co-accused Washique assaulted the brother of the\ninformant namely Abuzar."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN013",
+                "sentence_index": 13,
+                "character_count": 18,
+                "word_count": 3,
+                "text": "The co-accused Md."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN014",
+                "sentence_index": 14,
+                "character_count": 13,
+                "word_count": 3,
+                "text": "Usman and Md."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN015",
+                "sentence_index": 15,
+                "character_count": 33,
+                "word_count": 4,
+                "text": "Mukhatar assaulted the informant."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN016",
+                "sentence_index": 16,
+                "character_count": 23,
+                "word_count": 4,
+                "text": "The injured persons Md."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN017",
+                "sentence_index": 17,
+                "character_count": 77,
+                "word_count": 12,
+                "text": "Moosa,\nAbuzar and Isha brought to Sadar Hospital, Araria for their treatment."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN018",
+                "sentence_index": 18,
+                "character_count": 159,
+                "word_count": 26,
+                "text": "The learned counsel for the petitioner has submitted that the\npetitioner is innocent and falsely been implicated in this case due to\nlocal politics and enmity."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN019",
+                "sentence_index": 19,
+                "character_count": 49,
+                "word_count": 7,
+                "text": "Allegation is totally false, baseless and absurd."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN020",
+                "sentence_index": 20,
+                "character_count": 242,
+                "word_count": 39,
+                "text": "The offence u.s 307,326 and 379 IPC are omnibus and general in nature\nand not attracted against the petitioner as the injured persons sustained\ninjury in a accident, under such circumstance the petitioner may be\nreleased on anticipatory bail."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN021",
+                "sentence_index": 21,
+                "character_count": 22,
+                "word_count": 4,
+                "text": "The learned Addl. P.P."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN022",
+                "sentence_index": 22,
+                "character_count": 41,
+                "word_count": 6,
+                "text": "opposed the prayer for anticipatory\nbail."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN023",
+                "sentence_index": 23,
+                "character_count": 192,
+                "word_count": 35,
+                "text": "From perusal of the record it appears that the petitioner is\nnamed in the FIR and there is direct and specific allegation against him\nfor giving knife blow upon the nephew of the informant Md."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN024",
+                "sentence_index": 24,
+                "character_count": 182,
+                "word_count": 33,
+                "text": "Masoom\nresulting into his ribs fracture injury which is dangerous weapon on the\nvital part f the body as Panjara (in between the stomach, back of the\nbody) would be caused the death."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN025",
+                "sentence_index": 25,
+                "character_count": 140,
+                "word_count": 25,
+                "text": "So, it appears to me that it was\npreplanned crime to commit heinous offence with the informant and his\nnephew the injured Masoom and others."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN026",
+                "sentence_index": 26,
+                "character_count": 152,
+                "word_count": 22,
+                "text": "The informant and the\nwitnesses have supported the prosecution case vide para-\n6,7,8,9,10,27,28,29 of the case diary and still investigation is pending."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN027",
+                "sentence_index": 27,
+                "character_count": 181,
+                "word_count": 28,
+                "text": "Having considered the aforesaid facts and circumstances of\nthe case, evidence available in the case diary and basically considering\nthe injury of injured nephew of the informant Md."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN028",
+                "sentence_index": 28,
+                "character_count": 205,
+                "word_count": 30,
+                "text": "Masoom and still\ninvestigation is pending, considering all these facts, I am not inclined to\nenlarge the petitioner on anticipatory bail and accordingly, this\nanticipatory bail petition is hereby rejected."
+              },
+              {
+                "sentence_id": "DC_000081_P001_PAR001_SEN029",
+                "sentence_index": 29,
+                "character_count": 10,
+                "word_count": 1,
+                "text": "(Dictated)"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000081_P001_PAR002",
+            "paragraph_index": 2,
+            "character_count": 39,
+            "word_count": 6,
+            "sentence_count": 1,
+            "text": "Sd/-\n Ist Addl. Sessions Judge, Araria.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000081_P001_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 39,
+                "word_count": 6,
+                "text": "Sd/-\n Ist Addl. Sessions Judge, Araria."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "character_count": 0,
+        "word_count": 0,
+        "paragraph_count": 0,
+        "paragraphs": []
+      },
+      {
+        "page_number": 3,
+        "character_count": 0,
+        "word_count": 0,
+        "paragraph_count": 0,
+        "paragraphs": []
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 8,
+    "state_name": "Bihar",
+    "district_code": 24,
+    "district_name": "Araria",
+    "court_complex_code": 1080060,
+    "court_complex_name": "Civil Court, Araria",
+    "year": 2020,
+    "case_type": "nan",
+    "case_number": "215200019532020",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "Writer",
+    "pdf_producer": "LibreOffice 4.2",
+    "pdf_creation_date": "D:20210210131122+05'30'",
+    "pdf_mod_date": ""
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 1.0,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "ccdb7d62355296a0ad13eddf50ed4d45b9d04e8b9a0cde7be2d610b78d5509a7",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.324401"
+  }
+}

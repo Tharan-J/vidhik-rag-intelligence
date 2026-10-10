@@ -1,0 +1,7 @@
+system_id,total_rows,unique_facts,unique_docs,unique_languages,duplicate_eval_keys,null_labels,critical_units
+T0_BASELINE_LEGAL_AWARE,340,85,9,4,0,0,152
+T1_CONTEXT_AWARE,340,85,9,4,0,0,152
+T2_STRONGER_TERMINOLOGY,340,85,9,4,0,0,152
+T3_CLAIM_ALIGNED,340,85,9,4,0,0,152
+T4_CANDIDATE_RERANKING,340,85,9,4,0,0,152
+T5_COMBINED_OPTIMAL,340,85,9,4,0,0,152

@@ -1,0 +1,233 @@
+{
+  "document_id": "DC_000122",
+  "source": {
+    "sha256": "3eba44c6799245532e3542ce6ce7ec230e539e799475517dee3fadfda01e43a9",
+    "filename": "orders_2024_203500002262024_2.pdf",
+    "source_record_id": "DC-S3-122_27_1_1270001_2024_orders_2024_203500002262024_2",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 2,
+    "file_size_bytes": 23425
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 1.0
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1236,
+      "word_count": 196,
+      "raw_text": "CNR No: CHCH01-002878-2024\nCIS No: MISC DJ/276/2024\nVoltas Ltd. Vs. Satish Gupta\nPresent: \nSh. Sanjay Judge, Advocate for the applicant/appellant. \nSh. S.K. Chhabra, Advocate for the respondent.\nService already completed. \nInstead of filing reply, the learned counsel for the respondent\nhas endorsed no objection on the said application. \nHeard. \nKeeping in view the contents mentioned in the aforesaid\napplication and no objection endorsed by learned counsel for the\nrespondent, application in hand is allowed and the delay of one day in filing\nthe present appeal stands condoned. \nAs there are arguable points involved in the appeal, it is\nadmitted for hearing and it be registered as Civil Appeal.\nLearned counsel for the respondent has also endorsed no\nobjection on the application under Order 6 Rule 17 of CPC r/w Order 1\nRule 10 of CPC for deletion of earlier name of appellant/Company on\naccount of merger order dated 11.09.2020. \nHeard. \nKeeping in view the contents mentioned in the application and\nno objection of learned counsel for the respondent, application in hand is\nalso allowed. \nThe case is now adjourned to 21.02.2025, for which date, trial\nCourt record be requisitioned. \nArguments on main appeal then be addressed."
+    },
+    {
+      "page_number": 2,
+      "character_count": 109,
+      "word_count": 14,
+      "raw_text": "Date of Order: 27.08.2024\nShubham, Steno Gr. II\nAshwani Kumar\nAdditional District Judge\nChandigarh/UID-HR0106"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1226,
+      "word_count": 196,
+      "normalized_text": "CNR No: CHCH01-002878-2024\nCIS No: MISC DJ/276/2024\nVoltas Ltd. Vs. Satish Gupta\nPresent:\nSh. Sanjay Judge, Advocate for the applicant/appellant.\nSh. S.K. Chhabra, Advocate for the respondent.\nService already completed.\nInstead of filing reply, the learned counsel for the respondent\nhas endorsed no objection on the said application.\nHeard.\nKeeping in view the contents mentioned in the aforesaid\napplication and no objection endorsed by learned counsel for the\nrespondent, application in hand is allowed and the delay of one day in filing\nthe present appeal stands condoned.\nAs there are arguable points involved in the appeal, it is\nadmitted for hearing and it be registered as Civil Appeal.\nLearned counsel for the respondent has also endorsed no\nobjection on the application under Order 6 Rule 17 of CPC r/w Order 1\nRule 10 of CPC for deletion of earlier name of appellant/Company on\naccount of merger order dated 11.09.2020.\nHeard.\nKeeping in view the contents mentioned in the application and\nno objection of learned counsel for the respondent, application in hand is\nalso allowed.\nThe case is now adjourned to 21.02.2025, for which date, trial\nCourt record be requisitioned.\nArguments on main appeal then be addressed."
+    },
+    {
+      "page_number": 2,
+      "character_count": 109,
+      "word_count": 14,
+      "normalized_text": "Date of Order: 27.08.2024\nShubham, Steno Gr. II\nAshwani Kumar\nAdditional District Judge\nChandigarh/UID-HR0106"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 2,
+    "total_sentences": 15,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 1226,
+        "word_count": 196,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000122_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 1226,
+            "word_count": 196,
+            "sentence_count": 13,
+            "text": "CNR No: CHCH01-002878-2024\nCIS No: MISC DJ/276/2024\nVoltas Ltd. Vs. Satish Gupta\nPresent:\nSh. Sanjay Judge, Advocate for the applicant/appellant.\nSh. S.K. Chhabra, Advocate for the respondent.\nService already completed.\nInstead of filing reply, the learned counsel for the respondent\nhas endorsed no objection on the said application.\nHeard.\nKeeping in view the contents mentioned in the aforesaid\napplication and no objection endorsed by learned counsel for the\nrespondent, application in hand is allowed and the delay of one day in filing\nthe present appeal stands condoned.\nAs there are arguable points involved in the appeal, it is\nadmitted for hearing and it be registered as Civil Appeal.\nLearned counsel for the respondent has also endorsed no\nobjection on the application under Order 6 Rule 17 of CPC r/w Order 1\nRule 10 of CPC for deletion of earlier name of appellant/Company on\naccount of merger order dated 11.09.2020.\nHeard.\nKeeping in view the contents mentioned in the application and\nno objection of learned counsel for the respondent, application in hand is\nalso allowed.\nThe case is now adjourned to 21.02.2025, for which date, trial\nCourt record be requisitioned.\nArguments on main appeal then be addressed.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000122_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 145,
+                "word_count": 20,
+                "text": "CNR No: CHCH01-002878-2024\nCIS No: MISC DJ/276/2024\nVoltas Ltd. Vs. Satish Gupta\nPresent:\nSh. Sanjay Judge, Advocate for the applicant/appellant."
+              },
+              {
+                "sentence_id": "DC_000122_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 8,
+                "word_count": 2,
+                "text": "Sh. S.K."
+              },
+              {
+                "sentence_id": "DC_000122_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 37,
+                "word_count": 5,
+                "text": "Chhabra, Advocate for the respondent."
+              },
+              {
+                "sentence_id": "DC_000122_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 26,
+                "word_count": 3,
+                "text": "Service already completed."
+              },
+              {
+                "sentence_id": "DC_000122_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 114,
+                "word_count": 18,
+                "text": "Instead of filing reply, the learned counsel for the respondent\nhas endorsed no objection on the said application."
+              },
+              {
+                "sentence_id": "DC_000122_P001_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 6,
+                "word_count": 1,
+                "text": "Heard."
+              },
+              {
+                "sentence_id": "DC_000122_P001_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 234,
+                "word_count": 38,
+                "text": "Keeping in view the contents mentioned in the aforesaid\napplication and no objection endorsed by learned counsel for the\nrespondent, application in hand is allowed and the delay of one day in filing\nthe present appeal stands condoned."
+              },
+              {
+                "sentence_id": "DC_000122_P001_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 117,
+                "word_count": 21,
+                "text": "As there are arguable points involved in the appeal, it is\nadmitted for hearing and it be registered as Civil Appeal."
+              },
+              {
+                "sentence_id": "DC_000122_P001_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 235,
+                "word_count": 41,
+                "text": "Learned counsel for the respondent has also endorsed no\nobjection on the application under Order 6 Rule 17 of CPC r/w Order 1\nRule 10 of CPC for deletion of earlier name of appellant/Company on\naccount of merger order dated 11.09.2020."
+              },
+              {
+                "sentence_id": "DC_000122_P001_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 6,
+                "word_count": 1,
+                "text": "Heard."
+              },
+              {
+                "sentence_id": "DC_000122_P001_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 150,
+                "word_count": 24,
+                "text": "Keeping in view the contents mentioned in the application and\nno objection of learned counsel for the respondent, application in hand is\nalso allowed."
+              },
+              {
+                "sentence_id": "DC_000122_P001_PAR001_SEN012",
+                "sentence_index": 12,
+                "character_count": 93,
+                "word_count": 15,
+                "text": "The case is now adjourned to 21.02.2025, for which date, trial\nCourt record be requisitioned."
+              },
+              {
+                "sentence_id": "DC_000122_P001_PAR001_SEN013",
+                "sentence_index": 13,
+                "character_count": 43,
+                "word_count": 7,
+                "text": "Arguments on main appeal then be addressed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "character_count": 109,
+        "word_count": 14,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000122_P002_PAR001",
+            "paragraph_index": 1,
+            "character_count": 109,
+            "word_count": 14,
+            "sentence_count": 2,
+            "text": "Date of Order: 27.08.2024\nShubham, Steno Gr. II\nAshwani Kumar\nAdditional District Judge\nChandigarh/UID-HR0106",
+            "sentences": [
+              {
+                "sentence_id": "DC_000122_P002_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 44,
+                "word_count": 7,
+                "text": "Date of Order: 27.08.2024\nShubham, Steno Gr."
+              },
+              {
+                "sentence_id": "DC_000122_P002_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 64,
+                "word_count": 7,
+                "text": "II\nAshwani Kumar\nAdditional District Judge\nChandigarh/UID-HR0106"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 27,
+    "state_name": "Chandigarh",
+    "district_code": 1,
+    "district_name": "Chandigarh",
+    "court_complex_code": 1270001,
+    "court_complex_name": "District Court, Chandigarh",
+    "year": 2024,
+    "case_type": "nan",
+    "case_number": "203500002262024",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "Writer",
+    "pdf_producer": "LibreOffice 6.4",
+    "pdf_creation_date": "D:20250317161841+05'30'",
+    "pdf_mod_date": ""
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 1.0,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "3eba44c6799245532e3542ce6ce7ec230e539e799475517dee3fadfda01e43a9",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.453954"
+  }
+}

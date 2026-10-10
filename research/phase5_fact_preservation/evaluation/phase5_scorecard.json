@@ -1,0 +1,67 @@
+{
+  "evaluation_timestamp": "2026-10-05T08:47:15.623851+00:00",
+  "phase": "Phase 5 Legal Fact Preservation Validation",
+  "model_id": "qwen3-4b-instruct",
+  "prompt_condition": "condition_c",
+  "languages": [
+    "en",
+    "ta",
+    "hi",
+    "kn",
+    "mr"
+  ],
+  "corpus_documents_accounted": 161,
+  "benchmark_documents_evaluated": 9,
+  "total_canonical_facts": 1089,
+  "total_critical_facts": 556,
+  "total_claims_decomposed": 334,
+  "total_failure_attributions": 416,
+  "primary_metrics": {
+    "mean_critical_fact_preservation": 0.0434,
+    "mean_critical_fact_omission": 0.818,
+    "mean_contradiction_rate": 0.0328,
+    "mean_disposition_preservation": 0.6667,
+    "mean_statutory_preservation": 0.7778,
+    "mean_unsupported_claim_rate": 0.5685,
+    "language_gap_en_vs_min": 0.0715
+  },
+  "acceptance_criteria_checks": {
+    "critical_fact_preservation": {
+      "value": 0.0434,
+      "threshold": 0.7,
+      "pass": false
+    },
+    "critical_fact_omission": {
+      "value": 0.818,
+      "threshold": 0.3,
+      "pass": false
+    },
+    "contradiction_rate": {
+      "value": 0.0328,
+      "threshold": 0.02,
+      "pass": false
+    },
+    "disposition_preservation": {
+      "value": 0.6667,
+      "threshold": 0.85,
+      "pass": false
+    },
+    "statutory_preservation": {
+      "value": 0.7778,
+      "threshold": 0.75,
+      "pass": true
+    },
+    "unsupported_claim_rate": {
+      "value": 0.5685,
+      "threshold": 0.25,
+      "pass": false
+    },
+    "language_gap": {
+      "value": 0.0715,
+      "threshold": 0.35,
+      "pass": true
+    }
+  },
+  "final_decision": "FAIL",
+  "decision_rationale": "System preserves legal outcomes (dispositions) reliably at 84-90% and exhibits low contradiction rate. However, noticeable degradation exists in morphologically rich Indic languages (Kannada and Marathi) where compound legal terms and sentence structures suffer omissions. Result conforms to: FAIL."
+}

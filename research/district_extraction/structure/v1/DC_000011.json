@@ -1,0 +1,467 @@
+{
+  "document_id": "DC_000011",
+  "source": {
+    "sha256": "c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b",
+    "filename": "orders_1998_203300000381998_1.pdf",
+    "source_record_id": "DC-S3-011_29_22_1290176_1998_orders_1998_203300000381998_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 3,
+    "file_size_bytes": 73551
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.9984
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1869,
+      "word_count": 303,
+      "raw_text": "1                                                    PRC 38 OF 1998\nIN THE COURT OF JUDL MAGISTRATE ISTCLASS AT CHENNUR\nPRESENT: - Sri K. JAYARAM REDDY\nJUDL.MAGISTRATE OF FIRST CLASS\nCHENNUR\nTHURSDAY THIS THE 6TH DAY OF MARCH, 2014\nPRC NO. 38 OF 1998\nBetween:-\n       State of A.P. through Circle Inspector \n       of Police, Chennur\n….\nComplainant.\n \n    AND\nA-8: Radhakka @ Kursinga Mothu Bai\n        @ Madavi @ Samithi, W/o Pulluri Prasada Rao\n        Age 46 years, R/o Pippalladara, Jainur Mandal\n        of Adilabad District. \n.....   Accused.\n     \nThis case is coming on before me on 21.2.2014 for final hearing \nbefore me in the presence of police for the State and the accused is in \nperson and after perusing the case record, this court made the following: -\nCOMMITTAL ORDER\n      \n        The  Circle Inspector of Police, Chennur has filed charge sheet in Cr.No. \n5/1993, PS Chennur for the offence punishable U/s.  147, 148, 302 r/w 149 IPC \nand section 25(1)(a), 27 of IA Act against the accused. \n2.\nThe brief facts of the  case are that, the accused along with other extremists, \nwho are belongs Extremists of Chennur Dalam (PWG) deter the deceased Bansilal \nfrom possession of Government land allotted to the deceased in which the \ndeceased was transplanting Mango sapling under ITDA scheme, the accused \nwarned the deceased Bansilal, but he did not head to their warnings and continued \ntransplantation and on 26.3.1993 at 11.00 p.m. The accused along with other \naccused came to the house of deceased and surrounded the house and woke the \ndeceased and took him by the side at a distance of 10 yards and shoot him with \n303 rifle and 12 bore guns and went away for defying their warning not to occupy \nthe land.  Thus the accused has committed offence punishable U/sec. 147, 148, \n302 r/w 149 IPC and section 25(1)(a), 27 of IA Act.  Hence the charge."
+    },
+    {
+      "page_number": 2,
+      "character_count": 1756,
+      "word_count": 279,
+      "raw_text": "2                                                    PRC 38 OF 1998\n3.\n  This court took cognizance of the case against the  accused  for the \noffence under section  147, 148, 302 r/w 149 IPC and section 25(1)(a), 27 of IA \nAct. \n4.\nOn 30.1.1996 case against A-1 to A-6, A-8 was split up from PRC 14/1995. \non 8.9.1998 case against A-1, A-3, A-5, A-6, A-8 was split up from PRC 6/1996 and \nnumbered as PRC 38/1998 and issued section 82 CrPC proceedings.  \n5.\n On 21.2.2014 accused No.8 is produced on execution of PT Warrant and \nthe case against  other accused, who are involved in this offence was split up from \nPRC 38/1998 and numbered as PRC 8/2014 and the PRC 38/1998   shall run \nagainst the accused No.8 only.  On appearance of the accused copies of \ndocuments relied upon by the prosecution were furnished to her as contemplated \nU/s.207 Cr.PC.\n6.       Prima facie, the offences alleged against the accused U/sec. 302 IPC is \nexclusively triable by the Court of Sessions, Adilabad.  Hence this case is \ncommitted to the Court of Sessions, Adilabad, U/s.209 (a) Cr.PC.\n7.\nThe accused  is in Jail.  The Superintendent, Central Prison, Warangal \nis directed to produce the accused before the Hon'ble District Court, \nAdilabad on 20.3.2014\n8.\n The case records, documents and articles if any shall be submitted to \nthe Court of Sessions, Adilabad  forthwith, U/s.209©Cr.p.c.\n9.\n The factum of commitment shall be intimated to the Public \nProsecutor, U/s.209(d)Cr.p.c.\n10.\n When enquired, accused stated that she has means to engage \ncounsel in the Court of Sessions.\n Typed to my dictation on computer after correction pronounced by me \nin open court on this 6th   day of March,  2014.\n               \n JUDL. MAGISTRATE OF IST CLASS\n         CHINNUR."
+    },
+    {
+      "page_number": 3,
+      "character_count": 67,
+      "word_count": 5,
+      "raw_text": "3                                                    PRC 38 OF 1998"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1741,
+      "word_count": 303,
+      "normalized_text": "1 PRC 38 OF 1998\nIN THE COURT OF JUDL MAGISTRATE ISTCLASS AT CHENNUR\nPRESENT: - Sri K. JAYARAM REDDY\nJUDL.MAGISTRATE OF FIRST CLASS\nCHENNUR\nTHURSDAY THIS THE 6TH DAY OF MARCH, 2014\nPRC NO. 38 OF 1998\nBetween:-\n State of A.P. through Circle Inspector\n of Police, Chennur\n....\nComplainant.\n\n AND\nA-8: Radhakka @ Kursinga Mothu Bai\n @ Madavi @ Samithi, W/o Pulluri Prasada Rao\n Age 46 years, R/o Pippalladara, Jainur Mandal\n of Adilabad District.\n..... Accused.\n\nThis case is coming on before me on 21.2.2014 for final hearing\nbefore me in the presence of police for the State and the accused is in\nperson and after perusing the case record, this court made the following: -\nCOMMITTAL ORDER\n\n The Circle Inspector of Police, Chennur has filed charge sheet in Cr.No.\n5/1993, PS Chennur for the offence punishable U/s. 147, 148, 302 r/w 149 IPC\nand section 25(1)(a), 27 of IA Act against the accused.\n2.\nThe brief facts of the case are that, the accused along with other extremists,\nwho are belongs Extremists of Chennur Dalam (PWG) deter the deceased Bansilal\nfrom possession of Government land allotted to the deceased in which the\ndeceased was transplanting Mango sapling under ITDA scheme, the accused\nwarned the deceased Bansilal, but he did not head to their warnings and continued\ntransplantation and on 26.3.1993 at 11.00 p.m. The accused along with other\naccused came to the house of deceased and surrounded the house and woke the\ndeceased and took him by the side at a distance of 10 yards and shoot him with\n303 rifle and 12 bore guns and went away for defying their warning not to occupy\nthe land. Thus the accused has committed offence punishable U/sec. 147, 148,\n302 r/w 149 IPC and section 25(1)(a), 27 of IA Act. Hence the charge."
+    },
+    {
+      "page_number": 2,
+      "character_count": 1641,
+      "word_count": 279,
+      "normalized_text": "2 PRC 38 OF 1998\n3.\n This court took cognizance of the case against the accused for the\noffence under section 147, 148, 302 r/w 149 IPC and section 25(1)(a), 27 of IA\nAct.\n4.\nOn 30.1.1996 case against A-1 to A-6, A-8 was split up from PRC 14/1995.\non 8.9.1998 case against A-1, A-3, A-5, A-6, A-8 was split up from PRC 6/1996 and\nnumbered as PRC 38/1998 and issued section 82 CrPC proceedings.\n5.\n On 21.2.2014 accused No.8 is produced on execution of PT Warrant and\nthe case against other accused, who are involved in this offence was split up from\nPRC 38/1998 and numbered as PRC 8/2014 and the PRC 38/1998 shall run\nagainst the accused No.8 only. On appearance of the accused copies of\ndocuments relied upon by the prosecution were furnished to her as contemplated\nU/s.207 Cr.PC.\n6. Prima facie, the offences alleged against the accused U/sec. 302 IPC is\nexclusively triable by the Court of Sessions, Adilabad. Hence this case is\ncommitted to the Court of Sessions, Adilabad, U/s.209 (a) Cr.PC.\n7.\nThe accused is in Jail. The Superintendent, Central Prison, Warangal\nis directed to produce the accused before the Hon'ble District Court,\nAdilabad on 20.3.2014\n8.\n The case records, documents and articles if any shall be submitted to\nthe Court of Sessions, Adilabad forthwith, U/s.209©Cr.p.c.\n9.\n The factum of commitment shall be intimated to the Public\nProsecutor, U/s.209(d)Cr.p.c.\n10.\n When enquired, accused stated that she has means to engage\ncounsel in the Court of Sessions.\n Typed to my dictation on computer after correction pronounced by me\nin open court on this 6th day of March, 2014.\n\n JUDL. MAGISTRATE OF IST CLASS\n CHINNUR."
+    },
+    {
+      "page_number": 3,
+      "character_count": 16,
+      "word_count": 5,
+      "normalized_text": "3 PRC 38 OF 1998"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 7,
+    "total_sentences": 38,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 1741,
+        "word_count": 303,
+        "paragraph_count": 4,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000011_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 287,
+            "word_count": 50,
+            "sentence_count": 4,
+            "text": "1 PRC 38 OF 1998\nIN THE COURT OF JUDL MAGISTRATE ISTCLASS AT CHENNUR\nPRESENT: - Sri K. JAYARAM REDDY\nJUDL.MAGISTRATE OF FIRST CLASS\nCHENNUR\nTHURSDAY THIS THE 6TH DAY OF MARCH, 2014\nPRC NO. 38 OF 1998\nBetween:-\n State of A.P. through Circle Inspector\n of Police, Chennur\n....\nComplainant.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000011_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 86,
+                "word_count": 18,
+                "text": "1 PRC 38 OF 1998\nIN THE COURT OF JUDL MAGISTRATE ISTCLASS AT CHENNUR\nPRESENT: - Sri K."
+              },
+              {
+                "sentence_id": "DC_000011_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 137,
+                "word_count": 24,
+                "text": "JAYARAM REDDY\nJUDL.MAGISTRATE OF FIRST CLASS\nCHENNUR\nTHURSDAY THIS THE 6TH DAY OF MARCH, 2014\nPRC NO. 38 OF 1998\nBetween:-\n State of A.P."
+              },
+              {
+                "sentence_id": "DC_000011_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 49,
+                "word_count": 7,
+                "text": "through Circle Inspector\n of Police, Chennur\n...."
+              },
+              {
+                "sentence_id": "DC_000011_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 12,
+                "word_count": 1,
+                "text": "Complainant."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000011_P001_PAR002",
+            "paragraph_index": 2,
+            "character_count": 168,
+            "word_count": 27,
+            "sentence_count": 3,
+            "text": "AND\nA-8: Radhakka @ Kursinga Mothu Bai\n @ Madavi @ Samithi, W/o Pulluri Prasada Rao\n Age 46 years, R/o Pippalladara, Jainur Mandal\n of Adilabad District.\n..... Accused.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000011_P001_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 153,
+                "word_count": 25,
+                "text": "AND\nA-8: Radhakka @ Kursinga Mothu Bai\n @ Madavi @ Samithi, W/o Pulluri Prasada Rao\n Age 46 years, R/o Pippalladara, Jainur Mandal\n of Adilabad District."
+              },
+              {
+                "sentence_id": "DC_000011_P001_PAR002_SEN002",
+                "sentence_index": 2,
+                "character_count": 5,
+                "word_count": 1,
+                "text": "....."
+              },
+              {
+                "sentence_id": "DC_000011_P001_PAR002_SEN003",
+                "sentence_index": 3,
+                "character_count": 8,
+                "word_count": 1,
+                "text": "Accused."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000011_P001_PAR003",
+            "paragraph_index": 3,
+            "character_count": 227,
+            "word_count": 42,
+            "sentence_count": 1,
+            "text": "This case is coming on before me on 21.2.2014 for final hearing\nbefore me in the presence of police for the State and the accused is in\nperson and after perusing the case record, this court made the following: -\nCOMMITTAL ORDER",
+            "sentences": [
+              {
+                "sentence_id": "DC_000011_P001_PAR003_SEN001",
+                "sentence_index": 1,
+                "character_count": 227,
+                "word_count": 42,
+                "text": "This case is coming on before me on 21.2.2014 for final hearing\nbefore me in the presence of police for the State and the accused is in\nperson and after perusing the case record, this court made the following: -\nCOMMITTAL ORDER"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000011_P001_PAR004",
+            "paragraph_index": 4,
+            "character_count": 1051,
+            "word_count": 184,
+            "sentence_count": 8,
+            "text": "The Circle Inspector of Police, Chennur has filed charge sheet in Cr.No.\n5/1993, PS Chennur for the offence punishable U/s. 147, 148, 302 r/w 149 IPC\nand section 25(1)(a), 27 of IA Act against the accused.\n2.\nThe brief facts of the case are that, the accused along with other extremists,\nwho are belongs Extremists of Chennur Dalam (PWG) deter the deceased Bansilal\nfrom possession of Government land allotted to the deceased in which the\ndeceased was transplanting Mango sapling under ITDA scheme, the accused\nwarned the deceased Bansilal, but he did not head to their warnings and continued\ntransplantation and on 26.3.1993 at 11.00 p.m. The accused along with other\naccused came to the house of deceased and surrounded the house and woke the\ndeceased and took him by the side at a distance of 10 yards and shoot him with\n303 rifle and 12 bore guns and went away for defying their warning not to occupy\nthe land. Thus the accused has committed offence punishable U/sec. 147, 148,\n302 r/w 149 IPC and section 25(1)(a), 27 of IA Act. Hence the charge.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000011_P001_PAR004_SEN001",
+                "sentence_index": 1,
+                "character_count": 123,
+                "word_count": 20,
+                "text": "The Circle Inspector of Police, Chennur has filed charge sheet in Cr.No.\n5/1993, PS Chennur for the offence punishable U/s."
+              },
+              {
+                "sentence_id": "DC_000011_P001_PAR004_SEN002",
+                "sentence_index": 2,
+                "character_count": 81,
+                "word_count": 16,
+                "text": "147, 148, 302 r/w 149 IPC\nand section 25(1)(a), 27 of IA Act against the accused."
+              },
+              {
+                "sentence_id": "DC_000011_P001_PAR004_SEN003",
+                "sentence_index": 3,
+                "character_count": 2,
+                "word_count": 1,
+                "text": "2."
+              },
+              {
+                "sentence_id": "DC_000011_P001_PAR004_SEN004",
+                "sentence_index": 4,
+                "character_count": 430,
+                "word_count": 69,
+                "text": "The brief facts of the case are that, the accused along with other extremists,\nwho are belongs Extremists of Chennur Dalam (PWG) deter the deceased Bansilal\nfrom possession of Government land allotted to the deceased in which the\ndeceased was transplanting Mango sapling under ITDA scheme, the accused\nwarned the deceased Bansilal, but he did not head to their warnings and continued\ntransplantation and on 26.3.1993 at 11.00 p.m."
+              },
+              {
+                "sentence_id": "DC_000011_P001_PAR004_SEN005",
+                "sentence_index": 5,
+                "character_count": 274,
+                "word_count": 54,
+                "text": "The accused along with other\naccused came to the house of deceased and surrounded the house and woke the\ndeceased and took him by the side at a distance of 10 yards and shoot him with\n303 rifle and 12 bore guns and went away for defying their warning not to occupy\nthe land."
+              },
+              {
+                "sentence_id": "DC_000011_P001_PAR004_SEN006",
+                "sentence_index": 6,
+                "character_count": 56,
+                "word_count": 8,
+                "text": "Thus the accused has committed offence punishable U/sec."
+              },
+              {
+                "sentence_id": "DC_000011_P001_PAR004_SEN007",
+                "sentence_index": 7,
+                "character_count": 61,
+                "word_count": 13,
+                "text": "147, 148,\n302 r/w 149 IPC and section 25(1)(a), 27 of IA Act."
+              },
+              {
+                "sentence_id": "DC_000011_P001_PAR004_SEN008",
+                "sentence_index": 8,
+                "character_count": 17,
+                "word_count": 3,
+                "text": "Hence the charge."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "character_count": 1641,
+        "word_count": 279,
+        "paragraph_count": 2,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000011_P002_PAR001",
+            "paragraph_index": 1,
+            "character_count": 1599,
+            "word_count": 273,
+            "sentence_count": 19,
+            "text": "2 PRC 38 OF 1998\n3.\n This court took cognizance of the case against the accused for the\noffence under section 147, 148, 302 r/w 149 IPC and section 25(1)(a), 27 of IA\nAct.\n4.\nOn 30.1.1996 case against A-1 to A-6, A-8 was split up from PRC 14/1995.\non 8.9.1998 case against A-1, A-3, A-5, A-6, A-8 was split up from PRC 6/1996 and\nnumbered as PRC 38/1998 and issued section 82 CrPC proceedings.\n5.\n On 21.2.2014 accused No.8 is produced on execution of PT Warrant and\nthe case against other accused, who are involved in this offence was split up from\nPRC 38/1998 and numbered as PRC 8/2014 and the PRC 38/1998 shall run\nagainst the accused No.8 only. On appearance of the accused copies of\ndocuments relied upon by the prosecution were furnished to her as contemplated\nU/s.207 Cr.PC.\n6. Prima facie, the offences alleged against the accused U/sec. 302 IPC is\nexclusively triable by the Court of Sessions, Adilabad. Hence this case is\ncommitted to the Court of Sessions, Adilabad, U/s.209 (a) Cr.PC.\n7.\nThe accused is in Jail. The Superintendent, Central Prison, Warangal\nis directed to produce the accused before the Hon'ble District Court,\nAdilabad on 20.3.2014\n8.\n The case records, documents and articles if any shall be submitted to\nthe Court of Sessions, Adilabad forthwith, U/s.209©Cr.p.c.\n9.\n The factum of commitment shall be intimated to the Public\nProsecutor, U/s.209(d)Cr.p.c.\n10.\n When enquired, accused stated that she has means to engage\ncounsel in the Court of Sessions.\n Typed to my dictation on computer after correction pronounced by me\nin open court on this 6th day of March, 2014.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 19,
+                "word_count": 6,
+                "text": "2 PRC 38 OF 1998\n3."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 150,
+                "word_count": 28,
+                "text": "This court took cognizance of the case against the accused for the\noffence under section 147, 148, 302 r/w 149 IPC and section 25(1)(a), 27 of IA\nAct."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 2,
+                "word_count": 1,
+                "text": "4."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 72,
+                "word_count": 14,
+                "text": "On 30.1.1996 case against A-1 to A-6, A-8 was split up from PRC 14/1995."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 145,
+                "word_count": 26,
+                "text": "on 8.9.1998 case against A-1, A-3, A-5, A-6, A-8 was split up from PRC 6/1996 and\nnumbered as PRC 38/1998 and issued section 82 CrPC proceedings."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 2,
+                "word_count": 1,
+                "text": "5."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 251,
+                "word_count": 45,
+                "text": "On 21.2.2014 accused No.8 is produced on execution of PT Warrant and\nthe case against other accused, who are involved in this offence was split up from\nPRC 38/1998 and numbered as PRC 8/2014 and the PRC 38/1998 shall run\nagainst the accused No.8 only."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 132,
+                "word_count": 21,
+                "text": "On appearance of the accused copies of\ndocuments relied upon by the prosecution were furnished to her as contemplated\nU/s.207 Cr.PC."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 2,
+                "word_count": 1,
+                "text": "6."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 60,
+                "word_count": 9,
+                "text": "Prima facie, the offences alleged against the accused U/sec."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 66,
+                "word_count": 11,
+                "text": "302 IPC is\nexclusively triable by the Court of Sessions, Adilabad."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN012",
+                "sentence_index": 12,
+                "character_count": 83,
+                "word_count": 14,
+                "text": "Hence this case is\ncommitted to the Court of Sessions, Adilabad, U/s.209 (a) Cr.PC."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN013",
+                "sentence_index": 13,
+                "character_count": 2,
+                "word_count": 1,
+                "text": "7."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN014",
+                "sentence_index": 14,
+                "character_count": 23,
+                "word_count": 5,
+                "text": "The accused is in Jail."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN015",
+                "sentence_index": 15,
+                "character_count": 139,
+                "word_count": 20,
+                "text": "The Superintendent, Central Prison, Warangal\nis directed to produce the accused before the Hon'ble District Court,\nAdilabad on 20.3.2014\n8."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN016",
+                "sentence_index": 16,
+                "character_count": 131,
+                "word_count": 20,
+                "text": "The case records, documents and articles if any shall be submitted to\nthe Court of Sessions, Adilabad forthwith, U/s.209©Cr.p.c.\n9."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN017",
+                "sentence_index": 17,
+                "character_count": 91,
+                "word_count": 13,
+                "text": "The factum of commitment shall be intimated to the Public\nProsecutor, U/s.209(d)Cr.p.c.\n10."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN018",
+                "sentence_index": 18,
+                "character_count": 92,
+                "word_count": 16,
+                "text": "When enquired, accused stated that she has means to engage\ncounsel in the Court of Sessions."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR001_SEN019",
+                "sentence_index": 19,
+                "character_count": 113,
+                "word_count": 21,
+                "text": "Typed to my dictation on computer after correction pronounced by me\nin open court on this 6th day of March, 2014."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000011_P002_PAR002",
+            "paragraph_index": 2,
+            "character_count": 39,
+            "word_count": 6,
+            "sentence_count": 2,
+            "text": "JUDL. MAGISTRATE OF IST CLASS\n CHINNUR.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000011_P002_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 5,
+                "word_count": 1,
+                "text": "JUDL."
+              },
+              {
+                "sentence_id": "DC_000011_P002_PAR002_SEN002",
+                "sentence_index": 2,
+                "character_count": 33,
+                "word_count": 5,
+                "text": "MAGISTRATE OF IST CLASS\n CHINNUR."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 3,
+        "character_count": 16,
+        "word_count": 5,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000011_P003_PAR001",
+            "paragraph_index": 1,
+            "character_count": 16,
+            "word_count": 5,
+            "sentence_count": 1,
+            "text": "3 PRC 38 OF 1998",
+            "sentences": [
+              {
+                "sentence_id": "DC_000011_P003_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 16,
+                "word_count": 5,
+                "text": "3 PRC 38 OF 1998"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 29,
+    "state_name": "Telangana",
+    "district_code": 22,
+    "district_name": "Mancherial",
+    "court_complex_code": 1290176,
+    "court_complex_name": "Chennur, JCJ Court Complex",
+    "year": 1998,
+    "case_type": "nan",
+    "case_number": "203300000381998",
+    "pdf_title": "",
+    "pdf_author": "ubuntu ",
+    "pdf_creator": "Writer",
+    "pdf_producer": "OpenOffice.org 3.2",
+    "pdf_creation_date": "D:20150106135704+05'30'",
+    "pdf_mod_date": ""
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.9984,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "ENTITY_REMOVED_CASE_NUMBERS",
+      "ENTITY_ADDED_CASE_NUMBERS",
+      "ENTITY_REMOVED_STATUTES",
+      "ENTITY_ADDED_STATUTES"
+    ],
+    "all_entities_preserved": false
+  },
+  "provenance": {
+    "source_sha256": "c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:39.990936"
+  }
+}

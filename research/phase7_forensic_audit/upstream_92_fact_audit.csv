@@ -1,0 +1,78 @@
+system_id,doc_id,fact_id,category,criticality,language,primary_status,is_in_english,translation_fidelity,failure_category,contradiction,normalized_value,source_text
+T0_BASELINE_LEGAL_AWARE,DC_000001,GF-DC_000001-0006,DATE,IMPORTANT,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,08-Aug-2017,"Given under my hand and the seal of this court, on this the 8th day of
+August, 2017."
+T0_BASELINE_LEGAL_AWARE,DC_000002,GF-DC_000002-0007,DATE,IMPORTANT,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,13-Mar-2018,"Given under my hand and the seal of this court, on this the 13th day of
+March, 2018."
+T0_BASELINE_LEGAL_AWARE,DC_000003,GF-DC_000003-0007,DATE,IMPORTANT,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,13-Mar-2018,"Given under my hand and the seal of this court, on this the 13th day
+of March, 2018."
+T0_BASELINE_LEGAL_AWARE,DC_000004,GF-DC_000004-0007,DATE,IMPORTANT,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,13-Mar-2018,"Given under my hand and the seal of this court, on this the 13th day of
+March, 2018."
+T0_BASELINE_LEGAL_AWARE,DC_000005,GF-DC_000005-0007,DATE,IMPORTANT,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,13-Mar-2018,"Given under my hand and the seal of this court, on this the 13th day of
+March, 2018."
+T0_BASELINE_LEGAL_AWARE,DC_000006,GF-DC_000006-0003,OFFICER,CONTEXTUAL,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,"Ms. Shaik Rehana, JMFC Chinnoor","1 CC 132 OF 1998
+IN THE COURT OF THE JUDICIAL MAGISTRATE OF FIRST CLASS AT
+CHINNOOR
+ PRESENT: Ms. SHAIK REHANA
+ Judicial Magistrate of First Class,
+ Chinnor."
+T0_BASELINE_LEGAL_AWARE,DC_000006,GF-DC_000006-0004,DATE,IMPORTANT,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,15-Sep-2014,"Dictated to the Sr. Assistant, transcribed by her and after correction,
+pronounced by me in the open Court on this the 15th day of September, 2014."
+T0_BASELINE_LEGAL_AWARE,DC_000006,GF-DC_000006-0008,CHARGE,CRITICAL,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,"IPC s.147, 148, 427 r/w 149","The Circle Inspector of police, Mancherial filed the charge sheet against the
+accused No.1 to 10 for the offences under section 147, 148, 427 r/w 149 IPC in
+Cr.No. 37/1993 of PS Jaipur."
+T0_BASELINE_LEGAL_AWARE,DC_000006,GF-DC_000006-0009,AMOUNT,IMPORTANT,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,"Rs. 2,05,000","On the night of 12.4.1993 Smt.
+Anantha Devi along with her daughter Radhfika were sleeping in the house of
+one Madhava Reddy in the same village as her husband PW-1 and son were not
+present at the house on the intervening night of 12/13.4.1993, A-1 to A-10 formed
+themselves into unlawful assembly armed with deadly weapons including guns
+went to the house of PW-1 around 0100 hours with common object of causing
+wrongful damage to the property of PW-1."
+T0_BASELINE_LEGAL_AWARE,DC_000006,GF-DC_000006-0010,DATE,IMPORTANT,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,12-Apr-1993/13-Apr-1993 (night),"On the night of 12.4.1993 Smt.
+Anantha Devi along with her daughter Radhfika were sleeping in the house of
+one Madhava Reddy in the same village as her husband PW-1 and son were not
+present at the house on the intervening night of 12/13.4.1993, A-1 to A-10 formed
+themselves into unlawful assembly armed with deadly weapons including guns
+went to the house of PW-1 around 0100 hours with common object of causing
+wrongful damage to the property of PW-1."
+T0_BASELINE_LEGAL_AWARE,DC_000006,GF-DC_000006-0011,DISPOSITION,CRITICAL,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,A-4 acquitted on 08-Jan-1999,"On 8.1.1999 the
+case against A-4 is acquitted."
+T0_BASELINE_LEGAL_AWARE,DC_000006,GF-DC_000006-0012,JUDICIAL_FINDING,CRITICAL,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,Prosecution failed to prove guilt of A-8 beyond reasonable doubt,"The
+evidence on record does not show anything as PW-1 has not stated anything
+against A-8, So the prosecution has failed to prove the guilt of A-8 for the
+offences punishable under section 147, 148, 427 r/w 149 IPC beyond all
+reasonable doubt and the accused is entitled under benefit of doubt."
+T0_BASELINE_LEGAL_AWARE,DC_000006,GF-DC_000006-0014,RELIEF,CRITICAL,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,A-8 set at liberty forthwith,"A-8 is in judicial custody, she shall be set at liberty
+forthwith unless he is not required in any other case."
+T0_BASELINE_LEGAL_AWARE,DC_000006,GF-DC_000006-0017,OFFICER,CONTEXTUAL,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,Sri G. Ramesh Chander (Defense Advocate),for the State-complainant and of Sri G.
+T0_BASELINE_LEGAL_AWARE,DC_000007,GF-DC_000007-0007,DATE,IMPORTANT,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,13-Mar-2018,"Given under my hand and the seal of this court, on this the 13th day
+of March, 2018."
+T0_BASELINE_LEGAL_AWARE,DC_000008,GF-DC_000008-0007,DATE,IMPORTANT,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,23-Mar-2018,"Given under my hand and the seal of this court, on this the 23rd day
+of March, 2018."
+T0_BASELINE_LEGAL_AWARE,DC_000011,GF-DC_000011-0002,COURT,IMPORTANT,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,"Judicial Magistrate of First Class, Chennur","1 PRC 38 OF 1998
+IN THE COURT OF JUDL MAGISTRATE ISTCLASS AT CHENNUR
+PRESENT: - Sri K."
+T0_BASELINE_LEGAL_AWARE,DC_000011,GF-DC_000011-0003,OFFICER,CONTEXTUAL,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,"Sri K. Jayaram Reddy, JMFC Chennur","1 PRC 38 OF 1998
+IN THE COURT OF JUDL MAGISTRATE ISTCLASS AT CHENNUR
+PRESENT: - Sri K."
+T0_BASELINE_LEGAL_AWARE,DC_000011,GF-DC_000011-0004,DATE,IMPORTANT,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,06-Mar-2014,"JAYARAM REDDY
+JUDL.MAGISTRATE OF FIRST CLASS
+CHENNUR
+THURSDAY THIS THE 6TH DAY OF MARCH, 2014
+PRC NO. 38 OF 1998
+Between:-
+ State of A.P."
+T0_BASELINE_LEGAL_AWARE,DC_000011,GF-DC_000011-0006,PARTIES,CRITICAL,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,"Radhakka @ Kursinga Mothu Bai, W/o Pulluri Prasada Rao, age 46, Pippalladara, Adilabad","AND
+A-8: Radhakka @ Kursinga Mothu Bai
+ @ Madavi @ Samithi, W/o Pulluri Prasada Rao
+ Age 46 years, R/o Pippalladara, Jainur Mandal
+ of Adilabad District."
+T0_BASELINE_LEGAL_AWARE,DC_000011,GF-DC_000011-0007,CHARGE,CRITICAL,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,"IPC s.147, 148, 302 r/w 149","The Circle Inspector of Police, Chennur has filed charge sheet in Cr.No.
+5/1993, PS Chennur for the offence punishable U/s."
+T0_BASELINE_LEGAL_AWARE,DC_000011,GF-DC_000011-0008,CHARGE,CRITICAL,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,"Arms Act s.25(1)(a), 27","147, 148, 302 r/w 149 IPC
+and section 25(1)(a), 27 of IA Act against the accused."
+T0_BASELINE_LEGAL_AWARE,DC_000011,GF-DC_000011-0009,DATE,IMPORTANT,ta,OMITTED,False,PASS,T1_SOURCE_TRANSLATION_INPUT_ERROR,False,26-Mar-1993 23:00,"The brief facts of the case are that, the accused along with other extremists,
+who are belongs Extremists of Chennur Dalam (PWG) deter the deceased Bansilal
+from possession of Government land allotted to the deceased in which the
+deceased was transplanting Mango sapling under ITDA scheme, the accused
+warned the deceased Bansilal, but he did not head to their warnings and continued
+transplantation and on 26.3.1993 at 11.00 p.m."

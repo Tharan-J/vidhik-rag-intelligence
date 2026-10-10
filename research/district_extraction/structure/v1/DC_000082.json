@@ -1,0 +1,279 @@
+{
+  "document_id": "DC_000082",
+  "source": {
+    "sha256": "8ad9e5b47ba0c081235257713d548f5524f3c1090e4285a82d85244ca3d38131",
+    "filename": "orders_2020_215200019522020_1.pdf",
+    "source_record_id": "DC-S3-082_8_24_1080060_2020_orders_2020_215200019522020_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 24286
+  },
+  "routing": {
+    "initial_route": "NATIVE_SUSPICIOUS",
+    "fallback_used": false,
+    "route_reason": "MODERATE_SYMBOL_NOISE"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.9983
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 2879,
+      "word_count": 408,
+      "raw_text": "In the Court of the District & Sessions Judge,Araria\nA.B.P. NO. 1952 of 2020\nArising out of Bhargama  P.S. case no. 01/2020     \n-------------------------------------------------------------------------------------------------  \nBholu Khan and an other\n \n Petitioner.\nVersus\n  State of Bihar                       \nOpposite Party\n-----------------------------------------------------------------------------------------------     \n                 Appearance:\n     For the petitioners: Mr. M.Hussain, Advocate  \n   For the prosecution:Mr. L.N.Yadav, P.P. \n-------------------------------------------------------------------------------------------------\nThis  anticipatory bail petition filed on behalf of accused petitioner\nnamely 1. Bholu  Khan and 2. Chotu @ Amjad Khan  who apprehends  arrest in\nconnection with Bhargama P.S. case no. 01/2020 u/s 147, 148, 149, 341, 323, 324,\n379, 354, 307, 504, 506 I.P.C. pressed by  learned counsel.\n  \nOut of  these two petitioners, one of them namely Bholu Khan has\nbeen arrested by the police during pendency of the instant A.B.P. hence the\nanticipatory bail petition with respect to the petitioner Bholu Khan is dismissed as\nwithdrawn being infructuous and his name has been deleted from the instant\nA.B.P. \nHeard both the sides in physical mode of court proceeding.  \nThe learned counsel for the accused petitioner submits  that the\npetitioner is innocent who has committed no offence and has been falsely\nimplicated in this case due previous enmity and land dispute and all the offences\nare bailable except 379,354 and 307 I.P.C. but the allegation for the offences\npunishable u/s 354 and 379 I.P.C. are general and super addition and offence\npunishable u/s 307 I.P.C. is not attracted against the petitioner as there is  no\nrepetition of blow by the petitioner. There is prior enemical terms running\nbetween the parties and  petitioner side has also lodged Bhargama P.S. case no.\n4/2020 against the informant side, hence the petitioner deserves to be released on\nanticipatory bail. \nThe learned P.P. opposed the anticipatory  bail. \nHeard the submissions of both the sides and perused the L.C.R. As\nper allegation of F.I.R. being written report of informant Nasrin Khanam\npetitioner Chotu @ Amjad Khan carry specific allegation for inflicting fatal\nassault in fatal manner  by stroke of Farsa causing injury on the head of injured\nRarwar Khan with intent to kill life. So, considering the nature of allegation and\nthe informant in her restatement in para 6 and witnesses in para 7,8,17 of the case\ndiary have supported the allegation as alleged against the petitioner and\ninvestigation is still going on, therefore, I find it is not a fit case to grant\nanticipatory bail. Accordingly, anticipatory bail prayer of the petitioner Chotu @\nAmjad Khan stands rejected. \n(Dictated)\n    sd/-\n(P.K.Dixit) \n         Session Judge\n13.01.2021"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 2785,
+      "word_count": 408,
+      "normalized_text": "In the Court of the District & Sessions Judge,Araria\nA.B.P. NO. 1952 of 2020\nArising out of Bhargama P.S. case no. 01/2020\n-------------------------------------------------------------------------------------------------\nBholu Khan and an other\n\n Petitioner.\nVersus\n State of Bihar\nOpposite Party\n-----------------------------------------------------------------------------------------------\n Appearance:\n For the petitioners: Mr. M.Hussain, Advocate\n For the prosecution:Mr. L.N.Yadav, P.P.\n-------------------------------------------------------------------------------------------------\nThis anticipatory bail petition filed on behalf of accused petitioner\nnamely 1. Bholu Khan and 2. Chotu @ Amjad Khan who apprehends arrest in\nconnection with Bhargama P.S. case no. 01/2020 u/s 147, 148, 149, 341, 323, 324,\n379, 354, 307, 504, 506 I.P.C. pressed by learned counsel.\n\nOut of these two petitioners, one of them namely Bholu Khan has\nbeen arrested by the police during pendency of the instant A.B.P. hence the\nanticipatory bail petition with respect to the petitioner Bholu Khan is dismissed as\nwithdrawn being infructuous and his name has been deleted from the instant\nA.B.P.\nHeard both the sides in physical mode of court proceeding.\nThe learned counsel for the accused petitioner submits that the\npetitioner is innocent who has committed no offence and has been falsely\nimplicated in this case due previous enmity and land dispute and all the offences\nare bailable except 379,354 and 307 I.P.C. but the allegation for the offences\npunishable u/s 354 and 379 I.P.C. are general and super addition and offence\npunishable u/s 307 I.P.C. is not attracted against the petitioner as there is no\nrepetition of blow by the petitioner. There is prior enemical terms running\nbetween the parties and petitioner side has also lodged Bhargama P.S. case no.\n4/2020 against the informant side, hence the petitioner deserves to be released on\nanticipatory bail.\nThe learned P.P. opposed the anticipatory bail.\nHeard the submissions of both the sides and perused the L.C.R. As\nper allegation of F.I.R. being written report of informant Nasrin Khanam\npetitioner Chotu @ Amjad Khan carry specific allegation for inflicting fatal\nassault in fatal manner by stroke of Farsa causing injury on the head of injured\nRarwar Khan with intent to kill life. So, considering the nature of allegation and\nthe informant in her restatement in para 6 and witnesses in para 7,8,17 of the case\ndiary have supported the allegation as alleged against the petitioner and\ninvestigation is still going on, therefore, I find it is not a fit case to grant\nanticipatory bail. Accordingly, anticipatory bail prayer of the petitioner Chotu @\nAmjad Khan stands rejected.\n(Dictated)\n sd/-\n(P.K.Dixit)\n Session Judge\n13.01.2021"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 3,
+    "total_sentences": 23,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 2785,
+        "word_count": 408,
+        "paragraph_count": 3,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000082_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 244,
+            "word_count": 28,
+            "sentence_count": 3,
+            "text": "In the Court of the District & Sessions Judge,Araria\nA.B.P. NO. 1952 of 2020\nArising out of Bhargama P.S. case no. 01/2020\n-------------------------------------------------------------------------------------------------\nBholu Khan and an other",
+            "sentences": [
+              {
+                "sentence_id": "DC_000082_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 59,
+                "word_count": 10,
+                "text": "In the Court of the District & Sessions Judge,Araria\nA.B.P."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 45,
+                "word_count": 9,
+                "text": "NO. 1952 of 2020\nArising out of Bhargama P.S."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 138,
+                "word_count": 9,
+                "text": "case no. 01/2020\n-------------------------------------------------------------------------------------------------\nBholu Khan and an other"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000082_P001_PAR002",
+            "paragraph_index": 2,
+            "character_count": 625,
+            "word_count": 69,
+            "sentence_count": 6,
+            "text": "Petitioner.\nVersus\n State of Bihar\nOpposite Party\n-----------------------------------------------------------------------------------------------\n Appearance:\n For the petitioners: Mr. M.Hussain, Advocate\n For the prosecution:Mr. L.N.Yadav, P.P.\n-------------------------------------------------------------------------------------------------\nThis anticipatory bail petition filed on behalf of accused petitioner\nnamely 1. Bholu Khan and 2. Chotu @ Amjad Khan who apprehends arrest in\nconnection with Bhargama P.S. case no. 01/2020 u/s 147, 148, 149, 341, 323, 324,\n379, 354, 307, 504, 506 I.P.C. pressed by learned counsel.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000082_P001_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 11,
+                "word_count": 1,
+                "text": "Petitioner."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR002_SEN002",
+                "sentence_index": 2,
+                "character_count": 233,
+                "word_count": 19,
+                "text": "Versus\n State of Bihar\nOpposite Party\n-----------------------------------------------------------------------------------------------\n Appearance:\n For the petitioners: Mr. M.Hussain, Advocate\n For the prosecution:Mr. L.N.Yadav, P.P."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR002_SEN003",
+                "sentence_index": 3,
+                "character_count": 177,
+                "word_count": 13,
+                "text": "-------------------------------------------------------------------------------------------------\nThis anticipatory bail petition filed on behalf of accused petitioner\nnamely 1."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR002_SEN004",
+                "sentence_index": 4,
+                "character_count": 17,
+                "word_count": 4,
+                "text": "Bholu Khan and 2."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR002_SEN005",
+                "sentence_index": 5,
+                "character_count": 73,
+                "word_count": 12,
+                "text": "Chotu @ Amjad Khan who apprehends arrest in\nconnection with Bhargama P.S."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR002_SEN006",
+                "sentence_index": 6,
+                "character_count": 109,
+                "word_count": 20,
+                "text": "case no. 01/2020 u/s 147, 148, 149, 341, 323, 324,\n379, 354, 307, 504, 506 I.P.C. pressed by learned counsel."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000082_P001_PAR003",
+            "paragraph_index": 3,
+            "character_count": 1911,
+            "word_count": 311,
+            "sentence_count": 14,
+            "text": "Out of these two petitioners, one of them namely Bholu Khan has\nbeen arrested by the police during pendency of the instant A.B.P. hence the\nanticipatory bail petition with respect to the petitioner Bholu Khan is dismissed as\nwithdrawn being infructuous and his name has been deleted from the instant\nA.B.P.\nHeard both the sides in physical mode of court proceeding.\nThe learned counsel for the accused petitioner submits that the\npetitioner is innocent who has committed no offence and has been falsely\nimplicated in this case due previous enmity and land dispute and all the offences\nare bailable except 379,354 and 307 I.P.C. but the allegation for the offences\npunishable u/s 354 and 379 I.P.C. are general and super addition and offence\npunishable u/s 307 I.P.C. is not attracted against the petitioner as there is no\nrepetition of blow by the petitioner. There is prior enemical terms running\nbetween the parties and petitioner side has also lodged Bhargama P.S. case no.\n4/2020 against the informant side, hence the petitioner deserves to be released on\nanticipatory bail.\nThe learned P.P. opposed the anticipatory bail.\nHeard the submissions of both the sides and perused the L.C.R. As\nper allegation of F.I.R. being written report of informant Nasrin Khanam\npetitioner Chotu @ Amjad Khan carry specific allegation for inflicting fatal\nassault in fatal manner by stroke of Farsa causing injury on the head of injured\nRarwar Khan with intent to kill life. So, considering the nature of allegation and\nthe informant in her restatement in para 6 and witnesses in para 7,8,17 of the case\ndiary have supported the allegation as alleged against the petitioner and\ninvestigation is still going on, therefore, I find it is not a fit case to grant\nanticipatory bail. Accordingly, anticipatory bail prayer of the petitioner Chotu @\nAmjad Khan stands rejected.\n(Dictated)\n sd/-\n(P.K.Dixit)\n Session Judge\n13.01.2021",
+            "sentences": [
+              {
+                "sentence_id": "DC_000082_P001_PAR003_SEN001",
+                "sentence_index": 1,
+                "character_count": 129,
+                "word_count": 23,
+                "text": "Out of these two petitioners, one of them namely Bholu Khan has\nbeen arrested by the police during pendency of the instant A.B.P."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR003_SEN002",
+                "sentence_index": 2,
+                "character_count": 176,
+                "word_count": 28,
+                "text": "hence the\nanticipatory bail petition with respect to the petitioner Bholu Khan is dismissed as\nwithdrawn being infructuous and his name has been deleted from the instant\nA.B.P."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR003_SEN003",
+                "sentence_index": 3,
+                "character_count": 58,
+                "word_count": 10,
+                "text": "Heard both the sides in physical mode of court proceeding."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR003_SEN004",
+                "sentence_index": 4,
+                "character_count": 493,
+                "word_count": 82,
+                "text": "The learned counsel for the accused petitioner submits that the\npetitioner is innocent who has committed no offence and has been falsely\nimplicated in this case due previous enmity and land dispute and all the offences\nare bailable except 379,354 and 307 I.P.C. but the allegation for the offences\npunishable u/s 354 and 379 I.P.C. are general and super addition and offence\npunishable u/s 307 I.P.C. is not attracted against the petitioner as there is no\nrepetition of blow by the petitioner."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR003_SEN005",
+                "sentence_index": 5,
+                "character_count": 107,
+                "word_count": 17,
+                "text": "There is prior enemical terms running\nbetween the parties and petitioner side has also lodged Bhargama P.S."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR003_SEN006",
+                "sentence_index": 6,
+                "character_count": 110,
+                "word_count": 17,
+                "text": "case no.\n4/2020 against the informant side, hence the petitioner deserves to be released on\nanticipatory bail."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR003_SEN007",
+                "sentence_index": 7,
+                "character_count": 16,
+                "word_count": 3,
+                "text": "The learned P.P."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR003_SEN008",
+                "sentence_index": 8,
+                "character_count": 30,
+                "word_count": 4,
+                "text": "opposed the anticipatory bail."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR003_SEN009",
+                "sentence_index": 9,
+                "character_count": 62,
+                "word_count": 11,
+                "text": "Heard the submissions of both the sides and perused the L.C.R."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR003_SEN010",
+                "sentence_index": 10,
+                "character_count": 27,
+                "word_count": 5,
+                "text": "As\nper allegation of F.I.R."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR003_SEN011",
+                "sentence_index": 11,
+                "character_count": 243,
+                "word_count": 40,
+                "text": "being written report of informant Nasrin Khanam\npetitioner Chotu @ Amjad Khan carry specific allegation for inflicting fatal\nassault in fatal manner by stroke of Farsa causing injury on the head of injured\nRarwar Khan with intent to kill life."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR003_SEN012",
+                "sentence_index": 12,
+                "character_count": 302,
+                "word_count": 52,
+                "text": "So, considering the nature of allegation and\nthe informant in her restatement in para 6 and witnesses in para 7,8,17 of the case\ndiary have supported the allegation as alleged against the petitioner and\ninvestigation is still going on, therefore, I find it is not a fit case to grant\nanticipatory bail."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR003_SEN013",
+                "sentence_index": 13,
+                "character_count": 91,
+                "word_count": 13,
+                "text": "Accordingly, anticipatory bail prayer of the petitioner Chotu @\nAmjad Khan stands rejected."
+              },
+              {
+                "sentence_id": "DC_000082_P001_PAR003_SEN014",
+                "sentence_index": 14,
+                "character_count": 54,
+                "word_count": 6,
+                "text": "(Dictated)\n sd/-\n(P.K.Dixit)\n Session Judge\n13.01.2021"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 8,
+    "state_name": "Bihar",
+    "district_code": 24,
+    "district_name": "Araria",
+    "court_complex_code": 1080060,
+    "court_complex_name": "Civil Court, Araria",
+    "year": 2020,
+    "case_type": "nan",
+    "case_number": "215200019522020",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "Writer",
+    "pdf_producer": "LibreOffice 5.1",
+    "pdf_creation_date": "D:20210203120116+05'30'",
+    "pdf_mod_date": ""
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.9983,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "8ad9e5b47ba0c081235257713d548f5524f3c1090e4285a82d85244ca3d38131",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.328922"
+  }
+}

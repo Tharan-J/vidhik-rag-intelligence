@@ -1,0 +1,255 @@
+{
+  "document_id": "DC_000064",
+  "source": {
+    "sha256": "2a540a46aa9a2d635bb5a96583f07945ce031f5335459169c734edabeb538ecb",
+    "filename": "orders_2024_206800000612024_1.pdf",
+    "source_record_id": "DC-S3-064_6_32_1060085_2024_orders_2024_206800000612024_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 2,
+    "file_size_bytes": 85016
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.9991
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1083,
+      "word_count": 174,
+      "raw_text": "Criminal Misc. Bail Case No, 483/61 of 2024 \n09.01,2025 : \nSeen the \nBail petition No, 1872/2024 \nfiled for bail for the accused Bhaskar Rabha \nunder Sec. 483 BNSS, in connection with PRC \nCase \nNo. \n61(2)/329(4)/190/118(2)/109 \n235/2024 \n/103(1), \nu/s \nCase record as called for is received. \nr/w \n25(1)(A)/ 27/35 of BNS. The petition is filed by \nthe petitioner Rachana Rabha and it is duly \nsupported by an affidavit. The accused is in \njail hajot since 20.07.2024. \nHeard the \nlearned \nP.P. and \nlearned \nadvocate on behalf of the accused person. \nPerused the case record. \nConsidering the period of detention \nalready undergone by the accused person, \nthe accused, Bhaskar Rabha, is allowed to go \non \nbail of \nRs. 50,000/- (Rupees Fifty \nThousand) only with twO Sureties of like \namount to the satisfaction \nof the Learned \nChief Judicial Magistrate, Bajali, and on \ncondition that the aCcused person shall \nregularly appear before the Court and he is \nalso directed not to hamper and tamper with \nany evidence and witnesses of this case. \nReturn the case record along with the"
+    },
+    {
+      "page_number": 2,
+      "character_count": 266,
+      "word_count": 37,
+      "raw_text": "Bajal, \nPathsi? \nSessions \nJudge, \naccordingly. \nThis \nMisc. \nCrl. \nbail \npetition \nis \ndisposed \nof \norder. \nBajali, \nCriminal \nMisc. \nBail \nCase \nNo. \n483/61 \nof2 \n2024 \nMagistrate, \nPathsala \nwith \na \ncopy \nof \nthis \nCase \ndiary \nto \nthe \nLearned \nChief \nJudicial"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1045,
+      "word_count": 174,
+      "normalized_text": "Criminal Misc. Bail Case No, 483/61 of 2024\n09.01,2025 :\nSeen the\nBail petition No, 1872/2024\nfiled for bail for the accused Bhaskar Rabha\nunder Sec. 483 BNSS, in connection with PRC\nCase\nNo.\n61(2)/329(4)/190/118(2)/109\n235/2024\n/103(1),\nu/s\nCase record as called for is received.\nr/w\n25(1)(A)/ 27/35 of BNS. The petition is filed by\nthe petitioner Rachana Rabha and it is duly\nsupported by an affidavit. The accused is in\njail hajot since 20.07.2024.\nHeard the\nlearned\nP.P. and\nlearned\nadvocate on behalf of the accused person.\nPerused the case record.\nConsidering the period of detention\nalready undergone by the accused person,\nthe accused, Bhaskar Rabha, is allowed to go\non\nbail of\nRs. 50,000/- (Rupees Fifty\nThousand) only with twO Sureties of like\namount to the satisfaction\nof the Learned\nChief Judicial Magistrate, Bajali, and on\ncondition that the aCcused person shall\nregularly appear before the Court and he is\nalso directed not to hamper and tamper with\nany evidence and witnesses of this case.\nReturn the case record along with the"
+    },
+    {
+      "page_number": 2,
+      "character_count": 230,
+      "word_count": 37,
+      "normalized_text": "Bajal,\nPathsi?\nSessions\nJudge,\naccordingly.\nThis\nMisc.\nCrl.\nbail\npetition\nis\ndisposed\nof\norder.\nBajali,\nCriminal\nMisc.\nBail\nCase\nNo.\n483/61\nof2\n2024\nMagistrate,\nPathsala\nwith\na\ncopy\nof\nthis\nCase\ndiary\nto\nthe\nLearned\nChief\nJudicial"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 2,
+    "total_sentences": 18,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 1045,
+        "word_count": 174,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000064_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 1045,
+            "word_count": 174,
+            "sentence_count": 11,
+            "text": "Criminal Misc. Bail Case No, 483/61 of 2024\n09.01,2025 :\nSeen the\nBail petition No, 1872/2024\nfiled for bail for the accused Bhaskar Rabha\nunder Sec. 483 BNSS, in connection with PRC\nCase\nNo.\n61(2)/329(4)/190/118(2)/109\n235/2024\n/103(1),\nu/s\nCase record as called for is received.\nr/w\n25(1)(A)/ 27/35 of BNS. The petition is filed by\nthe petitioner Rachana Rabha and it is duly\nsupported by an affidavit. The accused is in\njail hajot since 20.07.2024.\nHeard the\nlearned\nP.P. and\nlearned\nadvocate on behalf of the accused person.\nPerused the case record.\nConsidering the period of detention\nalready undergone by the accused person,\nthe accused, Bhaskar Rabha, is allowed to go\non\nbail of\nRs. 50,000/- (Rupees Fifty\nThousand) only with twO Sureties of like\namount to the satisfaction\nof the Learned\nChief Judicial Magistrate, Bajali, and on\ncondition that the aCcused person shall\nregularly appear before the Court and he is\nalso directed not to hamper and tamper with\nany evidence and witnesses of this case.\nReturn the case record along with the",
+            "sentences": [
+              {
+                "sentence_id": "DC_000064_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 14,
+                "word_count": 2,
+                "text": "Criminal Misc."
+              },
+              {
+                "sentence_id": "DC_000064_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 265,
+                "word_count": 43,
+                "text": "Bail Case No, 483/61 of 2024\n09.01,2025 :\nSeen the\nBail petition No, 1872/2024\nfiled for bail for the accused Bhaskar Rabha\nunder Sec. 483 BNSS, in connection with PRC\nCase\nNo.\n61(2)/329(4)/190/118(2)/109\n235/2024\n/103(1),\nu/s\nCase record as called for is received."
+              },
+              {
+                "sentence_id": "DC_000064_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 27,
+                "word_count": 5,
+                "text": "r/w\n25(1)(A)/ 27/35 of BNS."
+              },
+              {
+                "sentence_id": "DC_000064_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 95,
+                "word_count": 17,
+                "text": "The petition is filed by\nthe petitioner Rachana Rabha and it is duly\nsupported by an affidavit."
+              },
+              {
+                "sentence_id": "DC_000064_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 46,
+                "word_count": 8,
+                "text": "The accused is in\njail hajot since 20.07.2024."
+              },
+              {
+                "sentence_id": "DC_000064_P001_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 22,
+                "word_count": 4,
+                "text": "Heard the\nlearned\nP.P."
+              },
+              {
+                "sentence_id": "DC_000064_P001_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 53,
+                "word_count": 9,
+                "text": "and\nlearned\nadvocate on behalf of the accused person."
+              },
+              {
+                "sentence_id": "DC_000064_P001_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 24,
+                "word_count": 4,
+                "text": "Perused the case record."
+              },
+              {
+                "sentence_id": "DC_000064_P001_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 136,
+                "word_count": 23,
+                "text": "Considering the period of detention\nalready undergone by the accused person,\nthe accused, Bhaskar Rabha, is allowed to go\non\nbail of\nRs."
+              },
+              {
+                "sentence_id": "DC_000064_P001_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 316,
+                "word_count": 52,
+                "text": "50,000/- (Rupees Fifty\nThousand) only with twO Sureties of like\namount to the satisfaction\nof the Learned\nChief Judicial Magistrate, Bajali, and on\ncondition that the aCcused person shall\nregularly appear before the Court and he is\nalso directed not to hamper and tamper with\nany evidence and witnesses of this case."
+              },
+              {
+                "sentence_id": "DC_000064_P001_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 37,
+                "word_count": 7,
+                "text": "Return the case record along with the"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "character_count": 230,
+        "word_count": 37,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000064_P002_PAR001",
+            "paragraph_index": 1,
+            "character_count": 230,
+            "word_count": 37,
+            "sentence_count": 7,
+            "text": "Bajal,\nPathsi?\nSessions\nJudge,\naccordingly.\nThis\nMisc.\nCrl.\nbail\npetition\nis\ndisposed\nof\norder.\nBajali,\nCriminal\nMisc.\nBail\nCase\nNo.\n483/61\nof2\n2024\nMagistrate,\nPathsala\nwith\na\ncopy\nof\nthis\nCase\ndiary\nto\nthe\nLearned\nChief\nJudicial",
+            "sentences": [
+              {
+                "sentence_id": "DC_000064_P002_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 14,
+                "word_count": 2,
+                "text": "Bajal,\nPathsi?"
+              },
+              {
+                "sentence_id": "DC_000064_P002_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 28,
+                "word_count": 3,
+                "text": "Sessions\nJudge,\naccordingly."
+              },
+              {
+                "sentence_id": "DC_000064_P002_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 10,
+                "word_count": 2,
+                "text": "This\nMisc."
+              },
+              {
+                "sentence_id": "DC_000064_P002_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 4,
+                "word_count": 1,
+                "text": "Crl."
+              },
+              {
+                "sentence_id": "DC_000064_P002_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 35,
+                "word_count": 6,
+                "text": "bail\npetition\nis\ndisposed\nof\norder."
+              },
+              {
+                "sentence_id": "DC_000064_P002_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 22,
+                "word_count": 3,
+                "text": "Bajali,\nCriminal\nMisc."
+              },
+              {
+                "sentence_id": "DC_000064_P002_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 111,
+                "word_count": 20,
+                "text": "Bail\nCase\nNo.\n483/61\nof2\n2024\nMagistrate,\nPathsala\nwith\na\ncopy\nof\nthis\nCase\ndiary\nto\nthe\nLearned\nChief\nJudicial"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 6,
+    "state_name": "Assam",
+    "district_code": 32,
+    "district_name": "Bajali",
+    "court_complex_code": 1060085,
+    "court_complex_name": "District Court Complex",
+    "year": 2024,
+    "case_type": "nan",
+    "case_number": "206800000612024",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "Adobe Scan for Android 25.01.07-google-dynamic",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260328221124+05'30'",
+    "pdf_mod_date": "D:20260328221124+05'30'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.9991,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "ENTITY_REMOVED_DISPOSITIONS",
+      "ENTITY_ADDED_DISPOSITIONS"
+    ],
+    "all_entities_preserved": false
+  },
+  "provenance": {
+    "source_sha256": "2a540a46aa9a2d635bb5a96583f07945ce031f5335459169c734edabeb538ecb",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.259149"
+  }
+}

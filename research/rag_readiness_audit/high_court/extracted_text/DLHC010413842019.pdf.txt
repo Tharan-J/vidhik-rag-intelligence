@@ -1,0 +1,1533 @@
+--- PAGE 1 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 1 of 31 
+ 
+$~ 
+* 
+IN  THE  HIGH  COURT  OF  DELHI  AT  NEW  DELHI 
+%  
+ 
+ 
+ 
+ 
+ Judgment Pronounced on: 16.05.2024 
++  
+FAO(OS) (COMM) 287/2019 and CM APPL. 31842/2018  
+SANGAM (INDIA) LTD  
+ 
+ 
+ 
+ 
+..... Appellant  
+versus 
+THE NATIONAL HIGHWAY AUTHORITY OF  
+INDIA & ANR   
+ 
+ 
+ 
+ 
+ 
+..... Respondents  
+Advocates who appeared in this case: 
+For the Appellant             : 
+Mr. Gaurav Pachnanda, Senior Advocate 
+with Ms. Ruchira Gupta and Ms. 
+Akanksha Sisodia, Advocates. 
+For the Respondents        : 
+Mr. Ankur Chhibber, Mr. Anshuman 
+Mehrotra and Mr. Nikunj Mehrotra, 
+Advocates. 
+CORAM: 
+HON'BLE MR. JUSTICE VIBHU BAKHRU 
+HON'BLE MS. JUSTICE TARA VITASTA GANJU 
+JUDGMENT 
+TARA VITASTA GANJU, J.: 
+TABLE OF CONTENTS 
+Preface………………………………………………………..…….. 2 
+Brief Facts………………………………………………………..… 2 
+Contentions of  Sangam…….………………………………….........11 
+Contentions of NHAI……..………………………………................13 
+Analysis……………………………………..................................... 14 
+Conclusion ..........................……………………………………...... 30 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 2 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 2 of 31 
+ 
+PREFACE 
+1. 
+This Appeal has been filed under Section 37 of the Arbitration and 
+Conciliation Act, 1996 [hereinafter referred to as the “Arbitration 
+Act”] impugning a judgment passed by the learned Single Judge of 
+this Court dated 03.07.2018 [hereinafter referred to as “Impugned 
+Order”] by Sangam (India) Ltd. [hereinafter referred to as 
+“Sangam”]. Sangam is aggrieved by the Impugned Order which set 
+aside the Arbitral Award dated 03.05.2015 [hereinafter referred to 
+as “Arbitral Award”] holding that the Arbitral Award has 
+erroneously concluded that the contract is voidable at the option of 
+Sangam and has misinterpreted the National Highways Fee 
+(Determination of Rates and Collection) Rules, 2008 [hereinafter 
+referred to as the “NHAI Rules”].  
+BRIEF FACTS 
+2. 
+Briefly, the Respondent No.1/NHAI [hereinafter referred to as 
+“NHAI”] invited bids for the work of collection of toll fees at 
+Chamari Toll Plaza for the Bara – Orai section in the State of Uttar 
+Pradesh, of the National Highway-2 [NH-2] for two sections from 
+KM 220.000 to KM 260.713 on NH-25 and KM 421.200 -KM 
+449.000 on NH-2, on annuity basis for two years. The notice 
+inviting tender was issued on 18.10.2012 and had set forth Annual 
+Potential Collection at Rs.47.09 crores per annum. This Annual 
+Potential Collection [hereinafter referred to as “APC”] was 
+determined based on the survey and research carried out by NHAI. 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 3 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 3 of 31 
+ 
+2.1 
+NHAI vide their Letter of Acceptance [hereinafter referred to as 
+“LOA”] dated 22.01.2013 accepted the bid of Sangam in the sum 
+of Rs.62.10 crores, for the appointment of as toll fees collection 
+contractor for a stretch of 68.513 Kms. Subsequently, an agreement 
+dated 07.03.2013 [hereinafter referred to as “Agreement”] was 
+executed between NHAI and Sangam in terms of which, Sangam 
+was required to remit a total sum of Rs.62.10 crores per annum in 
+instalments of Rs.1,19,09,589/- to NHAI every week. The term of 
+the Agreement was for a period of two years beginning from 
+09.03.2013 [08:00 hrs.] to 09.03.2015 [07:59:59 hrs.].  
+2.2 
+Sangam furnished a bank guarantee dated 07.02.2013 in the sum of 
+Rs.5,17,50,000/- and deposited cash performance security on 
+13.02.2013 for sum of Rs.5,17,50,000/- towards performance of the 
+Agreement. The Agreement also provided that Sangam would 
+collect user fees at such rates and from such vehicles as would be 
+notified by the Central Government for the use of the said section 
+of the National Highway/the said bridge.  
+2.3 
+In the meantime, the Government published a notification being 
+notification no. SO.465(E) dated 26.02.2013 [hereinafter referred 
+to as “Notification”] whereby levy and collection of toll fees for 
+parts of the NH-25 and NH-2 were entrusted to NHAI. As per this 
+Notification, NHAI was authorized to collect toll fees at NH-2, 
+before completion of stretch at Kalpi, for the length of 66.813 Kms 
+at the rate as specified therein, and, after completion of a stretch at 
+Kalpi, for the length of 68.513 Kms at an enhanced rate. The 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 4 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 4 of 31 
+ 
+Notification also allowed NHAI to reduce the remittance amount to 
+be deposited by it on a pro-rata basis for 66.813 Kms due to 
+incomplete stretch of 1.7 km at Kalpi on NH-2 [hereinafter referred 
+to as “Kalpi Stretch”]. The Notification further specifically 
+provided the net road length for which NHAI was authorised to 
+collect toll fees as per the table below: 
+Location of Toll Plaza(s) (chainage) 
+Length (in km) for which 
+fee is payable 
+Before completion of stretch at Kalpi 
+Km/Ch. 229.913 (near village Usaka 
+in Jaluam District) 
+66.813 
+After completion of stretch at Kalpi 
+Km/Ch. 229.913 (near village Usaka 
+in Jaluan District) 
+68.513 
+2.4 
+It is the case of Sangam that the fact that the Kalpi Stretch was not 
+available to it for the purposes of toll fees collection only came to 
+its knowledge after the execution of the Agreement. Pursuant 
+thereto, Sangam by its letter dated 16.04.2013 requested the NHAI 
+to complete the incomplete stretch and that the period for such 
+completion be excluded from the terms of the Agreement, failing 
+which Sangam would be constrained to terminate the Agreement. 
+By its letter dated 20.05.2013, NHAI directed Sangam to calculate 
+the remittance for 66.813 Kms on a pro-rata basis. 
+2.5 
+Subsequently, a notice invoking Arbitration was sent by Sangam on 
+30.05.2013. It was contended therein that as per the NHAI Rules 
+and the Agreement documents executed with NHAI, the condition 
+precedent for any contract for execution of toll fees is that the 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 5 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 5 of 31 
+ 
+road/stretch of road should be complete in all respects before 
+signing of such contract. 
+2.6 
+Sangam also filed a Petition under Section 9 of the Arbitration Act, 
+seeking directions that the Agreement be suspended till the matter 
+is resolved and that NHAI be restrained from taking coercive 
+measures like encashment of bank guarantee or forfeiture of 
+security deposit, in the meantime.  
+2.7 
+Since, NHAI had already appointed a Sole Arbitrator on 
+03.07.2013, the Application under Section 9 of the Arbitration Act 
+was disposed of by a learned Single Judge of this Court directing 
+that it be treated as an Application under Section 17 of the 
+Arbitration Act to be decided by the Sole Arbitrator. 
+2.8 
+The Application under Section 17 of the Arbitration Act was 
+rejected by the Sole Arbitrator by order dated 13.08.2013. This 
+rejection was challenged by Sangam in a Petition under Section 34 
+of the Arbitration Act, which was also dismissed on 26.08.2013. 
+2.9 
+NHAI had, in the meantime, sent a show cause notice on 
+09.07.2013, to Sangam as to why the Agreement be not terminated. 
+Since no response was received, NHAI by its letter dated 
+24.10.2013, terminated the Agreement and forfeited the 
+performance security of Rs. 10.35 crores and required that the Toll 
+Plaza be handed back to NHAI on 27.10.2013. By another 
+communication dated 30.10.2013, NHAI debarred Sangam for two 
+years from participating or bidding in any future projects of NHAI. 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 6 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 6 of 31 
+ 
+2.10 Since arbitral proceedings had commenced, Sangam filed its 
+statement of claim submitting that NHAI had breached the 
+Agreement since the entire stretch of 68.513 Kms road in motorable 
+condition was not provided. Sangam claimed that the Agreement 
+was void/voidable at the instance of Sangam for the reasons that 
+there were misrepresentations and conscious omissions on the part 
+of NHAI with respect to the Kalpi Stretch. Sangam also claimed 
+monies on account of losses under the Agreement along with the 
+claim of loss of profits as well, as for refund of the performance 
+security and bank guarantee along with interest thereon. A 
+declaration was also sought by Sangam that the communication 
+dated 30.10.2013, which debars Sangam and its Directors from 
+participating in bidding in future projects, be set aside and quashed. 
+2.11 NHAI filed its statement of defence setting forth that NHAI had 
+kept a clean slate with Sangam since the beginning and at all times 
+Sangam was informed about the incomplete Kalpi Stretch. 
+Additionally, it was contended that Sangam was required to see 
+whether the aforesaid stretch could fetch the toll as mentioned in 
+the bid document in terms of the Agreement. In its counter-claim, 
+NHAI set forth that in view of the incomplete 1.7 Kms at Kalpi, the 
+weekly annuity payment was reduced to Rs.1,16,14,079/- instead 
+of Rs.1,19,09,589/-. However, only a part payment ranging from 
+Rs. 58 lakhs to 87 lakhs per week, was made by Sangam. Thus, a 
+counter claim for compensation for non-deposit/delay in deposit of 
+toll fees collection in the sum of Rs. 58.2 crores and for losses 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 7 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 7 of 31 
+ 
+incurred under the Agreement and compensation for breach was 
+filed by NHAI.  
+2.12 Both parties led evidence and examined witnesses. The finding of 
+the Sole Arbitrator was that entire Kalpi Stretch remained 
+incomplete even on the date of the Agreement and due to its 
+dangerous and bad condition, huge traffic jams up to 16 to 18 hours 
+a day, were routine affairs. At the instance of the parties, the Sole 
+Arbitrator made a spot visit on 21.07.2014 along with other 
+representatives of both the parties and found upon inquires made on 
+the spot that the contentions of Sangam were true that there were 
+serious disputes pending with regard to payment of compensation 
+to the land owners at Kalpi Village and that there was congestion 
+of traffic due to the closure of the Yamuna Bridge and bad 
+conditions of the road.  
+2.13 The Sole Arbitrator further held as follows: 
+“The fact that there is a long pending dispute regarding 
+land acquisition and compensation in respect of 1.7 Kms of 
+stretch was also not disclosed to the Claimant. Then there 
+is a further non-disclosure of the fact that old Yamuna 
+Bridge was closed from 18/01/2013. These important facts 
+should have been disclosed in the Tender documents to 
+enable the bidders to take considered decision before 
+bidding. Even on 27.06.2014 during the cross-examination 
+of Mr. Naveen Mishra, an opportunity was available to the 
+Respondents to explain the reasons for not incorporating 
+the relevant facts in the Contract Agreement but the Project 
+Director of Respondents failed to take the benefit of the said 
+opportunity. These misrepresentations and conscious 
+omissions on the part of Respondent before entering into a 
+Contract dated 07.03.2013 makes the Contract voidable at 
+the option of Claimant. Even otherwise as per rule-3 the 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 8 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 8 of 31 
+ 
+collection of toll was impermissible in view of the fact that 
+the 1.7 Km portion of road was incomplete.” 
+The Sole Arbitrator also relied upon the file notings as obtained by 
+Sangam under the RTI Act, which made it clear that 1.7 Kms Kalip 
+Stretch was under hindrance and the same continued to be under 
+hindrance even after the execution of the Agreement. 
+2.14 The Sole Arbitrator thus found that NHAI was mandated to act in a 
+transparent, reasonable and bona fide manner being an 
+instrumentality of the State but failed to do so at the time of entering 
+of the Agreement. The Sole Arbitrator then passed the Arbitral 
+Award on 03.05.2015 in the following terms: 
+(i) 
+NHAI was directed to return/refund to Sangam/claimant a 
+sum of Rs.10.35 Crores towards illegally forfeited 
+performance security including bank guarantee along with 
+simple interest @14.55% p.a. from the date of cancellation 
+of the Agreement, i.e., 24.10.2013, till the date of refund; 
+(ii) 
+NHAI was directed to pay to Sangam/claimant a sum of 
+Rs.332.05 Lacs towards excess payment received above the 
+actual toll collection; along with simple interest @14.55% 
+p.a. from the date of cancellation of the Agreement, i.e., 
+24.10.2013, till the date of payment;  
+(iii) 
+If the refund in clauses (i) & (ii) was not paid in six weeks, 
+interest @18%p.a., on the aforesaid awarded amounts shall 
+be paid, from the date of passing of this award until full 
+payment thereof;  
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 9 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 9 of 31 
+ 
+(iv) 
+The counter claim filed by NHAI was rejected; and 
+(v) 
+Both the parties were directed to bear their own costs. 
+2.15 Aggrieved with the Arbitral Award, a Petition under Section 34 of 
+the Arbitration Act was filed by NHAI before the learned Single 
+Judge of this Court. NHAI challenged the rejection of all its 
+contentions and the claims of Sangam which were allowed by the 
+Arbitral Tribunal. It also challenged the rejection of its counter 
+claim by the Arbitral Tribunal. It was contended that Sangam was, 
+from the very beginning of the Agreement, trying to wriggle out of 
+its obligations after making an over ambitious bid and later finding 
+the project to be financially unavoidable or less profitable. The 
+Arbitral Award is against public policy and in contravention of the 
+provisions of the Agreement. There was no misrepresentation by 
+NHAI to Sangam as the 1.7 Kms Kalpi Stretch was not something 
+that was hidden. The Notification establishes that the incomplete 
+Kalpi Stretch was in existence and in the knowledge of Sangam, as 
+a copy was attached to the Agreement and the Agreement was 
+signed on 07.03.2013, after the Notification was enforced. 
+2.16 In addition, NHAI had, based on the Notification, reduced the 
+weekly remittance to be deposited by Sangam pro rata from 
+Rs.1,19,09,589/- to Rs.1,16,14,079/- on 20.05.2013. It was further 
+contended that the findings of misrepresentation are incorrect since 
+the Toll remittance was only for 66.813 Kms instead of 68.513 Kms 
+which forms part of the Agreement. NHAI additionally contended 
+that the objections to the Kalpi Stretch and the issue of 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 10 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 10 of 31 
+ 
+misrepresentation was only raised by Sangam after a show cause 
+notice for termination was sent by NHAI on 09.07.2013. 
+2.17 The learned Single Judge held that Sangam was expected to conduct 
+a thorough survey of the highway, bridge, and surrounding areas, 
+assessing access, diversions, road conditions, and closures before 
+submitting a bid for toll collection. Such diligence is standard 
+practice to determine revenue potential and bid amount. The 
+incomplete Kalpi Stretch and the closure of the old Yamuna Bridge, 
+as highlighted in the Arbitral Award, are facts readily discoverable 
+by any prudent person. A drive down the highway would have 
+revealed these issues, including potential traffic jams and local 
+resistance to toll fees payment. It was thus held that, in view of the 
+Exception to Section 19 of the Indian Contract Act, 1872 
+[hereinafter referred to as “Contract Act”], Sangam had the means 
+to discover the condition of the Kalpi Stretch with ordinary 
+diligence, that the relief cannot be granted to Sangam. 
+2.18 It was further held by the learned Single Judge that the Sole 
+Arbitrator’s oversight of the Exception to Section 19 of the Contract 
+Act and Clause 9 of the Agreement led to an erroneous conclusion 
+regarding the Agreement’s voidability. The learned Single Judge 
+interpreting Rule 3 of the NHAI Rules, held that the interpretation 
+made by the Sole Arbitrator, suggesting that toll fees can only be 
+collected when a national highway is entirely complete, is flawed. 
+The government has the authority to issue notifications for any 
+section of the highway according to the NHAI Rules. Therefore, 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 11 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 11 of 31 
+ 
+even if a portion of the highway is not finished, it does not negate 
+the government's power to levy fees for that completed segment. 
+Such an interpretation contradicts the language and intent of the 
+rule. 
+2.19 The learned Single Judge set aside the Arbitral Award on the 
+grounds of patent illegality and its being contrary to public policy 
+of India. However, the learned Single Judge did not in any manner 
+deal with the findings of fact as recorded by the Sole Arbitrator and 
+their consequences on the relief claimed by NHAI. Directions were 
+also passed permitting NHAI to re-nominate a new Arbitrator (in 
+terms of the Arbitration clause between the parties) to adjudicate 
+the disputes between the parties in accordance with law. 
+3. 
+Aggrieved by the Impugned Order, Sangam has filed the present 
+Appeal under Section 37 of the Arbitration Act praying that the 
+Impugned Order be set aside and the Arbitral Award be restored. 
+CONTENTIONS OF SANGAM  
+4. 
+The learned Senior Counsel appearing on behalf of Sangam while 
+assailing the Impugned Order submits that the fact that NHAI was 
+aware that the Kalpi Stretch was incomplete even prior to the 
+Request for Proposal dated 18.10.2012 [hereinafter referred to as 
+“RFP”] was issued. Reliance has been placed on the internal file 
+notings of NHAI   which were obtained under a letter received 
+pursuant to an RTI Application dated 10.06.2013 filed by Sangam. 
+It was submitted that these file notings reveal that even prior to 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 12 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 12 of 31 
+ 
+execution of the Agreement, NHAI was aware that it was unlikely 
+that the Kalpi Stretch would be completed “in the near future” and 
+this was concealed by NHAI. Despite the aforegoing, Sangam was 
+made to believe that the entire stretch of 68.513 Kms would be 
+available under the Agreement. 
+4.1 
+It was further contended on behalf of Sangam that this disclosure 
+was made by NHAI only after the legal notices dated 16.04.2013 
+and 20.05.2013 were served upon it by Sangam. Sangam thus, 
+contended that the Agreement was executed as a result of fraudulent 
+misrepresentation by NHAI in view of the fact that there were 
+conscious omissions regarding the incomplete Kalpi Stretch.  
+4.2 
+Learned Senior Counsel further contended that the Impugned Order 
+is based on the ‘Exception’ to Section 19 of the Contract Act. 
+However, it is contended that this Exception is not applicable to 
+cases of ‘active concealment’ and ‘fraudulent misrepresentation’. 
+Reliance in this behalf is based on Avitel Post Studioz Ltd. v. HSBC 
+PI Holdings (Mauritius) Ltd1 and a judgment of Division Bench of 
+Calcutta High Court in John Minas Apcar v. Louis Caird 
+Malchus2.  
+4.3 
+Lastly, relying on the judgments in the Associate Builders v. DDA3, 
+Ssangyong Engg. & Construction Co. Ltd. v. NHAI4, and Delhi 
+ 
+1 (2021) 4 SCC 713 
+2 1938 SCC OnLine Cal 62 
+3 (2015) 3 SCC 49 
+4 (2019) 15 SCC 131 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 13 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 13 of 31 
+ 
+Airport Metro Express (P) Ltd. v. DMRC5, it is contended that the 
+interference in an Arbitral Award is limited under the provisions of 
+Section 34 of the Arbitration Act and an error in law which does not 
+go to the root of the matter could not be made a ground of patent 
+illegality. 
+CONTENTIONS OF NHAI 
+5. 
+Per contra, learned Counsel appearing on behalf of NHAI has 
+submitted that the consent of Sangam under the Agreement was not 
+obtained by any misrepresentation or fraud. The Kalpi Stretch is a 
+public road and non-completion of the 1.7 Kms was within the 
+knowledge of Sangam. Clause 2.3 and 2.3.1 of the RFP provided 
+that prior to submissions of bid, the bidders would ascertain for 
+themselves the site conditions, traffic, location, surroundings and 
+other relevant matters which form the subject matter of the bid and 
+such an examination would have revealed the incomplete Kalpi 
+Stretch. In any event, Sangam would have come to know of the 
+incomplete Kalpi Stretch, as the Notification dated 26.02.2013, 
+clearly provides for it, thus it cannot be said that there is 
+misrepresentation or fraud by NHAI. 
+5.1 
+It was further submitted that prior to making of a bid, the 
+assessment of actual quantum of user fee collection has to be made 
+by a bidder in terms of Clause 1.1.1 of the RFP. The APC for this 
+project was Rs.47.09 crores. Sangam submitted its bid on 
+ 
+5 (2022) 1 SCC 131  
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 14 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 14 of 31 
+ 
+19.11.2012 for an APC at Rs.62.1 crores which is approximately 
+31.88% above the APC. At that time of submission of the bid, the 
+Kalpi Stretch was incomplete and thus, the assessment made by 
+Sangam would necessarily have been made by taking into account 
+the incomplete Kalpi Stretch as Sangam would have conducted its 
+due diligence prior to submitting its bid. 
+5.2 
+Learned Counsel for NHAI further contended that in any event, 
+when the Notification clearly prescribes the Kalpi Stretch as being 
+incomplete, it could not be said that Sangam was not aware of the 
+same. Thus, by its conduct, Sangam had acquiesced to this fact and 
+could not raise the argument of fraudulent misrepresentation.  
+5.3 
+Lastly it was submitted on behalf of NHAI, that it is a settled law 
+that an argument on a question of law such as the Exception to 
+Section 19 of the Contract Act being applicable, can be taken at any 
+stage of the proceedings. Reliance was placed on judgment of the 
+Supreme Court in the case of State of Chhattisgarh v. SAL Udyog 
+(P) Ltd6. NHAI thus contended that the learned Single Judge, had 
+correctly set aside the Arbitral Award. 
+ANALYSIS 
+6. 
+The limited controversy that arises in the aforesaid facts is whether 
+the conclusion of the learned Single Judge, that by virtue of the 
+‘Exception’ to Section 19 of the Contract Act, the Agreement would 
+ 
+6 (2022) 2 SCC 275  
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 15 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 15 of 31 
+ 
+not be voidable, can be sustained. 
+6.1 
+Before proceeding further, we must note that NHAI has not 
+challenged the factual findings returned by the Arbitral Tribunal 
+before us. However, NHAI has in its written submissions filed, inter 
+alia raised the following contentions:   
+(i) 
+There has been no misrepresentation or fraud played by 
+NHAI. Clauses 2.3.1 and 2.3.2 (c) and (e) of the RFP sets out 
+that a bidder is deemed to have visited the site and acquainted 
+itself of all conditions prior to submitting its bid. It is based 
+on these inspections and assumptions that a bid is submitted, 
+Sangam submitted its LOA and thus, it is deemed to have 
+been aware of the incomplete Kalpi Stretch.  
+(ii) 
+The plea of vitiation of consent by fraud could only be raised 
+prior to executing the Agreement on 07.03.2013. At the time 
+of making of the bid or submitting its response to the RFP, 
+Sangam was not prevented from exercising its rights under 
+Section 19 of the Contract Act. Since, this was not done at 
+that time, the plea of misrepresentation raised subsequently 
+by Sangam is barred by acquiescence and waiver. 
+6.2 
+As discussed above, the learned Single Judge had proceeded solely 
+on the basis that notwithstanding the afore-mentioned findings, the 
+Agreement would not be voidable by virtue of  Exception to Section 
+19 of the Contract Act.   
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 16 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 16 of 31 
+ 
+7. 
+An examination of the Arbitral Award shows that in terms of the 
+notice inviting tender, RFP and the LOA as well as the bank 
+guarantee and the performance security taken by NHAI, was for toll 
+fees, to be collected for the entire stretch of 68.513 Kms. The Sole 
+Arbitrator noted that there were serious disputes raised by Sangam 
+in the collection of toll fees, including disputes with regard to 
+payment of compensation to land owners which had been 
+previously been acquired by the Government in and around the 
+Kalpi Stretch, as well as the factum of congestion of traffic due to 
+closure of old Yamuna Bridge. 
+7.1 
+The Sole Arbitrator further relied on Rule 3 of the NHAI Rules to 
+submit that the collection of toll fees is contingent upon the 
+highway being complete in all respects. Thus, it was held that the 
+initiation of the tender process for appointing an agency to collect 
+toll fees for the entire stretch including the Kalpi Stretch which was 
+incomplete, showed a lack of bona fides on NHAI’s part. 
+7.2 
+The 
+Sole 
+Arbitrator 
+thus 
+concluded 
+that 
+there 
+were 
+misrepresentations and omissions on the part of NHAI which made 
+the Agreement voidable at the option of Sangam. The termination 
+and black listing by NHAI and forfeiture of the bank guarantee and 
+performance security in the sum of Rs.10.35 crores was held to be 
+illegal and was set aside. Further, since the toll fees collection by 
+Sangam from 09.03.2013 to 26.10.2013 was Rs.25,95,96,115/- and 
+Sangam had already paid a sum of Rs.29,86,55,749 to NHAI, the 
+Award permitted Sangam to retain the actual amount of toll 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 17 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 17 of 31 
+ 
+collected. The Sole Arbitrator awarded a sum of Rs.332.05 lakhs 
+towards excess payment received above the actual toll fees 
+collection to Sangam. Interest was also awarded on both the 
+forfeited performance security as well as the excess payment 
+payable from the date of cancellation of the Agreement i.e., 
+24.10.2013 till the date of payment. The counter-claim of NHAI 
+was rejected. The aforesaid payments were directed to be refunded 
+with interest. 
+8. 
+The learned Single Judge while adjudicating the Section 34 
+Application referred to relevant portions of the Arbitral Award as 
+well as to the provisions of Sections 17 to 19 of the Contract Act. 
+The learned Single Judge relying on the ‘Exception’ to Section 19 
+of the Contract Act held that Sangam was expected to conduct a 
+thorough survey of the highway, bridge, and surrounding areas, 
+assessing access, diversions, road conditions, and closures before 
+submitting a bid for toll collection. Such diligence is standard 
+practice to determine revenue potential and bid amount. The 
+incomplete Kalpi Stretch and the closure of the old Yamuna Bridge, 
+as highlighted in the Award, were facts readily discoverable by any 
+prudent person. The learned Single Judge held that if a party whose 
+consent was caused by misrepresentation, had the means of 
+discovering the truth with ordinary diligence, Section 19 of the 
+Contract Act would have no application. A drive down the highway 
+would have revealed these issues, including potential traffic jams 
+and local resistance to toll fees payment. Therefore, relief could not 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 18 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 18 of 31 
+ 
+have been granted to Sangam. It was further held that the Sole 
+Arbitrator’s oversight of the ‘Exception’ to Section 19 of the 
+Contract Act and Clause 9 of the Agreement, led to an erroneous 
+conclusion regarding the Agreement being voidable at the option of 
+Sangam.  
+9. 
+Learned Senior Counsel appearing on behalf of Sangam during 
+arguments, has laid emphasis on the internal file noting dated 
+21.01.2013 of NHAI obtained via RTI [hereinafter referred to as 
+“RTI noting”], to submit that despite having the knowledge of the 
+same and the fact that the Kalpi Stretch was not likely to be 
+completed in the immediate near future, on the very next day, i.e., 
+22.01.2023, NHAI issued a letter of intent accepting the offer letter 
+of Sangam without making any disclosure about the Kalpi Stretch.  
+9.1 
+It was thus contended that, in view of the RTI noting, there has been 
+an “active concealment” on the part of the NHAI in terms of the 
+Judgments in the Avitel Post case and John Minas case, and, the 
+‘Exception’ to Section 19 of the Contract Act is not applicable in 
+the facts of this case.  
+10. 
+Section 19 of the Contract Act sets out that where a consent to an 
+Agreement is obtained by coercion, fraud or misrepresentation, the 
+Agreement is voidable at the option of the party whose consent was 
+caused to be obtained by such coercion, fraud or misrepresentation 
+as the case may be.  
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 19 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 19 of 31 
+ 
+10.1 Section 17 of the Contract Act defines ‘fraud’ as an act committed 
+by a party with an intent to deceive another party to induce him to 
+enter into an Agreement and in sub-Section (2) includes, “active 
+concealment” (as amongst the acts of fraud), of a fact by a party 
+having the knowledge of the fact concealed. The Explanation to 
+Section 17 of the Contract Act also provides that mere silence is not 
+fraud unless the person had a duty to disclose except where such 
+silence in itself is equivalent to speech.  
+10.2 Section 17 of the Contract Act is extracted below: 
+“17. “Fraud” defined —“Fraud” means and includes any of the 
+following acts committed by a party to a contract, or with his 
+connivance, or by his agent, with intent to deceive another party 
+thereto of his agent, or to induce him to enter into the contract:— 
+(1) the suggestion, as a fact, of that which is not true, by one who 
+does not believe it to be true; 
+(2) the active concealment of a fact by one having knowledge or 
+belief of the fact; 
+(3) a promise made without any intention of performing it; 
+(4) any other act fitted to deceive; 
+(5) any such act or omission as the law specially declares to be 
+fraudulent. 
+Explanation.—Mere silence as to facts likely to affect the 
+willingness of a person to enter into a contract is not fraud, unless 
+the circumstances of the case are such that, regard being had to 
+them, it is the duty of the person keeping silence to speak, or unless 
+his silence is, in itself, equivalent to speech.” 
+[Emphasis is ours] 
+ 
+10.3 Misrepresentation is defined under Section 18 of the Contract Act. 
+Section 18 of the Contract Act defines “misrepresentation” to mean 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 20 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 20 of 31 
+ 
+and include a positive assertion which is not true but made in a manner 
+that it is believed to be true and includes a breach of duty committed 
+which, with an intent to deceive, giving the person committing it an 
+advantage, to the prejudice of another. Section 18 of the Contract Act 
+is extracted below: 
+“18. "Misrepresentation" defined.— 
+"Misrepresentation" means and includes— 
+(1) the positive assertion, in a manner not warranted by the 
+information of the person making it, of that which is not true, though 
+he believes it to be true; 
+(2) any breach of duty which, without an intent to deceive, gains an 
+advantage of the person committing it, or any one claiming under 
+him, by misleading another to his prejudice, or to the prejudice of 
+any one claiming under him; 
+(3) causing, however innocently, a party to an agreement, to make a 
+mistake as to the substance of the thing which is the subject of the 
+agreement.” 
+ 
+10.4 It is apposite to extract Section 19 of the Contract Act here as well: 
+“19. Voidability of agreements without free consent —When 
+consent to an agreement is caused by coercion, fraud or 
+misrepresentation, the agreement is a contract voidable at the option 
+of the party whose consent was so caused. 
+A party to a contract whose consent was caused by fraud or 
+misrepresentation, may, if he thinks fit, insist that the contract shall 
+be performed, and that he shall be put in the position in which he 
+would have been if the representations made had been true. 
+Exception.—If such consent was caused by misrepresentation or 
+by silence, fraudulent within the meaning of section 17, the 
+contract, nevertheless, is not voidable, if the party whose consent 
+was so caused had the means of discovering the truth with ordinary 
+diligence. 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 21 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 21 of 31 
+ 
+Explanation.—A fraud or misrepresentation which did not cause the 
+consent to a contract of the party on whom such fraud was practised, 
+or to whom such misrepresentation was made, does not render a 
+contract voidable.” 
+[Emphasis is ours] 
+11. 
+The learned Single Judge has relied on the ‘Exception’ to Section 
+19 of the Contract Act to hold that the Agreement entered into 
+between Sangam and NHAI was not voidable (as has been held by 
+the Sole Arbitrator), in view of the Explanation to Section 19 of the 
+Contract Act. It is, however, been argued by Sangam that the 
+Exception is not applicable where there is “active concealment” or 
+fraudulent misrepresentation. 
+11.1 The learned Senior Counsel appearing on behalf of Sangam has 
+relied on the phrase “active concealment” as appearing in Section 
+17(2) of the Contract Act to aver, that this phrase acts as an 
+Exception to Section 19 of the Contract Act.  
+12. 
+The Exception to Section 19 of the Contract Act was considered by a 
+Division Bench of the Calcutta Court in John Minas case. In the John 
+Minas case, one of the parties was induced by a representation by the 
+opposite party to purchase a share in a property. The representation was 
+made by written communications by the defendants giving a fictitiously 
+high value to the property. It was based on these representations that 
+the sale was entered into for the property at a higher value. Later on, it 
+was discovered that these representations were bogus. It was thus held 
+that there was a deliberate “active concealment” perpetrated in that 
+case and an ordinary person with ordinary diligence would not be 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 22 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 22 of 31 
+ 
+expected to discover such fraud and a conclusion that the Agreement 
+between the parties had been procured by fraud was upheld. It was 
+further held that where there is a case of deliberate “active 
+concealment”, it would fall under Section 19 of the Contract Act and 
+not under its “Exception”.  
+12.1 The Court construed the Exception to not apply in cases of deliberate 
+active fraud as distinguished from misrepresentation that was not 
+fraudulent. The relevant extracts from the John Minas case are set out 
+below: 
+“The Plaintiff says that he was induced to enter into that contract 
+by the fraud of the Defendant and asks that the contract be 
+rescinded. 
+xxxx 
+ 
+ 
+ 
+xxxx 
+ 
+ 
+ 
+xxxx 
+We are only concerned with the representation that the defendant 
+received offers of Rs. 9,20,000 and Rs. 8,20,000 through Mr. Philip 
+Oddie of Messrs. Morgan & Co. It does not appear to be disputed 
+that the other representations were true. 
+xxxx  
+ 
+ 
+ 
+xxxx 
+ 
+ 
+ 
+xxxx 
+After reading the evidence and the letters I agree with the learned 
+Judge and I have come to the conclusion that the defendant did 
+cause those letters to be written in which bogus offers for the 
+property were made. I believe and I find that they were made for 
+the purpose of giving a fictitiously high value to the property and I 
+further find that the plaintiff was induced by the contents of those 
+letters to enter into the agreement he now seeks to have rescinded. 
+It appears to me that those letters were, to use the words of s. 17(1) 
+of the Indian Contract Act, 1872, "a suggestion, as to a fact, of that 
+which is not "true by one who does not believe it to be true" They 
+were false and fraudulent documents, brought into being for the 
+purpose of deceiving persons to whom the defendant might later 
+wish to sell shares in the property. I have no doubt that the making 
+and the exhibition of those documents to the plaintiff were fraud 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 23 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 23 of 31 
+ 
+within the meaning of s. 17 of the Indian Contract Act. Section 19 
+of the same Act provides:  
+When consent to an agreement is caused by coercion, 
+fraud or misrepresentation, the agreement is a contract 
+voidable at the option of the party whose consent was so 
+caused. 
+Then there follows an exception: 
+If such consent was caused by misrepresentation or by 
+silence, fraudulent within the meaning of s. 17, the 
+contract, nevertheless, is not voidable, if the party 
+whose consent was so caused had the means of 
+discovering the truth with ordinary diligence. 
+It has been argued before us that the exception applies here. No 
+such argument was raised in the court below. In my view, the 
+exception does not apply in this case. It has been argued, accepting 
+the plaintiff's story, that there has been misrepresentation 
+fraudulent within the meaning of s. 17. In the case of Niaz Ahmad 
+Khan v. Parshotam Chandra7 the application of this exception to a 
+case of fraud was discussed. The Court (Sulaiman C. J. and Young 
+J.) said:— 
+If the statute were clear it would be our bounden duty 
+to give effect to its meaning quite irrespective of any 
+consideration as to what the law is in England. But on 
+the face of it the exception is ambiguously worded. The 
+difficulty is caused mainly by the punctuation, viz., a 
+comma after the word " silence," which seems to 
+indicate that the words "fraudulent within the meaning 
+of s. 17" apply both to "misrepresentation" and to 
+"silence". But as observed by their Lordships of the 
+Privy Council in the case of Maha-rani of Burdwan v. 
+Krishna Kamini Dasi8 and Pugh v. Ashutosh Sen9 
+punctuation is no part of the statute, and a court of law 
+is bound to interpret the section without the commas 
+inserted in the print. If the comma after the word 
+"silence" is to be ignored, the expression fraudulent 
+within the meaning of s. 17” might well apply to 
+"silence" exclusively and not to “misrepresentation”.  
+This 
+interpretation 
+is 
+strengthened 
+by 
+the 
+ 
+7 (1931) I.L.R. 53 All. 374, 379-380 
+8 (1887) I.L.R. 14 Cal. 365 (371); L.R. 14 I.A. 30 (35) 
+9 (1928) I.L.R. 8. Pat. 516 (525); L.R. 56 I.A. 93 (100) 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 24 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 24 of 31 
+ 
+circumstances that the legislature has used the 
+preposition 
+"by" 
+twice, 
+i.e., 
+both 
+before 
+" 
+misrepresentation" and also before "silence". If the 
+expression " fraudulent within the meaning of s. 17 " 
+qualifies "misrepresentation" the result would be that 
+due diligence would be required in the case where 
+misrepresentation became fraudulent, but would not be 
+required when the misrepresentation fell within s. 18 
+and was just short of fraud, for the exception would be 
+confined to the former kind only. This would be a 
+scartling result. 
+xxxx  
+ 
+ 
+xxxx 
+ 
+ 
+xxxx 
+For instance, in most cases advantage is taken of simple-
+minded people who are careless enough not to take the 
+trouble to find out the-truth which an ordinary man with 
+sense would do with ordinary diligence. We are, 
+therefore, inclined to hold that in the case of an active 
+misrepresentation knowing the fact to be false, as 
+distinct from mere silence or concealment, it is not 
+incumbent upon the party defrauded to establish that 
+he had no means of discovering the truth with ordinary 
+diligence. 
+xxxx 
+ 
+ 
+xxxx 
+ 
+ 
+ 
+xxxx 
+I am inclined to agree with this view of the matter. A similar view 
+was taken in the case of Abdulla Khan v. Girdhari Lal10 where the 
+Court. said:- 
+Currie v. Rennick (2) is a different case, as it was based 
+on misrepresentation alone, and not fraud, which was 
+held not to avoid the contract, as, under s. 19 of the 
+Contract Act, the plaintiff had the means of discovering 
+the truth with ordinary diligence. This is a case of active 
+fraud, which none but an expert was capable of 
+detecting. 
+The learned authors, Sir Frederick Pollock and Sir Dinshah Mulla, 
+in their work on the Indian Contract Act, 6th Ed., at p. 130 say:- 
+ 
+10 [1904] P.R. (Jud. Civil) 149, 151 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 25 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 25 of 31 
+ 
+It will be observed that the exception does not apply to 
+cases 
+of 
+active 
+fraud 
+as 
+distinguished 
+from 
+misrepresentation which is not fraudulent. 
+In my opinion, this is a case of deliberate active fraud which comes 
+within s. 19 and not within the exception I have mentioned. 
+Further, I am of the opinion that the circumstances under which 
+fraud was perpetrated in this case were such that an ordinary 
+person with ordinary diligence could not be expected to discover 
+that fraud. In my opinion, the learned Judge was right, in coming to 
+the conclusion that this agreement has been procured by fraud, and, 
+in ordering that the plaintiff’s contract should be rescinded. 
+This appeal is, therefore, dismissed with costs.” 
+[Emphasis is ours] 
+13. 
+The Supreme Court in the Avitel Post case, relying upon the John 
+Minas case held that where a party has acted on the basis of 
+representations and/or warranties to enter into an Agreement, which 
+representation and/or warranties have later been proved to be false, 
+then such contract would clearly fall within fraudulent inducement 
+under Section 17 of the Contract Act and be voidable at the instance 
+of the party who induced the contract based on such representations 
+and warranties. The facts in the Avitel Post case were that a share 
+subscription Agreement was entered into between the parties for a 
+consideration of USD 60 million paid by HSBC to acquire 7.8% of 
+paid up capital of a company. It was the case of HSBC that the 
+transaction was based on a representation, that the company was at 
+an advance stage of finalising a contract with British Broadcasting 
+Corporation (BBC) which was expected to generate a revenue of 
+USD 300 million in the first phase and ultimately over USD 1 
+Billion. It was, thereafter, discovered by HSBC, pursuant to 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 26 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 26 of 31 
+ 
+Auditors being appointed, that the contract with BBC was non-
+existent and was only set up by the company to induce HSBC into 
+investing the money into the company. 
+13.1 The disputes were referred to Arbitration, and amongst the issues 
+decided was the arbitrability of fraud. It was held that there were 
+representations and warranties made when the contract was in its 
+advanced stage of negotiation to induce the claimant (HSBC) to 
+invest in the company and that HSBC did rely on these 
+representations, which were false or misleading to enter into the 
+investment. The Arbitral Award, thus, held that the company was 
+directly liable for fraudulent misrepresentation under the contract 
+and found HSBC entitled to damages. This finding was upheld by 
+the Supreme Court. 
+13.2 While discussing Sections 10, 14, 17 and 19 of the Contract Act, 
+the Supreme Court in the Avitel Post case held that all Agreements 
+made with free consent of parties competent to contract are lawful, 
+however, if the consent is caused or obtained by fraud, which would 
+have otherwise not been given but for such fraud, the contract is 
+voidable at the option of the party whose consent was so caused. It 
+was held as follows: 
+“45. Section 10 of the Contract Act states that all agreements are 
+contracts if they are made with the free consent of parties competent 
+to contract, for a lawful consideration and with a lawful object, and 
+are not hereby expressly declared to be void. Section 14 states that 
+consent is said to be free when it is not caused inter alia by fraud as 
+defined in Section 17. Importantly, the section goes on to say that 
+consent is said to be so caused when it would not have been given 
+but for the existence, inter alia, of such fraud. Where such fraud 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 27 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 27 of 31 
+ 
+is proved, and consent to an agreement is caused by fraud, the 
+contract is voidable at the option of the party whose consent was so 
+caused. This is provided by Section 19 of the Contract Act which 
+reads as follows: 
+“19. Voidability of agreements without free consent. — 
+When consent to an agreement is caused by coercion, fraud 
+or misrepresentation, the agreement is a contract voidable 
+at the option of the party whose consent was so caused. 
+A party to a contract, whose consent was caused by fraud 
+or misrepresentation, may, if he thinks fit, insist that the 
+contract shall be performed, and that he shall be put in the 
+position in which he would have been if the representation 
+made had been true. 
+Exception.—If 
+such 
+consent 
+was 
+caused 
+by 
+misrepresentation or by silence, fraudulent within the 
+meaning of Section 17, the contract, nevertheless, is not 
+voidable, if the party whose consent was so caused had the 
+means of discovering the truth with ordinary diligence.45 
+Explanation.—A fraud or misrepresentation which did not 
+cause the consent to a contract of the party of whom such 
+fraud was practised, or to whom such misrepresentation 
+was made, does not render a contract voidable.” 
+[Emphasis is ours] 
+13.3 The Supreme Court in the Avitel Post case further held that the 
+words “with intent to deceive another party” as appearing in Section 
+17 of the Contract Act must be read with the words “or to induce 
+him to enter into a contract”, must be in relation of the formation 
+of the contract itself. It was also held that fraud in performance of 
+the contract may be governed by the tort of deceit which would lead 
+to damages but not to rescission of the contract itself: 
+“46. It has been held by the Bombay High Court in Fazal D. 
+Allana v. Mangaldas M. Pakvasa [Fazal D. Allana v. Mangaldas M. 
+Pakvasa, 1921 SCC OnLine Bom 122 : AIR 1922 Bom 303] , that 
+Section 17 of the Contract Act only applies if the contract itself is 
+obtained by fraud or cheating. However, a distinction is made 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 28 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 28 of 31 
+ 
+between a contract being obtained by fraud and performance of a 
+contract (which is perfectly valid) being vitiated by fraud or 
+cheating. The latter would fall outside Section 17 of the Contract 
+Act, in which the remedy for damages would be available, but not 
+the remedy for treating the contract itself as being void (see pp. 
+311-12). This is for the reason that the words “with intent to 
+deceive another party thereto or his agent” must be read with the 
+words “or to induce him to enter into the contract”, both sets of 
+expressions speaking in relation to the formation of the contract 
+itself. This is further made clear by Sections 10, 14 and 19, which 
+have already been referred to hereinabove, all of which deal with 
+“fraud” at the stage of entering into the contract. Even Section 
+17(5) which speaks of “any such act or omission as the law 
+specially deals to be fraudulent” must mean such act or omission 
+under such law at the stage of entering into the contract. Thus, 
+fraud that is practised outside of Section 17 of the Contract Act i.e. 
+in the performance of the contract, may be governed by the tort of 
+deceit, which would lead to damages, but not rescission of the 
+contract itself….” 
+[Emphasis is ours] 
+13.4 While discussing Section 19 of the Contract Act and its Exception, 
+the Supreme Court in the Avitel Post case cited the John Minas 
+case, and held that the Exception does not apply to cases of active 
+fraud as distinguished from misrepresentation, which is not 
+fraudulent. It is this extract which forms part of footnote 45 to this 
+judgment, that was relied upon by Sangam to support its argument 
+that the Exception to Section 19 of the Contract Act was not 
+applicable. The extract of footnote 45 in the Avitel Post case is 
+below: 
+“It is important to note that the Exception in Section 19 does not 
+apply to fraudulent misrepresentation as the words “by silence” 
+alone go with the word “fraudulent”, thus not applying to cases of 
+fraudulent misrepresentation. In John Minas Apcar v. Louis Caird 
+Malchus, 1938 SCC OnLine Cal 62 : AIR 1939 Cal 473, the 
+concurrent judgments of Derbyshire, C.J. and Lort Williams, J. 
+referred to a passage from Sir Frederick Pollock and Sir Dinshaw 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 29 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 29 of 31 
+ 
+Mulla, in their work on the Contract Act, 6th Edn., which said: 
+ 
+“It will be observed that the Exception does not apply to cases 
+of active fraud as distinguished from misrepresentation which is 
+not fraudulent.”  
+ 
+ 
+ 
+ (emphasis in original)” 
+ 
+[Emphasis is ours] 
+13.5 The principle of active concealment has also been extended in relation 
+to the Explanation to Section 19 of the Contract Act. While discussing 
+“active concealment” and the “Explanation to Section 19 of the 
+Contract Act”, the Supreme Court in the judgment of Mithoolal Nayak 
+v. Life Insurance Corporation of India11  has held that the underlying 
+principle to the “Explanation to Section 19 of the Contract Act” is that 
+it is irrelevant whether the representation is fraudulent or not, if it has 
+not induced a party to whom it was made, to act upon it by entering into 
+a contract. It was held that the “active concealment” of the state of 
+health of the insured in the proposal form/personal statement submitted 
+at the time of entering into the policy had an important bearing in 
+obtaining the insurance and that the party acting as such, cannot take 
+advantage of the Explanation to Section 19 of the Contract Act as 
+below: 
+“Learned counsel for the appellant has referred us to the 
+Explanation to Section 19 of the Indian Contract Act in support of 
+his argument. We are unable to accept this argument as correct. It 
+is indeed true that Mahajan Deolal was examined by as many as four 
+doctors. It is also true that the respondent Company had before it 
+the conflicting reports of Dr Desai and it specially asked Dr 
+Kapadia to examine Mahajan Deolal in view of the reports 
+submitted by Dr Desai. Yet, it must be pointed out that the 
+respondent Company had no means of knowing that Mahajan 
+Deolal had been treated for the serious ailment of secondary 
+ 
+11 AIR 1962 SC 814 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 30 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 30 of 31 
+ 
+anaemia followed by dilatation of heart, etc., in September- 
+October 1943 by Dr Lakshmanan. Nor can it be said that if the 
+respondent Company had knowledge of those facts, they would not 
+have made any difference. The principle underlying the 
+Explanation to Section 19 of the Contract Act is that a false 
+representation, whether fraudulent or innocent, is irrelevant if it 
+has not induced the party to whom it is made to act upon it by 
+entering into a contract. We do not think that that principle applies 
+in the present case. The terms of the policy make it clear that the 
+averments made as to the state of health of the insured in the 
+proposal form and the personal statement were the basis of the 
+contract between the parties, and the circumstance that Mahajan 
+Deolal had taken pains to falsify or conceal that he had been 
+treated for a serious ailment by Dr Lakshmanan only a few months 
+before the policy was taken shows that the falsification or 
+concealment had an Important bearing in obtaining the other 
+party's consent. A man who has so acted cannot afterwards turn 
+round and say: "It could have made no difference if you had known 
+the truth". In our opinion, no question of waiver arises in the 
+circumstances of this case, nor can the appellant take advantage of 
+the Explanation to Section 19 of the Indian Contract Act.” 
+[Emphasis is ours] 
+CONCLUSION 
+14. 
+The ratio of the aforesaid decisions is that cases of deliberate fraud, do 
+not come within the meaning of Exception to Section 19 of the Contract 
+Act and where an Agreement has been procured by fraud, the contract 
+is voidable at the instance of the party deceived, notwithstanding that 
+the party whose consent was caused by fraudulent misrepresentation 
+had means of discovering the truth by due diligence.  
+15. 
+The question as to whether the findings of misrepresentation and active 
+concealment are warranted in the facts of the present case is a 
+contentious issue. To that extent, we do not agree with the conclusion 
+of the learned Single Judge that in view of the Exception to Section 19 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified
+
+
+--- PAGE 31 ---
+                                                  
+                                             
+ 
+FAO(OS) (COMM) 287/2019  
+ 
+ 
+ 
+                                      Page 31 of 31 
+ 
+of the Contract Act, the findings are not required to be adjudicated 
+upon. NHAI had in its Petition under Section 34 of the Arbitration Act, 
+challenged all the findings which were against it and had also 
+challenged the dismissal of its counter claim by the Sole Arbitrator. 
+Thus, an adjudication on these findings of fact was also necessary to be 
+carried out. 
+16. 
+In these circumstances, this Court deems it expedient that the matter 
+be remanded for a fresh adjudication of Section 34 Petition by the 
+learned Single Judge.  
+17. 
+It is clarified that all rights and contentions of the parties are left 
+open in this regard. 
+18. 
+The Appeal and pending application is disposed of in the aforesaid 
+terms. 
+ 
+(TARA VITASTA GANJU) 
+                                                                       JUDGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(VIBHU BAKHRU) 
+                                                                                 JUDGE   
+MAY 16, 2024/r/SA 
+ 
+ 
+Digitally Signed
+By:RAHUL
+Signing Date:17.05.2024
+01:35:27
+Signature Not Verified

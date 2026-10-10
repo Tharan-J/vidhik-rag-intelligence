@@ -1,0 +1,3527 @@
+[
+  {
+    "document_id": "DC_000001",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8986,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 716,
+    "final_word_count": 101,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8986,
+        "word_count": 101,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000002",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8703,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 646,
+    "final_word_count": 88,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8703,
+        "word_count": 88,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000003",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8743,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 647,
+    "final_word_count": 90,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8743,
+        "word_count": 90,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000004",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8726,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 652,
+    "final_word_count": 91,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8726,
+        "word_count": 91,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000005",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8722,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 633,
+    "final_word_count": 89,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8722,
+        "word_count": 89,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000006",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9989,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 10432,
+    "final_word_count": 1613,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9989,
+        "word_count": 1613,
+        "entities_found": 34
+      }
+    }
+  },
+  {
+    "document_id": "DC_000007",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8782,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 678,
+    "final_word_count": 90,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8782,
+        "word_count": 90,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000008",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.87,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 627,
+    "final_word_count": 86,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.87,
+        "word_count": 86,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000009",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8762,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 667,
+    "final_word_count": 89,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8762,
+        "word_count": 89,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000010",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8721,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 629,
+    "final_word_count": 87,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8721,
+        "word_count": 87,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000011",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9984,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 3948,
+    "final_word_count": 599,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9984,
+        "word_count": 599,
+        "entities_found": 21
+      }
+    }
+  },
+  {
+    "document_id": "DC_000012",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8766,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 686,
+    "final_word_count": 91,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8766,
+        "word_count": 91,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000013",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.845,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 491,
+    "final_word_count": 75,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.845,
+        "word_count": 75,
+        "entities_found": 8
+      }
+    }
+  },
+  {
+    "document_id": "DC_000014",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8119,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 604,
+    "final_word_count": 95,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8119,
+        "word_count": 95,
+        "entities_found": 4
+      }
+    }
+  },
+  {
+    "document_id": "DC_000015",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8571,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 505,
+    "final_word_count": 81,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8571,
+        "word_count": 81,
+        "entities_found": 5
+      }
+    }
+  },
+  {
+    "document_id": "DC_000016",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8737,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 565,
+    "final_word_count": 89,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8737,
+        "word_count": 89,
+        "entities_found": 8
+      }
+    }
+  },
+  {
+    "document_id": "DC_000017",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8637,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 535,
+    "final_word_count": 83,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8637,
+        "word_count": 83,
+        "entities_found": 8
+      }
+    }
+  },
+  {
+    "document_id": "DC_000018",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8879,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 604,
+    "final_word_count": 97,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8879,
+        "word_count": 97,
+        "entities_found": 5
+      }
+    }
+  },
+  {
+    "document_id": "DC_000019",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+    "fallback_used": true,
+    "selected_method": "tesseract",
+    "selected_quality_score": 0.953,
+    "final_quality_status": "OCR_FALLBACK_VALID",
+    "final_character_count": 860,
+    "final_word_count": 182,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.358,
+        "word_count": 4,
+        "entities_found": 0
+      },
+      "paddleocr": {
+        "quality_score": 0.844,
+        "word_count": 72,
+        "entities_found": 7
+      },
+      "tesseract": {
+        "quality_score": 0.953,
+        "word_count": 182,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000020",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 1.0,
+    "final_quality_status": "OCR_VALID",
+    "final_character_count": 1635,
+    "final_word_count": 228,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.358,
+        "word_count": 4,
+        "entities_found": 0
+      },
+      "paddleocr": {
+        "quality_score": 1.0,
+        "word_count": 228,
+        "entities_found": 17
+      },
+      "tesseract": {
+        "quality_score": 0.9964,
+        "word_count": 291,
+        "entities_found": 15
+      }
+    }
+  },
+  {
+    "document_id": "DC_000021",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 1.0,
+    "final_quality_status": "OCR_VALID",
+    "final_character_count": 1635,
+    "final_word_count": 228,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.358,
+        "word_count": 4,
+        "entities_found": 0
+      },
+      "paddleocr": {
+        "quality_score": 1.0,
+        "word_count": 228,
+        "entities_found": 17
+      },
+      "tesseract": {
+        "quality_score": 0.9964,
+        "word_count": 291,
+        "entities_found": 15
+      }
+    }
+  },
+  {
+    "document_id": "DC_000022",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 0.514,
+    "final_quality_status": "OCR_VALID",
+    "final_character_count": 59,
+    "final_word_count": 12,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.358,
+        "word_count": 4,
+        "entities_found": 0
+      },
+      "paddleocr": {
+        "quality_score": 0.514,
+        "word_count": 12,
+        "entities_found": 2
+      },
+      "tesseract": {
+        "quality_score": 0.374,
+        "word_count": 12,
+        "entities_found": 0
+      }
+    }
+  },
+  {
+    "document_id": "DC_000023",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 0.66,
+    "final_quality_status": "OCR_VALID",
+    "final_character_count": 89,
+    "final_word_count": 15,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.358,
+        "word_count": 4,
+        "entities_found": 0
+      },
+      "paddleocr": {
+        "quality_score": 0.66,
+        "word_count": 15,
+        "entities_found": 4
+      },
+      "tesseract": {
+        "quality_score": 0.3702,
+        "word_count": 53,
+        "entities_found": 0
+      }
+    }
+  },
+  {
+    "document_id": "DC_000024",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 1.0,
+    "final_quality_status": "OCR_VALID",
+    "final_character_count": 1870,
+    "final_word_count": 271,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.366,
+        "word_count": 8,
+        "entities_found": 0
+      },
+      "paddleocr": {
+        "quality_score": 1.0,
+        "word_count": 271,
+        "entities_found": 11
+      },
+      "tesseract": {
+        "quality_score": 0.9877,
+        "word_count": 366,
+        "entities_found": 11
+      }
+    }
+  },
+  {
+    "document_id": "DC_000025",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9988,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 8139,
+    "final_word_count": 1160,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9988,
+        "word_count": 1160,
+        "entities_found": 30
+      }
+    }
+  },
+  {
+    "document_id": "DC_000026",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 0.374,
+    "final_quality_status": "LOW_CONFIDENCE",
+    "final_character_count": 87,
+    "final_word_count": 12,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.358,
+        "word_count": 4,
+        "entities_found": 0
+      },
+      "paddleocr": {
+        "quality_score": 0.374,
+        "word_count": 12,
+        "entities_found": 0
+      },
+      "tesseract": {
+        "quality_score": 0.2182,
+        "word_count": 37,
+        "entities_found": 0
+      }
+    }
+  },
+  {
+    "document_id": "DC_000027",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 1.0,
+    "final_quality_status": "OCR_VALID",
+    "final_character_count": 1761,
+    "final_word_count": 218,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.358,
+        "word_count": 4,
+        "entities_found": 0
+      },
+      "paddleocr": {
+        "quality_score": 1.0,
+        "word_count": 218,
+        "entities_found": 16
+      },
+      "tesseract": {
+        "quality_score": 0.9865,
+        "word_count": 310,
+        "entities_found": 18
+      }
+    }
+  },
+  {
+    "document_id": "DC_000028",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 1.0,
+    "final_quality_status": "OCR_VALID",
+    "final_character_count": 1761,
+    "final_word_count": 218,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.358,
+        "word_count": 4,
+        "entities_found": 0
+      },
+      "paddleocr": {
+        "quality_score": 1.0,
+        "word_count": 218,
+        "entities_found": 16
+      },
+      "tesseract": {
+        "quality_score": 0.9865,
+        "word_count": 310,
+        "entities_found": 18
+      }
+    }
+  },
+  {
+    "document_id": "DC_000029",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 1.0,
+    "final_quality_status": "OCR_VALID",
+    "final_character_count": 1662,
+    "final_word_count": 219,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.358,
+        "word_count": 4,
+        "entities_found": 0
+      },
+      "paddleocr": {
+        "quality_score": 1.0,
+        "word_count": 219,
+        "entities_found": 17
+      },
+      "tesseract": {
+        "quality_score": 0.989,
+        "word_count": 307,
+        "entities_found": 13
+      }
+    }
+  },
+  {
+    "document_id": "DC_000030",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+    "fallback_used": true,
+    "selected_method": "tesseract",
+    "selected_quality_score": 0.4932,
+    "final_quality_status": "OCR_FALLBACK_VALID",
+    "final_character_count": 186,
+    "final_word_count": 51,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.358,
+        "word_count": 4,
+        "entities_found": 0
+      },
+      "paddleocr": {
+        "quality_score": 0.4658,
+        "word_count": 26,
+        "entities_found": 1
+      },
+      "tesseract": {
+        "quality_score": 0.4932,
+        "word_count": 51,
+        "entities_found": 2
+      }
+    }
+  },
+  {
+    "document_id": "DC_000031",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+    "fallback_used": true,
+    "selected_method": "tesseract",
+    "selected_quality_score": 0.9794,
+    "final_quality_status": "OCR_FALLBACK_VALID",
+    "final_character_count": 2142,
+    "final_word_count": 356,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.358,
+        "word_count": 4,
+        "entities_found": 0
+      },
+      "paddleocr": {
+        "quality_score": 0.8593,
+        "word_count": 246,
+        "entities_found": 3
+      },
+      "tesseract": {
+        "quality_score": 0.9794,
+        "word_count": 356,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000032",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+    "fallback_used": true,
+    "selected_method": "tesseract",
+    "selected_quality_score": 0.8812,
+    "final_quality_status": "OCR_FALLBACK_VALID",
+    "final_character_count": 652,
+    "final_word_count": 153,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.358,
+        "word_count": 4,
+        "entities_found": 0
+      },
+      "paddleocr": {
+        "quality_score": 0.8009,
+        "word_count": 54,
+        "entities_found": 6
+      },
+      "tesseract": {
+        "quality_score": 0.8812,
+        "word_count": 153,
+        "entities_found": 4
+      }
+    }
+  },
+  {
+    "document_id": "DC_000033",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9993,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 19529,
+    "final_word_count": 3318,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9993,
+        "word_count": 3318,
+        "entities_found": 31
+      }
+    }
+  },
+  {
+    "document_id": "DC_000034",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9993,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 19529,
+    "final_word_count": 3318,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9993,
+        "word_count": 3318,
+        "entities_found": 31
+      }
+    }
+  },
+  {
+    "document_id": "DC_000035",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9992,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 19186,
+    "final_word_count": 3275,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9992,
+        "word_count": 3275,
+        "entities_found": 34
+      }
+    }
+  },
+  {
+    "document_id": "DC_000036",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9987,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1829,
+    "final_word_count": 239,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9987,
+        "word_count": 239,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000037",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9985,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 8407,
+    "final_word_count": 1369,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9985,
+        "word_count": 1369,
+        "entities_found": 21
+      }
+    }
+  },
+  {
+    "document_id": "DC_000038",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EXCESSIVE_SYMBOL_DENSITY_GARBAGE",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 0.8406,
+    "final_quality_status": "OCR_VALID",
+    "final_character_count": 456,
+    "final_word_count": 77,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.65,
+        "word_count": 218,
+        "entities_found": 7
+      },
+      "paddleocr": {
+        "quality_score": 0.8406,
+        "word_count": 77,
+        "entities_found": 10
+      },
+      "tesseract": {
+        "quality_score": 0.65,
+        "word_count": 291,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000039",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EXCESSIVE_SYMBOL_DENSITY_GARBAGE",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 0.8171,
+    "final_quality_status": "OCR_VALID",
+    "final_character_count": 352,
+    "final_word_count": 69,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.65,
+        "word_count": 195,
+        "entities_found": 10
+      },
+      "paddleocr": {
+        "quality_score": 0.8171,
+        "word_count": 69,
+        "entities_found": 8
+      },
+      "tesseract": {
+        "quality_score": 0.65,
+        "word_count": 220,
+        "entities_found": 10
+      }
+    }
+  },
+  {
+    "document_id": "DC_000040",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9988,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 21267,
+    "final_word_count": 3440,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9988,
+        "word_count": 3440,
+        "entities_found": 51
+      }
+    }
+  },
+  {
+    "document_id": "DC_000041",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EXCESSIVE_SYMBOL_DENSITY_GARBAGE",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 0.826,
+    "final_quality_status": "OCR_VALID",
+    "final_character_count": 290,
+    "final_word_count": 63,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.64,
+        "word_count": 145,
+        "entities_found": 9
+      },
+      "paddleocr": {
+        "quality_score": 0.826,
+        "word_count": 63,
+        "entities_found": 7
+      },
+      "tesseract": {
+        "quality_score": 0.65,
+        "word_count": 168,
+        "entities_found": 9
+      }
+    }
+  },
+  {
+    "document_id": "DC_000042",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EXCESSIVE_SYMBOL_DENSITY_GARBAGE",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 0.9761,
+    "final_quality_status": "OCR_VALID",
+    "final_character_count": 3225,
+    "final_word_count": 470,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.65,
+        "word_count": 697,
+        "entities_found": 11
+      },
+      "paddleocr": {
+        "quality_score": 0.9761,
+        "word_count": 470,
+        "entities_found": 16
+      },
+      "tesseract": {
+        "quality_score": 0.65,
+        "word_count": 1007,
+        "entities_found": 11
+      }
+    }
+  },
+  {
+    "document_id": "DC_000043",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EXCESSIVE_SYMBOL_DENSITY_GARBAGE",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 0.8924,
+    "final_quality_status": "OCR_VALID",
+    "final_character_count": 563,
+    "final_word_count": 106,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.65,
+        "word_count": 329,
+        "entities_found": 6
+      },
+      "paddleocr": {
+        "quality_score": 0.8924,
+        "word_count": 106,
+        "entities_found": 10
+      },
+      "tesseract": {
+        "quality_score": 0.65,
+        "word_count": 443,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000044",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EXCESSIVE_SYMBOL_DENSITY_GARBAGE",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 0.8824,
+    "final_quality_status": "OCR_VALID",
+    "final_character_count": 706,
+    "final_word_count": 99,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.638,
+        "word_count": 144,
+        "entities_found": 6
+      },
+      "paddleocr": {
+        "quality_score": 0.8824,
+        "word_count": 99,
+        "entities_found": 10
+      },
+      "tesseract": {
+        "quality_score": 0.65,
+        "word_count": 210,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000045",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9977,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 5816,
+    "final_word_count": 871,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9977,
+        "word_count": 871,
+        "entities_found": 10
+      }
+    }
+  },
+  {
+    "document_id": "DC_000046",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9215,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1157,
+    "final_word_count": 199,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9215,
+        "word_count": 199,
+        "entities_found": 4
+      }
+    }
+  },
+  {
+    "document_id": "DC_000047",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.87,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 805,
+    "final_word_count": 120,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.87,
+        "word_count": 120,
+        "entities_found": 4
+      }
+    }
+  },
+  {
+    "document_id": "DC_000048",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.454,
+    "final_quality_status": "LOW_CONFIDENCE",
+    "final_character_count": 152,
+    "final_word_count": 17,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.454,
+        "word_count": 17,
+        "entities_found": 1
+      },
+      "paddleocr": {
+        "quality_score": 0.454,
+        "word_count": 17,
+        "entities_found": 1
+      },
+      "tesseract": {
+        "quality_score": 0.454,
+        "word_count": 17,
+        "entities_found": 1
+      }
+    }
+  },
+  {
+    "document_id": "DC_000049",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.87,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 806,
+    "final_word_count": 120,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.87,
+        "word_count": 120,
+        "entities_found": 4
+      }
+    }
+  },
+  {
+    "document_id": "DC_000050",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9965,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 4893,
+    "final_word_count": 734,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9965,
+        "word_count": 734,
+        "entities_found": 9
+      }
+    }
+  },
+  {
+    "document_id": "DC_000051",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9199,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 967,
+    "final_word_count": 164,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9199,
+        "word_count": 164,
+        "entities_found": 4
+      }
+    }
+  },
+  {
+    "document_id": "DC_000052",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.87,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 801,
+    "final_word_count": 120,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.87,
+        "word_count": 120,
+        "entities_found": 4
+      }
+    }
+  },
+  {
+    "document_id": "DC_000053",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9964,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 5781,
+    "final_word_count": 848,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9964,
+        "word_count": 848,
+        "entities_found": 12
+      }
+    }
+  },
+  {
+    "document_id": "DC_000054",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9986,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1730,
+    "final_word_count": 296,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9986,
+        "word_count": 296,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000055",
+    "initial_route": "NATIVE_SUSPICIOUS",
+    "route_reason": "BORDERLINE_LOW_WORD_COUNT_POSSIBLE_SHORT_ORDER",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.616,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 172,
+    "final_word_count": 28,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.616,
+        "word_count": 28,
+        "entities_found": 3
+      },
+      "paddleocr": {
+        "quality_score": 0.616,
+        "word_count": 28,
+        "entities_found": 3
+      },
+      "tesseract": {
+        "quality_score": 0.616,
+        "word_count": 28,
+        "entities_found": 3
+      }
+    }
+  },
+  {
+    "document_id": "DC_000056",
+    "initial_route": "OCR_REQUIRED",
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER",
+    "fallback_used": true,
+    "selected_method": "tesseract",
+    "selected_quality_score": 0.8352,
+    "final_quality_status": "OCR_FALLBACK_VALID",
+    "final_character_count": 418,
+    "final_word_count": 72,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.358,
+        "word_count": 4,
+        "entities_found": 0
+      },
+      "paddleocr": {
+        "quality_score": 0.832,
+        "word_count": 66,
+        "entities_found": 7
+      },
+      "tesseract": {
+        "quality_score": 0.8352,
+        "word_count": 72,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000057",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.998,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 11762,
+    "final_word_count": 1954,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.998,
+        "word_count": 1954,
+        "entities_found": 41
+      }
+    }
+  },
+  {
+    "document_id": "DC_000058",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.818,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 381,
+    "final_word_count": 59,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.818,
+        "word_count": 59,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000059",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.862,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 521,
+    "final_word_count": 81,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.862,
+        "word_count": 81,
+        "entities_found": 5
+      }
+    }
+  },
+  {
+    "document_id": "DC_000060",
+    "initial_route": "NATIVE_SUSPICIOUS",
+    "route_reason": "BORDERLINE_LOW_WORD_COUNT_POSSIBLE_SHORT_ORDER",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.756,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 202,
+    "final_word_count": 28,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.756,
+        "word_count": 28,
+        "entities_found": 5
+      },
+      "paddleocr": {
+        "quality_score": 0.756,
+        "word_count": 28,
+        "entities_found": 5
+      },
+      "tesseract": {
+        "quality_score": 0.756,
+        "word_count": 28,
+        "entities_found": 5
+      }
+    }
+  },
+  {
+    "document_id": "DC_000061",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.786,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 292,
+    "final_word_count": 43,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.786,
+        "word_count": 43,
+        "entities_found": 9
+      }
+    }
+  },
+  {
+    "document_id": "DC_000062",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 1.0,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1259,
+    "final_word_count": 202,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 1.0,
+        "word_count": 202,
+        "entities_found": 5
+      }
+    }
+  },
+  {
+    "document_id": "DC_000063",
+    "initial_route": "NATIVE_SUSPICIOUS",
+    "route_reason": "BORDERLINE_LOW_WORD_COUNT_POSSIBLE_SHORT_ORDER",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.762,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 225,
+    "final_word_count": 31,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.762,
+        "word_count": 31,
+        "entities_found": 6
+      },
+      "paddleocr": {
+        "quality_score": 0.762,
+        "word_count": 31,
+        "entities_found": 6
+      },
+      "tesseract": {
+        "quality_score": 0.762,
+        "word_count": 31,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000064",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9991,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1385,
+    "final_word_count": 219,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9991,
+        "word_count": 219,
+        "entities_found": 12
+      }
+    }
+  },
+  {
+    "document_id": "DC_000065",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.672,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 344,
+    "final_word_count": 56,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.672,
+        "word_count": 56,
+        "entities_found": 3
+      }
+    }
+  },
+  {
+    "document_id": "DC_000066",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.786,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 236,
+    "final_word_count": 43,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.786,
+        "word_count": 43,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000067",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.997,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 2033,
+    "final_word_count": 290,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.997,
+        "word_count": 290,
+        "entities_found": 8
+      }
+    }
+  },
+  {
+    "document_id": "DC_000068",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9991,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 7837,
+    "final_word_count": 1231,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9991,
+        "word_count": 1231,
+        "entities_found": 32
+      }
+    }
+  },
+  {
+    "document_id": "DC_000069",
+    "initial_route": "NATIVE_SUSPICIOUS",
+    "route_reason": "BORDERLINE_LOW_WORD_COUNT_POSSIBLE_SHORT_ORDER",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.752,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 211,
+    "final_word_count": 26,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.752,
+        "word_count": 26,
+        "entities_found": 6
+      },
+      "paddleocr": {
+        "quality_score": 0.748,
+        "word_count": 24,
+        "entities_found": 6
+      },
+      "tesseract": {
+        "quality_score": 0.752,
+        "word_count": 26,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000070",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.712,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 261,
+    "final_word_count": 41,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.712,
+        "word_count": 41,
+        "entities_found": 4
+      }
+    }
+  },
+  {
+    "document_id": "DC_000071",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8388,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 386,
+    "final_word_count": 71,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8388,
+        "word_count": 71,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000072",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 617,
+    "final_word_count": 100,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9,
+        "word_count": 100,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000073",
+    "initial_route": "NATIVE_SUSPICIOUS",
+    "route_reason": "MODERATE_SYMBOL_NOISE",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.999,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 3678,
+    "final_word_count": 539,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.999,
+        "word_count": 539,
+        "entities_found": 12
+      },
+      "paddleocr": {
+        "quality_score": 0.9989,
+        "word_count": 535,
+        "entities_found": 12
+      },
+      "tesseract": {
+        "quality_score": 0.999,
+        "word_count": 539,
+        "entities_found": 12
+      }
+    }
+  },
+  {
+    "document_id": "DC_000074",
+    "initial_route": "NATIVE_SUSPICIOUS",
+    "route_reason": "MODERATE_SYMBOL_NOISE",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 0.999,
+    "final_quality_status": "OCR_VALID",
+    "final_character_count": 2519,
+    "final_word_count": 400,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9988,
+        "word_count": 417,
+        "entities_found": 14
+      },
+      "paddleocr": {
+        "quality_score": 0.999,
+        "word_count": 400,
+        "entities_found": 14
+      },
+      "tesseract": {
+        "quality_score": 0.9988,
+        "word_count": 417,
+        "entities_found": 14
+      }
+    }
+  },
+  {
+    "document_id": "DC_000075",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9771,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 3589,
+    "final_word_count": 660,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9771,
+        "word_count": 660,
+        "entities_found": 8
+      }
+    }
+  },
+  {
+    "document_id": "DC_000076",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9746,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 2656,
+    "final_word_count": 448,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9746,
+        "word_count": 448,
+        "entities_found": 12
+      }
+    }
+  },
+  {
+    "document_id": "DC_000077",
+    "initial_route": "NATIVE_SUSPICIOUS",
+    "route_reason": "MODERATE_SYMBOL_NOISE",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 1.0,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 2938,
+    "final_word_count": 409,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 1.0,
+        "word_count": 409,
+        "entities_found": 10
+      },
+      "paddleocr": {
+        "quality_score": 1.0,
+        "word_count": 400,
+        "entities_found": 10
+      },
+      "tesseract": {
+        "quality_score": 1.0,
+        "word_count": 409,
+        "entities_found": 10
+      }
+    }
+  },
+  {
+    "document_id": "DC_000078",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9741,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 2694,
+    "final_word_count": 475,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9741,
+        "word_count": 475,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000079",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9712,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 2213,
+    "final_word_count": 391,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9712,
+        "word_count": 391,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000080",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9994,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 6411,
+    "final_word_count": 990,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9994,
+        "word_count": 990,
+        "entities_found": 15
+      }
+    }
+  },
+  {
+    "document_id": "DC_000081",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 1.0,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 2822,
+    "final_word_count": 455,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 1.0,
+        "word_count": 455,
+        "entities_found": 9
+      }
+    }
+  },
+  {
+    "document_id": "DC_000082",
+    "initial_route": "NATIVE_SUSPICIOUS",
+    "route_reason": "MODERATE_SYMBOL_NOISE",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9983,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 2895,
+    "final_word_count": 412,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9983,
+        "word_count": 412,
+        "entities_found": 11
+      },
+      "paddleocr": {
+        "quality_score": 0.998,
+        "word_count": 410,
+        "entities_found": 11
+      },
+      "tesseract": {
+        "quality_score": 0.9983,
+        "word_count": 412,
+        "entities_found": 11
+      }
+    }
+  },
+  {
+    "document_id": "DC_000083",
+    "initial_route": "NATIVE_SUSPICIOUS",
+    "route_reason": "MODERATE_SYMBOL_NOISE",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9976,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 4032,
+    "final_word_count": 609,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9976,
+        "word_count": 609,
+        "entities_found": 14
+      },
+      "paddleocr": {
+        "quality_score": 0.9972,
+        "word_count": 593,
+        "entities_found": 13
+      }
+    }
+  },
+  {
+    "document_id": "DC_000084",
+    "initial_route": "NATIVE_SUSPICIOUS",
+    "route_reason": "MODERATE_SYMBOL_NOISE",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9997,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 3595,
+    "final_word_count": 499,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9997,
+        "word_count": 499,
+        "entities_found": 11
+      },
+      "paddleocr": {
+        "quality_score": 0.9996,
+        "word_count": 494,
+        "entities_found": 11
+      }
+    }
+  },
+  {
+    "document_id": "DC_000085",
+    "initial_route": "NATIVE_SUSPICIOUS",
+    "route_reason": "MODERATE_SYMBOL_NOISE",
+    "fallback_used": false,
+    "selected_method": "paddleocr",
+    "selected_quality_score": 0.9996,
+    "final_quality_status": "OCR_VALID",
+    "final_character_count": 2907,
+    "final_word_count": 472,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9993,
+        "word_count": 502,
+        "entities_found": 16
+      },
+      "paddleocr": {
+        "quality_score": 0.9996,
+        "word_count": 472,
+        "entities_found": 16
+      }
+    }
+  },
+  {
+    "document_id": "DC_000086",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9773,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 3511,
+    "final_word_count": 619,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9773,
+        "word_count": 619,
+        "entities_found": 8
+      }
+    }
+  },
+  {
+    "document_id": "DC_000087",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9988,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 3061,
+    "final_word_count": 471,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9988,
+        "word_count": 471,
+        "entities_found": 10
+      }
+    }
+  },
+  {
+    "document_id": "DC_000088",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9796,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 3116,
+    "final_word_count": 546,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9796,
+        "word_count": 546,
+        "entities_found": 13
+      }
+    }
+  },
+  {
+    "document_id": "DC_000089",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9761,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 2560,
+    "final_word_count": 441,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9761,
+        "word_count": 441,
+        "entities_found": 10
+      }
+    }
+  },
+  {
+    "document_id": "DC_000090",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.975,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 2452,
+    "final_word_count": 436,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.975,
+        "word_count": 436,
+        "entities_found": 10
+      }
+    }
+  },
+  {
+    "document_id": "DC_000091",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8331,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 428,
+    "final_word_count": 68,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8331,
+        "word_count": 68,
+        "entities_found": 8
+      }
+    }
+  },
+  {
+    "document_id": "DC_000092",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.806,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 335,
+    "final_word_count": 53,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.806,
+        "word_count": 53,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000093",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8718,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 564,
+    "final_word_count": 87,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8718,
+        "word_count": 87,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000094",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9982,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1359,
+    "final_word_count": 209,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9982,
+        "word_count": 209,
+        "entities_found": 8
+      }
+    }
+  },
+  {
+    "document_id": "DC_000095",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.858,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 486,
+    "final_word_count": 79,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.858,
+        "word_count": 79,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000096",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9977,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1080,
+    "final_word_count": 184,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9977,
+        "word_count": 184,
+        "entities_found": 11
+      }
+    }
+  },
+  {
+    "document_id": "DC_000097",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.858,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 486,
+    "final_word_count": 79,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.858,
+        "word_count": 79,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000098",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9977,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1080,
+    "final_word_count": 184,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9977,
+        "word_count": 184,
+        "entities_found": 11
+      }
+    }
+  },
+  {
+    "document_id": "DC_000099",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8632,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 506,
+    "final_word_count": 84,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8632,
+        "word_count": 84,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000100",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8879,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 589,
+    "final_word_count": 95,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8879,
+        "word_count": 95,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000101",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9251,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 710,
+    "final_word_count": 116,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9251,
+        "word_count": 116,
+        "entities_found": 5
+      }
+    }
+  },
+  {
+    "document_id": "DC_000102",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8053,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 560,
+    "final_word_count": 92,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8053,
+        "word_count": 92,
+        "entities_found": 4
+      }
+    }
+  },
+  {
+    "document_id": "DC_000103",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8536,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 514,
+    "final_word_count": 78,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8536,
+        "word_count": 78,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000104",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9996,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 2802,
+    "final_word_count": 451,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9996,
+        "word_count": 451,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000105",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9424,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 752,
+    "final_word_count": 122,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9424,
+        "word_count": 122,
+        "entities_found": 13
+      }
+    }
+  },
+  {
+    "document_id": "DC_000106",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.7632,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 439,
+    "final_word_count": 68,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.7632,
+        "word_count": 68,
+        "entities_found": 4
+      }
+    }
+  },
+  {
+    "document_id": "DC_000107",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8392,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 430,
+    "final_word_count": 71,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8392,
+        "word_count": 71,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000108",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9989,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1101,
+    "final_word_count": 170,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9989,
+        "word_count": 170,
+        "entities_found": 12
+      }
+    }
+  },
+  {
+    "document_id": "DC_000109",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.906,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 790,
+    "final_word_count": 103,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.906,
+        "word_count": 103,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000110",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.944,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 827,
+    "final_word_count": 122,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.944,
+        "word_count": 122,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000111",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9989,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1075,
+    "final_word_count": 153,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9989,
+        "word_count": 153,
+        "entities_found": 17
+      }
+    }
+  },
+  {
+    "document_id": "DC_000112",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.926,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 766,
+    "final_word_count": 113,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.926,
+        "word_count": 113,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000113",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.98,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 939,
+    "final_word_count": 140,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.98,
+        "word_count": 140,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000114",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.948,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 860,
+    "final_word_count": 124,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.948,
+        "word_count": 124,
+        "entities_found": 10
+      }
+    }
+  },
+  {
+    "document_id": "DC_000115",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9989,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 7816,
+    "final_word_count": 1227,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9989,
+        "word_count": 1227,
+        "entities_found": 31
+      }
+    }
+  },
+  {
+    "document_id": "DC_000116",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9981,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1317,
+    "final_word_count": 193,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9981,
+        "word_count": 193,
+        "entities_found": 9
+      }
+    }
+  },
+  {
+    "document_id": "DC_000117",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.914,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 717,
+    "final_word_count": 107,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.914,
+        "word_count": 107,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000118",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.948,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 758,
+    "final_word_count": 124,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.948,
+        "word_count": 124,
+        "entities_found": 13
+      }
+    }
+  },
+  {
+    "document_id": "DC_000119",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9984,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 16989,
+    "final_word_count": 2568,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9984,
+        "word_count": 2568,
+        "entities_found": 38
+      }
+    }
+  },
+  {
+    "document_id": "DC_000120",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.912,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 660,
+    "final_word_count": 106,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.912,
+        "word_count": 106,
+        "entities_found": 15
+      }
+    }
+  },
+  {
+    "document_id": "DC_000121",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.88,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 611,
+    "final_word_count": 90,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.88,
+        "word_count": 90,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000122",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 1.0,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1379,
+    "final_word_count": 218,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 1.0,
+        "word_count": 218,
+        "entities_found": 14
+      }
+    }
+  },
+  {
+    "document_id": "DC_000123",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8497,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 535,
+    "final_word_count": 76,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8497,
+        "word_count": 76,
+        "entities_found": 5
+      }
+    }
+  },
+  {
+    "document_id": "DC_000124",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.912,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 660,
+    "final_word_count": 106,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.912,
+        "word_count": 106,
+        "entities_found": 15
+      }
+    }
+  },
+  {
+    "document_id": "DC_000125",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.824,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 431,
+    "final_word_count": 62,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.824,
+        "word_count": 62,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000126",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.862,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 494,
+    "final_word_count": 81,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.862,
+        "word_count": 81,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000127",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.964,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 912,
+    "final_word_count": 134,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.964,
+        "word_count": 134,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000128",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9976,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1557,
+    "final_word_count": 236,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9976,
+        "word_count": 236,
+        "entities_found": 9
+      }
+    }
+  },
+  {
+    "document_id": "DC_000129",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9932,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1259,
+    "final_word_count": 180,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9932,
+        "word_count": 180,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000130",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9083,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 709,
+    "final_word_count": 105,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9083,
+        "word_count": 105,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000131",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9468,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 930,
+    "final_word_count": 128,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9468,
+        "word_count": 128,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000132",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.995,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1706,
+    "final_word_count": 257,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.995,
+        "word_count": 257,
+        "entities_found": 19
+      }
+    }
+  },
+  {
+    "document_id": "DC_000133",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9987,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1876,
+    "final_word_count": 234,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9987,
+        "word_count": 234,
+        "entities_found": 13
+      }
+    }
+  },
+  {
+    "document_id": "DC_000134",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9986,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 4506,
+    "final_word_count": 625,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9986,
+        "word_count": 625,
+        "entities_found": 13
+      }
+    }
+  },
+  {
+    "document_id": "DC_000135",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9955,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1101,
+    "final_word_count": 162,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9955,
+        "word_count": 162,
+        "entities_found": 8
+      }
+    }
+  },
+  {
+    "document_id": "DC_000136",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9143,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 728,
+    "final_word_count": 108,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9143,
+        "word_count": 108,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000137",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9979,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1187,
+    "final_word_count": 175,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9979,
+        "word_count": 175,
+        "entities_found": 10
+      }
+    }
+  },
+  {
+    "document_id": "DC_000138",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9988,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 2055,
+    "final_word_count": 299,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9988,
+        "word_count": 299,
+        "entities_found": 14
+      }
+    }
+  },
+  {
+    "document_id": "DC_000139",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 1.0,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1588,
+    "final_word_count": 236,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 1.0,
+        "word_count": 236,
+        "entities_found": 8
+      }
+    }
+  },
+  {
+    "document_id": "DC_000140",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9977,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1058,
+    "final_word_count": 152,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9977,
+        "word_count": 152,
+        "entities_found": 10
+      }
+    }
+  },
+  {
+    "document_id": "DC_000141",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9982,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1383,
+    "final_word_count": 191,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9982,
+        "word_count": 191,
+        "entities_found": 10
+      }
+    }
+  },
+  {
+    "document_id": "DC_000142",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9956,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1380,
+    "final_word_count": 152,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9956,
+        "word_count": 152,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000143",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9979,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1189,
+    "final_word_count": 181,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9979,
+        "word_count": 181,
+        "entities_found": 15
+      }
+    }
+  },
+  {
+    "document_id": "DC_000144",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.999,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1228,
+    "final_word_count": 181,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.999,
+        "word_count": 181,
+        "entities_found": 9
+      }
+    }
+  },
+  {
+    "document_id": "DC_000145",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9969,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1169,
+    "final_word_count": 197,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9969,
+        "word_count": 197,
+        "entities_found": 9
+      }
+    }
+  },
+  {
+    "document_id": "DC_000146",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8923,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 658,
+    "final_word_count": 98,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8923,
+        "word_count": 98,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000147",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 1.0,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1975,
+    "final_word_count": 288,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 1.0,
+        "word_count": 288,
+        "entities_found": 10
+      }
+    }
+  },
+  {
+    "document_id": "DC_000148",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8174,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 473,
+    "final_word_count": 60,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8174,
+        "word_count": 60,
+        "entities_found": 8
+      }
+    }
+  },
+  {
+    "document_id": "DC_000149",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 1.0,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1237,
+    "final_word_count": 152,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 1.0,
+        "word_count": 152,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000150",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9993,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 17243,
+    "final_word_count": 3066,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9993,
+        "word_count": 3066,
+        "entities_found": 44
+      }
+    }
+  },
+  {
+    "document_id": "DC_000151",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.9141,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 631,
+    "final_word_count": 108,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.9141,
+        "word_count": 108,
+        "entities_found": 5
+      }
+    }
+  },
+  {
+    "document_id": "DC_000152",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8436,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 504,
+    "final_word_count": 73,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8436,
+        "word_count": 73,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000153",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8718,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 568,
+    "final_word_count": 87,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8718,
+        "word_count": 87,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000154",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 1.0,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 1223,
+    "final_word_count": 160,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 1.0,
+        "word_count": 160,
+        "entities_found": 8
+      }
+    }
+  },
+  {
+    "document_id": "DC_000155",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8558,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 547,
+    "final_word_count": 79,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8558,
+        "word_count": 79,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000156",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.89,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 615,
+    "final_word_count": 96,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.89,
+        "word_count": 96,
+        "entities_found": 6
+      }
+    }
+  },
+  {
+    "document_id": "DC_000157",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.799,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 404,
+    "final_word_count": 51,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.799,
+        "word_count": 51,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000158",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.7964,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 345,
+    "final_word_count": 50,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.7964,
+        "word_count": 50,
+        "entities_found": 5
+      }
+    }
+  },
+  {
+    "document_id": "DC_000159",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.946,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 975,
+    "final_word_count": 123,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.946,
+        "word_count": 123,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000160",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.8051,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 425,
+    "final_word_count": 54,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.8051,
+        "word_count": 54,
+        "entities_found": 7
+      }
+    }
+  },
+  {
+    "document_id": "DC_000161",
+    "initial_route": "NATIVE_GOOD",
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM",
+    "fallback_used": false,
+    "selected_method": "native",
+    "selected_quality_score": 0.7986,
+    "final_quality_status": "NATIVE_VALID",
+    "final_character_count": 357,
+    "final_word_count": 51,
+    "detected_script": "Latin (English)",
+    "script_confidence": 1.0,
+    "candidate_scores": {
+      "native": {
+        "quality_score": 0.7986,
+        "word_count": 51,
+        "entities_found": 5
+      }
+    }
+  }
+]

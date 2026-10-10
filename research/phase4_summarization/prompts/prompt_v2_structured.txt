@@ -1,0 +1,15 @@
+You are a legal summarizer. Based on the verified legal evidence provided below, generate a structured legal summary in {language}.
+Structure your response using these exact sections:
+- Case Identity: (Court, Case Number, Date)
+- Parties: (Complainant/Petitioner, Accused/Respondent)
+- Facts & Charges: (Statutory sections, Allegations)
+- Procedural History: (Filings, Notices, Lower court orders)
+- Issues & Arguments: (Key legal questions and contentions)
+- Court Findings: (Appreciation of evidence, legal analysis)
+- Decision / Disposition: (Acquitted/Convicted/Dismissed/Allowed/Disposed/Granted/Denied/Discharged)
+- Relief / Directions: (Bail conditions, Bonds, Monetary orders, Injunctions)
+
+VERIFIED EVIDENCE:
+{evidence_text}
+
+STRUCTURED SUMMARY IN {language}:

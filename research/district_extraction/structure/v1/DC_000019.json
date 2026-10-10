@@ -1,0 +1,161 @@
+{
+  "document_id": "DC_000019",
+  "source": {
+    "sha256": "11f4e9f813aa19211a940b646b44b8d30a2c70bd05804139237b0013ec9c853b",
+    "filename": "orders_2004_200900000262010_1.pdf",
+    "source_record_id": "DC-S3-019_2_10_1020104_2010_orders_2004_200900000262010_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 61826
+  },
+  "routing": {
+    "initial_route": "OCR_REQUIRED",
+    "fallback_used": true,
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER"
+  },
+  "extraction": {
+    "selected_method": "tesseract",
+    "extractor_name": "PyMuPDF-Tesseract",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.953
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 844,
+      "word_count": 178,
+      "raw_text": "—\nee\na\na pr\nOF\nSri.BPR,\nCc\n£-P.No, 26/2010\n|\n< in\nO+5+146.08-2004.\n:\n;\nSte\nBee eeee\nee es |\n5-12-2016\n(Contd.)\nNote: It is suimittedthat the D.Hr.\nBaid process of Rs.7,000/- towards\ndegention batta and Smt.V.Hymavathi,\nField Assistant was on leave to-day\n|\ni.e., on 5-12-2016, hence may order to\n|\ndetain the 4.pr for to-day in the\n!\neaitt custody.\n|\nSubmitted.\nVen\nPormi ttédy) to detain the d.Ur in\n-\nGUstedy of Sri.T.Ramudu, Process\n|\ngerver till tomorrow.\n:\n|\n)\nor.\n—\ne\nia\n| 6rts ps: memo phe a\n|\nA\n_iii,\n|\nDug anc WOK\n(o>\nfut\nSyollencet®\n|\n“i sg\neek\nop\nQ\nones\nPriv,\n;\nMe\nsae\non SAL om A\ncat Orely\nste Poyr—ti 9 frecesrs Ay 299) — na HC\n(Bee tien ctegutrdest 1 26 Co wt\n|\n|\nFun, es Coe, enetiv\nty samJ\n|\nMehoate\nch ome (op 1Aeinked,\nbene,\nty oretuy |r cats aims a a\nCtihe penSass\nor, Te Pay\nore\nnny (pate\n& napaad\n—\nge DHE\npipes\n*\nbebe?\nsee"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 844,
+      "word_count": 178,
+      "normalized_text": "-\nee\na\na pr\nOF\nSri.BPR,\nCc\n£-P.No, 26/2010\n|\n< in\nO+5+146.08-2004.\n:\n;\nSte\nBee eeee\nee es |\n5-12-2016\n(Contd.)\nNote: It is suimittedthat the D.Hr.\nBaid process of Rs.7,000/- towards\ndegention batta and Smt.V.Hymavathi,\nField Assistant was on leave to-day\n|\ni.e., on 5-12-2016, hence may order to\n|\ndetain the 4.pr for to-day in the\n!\neaitt custody.\n|\nSubmitted.\nVen\nPormi ttédy) to detain the d.Ur in\n-\nGUstedy of Sri.T.Ramudu, Process\n|\ngerver till tomorrow.\n:\n|\n)\nor.\n-\ne\nia\n| 6rts ps: memo phe a\n|\nA\n_iii,\n|\nDug anc WOK\n(o>\nfut\nSyollencet®\n|\n\"i sg\neek\nop\nQ\nones\nPriv,\n;\nMe\nsae\non SAL om A\ncat Orely\nste Poyr-ti 9 frecesrs Ay 299) - na HC\n(Bee tien ctegutrdest 1 26 Co wt\n|\n|\nFun, es Coe, enetiv\nty samJ\n|\nMehoate\nch ome (op 1Aeinked,\nbene,\nty oretuy |r cats aims a a\nCtihe penSass\nor, Te Pay\nore\nnny (pate\n& napaad\n-\nge DHE\npipes\n*\nbebe?\nsee"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 1,
+    "total_sentences": 9,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 844,
+        "word_count": 178,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000019_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 844,
+            "word_count": 178,
+            "sentence_count": 9,
+            "text": "-\nee\na\na pr\nOF\nSri.BPR,\nCc\n£-P.No, 26/2010\n|\n< in\nO+5+146.08-2004.\n:\n;\nSte\nBee eeee\nee es |\n5-12-2016\n(Contd.)\nNote: It is suimittedthat the D.Hr.\nBaid process of Rs.7,000/- towards\ndegention batta and Smt.V.Hymavathi,\nField Assistant was on leave to-day\n|\ni.e., on 5-12-2016, hence may order to\n|\ndetain the 4.pr for to-day in the\n!\neaitt custody.\n|\nSubmitted.\nVen\nPormi ttédy) to detain the d.Ur in\n-\nGUstedy of Sri.T.Ramudu, Process\n|\ngerver till tomorrow.\n:\n|\n)\nor.\n-\ne\nia\n| 6rts ps: memo phe a\n|\nA\n_iii,\n|\nDug anc WOK\n(o>\nfut\nSyollencet®\n|\n\"i sg\neek\nop\nQ\nones\nPriv,\n;\nMe\nsae\non SAL om A\ncat Orely\nste Poyr-ti 9 frecesrs Ay 299) - na HC\n(Bee tien ctegutrdest 1 26 Co wt\n|\n|\nFun, es Coe, enetiv\nty samJ\n|\nMehoate\nch ome (op 1Aeinked,\nbene,\nty oretuy |r cats aims a a\nCtihe penSass\nor, Te Pay\nore\nnny (pate\n& napaad\n-\nge DHE\npipes\n*\nbebe?\nsee",
+            "sentences": [
+              {
+                "sentence_id": "DC_000019_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 66,
+                "word_count": 14,
+                "text": "-\nee\na\na pr\nOF\nSri.BPR,\nCc\n£-P.No, 26/2010\n|\n< in\nO+5+146.08-2004."
+              },
+              {
+                "sentence_id": "DC_000019_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 79,
+                "word_count": 16,
+                "text": ":\n;\nSte\nBee eeee\nee es |\n5-12-2016\n(Contd.)\nNote: It is suimittedthat the D.Hr."
+              },
+              {
+                "sentence_id": "DC_000019_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 186,
+                "word_count": 32,
+                "text": "Baid process of Rs.7,000/- towards\ndegention batta and Smt.V.Hymavathi,\nField Assistant was on leave to-day\n|\ni.e., on 5-12-2016, hence may order to\n|\ndetain the 4.pr for to-day in the\n!"
+              },
+              {
+                "sentence_id": "DC_000019_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 14,
+                "word_count": 2,
+                "text": "eaitt custody."
+              },
+              {
+                "sentence_id": "DC_000019_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 12,
+                "word_count": 2,
+                "text": "|\nSubmitted."
+              },
+              {
+                "sentence_id": "DC_000019_P001_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 97,
+                "word_count": 17,
+                "text": "Ven\nPormi ttédy) to detain the d.Ur in\n-\nGUstedy of Sri.T.Ramudu, Process\n|\ngerver till tomorrow."
+              },
+              {
+                "sentence_id": "DC_000019_P001_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 9,
+                "word_count": 4,
+                "text": ":\n|\n)\nor."
+              },
+              {
+                "sentence_id": "DC_000019_P001_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 370,
+                "word_count": 90,
+                "text": "-\ne\nia\n| 6rts ps: memo phe a\n|\nA\n_iii,\n|\nDug anc WOK\n(o>\nfut\nSyollencet®\n|\n\"i sg\neek\nop\nQ\nones\nPriv,\n;\nMe\nsae\non SAL om A\ncat Orely\nste Poyr-ti 9 frecesrs Ay 299) - na HC\n(Bee tien ctegutrdest 1 26 Co wt\n|\n|\nFun, es Coe, enetiv\nty samJ\n|\nMehoate\nch ome (op 1Aeinked,\nbene,\nty oretuy |r cats aims a a\nCtihe penSass\nor, Te Pay\nore\nnny (pate\n& napaad\n-\nge DHE\npipes\n*\nbebe?"
+              },
+              {
+                "sentence_id": "DC_000019_P001_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 3,
+                "word_count": 1,
+                "text": "see"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 2,
+    "state_name": "Andhra Pradesh",
+    "district_code": 10,
+    "district_name": "Kurnool",
+    "court_complex_code": 1020104,
+    "court_complex_name": "Junior Civil Judge`s Court, Alur (Taluka)",
+    "year": 2010,
+    "case_type": "nan",
+    "case_number": "200900000262010",
+    "pdf_title": "XSane scanned image",
+    "pdf_author": "",
+    "pdf_creator": "XSane version 0.999 (sane 1.0) - by Oliver Rauch",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260615095005Z00'00'",
+    "pdf_mod_date": "D:20260615095005Z00'00'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.953,
+    "quality_tier": "OCR_FALLBACK_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "11f4e9f813aa19211a940b646b44b8d30a2c70bd05804139237b0013ec9c853b",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.004572"
+  }
+}

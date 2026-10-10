@@ -1,0 +1,1301 @@
+--- PAGE 1 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 1 of 27 
+ 
+ 
+* 
+IN  THE  HIGH  COURT  OF  DELHI  AT  NEW  DELHI 
+%  
+ 
+ 
+ 
+ 
+    Judgment delivered on: 13.12.2024  
++  
+ITA 501/2024 
+THE 
+PR. 
+COMMISSIONER 
+OF 
+INCOME 
+TAX 
+- CENTRAL -1 
+ 
+ 
+ 
+ 
+          .....Appellant 
+ 
+ 
+ 
+ 
+ 
+versus 
+ 
+ 
+CAPITAL POWER SYSTEMS LTD.  
+       .....Respondent 
+ 
+Advocates who appeared in this case: 
+For the Appellant :  
+Mr. Ruchir Bhatia, Senior Standing Counsel 
+For the Respondent : 
+Mr. Inder Paul Bansal, Mr. Vivek Bansal, Mr. 
+Vishal Chechi and Ms. Pooja Rani, Advocates  
+ 
+CORAM 
+HON’BLE THE ACTING CHIEF JUSTICE 
+HON’BLE MS JUSTICE SWARANA KANTA SHARMA 
+JUDGMENT 
+SWARANA KANTA SHARMA, J 
+1. 
+The Revenue has preferred the present appeal under Section 
+260A of the Income Tax Act, 1961 [hereafter „the Act‟] impugning an 
+order dated 06.11.2023 [hereafter „the impugned order‟] passed by the 
+learned Income Tax Appellate Tribunal [hereafter „the learned ITAT‟] 
+in ITA No. 211/Del/2023, in respect of the assessment year (AY) 
+2007-08. 
+ 
+FACTUAL BACKGROUND 
+2. 
+Facts leading to the filing of the present appeal are that a search 
+and seizure operation under Section 132 of the Act was carried out in 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 2 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 2 of 27 
+ 
+the case of Capital Meter Group on 26.06.2006. Sh. Pawan Kumar 
+Bansal was the Chief Executive Officer (CEO) and Director of Capital 
+Power Systems Ltd. [hereafter also referred to as „the assessee‟] and 
+Sh. Mahesh Kumar Gupta was another Director of the assessee – 
+which is one of the companies of the Capital Meter Group. During the 
+post-search proceedings, on 01.09.2006, Sh. Pawan Kumar Bansal had 
+submitted a letter, written on the letterhead of assessee, duly signed by 
+him as the CEO of the assessee, wherein an income of ₹7 crores was 
+surrendered and disclosed. This surrender was again reiterated by Sh. 
+Pawan Kumar Bansal and affirmed by him in his statements recorded 
+under Section 132(4) of the Act on 08.09.2006 and 12.09.2006. In his 
+statement dated 12.09.2006, Sh. Pawan Kumar Bansal also furnished 
+the break-up of the undisclosed income of ₹7 crores in two names, i.e., 
+partly in his name and partly in the name of Sh. Mahesh Kumar Gupta. 
+This break-up, given by Sh. Pawan Kumar Bansal, is reproduced 
+hereunder:  
+“              Name   
+                    Undisclosed income  
+1. Sh. Pawan Kumar Bansal  
+ 
+Rs.3,55,000,00/- 
+2. Sh. Mahesh Kumar Gupta  
+ 
+Rs. 3,45,000,00/- 
+                Total   
+ 
+ 
+Rs. 7,00,000,00/- 
+ 
+The above money of Rs. 7 crores, received on account of 
+undisclosed income from unaccounted property dealings have 
+been invested in share capital/cash found. The investment have 
+been made by me and Sh. Mahesh Kumar Gupta and the details 
+are as follows:-  
+ 
+Name  
+  
+ 
+ 
+Undisclosed investment  
+1. Shri Pawan Kumar Bansal    : A. cash found at the 
+residence of Vikram Bansal 
+amounting to Rs.20,00,000/-. 
+ 
+B. investment in share capital 
+of 
+various 
+companies 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 3 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 3 of 27 
+ 
+amounting 
+to 
+Rs.3,35,00,000/- 
+Rs.3,55,00,000/- 
+ 
+2. Shri Mahesh Kumar Bansal   : Investment in share capital  
+of 
+various 
+companies 
+amounting 
+to 
+Rs.3,45,00,000/-  
+Rs.3,45,00,000/-  
+ 
+Total of 1 & 2  
+Rs.7,00,00,000/-                    
+ 
+3. 
+However, in his Return of Income for AY 2007-08, Sh. Pawan 
+Kumar Bansal only disclosed an amount of ₹20 lakhs as undisclosed 
+cash found, and did not include the remaining amount of ₹6.8 crores in 
+his Returned Income. As a result, while passing the final assessment 
+order, the concerned Assessing Officer added the amount of ₹6.8 
+crores to the income of Sh. Pawan Kumar Bansal – ₹3.35 crores on 
+substantive basis and ₹3.45 crores on protective basis – and ₹3.45 
+crores in the hands of Sh. Mahesh Kumar Gupta on substantive basis. 
+4. 
+Both the said individuals preferred appeals before the learned 
+Commissioner of Income Tax (Appeals), who vide order dated 
+23.09.2010, directed the deletion of the addition made by the 
+Assessing Officer to the extent of ₹3,07,42,000/- out of the addition of 
+₹3.35 crores made on substantive basis in the hands of Sh. Pawan 
+Kumar Bansal, deletion of ₹3.45 crore added to the income of Sh. 
+Pawan Kumar Bansal on protective basis, and also ordered the deletion 
+of the addition of ₹3.45 crores in the hands of Shri Mahesh Kumar 
+Gupta.  
+5. 
+The order of the Commissioner of Income Tax (Appeals) was 
+assailed by the Revenue as well as by Sh. Pawan Kumar Bansal before 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 4 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 4 of 27 
+ 
+the learned ITAT by way of filing cross-appeals i.e. ITA No. 
+5201/Del/2010 (captioned Sh. Pawan Kumar Bansal v. Deputy 
+Commissioner of Income Tax, Circle-16, New Delhi), ITA No. 
+5374/Del/2010 (captioned Assistant Commissioner of Income Tax, 
+Circle-16, New Delhi v. Sh. Pawan Kumar Bansal) and 
+5375/Del/2010 (captioned Assistant Commissioner of Income Tax, 
+Circle-16, New Delhi v. Sh. Mahesh Kumar Gupta). The learned 
+ITAT, by way of order dated 30.09.2014, approved the findings of the 
+Commissioner of Income Tax (Appeals) and held that the cumulative 
+effect of the statements given by Sh. Pawan Kumar Bansal should 
+have been considered, which did not reveal the income of ₹7 crores in 
+the hands of Sh. Pawan Kumar Bansal. The learned ITAT also held 
+that there were some contradictions in the statements given by Sh. 
+Pawan Kumar Bansal which rendered such statements unreliable. The 
+learned ITAT accepted that the assessment was required to be framed 
+with reference to the material which was seized during the search, and 
+restricted the addition made to his income to such seized material only.  
+6. 
+The Revenue preferred an appeal against the aforesaid decision 
+of the learned ITAT before this Court in ITA 529/2015, captioned Pr. 
+Commissioner of Income Tax v. Pawan Kumar Bansal. The 
+Coordinate Bench of this Court dismissed the said appeal vide order 
+dated 29.07.2015, and upheld the findings of the learned ITAT. The 
+Court concurred with the course adopted by the Commissioner of 
+Income Tax (Appeals), and approved by the learned ITAT, to 
+determine the undisclosed income on the basis of loose papers found 
+during the search. 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 5 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 5 of 27 
+ 
+7. 
+The assessee had filed its Return of Income for AY 2007-08 on 
+31.10.2007, declaring an income of ₹80,53,110/-. The case of the 
+assessee was picked up for scrutiny. However, eventually, an 
+assessment order was passed on 31.12.2008 whereby the income of 
+₹80,53,110/-, returned by the assessee, was accepted.  
+8. 
+However, the Deputy Commissioner of Income Tax, Circle- 
+5(2), New Delhi [hereafter „the AO‟] issued a notice under Section 148 
+of the Act on 19.11.2015 to the assessee, proposing to reassess its 
+income for the AY 2007-08 on the ground that there were reasons to 
+believe that the income of the assessee for the said AY had escaped 
+assessment. In the reasons for initiating action under Section 148 of 
+the Act separately recorded by the AO, the AO noted that in the 
+proceedings pertaining to Sh. Pawan Kumar Bansal, the learned ITAT 
+(in ITA No. 5201/Del/2010 & connected matters) as well as the 
+Coordinate Bench of Court (in ITA 529/2015) had concluded that “the 
+income of Rs. 7 crores was disclosed by Capital Power Systems Ltd. 
+and not by individuals”, and therefore, the said income was to be 
+added in the hands of the assessee. The AO, therefore, invoked the 
+provisions of Section 150 of the Act on the premise that there was a 
+conclusive finding of the learned ITAT as well as this Court which 
+necessitated the issuance of notice under Section 148 of the Act for the 
+purpose of reassessment of the assessee‟s income. The relevant 
+portions of the reasons for initiating action under Section 148 of the 
+Act recorded by the AO are extracted hereunder: 
+“4. The department preferred an appeal before the Hon 'ble 
+ITAT. The Hon‟ble ITAT after considering the submissions 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 6 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 6 of 27 
+ 
+made by both the parties i.e. Revenue and the assessee, has 
+concluded that the income of Rs. 7 crores was disclosed by 
+Capital Power Systems Ltd. and not by individual assessees. 
+The Hon'ble ITAT has further held that vide letter dt. 
+01.09.2006, Shri Pawan Kumar Bansal, vide his letter on the 
+company's letter duly signed by him offered an  amount of Rs. 
+7.00 crores and vide his letter dt. 08.09.2006, Shri Pawan 
+Kumar Bansal modified the statement that the disclosure of Rs. 
+7 crores was on behalf of the Capital Group of  Companies. It 
+is pertinent to mention that Shri Pawan Kumar Bansal vide his 
+letter dt. 1st  September 2006 filed under the letter head of 
+"Capital Power Systems Ltd" has categorically stated "We 
+Capital Power Systems Limited hereby agree to volunatarily 
+surrender Additional  Income of Rs. 7,00,00,000 (Rs. Seven 
+Crores only)....." The above letter forms part of order of the 
+Hon'ble ITAT. 
+6. The Hon‟ble High Court of Delhi vide its order in ITA 
+No.529 of 2015 while dismissing the appeal has held that no 
+substantial question of law arises for determination. The 
+Hon'ble High Court in para 3 of its order has clearly stated that 
+“.... The ITAT has analysed the aforementioned letter and 
+come to the conclusion, and in view of the court rightly. that it 
+was made explicit from the said letter that the surrender was 
+being made by the company and not by the Respondent 
+assessee in his Individual capacity”. With regard to the 
+assessability of undisclosed income in the hands of the 
+company, the Hon'ble High Court has not passed any remarks. 
+9. The return of income was filed by the assessee on 
+31.10.2007 declaring an income of Rs. 80,53,110/-. The 
+assessment proceedings were completed on 31.12.2008 
+accepting the returned income of the assessee. However, post 
+search and seizure operations u/s 132 of the Income-tax Act. 
+1961, carried out in the case of Capital Meter Group on 26th 
+June 2006 10, the Hon'ble ITAT, in its order in ITA No. 
+5375/Del/2010 dated 30.09.2014, concluded that the income of 
+Rs. 7 crores was disclosed by Capital Power Systems Ltd. 
+and not by individuals. It is therefore, obvious that Rs. 7 crore 
+has escaped from assessment and the escapement has been 
+resulted by the finding of Hon'ble ITAT. Hence, it is a fit case 
+for reassessment u/s 148 r.u 150(1) of the Income Tax Act, 
+1961.  
+10. In view of the above, I have reasons to believe that an 
+amount of Rs. 7,00,00,000 (Rupe seven crores) chargable to 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 7 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 7 of 27 
+ 
+tax in the hands of M/s Capital Power Systems Pvt. Ltd. (PAN 
+AAACC0119R) during the A.Y. 2007-08 has escaped 
+assessment and I am satisfied that it is a case for issue of notice 
+u/s 148 r.w.s. 150 of the Income-tax Act…” 
+ 
+9. 
+The Assessment Order was passed under Section 147 read with 
+Section 143(3) of the Act by the AO on 16.03.2019. The AO observed 
+that Sh. Pawan Kumar Bansal had himself declared the amount of ₹7 
+crores and also the fact that the said amount belonged to the assessee, 
+and the statements to this effect were not retracted by him either. 
+Therefore, the AO concluded that the amount of ₹7 crores was 
+undisclosed in the hands of assessee. Accordingly, the income of the 
+assessee for the AY 2007-08 was assessed at ₹7,80,53,110/-.  
+10. 
+Aggrieved by the order passed by the AO, the assessee preferred 
+an appeal before the learned Commissioner of Income Tax (Appeals)-
+23 [hereafter „the CIT(A)‟]. The CIT(A), vide order dated 16.11.2022, 
+set aside the assessment framed by the AO and held that Section 150 
+of the Act was incorrectly invoked by the AO since there was no 
+finding or direction of the learned ITAT, in allowing the AO to bring 
+to tax the amount of ₹7 crores in any manner whatsoever, or that the 
+said amount belonged to the assessee herein. 
+11. 
+The Revenue challenged the order of the CIT(A) before the 
+learned ITAT by way of ITA No. 211/Del/2023. The learned ITAT, by 
+way of the impugned order dated 06.11.2023, concurred with the 
+reasoning of the CIT(A) and held that there was no finding given by 
+the Coordinate Bench of ITAT, in the order dated 30.09.2014, that the 
+income of ₹7 crores was to be brought to tax at hands of assessee. The 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 8 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 8 of 27 
+ 
+learned ITAT also observed that Sh. Pawan Kumar Bansal had 
+disclosed the said income not on behalf of the assessee i.e. Capital 
+Power Systems Ltd., but the Capital Group of Companies. The appeal 
+of the Revenue was, thus, dismissed.  
+12. 
+By way of present appeal, the Revenue seeks to assail the 
+aforesaid decision of the learned ITAT.  
+ 
+QUESTION OF LAW 
+13. 
+The Revenue projected the following questions of law for the 
+consideration of the Court: 
+“2.1 Whether on the facts and circumstances of the case, Ld. 
+ITAT was justified in deleting the addition of Rs.7,00,00,000/- 
+made on the basis of statement recorded during the search 
+without appreciating the Judgement of jurisdictional High 
+Court in the case of Bhagirath Agarwal Vs CIT (31 
+taxmann.com 274) wherein Hon‟ble Court held that 'an 
+addition in Assessee‟s - case relying on statement recorded 
+during search cannot be deleted without proving the statement 
+to be incorrect?  
+2.2 Whether on the facts and circumstances of the case, Ld. 
+ITAT was justified in ignoring the finding of the Tribunal in 
+the case of Sh. Pawan Kumar Bansal wherein Tribunal while 
+deleting the addition made in the hands of Sh. Pawan Kumar 
+Bansal, Director of the Assessee company (ITA No. 
+3375/De1/2010) held that the disclosure of Rs. 7,00,00,000/- 
+was made by Capital Power Systems Ltd., and not by Sh. 
+Pawan Kumar Bansal in his individual capacity?  
+2.3 Whether on the facts and circumstances of the case, the 
+order passed by Ld. ITAT is perverse in law as well as on facts 
+in respect of the terms referred to in the question herein 
+above?” 
+ 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 9 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 9 of 27 
+ 
+14. 
+ However, by virtue of order dated 24.10.2024, it was observed 
+that the principal question of law arising for the Court‟s consideration 
+was: 
+“Whether the learned ITAT has erred in proceeding 
+on the basis that conditions set out in Section 150 of 
+the Act were not satisfied?” 
+ 
+SUBMISSIONS BEFORE THIS COURT 
+15. 
+The learned counsel appearing for the Revenue contended that 
+the learned ITAT failed to appreciate the fact that Sh. Pawan  Kumar 
+Bansal, in his capacity as the CEO of the assessee herein, had filed the 
+letter dated 01.09.2006, surrendering the additional income of ₹7 
+crores. He submits that the learned ITAT also ignored the finding of its 
+Coordinate Bench in order dated 30.09.2014 (in the case of Sh. Pawan 
+Kumar Bansal) wherein it was clearly observed that the disclosure of 
+₹7 crores was made by the Capital Power System Ltd. (assessee) and 
+not by Sh. Pawan Kumar Bansal in his individual capacity. He also 
+pointed out that this Court in ITA 529/2015 had also noted that the 
+disclosure of ₹7 crores was made on behalf of the company (i.e. the 
+assessee herein) and not in the individual capacity by Sh. Pawan 
+Kumar Bansal. The learned counsel argued that there was a finding of 
+the learned ITAT as well as this Court in respect of the assessee, and 
+the proceedings for reassessment were rightly initiated by the AO by 
+invoking the provisions of Section 150 of the Act. Therefore, he 
+prayed that the impugned order be set aside.  
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 10 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 10 of 27 
+ 
+16. 
+The learned counsel for the assessee, on the other hand, 
+contended that there is no infirmity with the impugned order, and the 
+learned ITAT has correctly observed that there is neither any finding 
+nor any direction of the Tribunal regarding the undisclosed income of 
+the assessee, and that there is no finding or direction of the Tribunal 
+allowing the AO to bring to tax the amount of ₹7 crores in any manner 
+whatsoever. In this regard, the learned counsel for the assessee 
+specifically referred to the relevant observations in the order of learned 
+ITAT, dated 30.09.2014, in the case of Sh. Pawan Kumar Bansal, to 
+contended that there was no such finding rendered by the learned 
+ITAT and the AO had misinterpreted the said decision. Therefore, it 
+was prayed that the present appeal be dismissed. 
+ 
+ANALYSIS & FINDINGS 
+17. 
+The short issue for consideration before us is whether the 
+provisions of Section 150 of the Act were appropriately invoked by the 
+AO for the purpose of reopening the assessment for the AY 2007-08 in 
+respect of the assessee herein; and consequently, whether the learned 
+ITAT erred in holding that the conditions stipulated under Section 150 
+of the Act were not satisfied?  
+18. 
+At the outset, Section 150 of the Act is set out below for 
+reference: 
+“150. Provision for cases where assessment is in pursuance 
+of an order on appeal, etc.  
+(1) Notwithstanding anything contained in section 149, the 
+notice under section 148 may be issued at any time for the 
+purpose of making an assessment or reassessment or 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 11 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 11 of 27 
+ 
+recomputation in consequence of or to give effect to any 
+finding or direction contained in an order passed by any 
+authority in any proceeding under this Act by way of appeal, 
+reference or revision or by a Court in any proceeding under any 
+other law.  
+(2) The provisions of sub-section (1) shall not apply in any 
+case 
+where 
+any 
+such 
+assessment, 
+reassessment 
+or 
+recomputation as is referred to in that sub-section relates to an 
+assessment year in respect of which an assessment, 
+reassessment or recomputation could not have been made at the 
+time the order which was the subject-matter of the appeal, 
+reference or revision, as the case may be, was made by reason 
+of any other provision limiting the time within which any 
+action for assessment, reassessment or recomputation may be 
+taken.” 
+ 
+19. 
+A plain reading of the above provision reveals that an assessing 
+officer can issue a notice under Section 148 of the Act, at any time, for 
+the purpose of making an assessment, reassessment or recomputation, 
+in consequence of or to give effect to any finding or direction 
+contained in an order passed by any authority in any proceeding under 
+this Act by way of appeal, reference or revision or by a Court in any 
+proceeding under any other law.   
+20. 
+In this background, it would be first relevant to consider the 
+scope and purport of the terms „finding‟ or „direction‟ as contained in 
+Section 150(1) of the Act.  
+21. 
+In ITO v. Murlidhar Bhagwan Das: (1964) 52 ITR 335, the 
+Constitution Bench of the Hon‟ble Supreme Court elaborated on the 
+scope of the terms „finding‟ and „direction‟, though in context of 
+Section 34 of the old Indian Income Tax Act, 1922. The Court 
+clarified that a „finding‟ refers to a decision on a material question that 
+is essential for the disposal of the case at hand. It is not sufficient for a 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 12 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 12 of 27 
+ 
+finding to be incidental or collateral; it must be directly connected to 
+the resolution of the issue under consideration. The Court illustrated 
+this by stating that if income is found not to belong to the assessment 
+year in question, a finding to that effect is material to the case. 
+However, any incidental conclusion about the income belonging to 
+another year does not qualify as a „finding‟ for the purposes of 
+reopening an assessment. Regarding „direction‟, the Court held that it 
+must be read in conjunction with the statutory powers conferred on the 
+appellate or revisional authority. A „direction‟ refers to a specific 
+instruction that an authority is empowered to issue under the Act, and 
+it must be expressly necessary for disposing of the case at hand. The 
+Court emphasized that neither term could be expanded beyond their 
+statutory contexts, and that the findings or directions must be directly 
+relevant and binding to the assessment in question. 
+22. 
+Similarly, in Rajinder Nath v. CIT: (1979) 4 SCC 282, the 
+Hon‟ble Supreme Court reiterated the interpretation of „finding‟ and 
+„direction‟, in context of Section 153 of the Act. The Court held that a 
+„finding‟ must pertain to the particular assessee and assessment year 
+under consideration, and it must be indispensable for resolving the 
+issue before the authority or court. A finding cannot be incidental or 
+ancillary; it must form a necessary step in the reasoning process to 
+determine the liability of the assessee or the assessment year in 
+question. The Hon‟ble Supreme Court illustrated this with an example: 
+if the facts indicate that income can belong either to A or B and to no 
+one else, a finding that it belongs to B or does not belong to B is 
+crucial to determining whether it can be taxed as A‟s income. Such a 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 13 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 13 of 27 
+ 
+finding about B is directly linked to resolving A‟s liability. However, 
+if A‟s liability can be decided without addressing B‟s status, any 
+finding about B would be incidental and not necessary for the disposal 
+of A‟s case. As to „direction‟, the Court emphasized that it must be an 
+express, specific mandate that is statutorily empowered and directly 
+necessary for the disposal of the case.  
+23. 
+From the above-noted judicial precedents, it is evident that the 
+terms „finding‟ and „direction‟ have a confined and precise meaning 
+under the Act. A „finding‟ refers to a decision on a core issue directly 
+necessary for resolving the specific case at hand, while a „direction‟ is 
+a statutorily empowered instruction that is indispensable for the 
+disposal of the case. Both terms demand a direct and substantive nexus 
+to the matter under adjudication and cannot extend to incidental or 
+ancillary conclusions. Consequently, the invocation of Section 150 of 
+the Act requires a strict and cautious application of these terms to 
+prevent the reopening of assessments based on findings or directions 
+that are only incidental, tangential, or beyond statutory authority. 
+24. 
+Thus, the sole question to be answered by us, in the given set of 
+facts, is whether there was any „finding or direction‟ in the order of the 
+learned ITAT (in ITA No. 5201/Del/2010 and connected matters) or in 
+the order of Coordinate Bench of this Court (in ITA 529/2015) to give 
+effect to which the AO could have issued notice under Section 148 of 
+the Act for the purpose of reassessment or recomputation and 
+specifically with regard to the addition of an amount of ₹7 crores on 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 14 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 14 of 27 
+ 
+the ground of the same being undisclosed income of the assessee i.e. 
+Capital Power Systems Ltd.  
+25. 
+In this regard, the operative portion of the order dated 
+30.09.2014 passed by the learned ITAT (in ITA No. 5201/Del/2010 
+and connected matters) is extracted hereunder: 
+“9. From the above letter, it is evident that the letter was 
+written on the letter head of Capital Power Systems Ltd. In 
+the body of the letter, it is mentioned "we Capital Power 
+Systems Limited hereby agree to voluntarily surrender 
+additional income of Rs.7,00,00,000/-". The letter is signed 
+by Shri Pawan Kumar Bansal as CEO of Capital Power 
+Systems Ltd. Thus, the disclosure of Rs. 7 crores was by 
+Capital Power Systems Ltd. and not by Shri Pawan Kumar 
+Bansal in his individual capacity. That on 8th September, 
+2006, the statement of Shri Pawan Kumar Bansal was 
+recorded. The entire statement is related to the disclosure of 
+Rs.7 crores, therefore, the same is reproduced below:- 
+“Q-1: Please identify yourself?  
+Ans. I Pawan Kumar Bansal S/o Sh. Nihal Chand Kejriwal  
+R/o A-156, New Friends Colony, New Delhi.  
+Q-2: During the course of search proceedings in the Capital 
+Group of cases on 26-7-2006, a number of  incriminating 
+documents/diaries/papers have been found and seized, 
+which indicate that you have undisclosed income, which is 
+not recorded in the regular book of a/cs. Do you want to 
+offer any explanation regarding these documents and the 
+transactions enumerated therein?. 
+Ans. I have already filed a letter dated 1-9-06 vide, 
+which I on behalf of the Capital Group of companies 
+has voluntarily offered an additional income of Rs.7 
+(seven) crores. As the search proceedings in our group of 
+cases are yet to be concluded as a number of restraints are 
+yet to be lifted and this statement being recorded u/s 132(4) 
+of the I.T. Act 1961, I would like to take the benefit of 
+explanation 5 to section 271C and I once again reiterate my 
+earlier statement made vide letter dated 1-9-06 and 
+voluntarily offered an additional income of Rs.7 crore 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 15 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 15 of 27 
+ 
+(seven crores) to avoid litigation and buy peace of mind 
+subject to non initiation of penalty or prosecution or other 
+coercive actions as per provision of law, on behalf of the 
+company, its directors, senior executives, their spouse, 
+family members and relatives including other companies, 
+firm in which such persons are partners, directors or 
+interested.  
+Q-3: Kindly give the assessee wise details of this 
+disclosure?  
+Ans: The same will be provided after go through the seized 
+material.  
+Q-4: Kindly give the source of generation of this Rs . 7 
+crores of additional income?  
+Ans: The detailed explanation regarding the source of this 
+additional income of Rs. 7 crore will be submitted later on 
+after going through the seized material. In general this 
+additional income of Rs. 7 crores have been generated 
+through different transactions conducted outside the regular 
+books of accounts.  
+Q-5: Do you want to say anything else?  
+Ans: No. The above statement has been given by me 
+voluntarily out of my free will without any pressure, force, 
+coercion, undue influence. I have read over the above 
+statement and found that it is correctly recorded and/stand 
+by the above statement.” 
+10. From the above, it is evident that in response to 
+question No. 2, it has been stated by the assessee that Shri 
+Pawan Kumar Bansal disclosed the income on behalf of 
+Capital Group of companies. In response to question No.8, it 
+was also mentioned that the details of the disclosure can be 
+given by the assessee only after going through the seized 
+material. The same was reiterated in response to question No.4 
+also. Thus, from the entire statement, it is evident that the 
+disclosure was made by Shri Pawan Kumar Bansal for and 
+on behalf of the Capital Group of companies due to 
+undisclosed income as may be represented by the seized 
+material. As per this statement also, the disclosure is not in the 
+individual capacity of Shri Pawan Kumar Bansal. Again, the 
+statement of Shri Pawan Kumar Bansal was recorded on 12th  
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 16 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 16 of 27 
+ 
+September, 2006. This statement is also reproduced below for 
+ready reference:- 
+“Q-1: Please identify yourself? 
+Ans: I Pawari Kumar Bansal S/o Sh. Nihal Chand Kejriwal 
+aged about 45 years and r/o A-156, New Friends Colony, 
+New Delhi. 
+Q-2: During the course of search action u/s 132( 1) of the 
+I.T. Act 1961, on 26-7-2006, at your business as well as 
+residential premises, a number of documents/loose papers 
+etc. have been seized. These documents are being duly 
+perused by you. You are hereby given an opportunity to 
+describe and explain the contents pertaining to the 
+undisclosed income of the group? 
+Ans: Yes, I have gone through very carefully all the seized 
+papers 
+and documents. I reiterate my earlier submission stated 
+vide letter dated 1.9.2006 and the statement subsequently 
+given u/s 132(4) on 8.9.06 and voluntarily after an 
+additional income of Rs.7,00,.00,000/- (Rs. Seven crores). 
+Q-3: Give the details of these additional income of 
+Rs.7,00,00,000/- (Rs. Seven crores), ,i:e. the details of the 
+source of this money and the details of its investment? 
+Ans: This additional income of Rs. 7 crores was generated 
+in different years during the block period from 
+undisclosed/or unaccounted dealings in various property 
+transactions and the said income of Rs. 7 crores has been 
+earned by me and Sh. Mahesh Kumar Gupta (Director-
+Capital Power Systems Ltd.). The bifurcation is as under:- 
+* * * 
+Q--4: Do you. want to say anything else?'  
+Ans: This statement given by me is final and l 
+understand that no penalty or prosecution proceedings 
+against me and the group will be initiated in relation to 
+the aforestated voluntary disclosure of additional income of 
+Rs. 7 crores.  
+The above statement has been given by me voluntarily out 
+of my free will without any pressure, force, coercion, undue 
+influence. I have read over the above statement and found 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 17 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 17 of 27 
+ 
+that it is correctly recorded and I stand by the above 
+statement.” 
+11. ……When we see the cumulative effect of all the facts as 
+well as the statements, following position emerges:-  
+12. Shri Pawan Kumar Bansal is an individual who is not 
+carrying on any business in his individual capacity. The 
+business is carried on by Capital Group of Companies 
+including Capital Power Systems Ltd. whose CEO is Shri 
+Pawan Kumar Bansal, i.e., the assessee. The original 
+disclosure made vide letter dated 1st September, 2006 was 
+for and on behalf of Capital Power Systems Ltd. The 
+assessee signed the above letter in his capacity as CEO of the 
+said company. In the statement dated 8th September, 2006, 
+he deposed before the Revenue authorities in which he 
+affirmed the voluntary disclosure of additional income of 
+Rs. 7 crores on behalf of Capital Group of companies. Thus, 
+even in the statement dated 8th September, 2006, there was no 
+disclosure in the individual capacity of Shri Pawan Kumar 
+Bansal. In another statement dated 12th September, 2006, he 
+reiterated his earlier statement vide letter dated 1st September, 
+2006 and statement dated 8th September, 2006. Thus, the 
+disclosure of income was by Capital Group of companies. 
+However, in reply to another question in his statement dated 
+12th September, 2006, he disclosed the income of 
+Rs.3,55,00,000/- in his individual capacity and the income of 
+Rs.3,45,00,000/- in the name of Shri Mahesh Kumar Gupta. 
+The Revenue authorities who recorded the statement did not 
+bother to point out the contradiction between the reply to 
+question No.2 and question No.4. In reply to question No.2, he 
+reiterated his letter dated 1st September, 2006 and statement 
+dated 8th September, 2006 wherein no income was disclosed in 
+the individual names of Shri Pawan Kymar Bansal and Shri 
+Mahesh Kumar Gupta. But, in reply to question no.3, the 
+income was disclosed in the individual names. It is a settled 
+law that the statement has to be considered as a whole and 
+Revenue cannot chose to rely upon only one part of the 
+statement ignoring the other statements. Moreover, statement 
+dated 12th September, 2006 is not the only statement but it is 
+only one part of the series of letter/statements. In the statement 
+dated 8th September, 2006, Shri Pawan Kumar Bansal has 
+stated that the details of the disclosure would be given after 
+going through the seized material. Therefore, the statement has 
+a relevance with the seized material and statement is made by 
+him to disclose the income as represented by the seized 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 18 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 18 of 27 
+ 
+material. No other corroborative evidence to support the 
+income of Rs. 7  crores in the hands of the assessee and Shri 
+Mahesh Kumar Gupta is found. In the above circumstances, 
+after considering the cumulative effect of the letter dated 1st 
+September, 2006 and both the statements, the proper course 
+would be to determine the undisclosed income on the basis of 
+loose papers found and seized at the time of search. The 
+CIT(A) did the same.” 
+(Emphasis added) 
+ 
+26. 
+A perusal of the aforesaid reveals that the learned ITAT had 
+examined the letter dated 01.09.2006 written by Sh. Pawan Kumar 
+Bansal, as well as his subsequent statements dated 08.09.2006 and 
+12.09.2006. Regarding the letter dated 01.09.2006, the learned ITAT 
+observed that it was written on the letterhead of the assessee i.e. 
+Capital Power Systems Ltd., which had clearly mentioned: “We 
+Capital Power Systems Limited hereby agree to voluntarily surrender 
+Additional Income of Rs.7,00,00,000.00”. The letter was signed by Sh. 
+Pawan Kumar Bansal in the capacity of being CEO of the assessee. 
+Consequently, the learned ITAT observed that the disclosure of ₹7 
+crores was made by Capital Power Systems Ltd. and not by Sh. Pawan 
+Kumar Bansal in his individual capacity. 
+27. 
+At this juncture, it is pertinent to note that the reasons recorded 
+by the AO for the purpose of issuance of notice under Section 148 of 
+the Act reveal that he has placed reliance solely on the above-noted 
+observations of the learned ITAT, as contained in paragraph 9 of the 
+order dated 30.09.2014. The AO appears to have considered these 
+observations as a conclusive finding that ₹7 crores constituted 
+undisclosed income of the assessee. However, we are of the opinion 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 19 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 19 of 27 
+ 
+that this reasoning is erroneous for the reason that the AO has 
+overlooked the subsequent findings contained in the same order.  
+28. 
+Notably, in the succeeding paragraphs of the same order, the 
+learned ITAT had noted that Sh. Pawan Kumar Bansal in his statement 
+recorded on 08.09.2006 had stated that the income of ₹7 crores was 
+disclosed on behalf of the Capital Group of Companies. The learned 
+ITAT also referred to the statement of Sh. Pawan Kumar Bansal 
+recorded on 12.09.2006, wherein he had reiterated his earlier 
+statements and had provided bifurcation of the amount of ₹7 crores – 
+disclosing part of the income in his own hands and the remainder in 
+the hands of Sh. Mahesh Kumar Gupta. Significantly, the learned 
+ITAT observed in paragraph 12 of its order that the business was not 
+being carried out by Sh. Pawan Kumar Bansal in his individual 
+capacity but by the Capital Group of Companies, which included 
+Capital Power Systems Ltd. (the assessee herein) of which Sh. Pawan 
+Kumar Bansal was the CEO. It further observed that a statement must 
+be considered in its entirety, and the Revenue cannot selectively rely 
+on certain portions of a statement while disregarding the rest of it. 
+Further, in case of statements more than one, the cumulative effect of 
+the statements has to be considered for reaching just decision of a 
+given case. In the absence of corroborative evidence, the learned ITAT 
+concluded that the letter dated 01.09.2006 and statements dated 
+08.09.2006 and 12.09.2006 of Sh. Pawan Kumar Bansal, which 
+contained certain contradictions, could not serve as a reliable basis for 
+assessing the income of Sh. Pawan Kumar Bansal. Instead, the learned 
+ITAT held that the proper course would be to determine the 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 20 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 20 of 27 
+ 
+undisclosed income based on the loose papers found and seized during 
+the search under Section 132 of the Act conducted in connection with 
+the present case.  
+29. 
+The learned ITAT, thus, had given a material finding that the 
+additional surrendered income of  ₹7 crores did not  belong to Sh. 
+Pawan Kumar Bansal, which was the issue in question before the 
+learned ITAT in the said case. However, the other incidental 
+observations in the order dated 30.09.2014, pertaining to the income 
+being surrendered either on behalf of the Capital Power Systems Ltd. 
+or Capital Group of Companies – as inferred from letters and 
+statements made by Sh. Pawan Kumar Bansal – would not fall within 
+the scope of the term „findings‟ under Section 150 of the Act. 
+30. 
+In light of the above, we are of the considered opinion that the 
+observations made by the learned ITAT cannot be construed as 
+findings or directions which are required to be given effect to by 
+reopening the concluded assessments of the assessee. The learned 
+ITAT has, at no point, rendered any finding in its order that the 
+amount of ₹7 crores is required to be assessed in the hands of Capital 
+Power Systems Ltd.  
+31. 
+Similarly, in the order dated 29.07.2015 of the Coordinate 
+Bench of this Court in ITA 529/2015, there was no categorical finding 
+or direction that the assessee had declared income of ₹7 crores so as to 
+invoke Section 150 of the Act by the AO. The relevant portion of the 
+order dated 29.07.2015 is set out below: 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 21 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 21 of 27 
+ 
+“2. The question sought to be urged is whether the ITAT erred 
+in upholding the order of the Commissioner of Income Tax 
+(Appeals) [CIT(A)] which in turn held that the income of the 
+Respondent Assessee was to be determined on the basis of the 
+undisclosed income as per the noting on the loose papers 
+recovered during search and consequently deleted the addition 
+of Rs.3,07,00,000/- which was made on account of a statement 
+recorded of the Respondent Assessee during the Course of 
+search.  
+3. The central plank of the Revenue's case is a letter written on 
+1st September 2006 whereby the company of which 
+Respondent Assessee was Chief Executive Officer voluntarily 
+surrendered additional income of Rs.7 crores "to avoid 
+litigation and buy peace of mind subject to non-initiation of 
+penalty or prosecution...". The ITAT has analysed the 
+aforementioned letter and come to the conclusion, and in 
+view of the Court rightly, that it was made explicit from the 
+said letter that the surrender was being made by the 
+company and not by the Respondent Assessee in his 
+individual capacity.  
+4. It transpires that the above letter was followed by other 
+letters and statements made on 8th 12th September 2006. 
+The ITAT has pointed out a contradiction in the answers 
+given in the subsequent statements by the Respondent 
+Assessee where he suggested that the said income of Rs.7 
+crores was partly earned by him and partly by Mr. Mahesh 
+Kumar Gupta. The ITAT in the impugned order has pointed 
+out that the Department did not confront the Assessee in 
+the contradictions in its replies and allowed the earlier 
+letter and the subsequent replies to the questions to remain. 
+In the circumstances, after considering the cumulative 
+effect of the letter dated 1st September 2006 and the 
+subsequent statements the proper course was to determine 
+the undisclosed income on the basis of the loose sheets 
+seized during the search. The ITAT, therefore, found no error 
+in the approach adopted by the CIT (A). On examining the 
+loose papers the ITAT held that the only addition which can be 
+sustained is Rs.7, 90,000.  
+* * * 
+6. The Court finds that the said decision is distinguishable in its 
+application to the facts of the present case. There is no 
+retraction as such by the company of its letter dated C 
+September 2006 or of any of the other statements made 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 22 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 22 of 27 
+ 
+subsequently. Further, the statement made by the Respondent 
+Assessee on 12th September 2006 in response to Question 
+No.3 which required him to give the details of the additional 
+income of Rs.7 crores was to the effect the said additional 
+income was generated during the block period from 
+undisclosed/or unaccounted dealings in various property 
+transactions and that "the said income of Rs.7 crores has been 
+earned by me and Shri Mahesh Kumar Gupta (Director-Capital 
+Power Systems Ltd.)." The Respondent Assessee then 
+proceeded to give the bifurcation of said income as under:  
+* * * 
+7. The above statement cannot be said to be a categorical 
+admission by the Respondent Assessee that the above income 
+had been earned by him in his individual capacity. The 
+cumulative effect of the letter dated 1st September, 2006 
+and both the statements rendered them unreliable. There 
+was no other corroborative material. In the circumstances, 
+the course adopted by the CIT (A), and concurred with by 
+the ITAT, to determine the undisclosed income on the basis 
+of loose papers found during the search does not appear to 
+be erroneous.  
+8. It requires to be also noted that in response to a query by the 
+Court whether the above undisclosed-income was added in the 
+hands of the company, the learned counsel for the Revenue 
+stated that he would have to seek instructions.” 
+(Emphasis added) 
+ 
+32. 
+We are of the view that though the order of the Coordinate 
+Bench of this Court did not contain any finding or direction, as has 
+been assumed by the AO, evident from the reasons mentioned by him 
+for initiating action under Section 148 of the Act recorded by him, he 
+had committed an error by assuming that there were findings for 
+invoking jurisdiction under Section 147 of the Act by him. It will be 
+relevant to note that the AO had concluded that the Coordinate Bench 
+of this Court had observed in paragraph 3 of the order dated 
+29.07.2015 that ₹7 crores constituted the undisclosed income of the 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 23 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 23 of 27 
+ 
+assessee. However, a closer reading of paragraph 3 of the order dated 
+29.07.2015 makes it clear that the Coordinate Bench had made the said 
+observation specifically in paragraph 3 of the order in context of 
+discussing the contents of the letter dated 01.09.2006 and had 
+concurred with the view of the learned ITAT in that regard. However, 
+the AO had committed an error as he had relied on paragraph 3 of the 
+order selectively, completely ignoring the contents of the succeeding 
+paragraph 4 of the same order. Rather, the Court in paragraph 4 of the 
+said order had discussed and had taken note of the two additional 
+statements made by Sh. Pawan Kumar Bansal and had highlighted the 
+contradictions therein. Further, in paragraph 6, the Court noted that 
+there had been no retraction of either the letter dated 01.09.2006 or any 
+of the subsequent statements made by Sh. Pawan Kumar Bansal. 
+However, in paragraph 7, the Court concluded that the cumulative 
+effect of the letter and the two statements rendered them unreliable, 
+particularly in the absence of corroborative material available with the 
+Revenue. 
+33. 
+ It is thus apparent that the Coordinate Bench of this Court did 
+not render any specific finding that ₹7 crores constituted the 
+undisclosed income of the assessee herein. Moreover, there was also 
+no direction to the Revenue by the Court to treat the said amount as 
+undisclosed income in the hands of the assessee. Rather, the Court had 
+dismissed the petition on the ground that no substantial question of law 
+arose for adjudication. Thus, tested on the anvil of there being any 
+finding or direction by the Coordinate Bench in its order dated 
+29.07.2015, the order of the AO suffers from inherent error, as it holds 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 24 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 24 of 27 
+ 
+that there was a finding by the Coordinate Bench of this Court in the 
+said order which bestowed jurisdiction on him, to issue notice under 
+Section 148 read with Section 150 of the Act.  
+34. 
+Further, the learned ITAT, in the order impugned before us, has 
+rightly noted that in the letter dated 01.09.2006, Sh. Pawan Kumar 
+Bansal had mentioned that:  
+“we Capital Power Systems limited hereby agree to voluntarily 
+surrender Additional Income of Rs.7,00,00,000.00 ……… on 
+behalf of the company, its Directors, Senior Executives, their 
+spouse, family members and relatives including other 
+companies, firms in which such persons are partners, 
+directors or interested” 
+(Emphasis added) 
+ 
+35. 
+We note that even in the letter dated 01.09.2006 which was the 
+first letter written by Sh. Pawan Kumar Bansal, it was mentioned by 
+him that the additional income of ₹7 crores was being declared and 
+surrendered by Capital Power Systems Ltd. “on behalf of the company, 
+its directors, senior executives, their spouse, family members and 
+relatives including other companies, firms in which such persons are 
+partners, directors or interested”.  
+36. 
+Additionally, as noted above, in the second statement dated 
+08.09.2006, Sh. Pawan Kumar Bansal had disclosed that the additional 
+income of ₹7 crores was being declared and surrendered on behalf of 
+the Capital Group of Companies, not by assessee alone. The AO had 
+not conducted any further inquiry to find out as to whether the 
+undisclosed income of ₹7 crores belonged to the assessee or any other 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 25 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 25 of 27 
+ 
+company of the Capital Group of Companies, its directors, senior 
+executives, spouse, family members, relatives, etc. 
+37. 
+Resultantly, we are of the view that the AO, in the present 
+circumstances of the case, despite there being contradictions in the 
+letter dated 01.09.2006 and the two statements of Sh. Pawan Kumar 
+Bansal had failed to notice, the common thread in the statements as 
+well as the letter that, the income of ₹7 crores was not declared by him 
+in his individual capacity or on behalf of the assessee but on behalf of 
+the Capital Group of Companies etc., as observed in the preceding 
+paragraphs.  
+38. 
+The necessary conclusion, in such circumstances and 
+background of facts, is that the income so declared and surrendered 
+was not declared on behalf of the assessee but could have been spread 
+amongst the Group‟s entities, individuals and their relatives and 
+friends. The AO, however, merely relied upon the surrender made 
+during search and did not make any effort to determine the clear 
+bifurcation of such amounts, especially after identifying contradictions 
+in the statements of Sh. Pawan Kumar Bansal.  
+39. 
+Further, the statement recorded on 12.09.2006 in answer to 
+question no. 3, Sh. Pawan Kumar Bansal had mentioned that the 
+amount of ₹7 crores, which was being declared on behalf of Capital 
+Group of Companies, had been generated over a period of years 
+“during the block period from undisclosed/or unaccounted dealings in 
+various property transactions”. There have been no inquiries or 
+satisfaction as to in which assessment year, which part of this income 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 26 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 26 of 27 
+ 
+had been generated and by which entities of the companies or 
+individuals.  
+40. 
+The language of Section 150(1) of the Act is also relevant for 
+the purposes of determining whether a notice under Section 148 of the 
+Act could be issued notwithstanding the period of limitation stipulated 
+under Section 149 of the Act. The non obstante clause of Section 
+150(1) of the Act is applicable only where a notice under Section 148 
+of the Act is required to give effect to any finding or direction 
+contained in any order passed by any authority in any proceedings 
+under the Act. It is clear that the nature of the findings or directions 
+contemplated are such that a notice under Section 148 of the Act is 
+warranted for the purposes of giving effect to the findings. In this 
+view, the findings are required to be dispositive of the issue concerned 
+and only the procedure is required to be involved to give effect to the 
+same. 
+41. 
+We are unable to accept that any of the orders passed in the case 
+of Sh. Pawan Kumar Bansal and Sh. Mahesh Kumar Bansal are 
+dispositive of the assessee‟s liability to pay tax and therefore, no notice 
+under Section 148 of the Act was warranted for giving effect to any 
+such finding. 
+42. 
+To sum up, we hold that it is clear from the perusal of the order 
+of the Coordinate Bench of this Court dated 29.07.2015 as well as the 
+order of the learned ITAT, CIT(A) that in none of the orders, there was 
+any finding or direction that the undisclosed income of ₹7 crores was 
+required to be assessed to tax in the hands of the assessee, which 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified
+
+
+--- PAGE 27 ---
+ 
+ 
+ 
+ITA 501/2024 
+                                                                                                  Page 27 of 27 
+ 
+warranted issuance of notice under Section 148 of the Act to give 
+effect to such finding or direction. 
+43. 
+We are thus of the view that in the present case, the learned 
+CIT(A) and the learned ITAT have rightly examined the decisions of 
+the learned ITAT in ITA No. 5201/Del/2010 and connected matters, 
+and of Coordinate Bench of this Court in ITA 529/2015, and held that 
+there was no finding or direction given by the Courts on the basis of 
+which powers under Section 150 of the Act could have been invoked 
+for issuance of notice under Section 148 of the Act beyond the period 
+stipulated under Section 149 of the Act.  
+44. 
+In view of the foregoing discussion, we opine that the conditions 
+set out in Section 150 of the Act were not fulfilled in the present case, 
+and the reassessment proceedings could not have been initiated by the 
+AO by issuing notice under Section 148 of the Act, and the learned 
+ITAT made no error in holding so. 
+45. 
+The question of law is thus answered in favour of the assessee 
+and against the Revenue. 
+46. 
+The appeal is accordingly dismissed. 
+ 
+ 
+ 
+SWARANA KANTA SHARMA, J. 
+ 
+ 
+VIBHU BAKHRU, ACJ. 
+DECEMBER 13, 2024/zp 
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:19.12.2024
+18:35:39
+Signature Not Verified

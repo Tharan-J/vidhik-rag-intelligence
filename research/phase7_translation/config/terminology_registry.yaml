@@ -1,0 +1,113 @@
+# Phase 7 Comprehensive Legal Terminology & Entity Protection Registry
+
+protection_strategy:
+  placeholder_prefix: "__LEGAL_ENT_"
+  placeholder_suffix: "__"
+  token_safe_format: true
+
+entity_patterns:
+  case_numbers:
+    - "(?:(?:Spl\\.?\\s*)?(?:C\\.?C\\.?|Crl\\.?\\s*A\\.?|M\\.?A\\.?C\\.?P\\.?|Special Case|Civil Suit|Cr\\. No\\.|Crime No\\.|FIR No\\.)\\s*(?:No\\.?\\s*)?[0-9]+/[0-9]{2,4})"
+    - "(?:Case\\s+No\\.?\\s*[0-9]+/[0-9]{2,4})"
+    - "(?:Crl\\.?\\s*M\\.?P\\.?\\s*(?:No\\.?\\s*)?[0-9]+/[0-9]{2,4})"
+    - "(?:O\\.?S\\.?\\s*(?:No\\.?\\s*)?[0-9]+/[0-9]{2,4})"
+    - "(?:Sessions\\s+Case\\s+No\\.?\\s*[0-9]+/[0-9]{2,4})"
+  statutory_sections:
+    - "(?:Sections?\\s+[0-9]+[A-Za-z]?(?:\\s*\\([0-9a-zA-Z]+\\))*(?:\\s*(?:and|&|,)\\s*[0-9]+[A-Za-z]?(?:\\s*\\([0-9a-zA-Z]+\\))*)*\\s+(?:of\\s+(?:the\\s+)?)?(?:IPC|Cr\\.?P\\.?C\\.?|I\\.?P\\.?C\\.?|Indian Penal Code|Code of Criminal Procedure|Negotiable Instruments Act|N\\.?I\\.?\\s*Act|Motor Vehicles Act|M\\.?V\\.?\\s*Act|POCSO(?:\\s+Act)?|BNS|BNSS))"
+    - "(?:u/s\\.?\\s+[0-9]+[A-Za-z]?(?:\\s*\\([0-9a-zA-Z]+\\))*(?:\\s*(?:and|&|,)\\s*[0-9]+[A-Za-z]?(?:\\s*\\([0-9a-zA-Z]+\\))*)*\\s*(?:IPC|Cr\\.?P\\.?C\\.?|I\\.?P\\.?C\\.?|Indian Penal Code)?)"
+    - "(?:Section\\s+[0-9]+[A-Za-z]?(?:\\([0-9a-zA-Z]+\\))?)"
+  currency_amounts:
+    - "(?:(?:Rs\\.?|INR|₹)\\s*[0-9,]+(?:\\.[0-9]{2})?)"
+    - "(?:[0-9,]+(?:\\.[0-9]{2})?\\s*(?:rupees|lakh|crore|lakhs|crores))"
+  dates:
+    - "(?:[0-9]{1,2}[./-][0-9]{1,2}[./-][0-9]{2,4})"
+    - "(?:[0-9]{1,2}(?:st|nd|rd|th)?\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December),?\\s+[0-9]{4})"
+    - "(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+[0-9]{1,2}(?:st|nd|rd|th)?,?\\s+[0-9]{4})"
+  parties:
+    - "(?:State\\s+of\\s+[A-Z][a-z]+(?:\\s+[A-Z][a-z]+)*)"
+    - "(?:Union\\s+of\\s+India)"
+    - "(?:State\\s+by\\s+[A-Za-z\\s]+Police)"
+    - "(?:Police\\s+Station)"
+
+critical_legal_terms:
+  disposition:
+    - term: "acquitted"
+      target_glossary:
+        ta: "விடுவிக்கப்பட்டார்"
+        hi: "बरी किया गया"
+        kn: "ಖುಲಾಸೆಗೊಳಿಸಲಾಗಿದೆ"
+        mr: "निर्दोष मुक्त केले"
+    - term: "convicted"
+      target_glossary:
+        ta: "குற்றவாளி என தீர்ப்பளிக்கப்பட்டது"
+        hi: "दोषी ठहराया गया"
+        kn: "ದೋಷಿ ಎಂದು ತೀರ್ಮಾನಿಸಲಾಯಿತು"
+        mr: "दोषी ठरवले"
+    - term: "dismissed"
+      target_glossary:
+        ta: "தள்ளுபடி செய்யப்பட்டது"
+        hi: "खारिज किया गया"
+        kn: "ವಜಾಗೊಳಿಸಲಾಗಿದೆ"
+        mr: "फेटाळण्यात आला"
+    - term: "allowed"
+      target_glossary:
+        ta: "அனுமதிக்கப்பட்டது"
+        hi: "स्वीकार किया गया"
+        kn: "ಪುರಸ್ಕರಿಸಲಾಗಿದೆ"
+        mr: "मंजूर करण्यात आला"
+    - term: "rejected"
+      target_glossary:
+        ta: "நிராகரிக்கப்பட்டது"
+        hi: "अस्वीकार किया गया"
+        kn: "ತಿರಸ್ಕರಿಸಲಾಗಿದೆ"
+        mr: "नाकारण्यात आला"
+  bail:
+    - term: "bail granted"
+      target_glossary:
+        ta: "ஜாமீன் வழங்கப்பட்டது"
+        hi: "जमानत मंजूर की गई"
+        kn: "ಜಾಮೀನು ಮಂಜೂರು ಮಾಡಲಾಗಿದೆ"
+        mr: "जामीन मंजूर केला"
+    - term: "anticipatory bail"
+      target_glossary:
+        ta: "முன்ஜாமீன்"
+        hi: "अग्रिम जमानत"
+        kn: "ನಿರೀಕ್ಷಣಾ ಜಾಮೀನು"
+        mr: "அगाऊ जामीन"
+    - term: "bail rejected"
+      target_glossary:
+        ta: "ஜாமீன் நிராகரிக்கப்பட்டது"
+        hi: "जमानत खारिज की गई"
+        kn: "ಜಾಮೀನು ತಿರಸ್ಕರಿಸಲಾಗಿದೆ"
+        mr: "जामीन नाकारला"
+    - term: "judicial custody"
+      target_glossary:
+        ta: "நீதிமன்றக் காவல்"
+        hi: "न्यायिक हिरासत"
+        kn: "ನ್ಯಾಯಾಂಗ ಬಂಧನ"
+        mr: "न्यायालयीन कोठडी"
+  courts:
+    - term: "High Court"
+      target_glossary:
+        ta: "உயர் நீதிமன்றம்"
+        hi: "उच्च न्यायालय"
+        kn: "ಹೈಕೋರ್ಟ್"
+        mr: "उच्च न्यायालय"
+    - term: "District Court"
+      target_glossary:
+        ta: "மாவட்ட நீதிமன்றம்"
+        hi: "जिला न्यायालय"
+        kn: "ಜಿಲ್ಲಾ ನ್ಯಾಯಾಲಯ"
+        mr: "जिल्हा न्यायालय"
+    - term: "Sessions Court"
+      target_glossary:
+        ta: "செஷன்ஸ் நீதிமன்றம்"
+        hi: "सत्र न्यायालय"
+        kn: "ಸೆಷನ್ಸ್ ನ್ಯಾಯಾಲಯ"
+        mr: "सत्र न्यायालय"
+    - term: "Judicial Magistrate"
+      target_glossary:
+        ta: "நீதித்துறை நடுவர்"
+        hi: "न्यायिक मजिस्ट्रेट"
+        kn: "ನ್ಯಾಯಾಂಗ ಮ್ಯಾಜಿಸ್ಟ್ರೇಟ್"
+        mr: "न्यायालयीन दंडाधिकारी"

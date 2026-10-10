@@ -1,0 +1,154 @@
+{
+  "document_id": "DC_000093",
+  "source": {
+    "sha256": "f62d8fff9838ab1022ffb4b42dff6e2e4f9061884e5f4a7e5b3338d16793a6e8",
+    "filename": "orders_2025_200200001942025_2.pdf",
+    "source_record_id": "DC-S3-093_22_2_1220010_2025_orders_2025_200200001942025_2",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 22962
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.8718
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 547,
+      "word_count": 83,
+      "raw_text": "CNR No:PBJL010206762025 CASE No:CMA-194-2025\nNIKU Vs SULAKHAN SINGH\nPresent: \nSh. Rishabh Gumber, Advocate for appellant. \nAs per report respondent has been served through telephone\nbut  has  gone unrepresented. Let fresh notice to respondent be issued\nthrough  RC/AD  on filing of the same along-with fresh copies within a\nweek with Ahlmad for 17.04.2026. Notice to Sh. H.S. Sandhu, Advocate\nof respondent also be issued for the date fixed. \nDate of Order: 18.02.2026\nAnurupit*\n( Rajeev K. Beri)\nAddl.District  Judge-I, Jalandhar\nUID No . PB00149"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 539,
+      "word_count": 83,
+      "normalized_text": "CNR No:PBJL010206762025 CASE No:CMA-194-2025\nNIKU Vs SULAKHAN SINGH\nPresent:\nSh. Rishabh Gumber, Advocate for appellant.\nAs per report respondent has been served through telephone\nbut has gone unrepresented. Let fresh notice to respondent be issued\nthrough RC/AD on filing of the same along-with fresh copies within a\nweek with Ahlmad for 17.04.2026. Notice to Sh. H.S. Sandhu, Advocate\nof respondent also be issued for the date fixed.\nDate of Order: 18.02.2026\nAnurupit*\n( Rajeev K. Beri)\nAddl.District Judge-I, Jalandhar\nUID No . PB00149"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 1,
+    "total_sentences": 8,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 539,
+        "word_count": 83,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000093_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 539,
+            "word_count": 83,
+            "sentence_count": 8,
+            "text": "CNR No:PBJL010206762025 CASE No:CMA-194-2025\nNIKU Vs SULAKHAN SINGH\nPresent:\nSh. Rishabh Gumber, Advocate for appellant.\nAs per report respondent has been served through telephone\nbut has gone unrepresented. Let fresh notice to respondent be issued\nthrough RC/AD on filing of the same along-with fresh copies within a\nweek with Ahlmad for 17.04.2026. Notice to Sh. H.S. Sandhu, Advocate\nof respondent also be issued for the date fixed.\nDate of Order: 18.02.2026\nAnurupit*\n( Rajeev K. Beri)\nAddl.District Judge-I, Jalandhar\nUID No . PB00149",
+            "sentences": [
+              {
+                "sentence_id": "DC_000093_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 120,
+                "word_count": 15,
+                "text": "CNR No:PBJL010206762025 CASE No:CMA-194-2025\nNIKU Vs SULAKHAN SINGH\nPresent:\nSh. Rishabh Gumber, Advocate for appellant."
+              },
+              {
+                "sentence_id": "DC_000093_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 86,
+                "word_count": 13,
+                "text": "As per report respondent has been served through telephone\nbut has gone unrepresented."
+              },
+              {
+                "sentence_id": "DC_000093_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 142,
+                "word_count": 24,
+                "text": "Let fresh notice to respondent be issued\nthrough RC/AD on filing of the same along-with fresh copies within a\nweek with Ahlmad for 17.04.2026."
+              },
+              {
+                "sentence_id": "DC_000093_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 18,
+                "word_count": 4,
+                "text": "Notice to Sh. H.S."
+              },
+              {
+                "sentence_id": "DC_000093_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 65,
+                "word_count": 11,
+                "text": "Sandhu, Advocate\nof respondent also be issued for the date fixed."
+              },
+              {
+                "sentence_id": "DC_000093_P001_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 47,
+                "word_count": 8,
+                "text": "Date of Order: 18.02.2026\nAnurupit*\n( Rajeev K."
+              },
+              {
+                "sentence_id": "DC_000093_P001_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 47,
+                "word_count": 7,
+                "text": "Beri)\nAddl.District Judge-I, Jalandhar\nUID No ."
+              },
+              {
+                "sentence_id": "DC_000093_P001_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 7,
+                "word_count": 1,
+                "text": "PB00149"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 22,
+    "state_name": "Punjab",
+    "district_code": 2,
+    "district_name": "Jalandhar",
+    "court_complex_code": 1220010,
+    "court_complex_name": "District Court, Jalandhar",
+    "year": 2025,
+    "case_type": "nan",
+    "case_number": "200200001942025",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "Writer",
+    "pdf_producer": "LibreOffice 6.4",
+    "pdf_creation_date": "D:20260218134359+05'30'",
+    "pdf_mod_date": ""
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.8718,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "f62d8fff9838ab1022ffb4b42dff6e2e4f9061884e5f4a7e5b3338d16793a6e8",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.370418"
+  }
+}

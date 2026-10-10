@@ -1,0 +1,930 @@
+--- PAGE 1 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 1 of 20 
+ 
+$-J-1 & 2 
++ 
+IN THE HIGH COURT OF DELHI AT NEW DELHI 
+Judgement reserved on 16.03.2021 
+Judgement pronounced on 22.04.2021 
++ 
+W.P.(C) 9051/2020 
+CONCENTRIX SERVICES NETHERLANDS B.V.             .....Petitioner 
+Through: Mr. Deepak Chopra & Mr. 
+Ankul Goyal, Advs. 
+versus 
+INCOME TAX OFFICER (TDS) AND ANR.  
+          .....Respondents 
+Through: 
+Mr. 
+Puneet 
+Rai, 
+Senior 
+Standing Counsel for Income Tax. 
++ 
+W.P.(C) 882/2021, CM Appl. 2302/2021 
+OPTUM GLOBAL SOLUTIONS INTERNATIONAL BV   .....Petitioner 
+Through: Mr. Kamal Sawhney with Mr. 
+Prashant 
+Meharchandani, 
+Mr. 
+Arun 
+Bhadauria & Mr. Divyansh Singh, Advs. 
+versus 
+DEPUTY COMMISSIONER OF INCOME TAX & ANR.....Respondents 
+Through: Mr. Kunal Sharma, Senior 
+Standing Counsel with Ms. Zehra Khan 
+& Mr. Shubhendu Bhattacharya, Advs 
+CORAM: 
+HON'BLE MR. JUSTICE RAJIV SHAKDHER 
+HON'BLE MR. JUSTICE TALWANT SINGH 
+RAJIV SHAKDHER, J : 
+ 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 2 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 2 of 20 
+ 
+TABLE OF CONTENTS 
+Preface ................................................................................................................... 2 
+Background facts ................................................................................................... 3 
+Submissions made on behalf of the petitioners .................................................... 5 
+Submissions advanced on behalf of the revenue .................................................. 7 
+Analysis and Reasons.......................................................................................... 10 
+Conclusion .......................................................................................................... 20 
+Preface: - 
+1. 
+The moot issue, which arises for consideration, in the captioned writ 
+petitions is: as to what should be the withholding rate of tax in respect of 
+dividend?  
+2. 
+The petitioners, in both cases, before us, are the deductees, i.e., the 
+ultimate tax-payers. The grievance of the petitioners is that their request to 
+respondent no. 1, for issuance of a certificate at a lower withholding tax rate of 
+5%, was rejected, despite The Government of the Republic of India and the 
+Government of the Kingdom of Netherlands Agreement for Avoidance of 
+Double Taxation and Prevention of Fiscal Evasion [in short “subject DTAA”], 
+[when read, along with] the appended protocol, making a provision qua the 
+same. 
+2.1. What is not in dispute is that the impugned certificates issued by 
+respondent no. 1, with the approval of respondent no. 2, have stipulated a 
+withholding tax rate of 10% on dividends receivable by the petitioners. 
+3. 
+Therefore, insofar as W.P. (C) 9051/2020 [hereafter referred to as the 
+“first writ petition”] is concerned, a challenge is laid to the certificate dated 
+16.09.2020 issued by respondent no. 1. The relief sought is that the same be 
+quashed. The consequential relief sought is that the petitioner’s Indian 
+counterpart, i.e., the deductor be permitted to remit dividend, after deducting 
+withholding tax at the rate of 5%. Likewise, in W.P. (C) 882/2021 [hereafter 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 3 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 3 of 20 
+ 
+referred to as the “second writ petition”], the relief sought is for quashing the 
+certificate dated 04.01.2021 issued by respondent no. 1 with the approval of 
+respondent no. 2 whereby the withholding tax rate is pegged at 10%.  
+Background facts: - 
+4. 
+Thus, to adjudicate upon the captioned writ petitions, the following broad 
+facts are required to be noticed: 
+4.1. India entered into the subject DTAA with the Kingdom of Netherlands on 
+21.01.1989. A notification, in that behalf, was issued on 27.03.1989 which was 
+amended by a subsequent notification dated 30.08.1999.  
+4.2. The petitioner, in the first writ petition, is an entity going by the name 
+Concentrix Services Netherlands B.V. [hereafter referred to as “Concentrix 
+Netherlands”] while the remitter of the dividend is an Indian company, i.e., 
+Concentrix Daksh Services India Private Limited [hereafter referred to as 
+“Concentrix India”]. Similarly, insofar as the petitioner in the second writ 
+petition is concerned, it is an entity going by the name Optum Global Solutions 
+International B.V. [hereafter referred to as “Optum Netherlands”] and the 
+remitter of the dividend is once again an Indian entity described as Optum 
+Global Solutions (India) Private Limited [hereafter referred to as “Optum 
+India”]. What is not in dispute is that Concentrix Netherlands and Optum 
+Netherlands hold 99.99% share in their Indian counterparts i.e. Concentrix India 
+and Optum India respectively.  
+4.3. It is in this background that Concentrix Netherlands, on 29.07.2020, had 
+applied to the concerned statutory authority under Section 197 of the Income 
+Tax Act, 1961 [in short "the Act"] in the prescribed form, i.e., Form 13 seeking 
+issuance of a certificate that would authorize Concentrix India to deduct 
+withholding tax at a lower rate of 5% in consonance with the subject DTAA 
+read with the protocol appended thereto.  
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 4 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 4 of 20 
+ 
+4.4. Likewise, Optum Netherlands had applied to respondent no. 1 on 
+15.07.2020 under Section 197 of the Act for issuance of a certificate that would 
+authorise Optum India to deduct withholding tax at the rate of 5% under the 
+subject DTAA and the protocol appended thereto.  
+4.5. In the case of Concentrix Netherlands, respondent no. 1, after obtaining 
+approval of respondent no. 2 issued the impugned certificate dated 16.09.2020 
+wherein the stipulated withholding tax rate was shown as 10%. In the case of 
+Optum Netherlands, a similar situation obtained, i.e., the impugned certificate 
+dated 04.01.2021 was issued wherein the withholding tax rate was indicated as 
+10%.  
+4.6. In both cases, the validity period of the impugned certificates came to an 
+end on 31.03.2021. Via the communication dated 17.09.2020, Concentrix 
+Netherlands, through its accountants, Earnst & Young LLP [in short “Earnst & 
+Young], sought, not only the permission of respondent no. 1 to inspect the files 
+but also copies of order sheet(s) which concerned processing of its application 
+preferred under Section 197 of the Act.  
+4.7. In the first writ petition, there is an assertion made by Concentrix 
+Netherlands that it had also filed an application seeking reasons as to why a 
+higher rate of TDS had been stipulated and that a response qua the same was 
+received from respondent no. 1 justifying its stance. While the response of the 
+respondent no. 1 dated 01.10.2020 is on record [See: page number 53 of the 
+paper book in the first writ petition], the application seeking reasons is not part 
+of the record. Although notice in this writ petition was issued on 17.11.2020, no 
+counter-affidavit was filed on behalf of the respondents despite an opportunity 
+being granted in that behalf.  
+4.8.  Insofar as Optum Netherlands is concerned, it has placed on record letter 
+dated 27.08.2020 and 11.11.2020 addressed to respondent no. 1. These letters 
+were written by the chartered accountancy firm, i.e., SRBC and Associates LLP, 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 5 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 5 of 20 
+ 
+appointed by Optum Netherlands, to respond to the queries raised on the subject 
+matter of the issuance of a lower rate of withholding tax certificate. 
+Furthermore, it appears that, thereafter, Optum Netherlands availed the services 
+of Earnst & Young. Earnst & Young, via e-mail dated 04.01.2021, like in the 
+first writ petition, sought both, an inspection of file and also copies of order 
+sheet(s) which dealt with the application filed by Optum Netherlands for 
+issuance of lower rate withholding tax certificate under Section 197 of the Act. 
+However, after the issuance of the impugned certificate dated 04.01.2021, in the 
+matter involving Optum Netherlands, Earnst & Young, on its behalf, wrote a 
+letter to respondent no. 1 seeking reasons for authorizing tax deduction at the 
+rate of 10% as against 5%, as requested, by Optum Netherlands. The record 
+shows that respondent no. 1 furnished reasons to justify the withholding tax rate 
+which was pegged at 10% vide communication dated 22.01.2021 addressed to 
+Optum Netherlands.  
+5. 
+It is in these circumstances, both Concentrix Netherlands and Optum 
+Netherlands were, perhaps, impelled to approach this Court by way of the 
+instant writ petitions.  
+Submissions made on behalf of the petitioners: 
+6. 
+Arguments on behalf of Concentrix Netherlands were addressed by Mr. 
+Deepak Chopra while those on behalf of Optum Netherlands were advanced by 
+Mr. Kamal Sawhney. The revenue was represented by Mr. Deepak Anand in the 
+first writ petition while Mr. Kunal Sharma advanced arguments, on behalf of the 
+revenue, in the second writ petition.   
+7. 
+Since the arguments of counsels appearing for the parties were similar, 
+we intend to paraphrase them by indicating herein as to what each side had to 
+say concerning the controversy-at-hand. 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 6 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 6 of 20 
+ 
+8. 
+Insofar as Mr. Chopra and Mr. Sawhney were concerned, they made the 
+following submissions:  
+i. 
+Although the subject DTAA provides for a withholding tax rate of 10% 
+on dividends received by an entity residing in the Netherlands from an 
+entity residing in India, the petitioners sought a lower rate withholding 
+tax certificate of 5% by placing reliance on the Most Favoured Nation [in 
+short “MFN”] Clause obtaining in the protocol appended to the subject 
+DTAA. In this context, reliance was placed on Article 10 (2) read with 
+Clause IV.Ad Articles 10, 11 and 12 contained in the protocol appended 
+to the subject DTAA. In particular, reliance was placed on Clause IV (2) 
+of the protocol.  
+ii. 
+Based on the said provisions of the subject DTAA and the protocol, it 
+was contended that since India had entered into DTAAs with other 
+countries which were members of Organization for Economic Co-
+operation and Development [in short “OECD”], the lower rate or the 
+restricted scope in the DTAA executed between India and such a country 
+would automatically apply to the subject DTAA. This argument was 
+based on the provision made in the preface of the protocol which inter 
+alia stated that the protocol “shall form part an integral part of the 
+Convention” i.e., the subject DTAA.  
+iii. 
+For applicability of the provisions of the DTAA which followed the 
+subject DTAA, contrary to the stand of the respondents, no fresh 
+notification was required. In support of this plea, reliance was placed on 
+the judgement of Division Bench of this Court in Steria (India) Ltd. vs. 
+Commissioner of Income-tax-VI, [2016] 386 ITR 390 (Delhi) and the 
+judgement of the Karnataka High Court in Apollo Tyres Ltd. vs. 
+Commissioner of Income Tax, International Taxation, [2018] 92 
+taxmann.com 166 (Karnataka). Besides this, reliance was also placed on 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 7 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 7 of 20 
+ 
+the judgement of another Division Bench on this Court rendered in 
+EPCOS Electronic Components S.A vs. Union of India, [2019] 107 
+taxmann.com 227 (Delhi). 
+iv. 
+It is in this context, reliance was placed on the following DTAAs entered 
+into between India and countries, other than the Netherlands: 
+a) DTAA executed between India and Slovenia; which came into 
+force on 17.02.2005 and was notified on 31.05.2005. 
+b) DTAA executed between India and Lithuania; which came into 
+force on 10.07.2012 and was notified on 25.07.2012. 
+c) DTAA executed between India and Columbia; which came into 
+force on 07.07.2014 and was notified on 23.09.2014. 
+v. 
+The reasons advanced on behalf of the respondents, in defence of the 
+impugned certificates, issued under Section 197 of the Act, that there was 
+no separate notification issued, which entailed importing the benefit of 
+the MFN Clause from DTAAs executed with countries like Slovenia, 
+Lithuania, and Columbia into the subject DTAA, was completely 
+misconceived, given the provisions contained in the protocol appended to 
+the subject DTAA. The protocol contained in the subject DTAA was 
+configured, to self-trigger, upon the execution of a DTAA other than the 
+subject DTAA, if it provided a lower rate of tax or a scope more 
+restricted, as long as the deductee held more than 10% of the share capital 
+of the deductor. In these cases, admittedly, the deductees own nearly 
+99.99% share capital of the deductee. 
+Submissions advanced on behalf of the revenue: 
+9. 
+On the other hand, Mr. Anand and Mr. Sharma made the following 
+submissions:  
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 8 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 8 of 20 
+ 
+i. 
+A bare reading of Clause IV (2) of the protocol appended to the subject 
+DTAA would show that the benefit of the lower rate of withholding tax 
+or a scope more restricted would be available only if the country with 
+which India enters into a DTAA was a member of the OECD at the time 
+of the execution of the subject DTAA. In other words, the benefit of the 
+lower rate of withholding tax or a scope more restricted would extend to 
+those governed by the subject DTAA if the DTAA(s) on which reliance is 
+placed are entered into before the subject DTAA or with a country which 
+was not a member of the OECD on the date when the subject DTAA was 
+executed.  
+ii. 
+In this context, our attention was drawn to the fact that the DTAA 
+between India and Slovenia which provided for a withholding tax rate of 
+5% on dividends was executed on 17.02.2005. Slovenia, we were told, 
+became a member of OECD in August 2010. Likewise, we were 
+informed that the DTAA between India and Lithuania was executed on 
+10.07.2012 whereas Lithuania became a member of OECD only in July 
+2018. Insofar as Columbia was concerned, we were informed that the 
+DTAA between India and Columbia was executed on 07.07.2014 
+whereas it became a member of OECD in April 2020. The argument was, 
+since none of the aforementioned countries, i.e., Slovenia, Lithuania, and 
+Columbia were members of the OECD, on the date when they executed 
+DTAAs with India, Clause IV (2) of the protocol appended to the subject 
+DTAA would have no applicability.  
+iii. 
+It was contended, based on the aforesaid dates and events, that the benefit 
+of the lower rate of withholding tax or a scope more restricted was 
+extended to Slovenia, Lithuania and Columbia in their own right and not 
+because they were members of the OECD.  
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 9 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 9 of 20 
+ 
+iv. 
+Furthermore, the submission made was that several amendments have 
+been made to the subject DTAA which have been ratified by both India 
+and the Netherlands and therefore, if the benefit of a lower rate of 
+withholding tax or a scope more restricted as provided in the DTAA(s) 
+executed between India and Slovenia, Lithuania and Colombia is to be 
+extended to those governed by the subject DTAA it could only be done 
+by amending the subject DTAA followed by the issuance of notification. 
+Since no such amendment has been made to the subject DTAA, the 
+withholding tax cannot be lower than 10%.  
+v. 
+Clause IV (2) of the protocol appended to the subject DTAA is like a 
+contingent contract and before any benefits availed by the residents of 
+OECD countries are extended to those who reside in Netherlands, the 
+following two contingencies are required to be fulfilled:  
+a) The other country should be a member of the OECD on the date 
+when the subject DTAA was executed and also on the date when a 
+claim for the lower rate of withholding tax is made by a resident of 
+the Netherlands.  
+b) The more beneficial provisions should have been extended to the 
+residents of countries who are members of the OECD post the 
+execution of the subject DTAA.  
+vi. 
+As indicated above, Slovenia, Lithuania and Columbia were not members 
+of the OECD when the subject DTAA was executed. Furthermore, 
+DTAAs were signed with Slovenia, Lithuania and Columbia before they 
+became members of OECD. Therefore, Clause IV (2) of the protocol will 
+have no applicability. 
+vii. 
+Each sovereign nation is free to choose as to when it should obtain 
+membership of multilateral organizations such as OECD. Therefore, the 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 10 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 10 of 20 
+ 
+mere fact Slovenia, Lithuania, and Columbia have chosen to become 
+members of OECD cannot be the reason for applying the provisions 
+contained in the DTAAs concerning them (which are more beneficial) to 
+the subject DTAA only because of the protocol accompanying it.   
+Analysis and Reasons: 
+10. 
+Having heard learned counsel for the parties and perused the record, to 
+our minds, what needs to be noticed, in the first instance, are the relevant 
+provisions of the subject DTAA, insofar as they are relevant, to determine as to 
+what is the withholding tax rate applicable qua dividends.  
+“ARTICLE 10 
+DIVIDENDS 
+1. Dividends paid by a company which is a resident of one of the States to a resident 
+of the other State may be taxed in that other State. 
+[2. However, such dividends may also be taxed in the Contracting State of which the 
+company paying the dividends is a resident and according to the laws of that State, but 
+if the recipient is the beneficial owner of the dividends, the tax so charged shall not 
+exceed 10 per cent of the gross amount of the dividends.]” 
+11. 
+A perusal of Clause (1) and (2) of Article 10 of the subject DTAA would 
+show that when dividends are paid by a company which is a resident of one of 
+the contracting State, to a resident of other State, it may be taxed in that other 
+State. However, such dividends can also be taxed in the contracting State of 
+which the company paying dividends is a resident according to laws of that 
+State, and if the recipient is the beneficial owner of the dividend, the tax so 
+charged shall not exceed 10% of the gross amount of the dividend.  
+11.1.  In the given facts and circumstances, although, the remitter of dividends 
+are Indian entities, the recipients are companies residents of the Netherlands. 
+Therefore, in consonance with Article 10 (2) of the subject DTAA, the 
+remittance, i.e., the dividends can be taxed in India provided the recipients are 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 11 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 11 of 20 
+ 
+beneficial owners of the dividends and the tax rate does not exceed 10% of the 
+gross amount of dividends. The respondents have not contested the assertion 
+that the recipients, i.e., Concentrix Netherlands and Optum Netherlands are the 
+beneficial owners of the dividends. In fact, in consonance with a request made 
+by them, certificates under Section 197 of the Act were issued authorizing the 
+deductors, i.e., the remitters namely Concentrix India and Optum India to 
+deduct withholding tax @ 10% in accordance with Article 10(2) of the subject 
+DTAA.  
+12. 
+The point of inflection is the rejection of the request of the deductees 
+made to respondent no. 1 that the rate of withholding tax should be pegged at 
+5% and not 10% (as indicated in the impugned certificates) in consonance with 
+Clause (IV) of the protocol appended to the subject DTAA.  
+13. 
+Therefore, it would be necessary to extract the relevant provisions of the 
+protocol.  
+“PROTOCOL 
+At the moment of signing the Convention for the avoidance of double taxation and the 
+prevention of fiscal evasion with respect to taxes on income and on capital, this day 
+concluded between the Kingdom of the Netherlands and the Republic of India, the 
+undersigned have agreed that the following provisions shall form an integral 
+part of the Convention. 
+IV.Ad Articles 10, 11 and 12 
+1. Where tax has been levied at source in excess of the amount of tax chargeable 
+under the provisions of Article 10, 11 or 12, applications for the refund of the excess 
+amount of tax have to be lodged with the competent authority of the State having 
+levied the tax, within a period of three years after the expiration of the calendar year 
+in which the tax has been levied. 
+2. If after the signature of this convention under any Convention or Agreement 
+between India and a third State which is a member of the OECD India should 
+limit its taxation at source on dividends, interests, royalties, fees for technical 
+services or payments for the use of equipment to a rate lower or a scope more 
+restricted than the rate or scope provided for in this Convention on the said 
+items of income, then as from the date on which the relevant Indian Convention 
+or Agreement enters into force the same rate or scope as provided for in that 
+Convention or Agreement on the said items of income shall also apply under this 
+Convention.”  
+ 
+ 
+ 
+ 
+ 
+ 
+[Emphasis is ours] 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 12 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 12 of 20 
+ 
+14. 
+A perusal of the aforesaid extract of the protocol would show that the 
+protocol forms an integral part of the Convention. Therefore, plainly read, no 
+separate notification is required, insofar as the applicability of provisions of the 
+protocol is concerned. In this regard, it would be useful to extract the apposite 
+observations, made by a Division Bench of this Court, in Steria (India) Ltd. vs. 
+Commissioner of Income-tax-VI, [2016] 386 ITR 390 (Delhi). 
+“16. The AAR appears to have failed to notice that the wording of Clause 7 of the 
+Protocol makes it self-operational. It is not in dispute that the India-France DTAA 
+was itself notified by the Central Government by issuing a notification under Section 
+90 of the Act. It is also not in dispute the separate Protocol signed between India and 
+France simultaneously forms an integral part of the Convention itself. The preamble 
+in the Protocol, which states "the undersigned have agreed on the following 
+provisions which shall form an integral part of the Convention", makes this position 
+clear. Once the DTAA has itself been notified, and contains the Protocol 
+including para 7 thereof, there is no need for the Protocol itself to be separately 
+notified or for the beneficial provisions in some other Convention between India 
+and another OECD country to be separately notified to form part of the Indo-
+France DTAA. 
+17. Reliance is rightly placed by the Petitioner on the following passage at page 
+32 in the commentary by Klaus Vogel on "Double Taxation Conventions": 
+"As previously mentioned, (final) protocols and in some cases other completing 
+documents are frequently attached to treaties. Such documents elaborate and 
+complete the text of a treaty, sometimes even altering the text. Legally they are 
+part of the treaty, and their binding force is equal to that of the principal treaty 
+text. When applying a tax treaty, therefore, it is necessary carefully to examine 
+these additional documents" 
+18. The Court is, therefore, unable to agree with the conclusion of the AAR that the 
+Clause 7 of the Protocol, which forms part of the DTAA between India and France, 
+does not automatically become applicable and that there has to be a separate 
+notification incorporating the beneficial provisions of the DTAA between India and 
+UK as forming part of the India- France DTAA.” 
+[Emphasis is ours] 
+15. 
+A bare perusal of Clause IV (2) shows that it incorporates the principle of 
+parity between the subject DTAA and the Conventions/DTAAs executed 
+thereafter qua the rate of withholding tax or the scope of the Conventions in 
+respect of items of income concerning dividends, interest, royalties, fees for 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 13 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 13 of 20 
+ 
+technical services, or payments for use of equipment [in short “subject 
+remittances”].  
+16. 
+However, the principle of parity kicks-in, only if the following conditions 
+are fulfilled: 
+i. 
+First, the third State with whom India enters into a Convention/DTAA 
+should be a member of the OECD.  
+ii. 
+Second, India should have, in its Convention/DTAA, executed with the 
+third State, limited its rate of withholding tax, on subject remittances, at a 
+rate lower or a scope more restricted, than the rate or scope provided in 
+the subject Convention/ DTAA.  
+17. 
+Once the aforementioned conditions are fulfilled, then, from the date on 
+which the Convention/DTAA between India and a third State comes into force, 
+the same rate of withholding tax or scope as provided in the Convention/DTAA 
+executed between India and the third State would necessarily have to apply to 
+the subject DTAA.  
+17.1. Therefore, the argument advanced on behalf of the revenue, that the 
+beneficial provisions contained in the Conventions/DTAAs, executed both prior 
+to or after the coming into force of the subject DTAA, i.e., 21.01.1989, could 
+not be made applicable to the recipients of remittances covered under the 
+subject DTAA even though the concerned third State was a member of the 
+OECD is, to our minds, completely misconceived and contrary to the plain 
+terms of Clause IV (2) of the protocol appended to the subject DTAA.  
+17.2. Although it must be said in favour of the revenue, the construct of Clause 
+IV (2) is such that in certain cases there could be a hiatus between the dates on 
+which the Convention/DTAA is executed between India and the third State and 
+the date when such third State becomes a member of OECD. The limit on the 
+lower rate of tax or the scope more restricted contained in the 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 14 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 14 of 20 
+ 
+Convention/DTAA executed between India and the third State can only apply 
+when the third State fulfils the attribute of being a member of the OECD.  
+17.3. We must point out that a lot of emphases is laid on behalf of the revenue 
+on the word “is” mentioned in the following part of Clause IV (2) in the context 
+of the aforementioned third States with which India has entered into 
+Conventions/DTAAs after the execution of the subject DTAA “… which is a 
+member of the OECD …”.  
+17.4. In our view, the word “is” describes a state of affairs that should exist not 
+necessarily at the time when the subject DTAA was executed but when a 
+request is made by the taxpayer or deductee for issuance of a lower rate 
+withholding tax certificate under Section 197 of the Act.  The word ‘is’- is both 
+autological and heterological. An autological1 word is one that expresses the 
+property that it possesses. Opposite of that is a heterological2 word, i.e., it does 
+not describe itself. The examples of autological words are expressions such as 
+“English”, “Noun”, or “Word”. Heterological words as indicated above are 
+those which do not describe themselves or have the potential of developing into 
+several forms or supporting multiple interpretations. An example of a 
+heterological word is the word "long". The word long does not describe itself 
+because it is not a long word.  
+17.5. Therefore, bearing the aforesaid in mind, the best interpretative tool that 
+can be employed to glean the intent of the Contracting States in framing Clause 
+IV (2) of the protocol would be as to how the other contracting State [i.e., the 
+Netherlands] has interpreted the provision. In this context, it would relevant to 
+note the contents of the decree issued by the Kingdom of Netherlands on 
+                                                          
+1 
+See: 
+Oxford 
+Reference, 
+Oxford 
+University 
+Press, 
+https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095436320, 
+last 
+accessed on 17.04.2021, at 13:00 IST. 
+2 
+See: 
+Oxford 
+Reference, 
+Oxford 
+University 
+Press,https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095934970, last 
+accessed on 17.04.2021, at 13:00 IST.  
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 15 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 15 of 20 
+ 
+28.02.2012 [No. IFZ 2012/54M, Tax Treaties, India] which was published on 
+13.03.2012: 
+“Decree of 28 February 2012, No. IFZ 2012 / 54M, Tax Treaties. India 
+February 28, 2012 
+No. IFZ 2012 / 54M 
+Directorate-General for Tax Affairs, International Tax Affairs 
+The State Secretary of Finance has decided the following. 
+This decision reflects the consequences of Slovenia's membership of the OECD 
+for the application of the tax treaty between the Netherlands and India as a 
+result of the MFN clause included in this treaty. Furthermore, this decision is a 
+merger and update of previous policy decisions on the consequences of this MFN 
+clause. 
+ 
+1 Introduction 
+On February 17, 2005, the tax treaty between India and Slovenia entered into force. 
+Slovenia became a member of the OECD on 21 July 2010. In this decision, I describe 
+the consequences of these events for the application of the tax treaty between the 
+Netherlands and India. The opportunity was taken to merge and update previous 
+policy decisions on the consequences of the most favored nation clause in the tax 
+treaty between the Netherlands and India. 
+1.1 Terms and abbreviations used 
+The treaty: the Convention between the Netherlands and India for the avoidance of 
+double taxation and the prevention of fiscal evasion with regard to taxes on income 
+and capital of July 30, 1988 (Treaty Series 1988, 122) 
+2. Profit from business 
+The Convention includes a most favored nation clause relating to a restriction on the 
+deduction of head office expenses by a permanent establishment under the national 
+law of the State in which the permanent establishment is located (Article 7 (3) (a)). 
+The most-favored-nation clause in Article 7 provides that if one of the Contracting 
+Governments agrees a tax treaty with another state that relaxes (or removes) the 
+limitation on the deduction of head office expenses, its application will not extend to 
+the India - Netherlands relationship until after the relaxation of the deduction 
+limitation as such is included in the Convention. The MFN clause in Article 7 of the 
+Treaty therefore does not have automatic effect. 
+3. Dividends 
+The Protocol to the Convention contains a most-favored-nation clause in relation 
+to Articles 10, 11 and 12 (Article IV, paragraph 2). This provision shall apply if, 
+after the signing of the Convention in a treaty with another State which is a 
+member of the OECD, India lowers the rate in respect of its taxation at source 
+below the rate provided for in the Convention or when India has a more limited 
+scope for the withholding tax provisions of Articles 10, 11 and 12. 
+The treaty that India has agreed with Slovenia, which entered into force on 
+February 17, 2005, includes a participation dividend rate of 5 percent. This 
+constitutes a participation dividend if a company immediately owns at least 10 
+percent of the capital of the company that pays the dividends. 
+Slovenia became a member of the OECD on 21 July 2010. Under the most 
+favored nation clause in the Protocol to the Convention, this event has the effect 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 16 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 16 of 20 
+ 
+that, with retroactive effect to July 21, 2010, a rate of 5 per cent will apply to 
+participation dividends paid by a company resident in the Netherlands to a body 
+resident in India. The text of the relevant treaty provision from the India-Slovenia 
+treaty is set out in the Annex. 
+Under the MFN clause, portfolio dividends (where an entity owns less than 10 percent 
+of the capital of the entity paying the dividends) in the Netherlands - India 
+relationship will continue to be subject to a rate of 10 percent. This rate is derived 
+from the treaty between India and Germany of June 19, 1995 and has been applicable 
+since April 1, 1997. The treaty between India and Slovenia does not change this. 
+The treaty between India and Slovenia has no consequences for the so-called 
+Dividend Distribution Tax that India levies from bodies established in India on the 
+distribution of profits by these bodies to shareholders in the Netherlands. India 
+considers that this tax should be seen as an additional tax on Indian profit tax and that 
+India therefore does not levy withholding tax on dividends. The Indian Dividend 
+Distribution Tax therefore cannot be considered a withholding tax for the purposes of 
+the Convention as referred to in Article 10 (dividends) and is not eligible for set-off 
+under Article 23, paragraph 3,” 
+[Emphasis is ours] 
+17.6. Clearly, the Netherlands has interpreted Clause IV (2) of the protocol 
+appended to the subject DTAA in a manner, indicated hereinabove by us, which 
+is, that the lower rate of tax set forth in the India-Slovenia Convention/DTAA 
+will be applicable on the date when Slovenia became a member of the OECD, 
+i.e., from 21.08.2010, although, the Convention/DTAA between India and 
+Slovenia came into force on 17.02.2005. Therefore, participation dividend paid 
+by companies resident in the Netherlands to a body resident in India will bear a 
+lower withholding tax rate of 5 per cent.  
+17.7. Thus, can the converse be any different? We think not. The reason being 
+that one of the avowed purposes of entering into DTAAs is the equitable 
+allocation of taxes concerning transactions that are taxable in both States.  The 
+approach adopted by us aligns with the accepted principle applied in the 
+interpretation of Conventions/DTAAs. This is the principle of “Common 
+Interpretation”. [See: Klaus Vogel, Double Tax Treaties and Their 
+Interpretation, (1986)] 
+17.8. This principle of Common Interpretation is also recognized in private 
+international law with regard to conflict rules. The purpose, it appears, as 
+indicated above, is to allocate tax claims equally between the contracting States. 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 17 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 17 of 20 
+ 
+The Courts of the contracting States are, thus, required to ensure that 
+Conventions/DTAAs are applied efficiently and fairly so that there is 
+consistency in the interpretation of the provisions by the tax authority and courts 
+of the concerned contracting State.  
+17.9. Having said so, the common interpretation if adopted [whether it 
+concerns a tax authority or a foreign court] should be applied with care and 
+caution having regard to the fact that the view expressed could be unique and/or 
+personal to the tax authority or a Court. An attempt should be made to choose a 
+view that finds general acceptance with Courts and authorities.  
+18. 
+Therefore, the judgement cited by Mr. Sawhney on behalf of Optum 
+Netherlands which was rendered in Corocraft Ltd. vs. Pan American Airways 
+Inc., [1968] 3 W.L.R. 1273, 1283 must, to our minds, align with the more 
+tempered view taken in Fothergill vs. Monarch Airlines3, 3 W.L.R. 209, 224 
+(1980). In Corocraft Ltd., Lord Denning expounded a very broad principle 
+concerning the applicability of the common interpretation principle in the 
+context of foreign decisions. 
+"even if I disagreed, I would follow them in a matter which is of international 
+concern. The courts of all the countries should interpret this convention in the same 
+way." 
+                                                          
+3 “… As respects decision of foreign courts, the persuasive value of a particular court's 
+decision must depend upon its reputation and its status, the extent to which its decisions are 
+binding upon courts of co-ordinate and inferior jurisdiction in its own country and the 
+coverage of the national law reporting system. For instance your Lordships would not be 
+fostering uniformity of interpretation of the Convention if you were to depart from the prima 
+facie view which you had yourselves formed as to its meaning, in order to avoid conflict with 
+a decision of a French court of appeal that would not be binding upon other courts in France, 
+that might be inconsistent with an unreported decision of some other French court of appeal 
+and would be liable to be superseded by a subsequent decision of the Court of Cassation that 
+would have binding effect upon lower courts in France. It is no criticism of the contents of 
+the judgments in those foreign cases to which your Lordships have been referred if I say that 
+the courts by which they were delivered do not appear to me to satisfy the criteria which 
+would justify your Lordships in being influenced to follow their decisions in the interests of 
+uniformity of interpretation.” 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 18 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 18 of 20 
+ 
+19. 
+However, the case before us is one where the other contracting State, i.e., 
+the Netherlands has interpreted Clause IV (2) in a particular way and therefore 
+in our opinion, in the fitness of things, the principle of common interpretation 
+should apply on all fours to ensure consistency and equal allocation of tax 
+claims between the contracting States.  
+19.1. Thus, we are not impressed with the argument advanced on behalf of the 
+revenue that since Slovenia, Lithuania, and Columbia became members of the 
+OECD, not only after the subject DTAA came into force but also after their own 
+DTAA came into force, and therefore, lower rate of withholding tax, i.e., 5% on 
+dividends would not apply to recipients in the Netherlands, who are otherwise 
+covered under the subject DTAA - as that is not how the other contracting State, 
+i.e., the Netherlands has interpreted Clause IV (2) of the protocol appended to 
+the subject DTAA. 
+19.2. Closer home, the Supreme Court in Union of India and Anr. vs. Azadi 
+Bachao Andolan and Another, (2004) 10 SCC 1, in paragraph 130 and 131, 
+made the following observations concerning the interpretation of treaties:  
+Interpretation of treaties 
+130. The principles adopted in interpretation of treaties are not the same as those 
+in interpretation of a statutory legislation. While commenting on the interpretation 
+of a treaty imported into a municipal law, Francis Bennion observes: 
+“With indirect enactment, instead of the substantive legislation taking the well-
+known form of an Act of Parliament, it has the form of a treaty. In other words, 
+the form and language found suitable for embodying an international agreement 
+become, at the stroke of a pen, also the form and language of a municipal legislative 
+instrument. It is rather like saying that, by Act of Parliament, a woman shall be a man. 
+Inconveniences may ensue. One inconvenience is that the interpreter is likely to be 
+required to cope with disorganised composition instead of precision drafting. 
+The drafting of treaties is notoriously sloppy usually for a very good reason. To 
+get agreement, politic uncertainty is called for. 
+… The interpretation of a treaty imported into municipal law by indirect 
+enactment was described by Lord Wilberforce as being ‘unconstrained by 
+technical rules of English law, or by English legal precedent, but conducted on 
+broad principles of general acceptation. This echoes the optimistic dictum of 
+Lord Widgery, C.J. that the words ‘are to be given their general meaning, 
+general to lawyer and layman alike … the meaning of the diplomat rather than 
+the lawyer’.” [ Francis Bennion: Statutory Interpretation, p. 461 [Butterworths, 1992 
+(2nd Edn.)].] 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 19 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 19 of 20 
+ 
+131. An important principle which needs to be kept in mind in the interpretation of the 
+provisions of an international treaty, including one for double taxation relief, is that 
+treaties are negotiated and entered into at a political level and have several 
+considerations as their bases. Commenting on this aspect of the matter, David R. 
+Davis in Principles of International Double Taxation Relief [ David R. Davis: 
+Principles of International Double Taxation Relief, p. 4 (London, Sweet & 
+Maxwell, 1985).] , points out that the main function of a Double Taxation 
+Avoidance Treaty should be seen in the context of aiding commercial relations 
+between treaty partners and as being essentially a bargain between two treaty 
+countries as to the division of tax revenues between them in respect of income 
+falling to be taxed in both jurisdictions. It is observed (vide paragraph 1.06): 
+“The benefits and detriments of a double tax treaty will probably only be truly 
+reciprocal where the flow of trade and investment between treaty partners is 
+generally in balance. Where this is not the case, the benefits of the treaty may be 
+weighed more in favour of one treaty partner than the other, even though the 
+provisions of the treaty are expressed in reciprocal terms. This has been identified 
+as occurring in relation to tax treaties between developed and developing countries, 
+where the flow of trade and investment is largely one-way. 
+Because treaty negotiations are largely a bargaining process with each side seeking 
+concessions from the other, the final agreement will often represent a number of 
+compromises, and it may be uncertain as to whether a full and sufficient quid pro quo 
+is obtained by both sides.” 
+And, finally, in paragraph 1.08: 
+“Apart from the allocation of tax between the treaty partners, tax treaties can also help 
+to resolve problems and can obtain benefits which cannot be achieved unilaterally.” 
+[Emphasis is ours] 
+19.3. A perusal of the aforesaid observations would show that while 
+interpreting international treaties including Tax treaties the rules of 
+interpretation that apply to domestic or municipal law need not be applied, for 
+the reason, that international treaties, conventions and tax treaties are negotiated 
+by diplomats and not necessarily by men instructed in the law. [Also see: 
+Observations of Lord Diplock4 in Fothergill Case]. 
+                                                          
+4 “… The Warsaw Convention of 1929 and its later protocols are exceptions inasmuch as 
+the only authentic text is that expressed in the French language which is set out in Part 2 of 
+the Schedule to the Carriage by Air Act 1961. The language of that Convention that has been 
+adopted at the international conference to express the common intention of the majority of the 
+states represented there, is meant to be understood in the same sense by the courts of all those 
+states which ratify or accede to the Convention. Their national styles of legislative 
+draftsmanship will vary considerably as between one another. So will the approach of their 
+judiciaries to the interpretation of written laws and to the extent to which recourse may be 
+had to travaux preparatoires, doctrine and jurisprudence as extraneous aids to the 
+interpretation of the legislative text. 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified
+
+
+--- PAGE 20 ---
+W.P. (C) 9051/2020 and W.P. (C) 882/2021 
+ 
+Page 20 of 20 
+ 
+19.4. Therefore, their interpretation is liberated from the technical rules which 
+govern the interpretation of domestic/municipal law. The core function of a 
+DTAA should be seen to aid commercial relations and equitable distribution of 
+tax revenues in respect of income which falls for taxation in both the deductor 
+and the deductee States, i.e., the contracting States.  
+Conclusion: 
+20. 
+Thus, having regard to the foregoing discussion, we are of the view that 
+the impugned certificates dated 16.09.2020 and 04.01.2021 deserve to be 
+quashed.  
+21. 
+It is ordered accordingly. Respondent no. 1 will issue a fresh certificate 
+under Section 197 of the Act, which would indicate, that the rate of withholding 
+tax, in the facts and circumstances of these cases, would be 5%.  
+22. 
+The case papers shall stand consigned to record.  
+ 
+RAJIV SHAKDHER, J. 
+ 
+TALWANT SINGH, J. 
+APRIL 22, 2021  
+             Click here to check the corrigendum, if any 
+                                                                                                                                                                                    
+The language of an international convention has not been chosen by an English parliamentary 
+draftsman. It is neither couched in the conventional English legislative idiom nor designed to 
+be construed exclusively by English judges. It is addressed to a much wider and more varied 
+judicial audience than is an Act of Parliament that deals with purely domestic law. It should 
+be interpreted as Lord Wilberforce put it in James Buchanan & Co. Ltd v. Babco Forwarding 
+and Shipping (UK) Ltd. [1978] A.C. 141. at 152, " unconstrained by technical rules of 
+English law, or by English legal " precedent, but on broad principles of general acceptation 
+".” 
+Digitally Signed
+By:VIPIN KUMAR RAI
+Signing Date:22.04.2021
+20:41:12
+Signature Not Verified

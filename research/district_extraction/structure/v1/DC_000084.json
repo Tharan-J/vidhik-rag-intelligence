@@ -1,0 +1,370 @@
+{
+  "document_id": "DC_000084",
+  "source": {
+    "sha256": "9c5b682b996f1118c77768a6a4cc873d7628d49d309c9c62baced929b2040f84",
+    "filename": "orders_2020_215200019502020_1.pdf",
+    "source_record_id": "DC-S3-084_8_24_1080060_2020_orders_2020_215200019502020_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 24161
+  },
+  "routing": {
+    "initial_route": "NATIVE_SUSPICIOUS",
+    "fallback_used": false,
+    "route_reason": "MODERATE_SYMBOL_NOISE"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.9997
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 3579,
+      "word_count": 495,
+      "raw_text": "In the  Court of the Sessions Judge,Araria.\nAB.P. NO. 1950/2020\nArising out of Tarabari  P.S. case no.108/2020   \n---------------------------------------------------------------------------------------------------                \nMannan and 6 others\n                               Petitioner.\nVersus\n           State of Bihar \n                     Opposite Party\n-------------------------------------------------------------------------------------------------------     \nAppearance:       \nFor the petitioners:    \nMr. M.Hussain,Advocate                                    \n       \n For the prosecution:   Mr. L.N.Yadav,P.P.\n----------------------------------------------------------------------------------------------------\n       \nThis anticipatory bail petition  filed on behalf of accused petitioners\nnamely 1. Mannan 2. Pappu @ Asad 3. Noman 4. Babloo 5. Daraksha 6. Kousar\nKhatoon and 7. Sabra  who apprehend their arrest in connection with Tarabari P.S. case\nno. 108/2020 u/s 147,149,341,323,324,354,379,504,506,427 I.P.C pressed today by his\nlearned counsel.  \nHeard both the sides in physical  mode of court proceeding. \nThe learned counsel for the accused petitioners submits  that the accused\npetitioners is  innocent who has been falsely implicated in this case due to previous\nenmity  and all the offences are bailable except 354 and 379 I.P.C. which are  general and\nsuper addition. There is prior enemical terms running between the parties and the\npetitioner Darkhasah has also lodged Tarabari P.S. case no. 104/2020 against the\ninformant and others, hence petitioner deserves to be released on  anticipatory bail. \nThe learned  P.P.  opposed the anticipatory bail petition. \nHeard the  submissions  of both the sides and perused the L.C.R..\nProsecution case as per F.I.R. being fard bayan of informant Md. Samim briefly is that\nall the 7 petitioners alongwith co-accused Asfaque on dated 16.10.2020 at 10 a.m.\nforming an unlawful assembly having common object came at the house of informant\nand abused and assaulted to informant and also broke the Tati of courtyard. It has been\nalleged further that petitioner no. 1 Mannan has inflicted farsa injury on the head of\ninformant and when informant's sister Furiya Khatoon came there, accused persons\nhave also assaulted to Furiya by lathi stroke. There is further allegation that accused\npersons have committed theft of Rs. 50,000/- cash and Jewelery and ran away seeing the\nneighbouring persons rushed on the spot. \nAs per submission of the petitioners for having counter allegation against\nthe informant of this case vide Tarabari P.S. case no. 104/2020 lodged by petitioner\nDarkasha Parween for having prior enemical dispute between both the sides, it\ntranspires that on the alleged date time and place members of both the family came in\nclash and confrontation and exchanged assault to each other, therefore, allegation of\ntheft and molestation as alleged appears super addition and rest sections of I.P.C. are of\nbailable in nature. Therefore, in the given facts and circumstances, I find it is a fit case to\ngrant anticipatory bail. Accordingly, anticipatory bail prayer of the petitioners is\nallowed. In the event of their arrest or surrender before the court below within a period\nof four weeks from receipt of this order the petitioners shall be released on bail on\nfurnishing their bail bonds of Rs. 10,000/- with two sureties of like amount each to the\nsatisfaction of the court below subject to the conditions as laid down u/s 438(2) Cr.p.C.\n(Dictated)\nsd/-\n  (P.K.Dixit) \n    Sessions Judge\n07.01.2021"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 3406,
+      "word_count": 495,
+      "normalized_text": "In the Court of the Sessions Judge,Araria.\nAB.P. NO. 1950/2020\nArising out of Tarabari P.S. case no.108/2020\n---------------------------------------------------------------------------------------------------\nMannan and 6 others\n Petitioner.\nVersus\n State of Bihar\n Opposite Party\n-------------------------------------------------------------------------------------------------------\nAppearance:\nFor the petitioners:\nMr. M.Hussain,Advocate\n\n For the prosecution: Mr. L.N.Yadav,P.P.\n----------------------------------------------------------------------------------------------------\n\nThis anticipatory bail petition filed on behalf of accused petitioners\nnamely 1. Mannan 2. Pappu @ Asad 3. Noman 4. Babloo 5. Daraksha 6. Kousar\nKhatoon and 7. Sabra who apprehend their arrest in connection with Tarabari P.S. case\nno. 108/2020 u/s 147,149,341,323,324,354,379,504,506,427 I.P.C pressed today by his\nlearned counsel.\nHeard both the sides in physical mode of court proceeding.\nThe learned counsel for the accused petitioners submits that the accused\npetitioners is innocent who has been falsely implicated in this case due to previous\nenmity and all the offences are bailable except 354 and 379 I.P.C. which are general and\nsuper addition. There is prior enemical terms running between the parties and the\npetitioner Darkhasah has also lodged Tarabari P.S. case no. 104/2020 against the\ninformant and others, hence petitioner deserves to be released on anticipatory bail.\nThe learned P.P. opposed the anticipatory bail petition.\nHeard the submissions of both the sides and perused the L.C.R..\nProsecution case as per F.I.R. being fard bayan of informant Md. Samim briefly is that\nall the 7 petitioners alongwith co-accused Asfaque on dated 16.10.2020 at 10 a.m.\nforming an unlawful assembly having common object came at the house of informant\nand abused and assaulted to informant and also broke the Tati of courtyard. It has been\nalleged further that petitioner no. 1 Mannan has inflicted farsa injury on the head of\ninformant and when informant's sister Furiya Khatoon came there, accused persons\nhave also assaulted to Furiya by lathi stroke. There is further allegation that accused\npersons have committed theft of Rs. 50,000/- cash and Jewelery and ran away seeing the\nneighbouring persons rushed on the spot.\nAs per submission of the petitioners for having counter allegation against\nthe informant of this case vide Tarabari P.S. case no. 104/2020 lodged by petitioner\nDarkasha Parween for having prior enemical dispute between both the sides, it\ntranspires that on the alleged date time and place members of both the family came in\nclash and confrontation and exchanged assault to each other, therefore, allegation of\ntheft and molestation as alleged appears super addition and rest sections of I.P.C. are of\nbailable in nature. Therefore, in the given facts and circumstances, I find it is a fit case to\ngrant anticipatory bail. Accordingly, anticipatory bail prayer of the petitioners is\nallowed. In the event of their arrest or surrender before the court below within a period\nof four weeks from receipt of this order the petitioners shall be released on bail on\nfurnishing their bail bonds of Rs. 10,000/- with two sureties of like amount each to the\nsatisfaction of the court below subject to the conditions as laid down u/s 438(2) Cr.p.C.\n(Dictated)\nsd/-\n (P.K.Dixit)\n Sessions Judge\n07.01.2021"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 3,
+    "total_sentences": 36,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 3406,
+        "word_count": 495,
+        "paragraph_count": 3,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000084_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 440,
+            "word_count": 36,
+            "sentence_count": 5,
+            "text": "In the Court of the Sessions Judge,Araria.\nAB.P. NO. 1950/2020\nArising out of Tarabari P.S. case no.108/2020\n---------------------------------------------------------------------------------------------------\nMannan and 6 others\n Petitioner.\nVersus\n State of Bihar\n Opposite Party\n-------------------------------------------------------------------------------------------------------\nAppearance:\nFor the petitioners:\nMr. M.Hussain,Advocate",
+            "sentences": [
+              {
+                "sentence_id": "DC_000084_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 42,
+                "word_count": 7,
+                "text": "In the Court of the Sessions Judge,Araria."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 5,
+                "word_count": 1,
+                "text": "AB.P."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 42,
+                "word_count": 7,
+                "text": "NO. 1950/2020\nArising out of Tarabari P.S."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 149,
+                "word_count": 8,
+                "text": "case no.108/2020\n---------------------------------------------------------------------------------------------------\nMannan and 6 others\n Petitioner."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 198,
+                "word_count": 13,
+                "text": "Versus\n State of Bihar\n Opposite Party\n-------------------------------------------------------------------------------------------------------\nAppearance:\nFor the petitioners:\nMr. M.Hussain,Advocate"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000084_P001_PAR002",
+            "paragraph_index": 2,
+            "character_count": 140,
+            "word_count": 6,
+            "sentence_count": 2,
+            "text": "For the prosecution: Mr. L.N.Yadav,P.P.\n----------------------------------------------------------------------------------------------------",
+            "sentences": [
+              {
+                "sentence_id": "DC_000084_P001_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 39,
+                "word_count": 5,
+                "text": "For the prosecution: Mr. L.N.Yadav,P.P."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR002_SEN002",
+                "sentence_index": 2,
+                "character_count": 100,
+                "word_count": 1,
+                "text": "----------------------------------------------------------------------------------------------------"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000084_P001_PAR003",
+            "paragraph_index": 3,
+            "character_count": 2821,
+            "word_count": 453,
+            "sentence_count": 29,
+            "text": "This anticipatory bail petition filed on behalf of accused petitioners\nnamely 1. Mannan 2. Pappu @ Asad 3. Noman 4. Babloo 5. Daraksha 6. Kousar\nKhatoon and 7. Sabra who apprehend their arrest in connection with Tarabari P.S. case\nno. 108/2020 u/s 147,149,341,323,324,354,379,504,506,427 I.P.C pressed today by his\nlearned counsel.\nHeard both the sides in physical mode of court proceeding.\nThe learned counsel for the accused petitioners submits that the accused\npetitioners is innocent who has been falsely implicated in this case due to previous\nenmity and all the offences are bailable except 354 and 379 I.P.C. which are general and\nsuper addition. There is prior enemical terms running between the parties and the\npetitioner Darkhasah has also lodged Tarabari P.S. case no. 104/2020 against the\ninformant and others, hence petitioner deserves to be released on anticipatory bail.\nThe learned P.P. opposed the anticipatory bail petition.\nHeard the submissions of both the sides and perused the L.C.R..\nProsecution case as per F.I.R. being fard bayan of informant Md. Samim briefly is that\nall the 7 petitioners alongwith co-accused Asfaque on dated 16.10.2020 at 10 a.m.\nforming an unlawful assembly having common object came at the house of informant\nand abused and assaulted to informant and also broke the Tati of courtyard. It has been\nalleged further that petitioner no. 1 Mannan has inflicted farsa injury on the head of\ninformant and when informant's sister Furiya Khatoon came there, accused persons\nhave also assaulted to Furiya by lathi stroke. There is further allegation that accused\npersons have committed theft of Rs. 50,000/- cash and Jewelery and ran away seeing the\nneighbouring persons rushed on the spot.\nAs per submission of the petitioners for having counter allegation against\nthe informant of this case vide Tarabari P.S. case no. 104/2020 lodged by petitioner\nDarkasha Parween for having prior enemical dispute between both the sides, it\ntranspires that on the alleged date time and place members of both the family came in\nclash and confrontation and exchanged assault to each other, therefore, allegation of\ntheft and molestation as alleged appears super addition and rest sections of I.P.C. are of\nbailable in nature. Therefore, in the given facts and circumstances, I find it is a fit case to\ngrant anticipatory bail. Accordingly, anticipatory bail prayer of the petitioners is\nallowed. In the event of their arrest or surrender before the court below within a period\nof four weeks from receipt of this order the petitioners shall be released on bail on\nfurnishing their bail bonds of Rs. 10,000/- with two sureties of like amount each to the\nsatisfaction of the court below subject to the conditions as laid down u/s 438(2) Cr.p.C.\n(Dictated)\nsd/-\n (P.K.Dixit)\n Sessions Judge\n07.01.2021",
+            "sentences": [
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN001",
+                "sentence_index": 1,
+                "character_count": 80,
+                "word_count": 12,
+                "text": "This anticipatory bail petition filed on behalf of accused petitioners\nnamely 1."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN002",
+                "sentence_index": 2,
+                "character_count": 9,
+                "word_count": 2,
+                "text": "Mannan 2."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN003",
+                "sentence_index": 3,
+                "character_count": 15,
+                "word_count": 4,
+                "text": "Pappu @ Asad 3."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN004",
+                "sentence_index": 4,
+                "character_count": 8,
+                "word_count": 2,
+                "text": "Noman 4."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN005",
+                "sentence_index": 5,
+                "character_count": 9,
+                "word_count": 2,
+                "text": "Babloo 5."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN006",
+                "sentence_index": 6,
+                "character_count": 11,
+                "word_count": 2,
+                "text": "Daraksha 6."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN007",
+                "sentence_index": 7,
+                "character_count": 21,
+                "word_count": 4,
+                "text": "Kousar\nKhatoon and 7."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN008",
+                "sentence_index": 8,
+                "character_count": 65,
+                "word_count": 10,
+                "text": "Sabra who apprehend their arrest in connection with Tarabari P.S."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN009",
+                "sentence_index": 9,
+                "character_count": 105,
+                "word_count": 12,
+                "text": "case\nno. 108/2020 u/s 147,149,341,323,324,354,379,504,506,427 I.P.C pressed today by his\nlearned counsel."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN010",
+                "sentence_index": 10,
+                "character_count": 58,
+                "word_count": 10,
+                "text": "Heard both the sides in physical mode of court proceeding."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN011",
+                "sentence_index": 11,
+                "character_count": 262,
+                "word_count": 43,
+                "text": "The learned counsel for the accused petitioners submits that the accused\npetitioners is innocent who has been falsely implicated in this case due to previous\nenmity and all the offences are bailable except 354 and 379 I.P.C. which are general and\nsuper addition."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN012",
+                "sentence_index": 12,
+                "character_count": 116,
+                "word_count": 18,
+                "text": "There is prior enemical terms running between the parties and the\npetitioner Darkhasah has also lodged Tarabari P.S."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN013",
+                "sentence_index": 13,
+                "character_count": 114,
+                "word_count": 17,
+                "text": "case no. 104/2020 against the\ninformant and others, hence petitioner deserves to be released on anticipatory bail."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN014",
+                "sentence_index": 14,
+                "character_count": 16,
+                "word_count": 3,
+                "text": "The learned P.P."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN015",
+                "sentence_index": 15,
+                "character_count": 39,
+                "word_count": 5,
+                "text": "opposed the anticipatory bail petition."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN016",
+                "sentence_index": 16,
+                "character_count": 63,
+                "word_count": 11,
+                "text": "Heard the submissions of both the sides and perused the L.C.R.."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN017",
+                "sentence_index": 17,
+                "character_count": 30,
+                "word_count": 5,
+                "text": "Prosecution case as per F.I.R."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN018",
+                "sentence_index": 18,
+                "character_count": 33,
+                "word_count": 6,
+                "text": "being fard bayan of informant Md."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN019",
+                "sentence_index": 19,
+                "character_count": 103,
+                "word_count": 17,
+                "text": "Samim briefly is that\nall the 7 petitioners alongwith co-accused Asfaque on dated 16.10.2020 at 10 a.m."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN020",
+                "sentence_index": 20,
+                "character_count": 156,
+                "word_count": 26,
+                "text": "forming an unlawful assembly having common object came at the house of informant\nand abused and assaulted to informant and also broke the Tati of courtyard."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN021",
+                "sentence_index": 21,
+                "character_count": 226,
+                "word_count": 37,
+                "text": "It has been\nalleged further that petitioner no. 1 Mannan has inflicted farsa injury on the head of\ninformant and when informant's sister Furiya Khatoon came there, accused persons\nhave also assaulted to Furiya by lathi stroke."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN022",
+                "sentence_index": 22,
+                "character_count": 76,
+                "word_count": 12,
+                "text": "There is further allegation that accused\npersons have committed theft of Rs."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN023",
+                "sentence_index": 23,
+                "character_count": 91,
+                "word_count": 15,
+                "text": "50,000/- cash and Jewelery and ran away seeing the\nneighbouring persons rushed on the spot."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN024",
+                "sentence_index": 24,
+                "character_count": 120,
+                "word_count": 19,
+                "text": "As per submission of the petitioners for having counter allegation against\nthe informant of this case vide Tarabari P.S."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN025",
+                "sentence_index": 25,
+                "character_count": 399,
+                "word_count": 64,
+                "text": "case no. 104/2020 lodged by petitioner\nDarkasha Parween for having prior enemical dispute between both the sides, it\ntranspires that on the alleged date time and place members of both the family came in\nclash and confrontation and exchanged assault to each other, therefore, allegation of\ntheft and molestation as alleged appears super addition and rest sections of I.P.C. are of\nbailable in nature."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN026",
+                "sentence_index": 26,
+                "character_count": 100,
+                "word_count": 18,
+                "text": "Therefore, in the given facts and circumstances, I find it is a fit case to\ngrant anticipatory bail."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN027",
+                "sentence_index": 27,
+                "character_count": 68,
+                "word_count": 9,
+                "text": "Accordingly, anticipatory bail prayer of the petitioners is\nallowed."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN028",
+                "sentence_index": 28,
+                "character_count": 201,
+                "word_count": 37,
+                "text": "In the event of their arrest or surrender before the court below within a period\nof four weeks from receipt of this order the petitioners shall be released on bail on\nfurnishing their bail bonds of Rs."
+              },
+              {
+                "sentence_id": "DC_000084_P001_PAR003_SEN029",
+                "sentence_index": 29,
+                "character_count": 199,
+                "word_count": 31,
+                "text": "10,000/- with two sureties of like amount each to the\nsatisfaction of the court below subject to the conditions as laid down u/s 438(2) Cr.p.C.\n(Dictated)\nsd/-\n (P.K.Dixit)\n Sessions Judge\n07.01.2021"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 8,
+    "state_name": "Bihar",
+    "district_code": 24,
+    "district_name": "Araria",
+    "court_complex_code": 1080060,
+    "court_complex_name": "Civil Court, Araria",
+    "year": 2020,
+    "case_type": "nan",
+    "case_number": "215200019502020",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "Writer",
+    "pdf_producer": "LibreOffice 5.1",
+    "pdf_creation_date": "D:20210116104858+05'30'",
+    "pdf_mod_date": ""
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.9997,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "9c5b682b996f1118c77768a6a4cc873d7628d49d309c9c62baced929b2040f84",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.340003"
+  }
+}

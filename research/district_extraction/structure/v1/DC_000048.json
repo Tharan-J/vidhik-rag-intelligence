@@ -1,0 +1,143 @@
+{
+  "document_id": "DC_000048",
+  "source": {
+    "sha256": "677b719d06741f69ce3dab3c9d1d855a21bb3cb4f2e244f2db52d2c509a45194",
+    "filename": "orders_2024_201900004452024_1.pdf",
+    "source_record_id": "DC-S3-048_3_1_1030005_2024_orders_2024_201900004452024_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 12825
+  },
+  "routing": {
+    "initial_route": "OCR_REQUIRED",
+    "fallback_used": false,
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.454
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 136,
+      "word_count": 13,
+      "raw_text": "Statement U/Sec. 164 of Cr.P.C. is \nrecorded.\n                                                \nSd/-\nPrl. C.J. and JMFC\n          Nippani"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 78,
+      "word_count": 13,
+      "normalized_text": "Statement U/Sec. 164 of Cr.P.C. is\nrecorded.\n\nSd/-\nPrl. C.J. and JMFC\n Nippani"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 2,
+    "total_sentences": 5,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 78,
+        "word_count": 13,
+        "paragraph_count": 2,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000048_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 44,
+            "word_count": 7,
+            "sentence_count": 2,
+            "text": "Statement U/Sec. 164 of Cr.P.C. is\nrecorded.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000048_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 16,
+                "word_count": 2,
+                "text": "Statement U/Sec."
+              },
+              {
+                "sentence_id": "DC_000048_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 27,
+                "word_count": 5,
+                "text": "164 of Cr.P.C. is\nrecorded."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000048_P001_PAR002",
+            "paragraph_index": 2,
+            "character_count": 32,
+            "word_count": 6,
+            "sentence_count": 3,
+            "text": "Sd/-\nPrl. C.J. and JMFC\n Nippani",
+            "sentences": [
+              {
+                "sentence_id": "DC_000048_P001_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 9,
+                "word_count": 2,
+                "text": "Sd/-\nPrl."
+              },
+              {
+                "sentence_id": "DC_000048_P001_PAR002_SEN002",
+                "sentence_index": 2,
+                "character_count": 4,
+                "word_count": 1,
+                "text": "C.J."
+              },
+              {
+                "sentence_id": "DC_000048_P001_PAR002_SEN003",
+                "sentence_index": 3,
+                "character_count": 17,
+                "word_count": 3,
+                "text": "and JMFC\n Nippani"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 3,
+    "state_name": "Karnataka",
+    "district_code": 1,
+    "district_name": "BELAGAVI",
+    "court_complex_code": 1030005,
+    "court_complex_name": "Court Complex- Nipani",
+    "year": 2024,
+    "case_type": "nan",
+    "case_number": "201900004452024",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "Writer",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260329000400+05'30'",
+    "pdf_mod_date": "D:20260329000400+05'30'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.454,
+    "quality_tier": "LOW_CONFIDENCE",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "677b719d06741f69ce3dab3c9d1d855a21bb3cb4f2e244f2db52d2c509a45194",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.201012"
+  }
+}

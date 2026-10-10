@@ -1,0 +1,154 @@
+{
+  "document_id": "DC_000027",
+  "source": {
+    "sha256": "8a486a9366b0f192fa87c9eafce2c67ba67a81539d5dc1e9ac482e23daa008f2",
+    "filename": "orders_2009_202100001372010_1.pdf",
+    "source_record_id": "DC-S3-027_2_10_1020104_2010_orders_2009_202100001372010_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 80748
+  },
+  "routing": {
+    "initial_route": "OCR_REQUIRED",
+    "fallback_used": false,
+    "route_reason": "EMPTY_OR_NEGLIGIBLE_TEXT_LAYER"
+  },
+  "extraction": {
+    "selected_method": "paddleocr",
+    "extractor_name": "RapidOCR-PP-OCRv4",
+    "extractor_version": "1.0.0",
+    "quality_score": 1.0
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1746,
+      "word_count": 214,
+      "raw_text": "Calendar and Judgment IN THECOURTOF THEJUDICIALMAGISTRATEOF FIRSTCLASS,ALUR. C.C.NO:137/10 Date of Commeneement Released on Filing Apprehension Closure Judgment lence of trial bail of trial of accused 02.12.2011 3.08.10 8.01.1512.01.15 25.07.09 Betweens Compleinant StateNeelavathi DESCRIPTIONOFACCUSED. Mandal Vilage Age Father's Neme Occupation S.No. Nane of the accused 60yearsJoharapuramAspan Coolie L M,Venkatararnudu P.Anjinaiah 2.M Guru Prabhananjineya M.Venkataramudu 3Oyears Joharapuram Aspari Coclie 3,M.Guru Prabhananjineya M.Venkatramudu 3Oycars Joharapuram Aspar Coolie M.Venkatramudu 1MBabRani 32yearsJoherepuramAspari Coolie 5.p.Thimappa (Died abated)jP.Venkataramappa 70years JoharapuranAspari Coolle Oflence :U/sec.498-A.420.ofIPC. Plett of accused Not gullty Fincing o the court Notguilty Sentence or Order :A.l to A,4 were foumd not gulty for the oflences u/sec. ofiPcand theyareacquitted U/sec.248(1)ofCr.P.C. Theirbail bonds shall be in force Torsix months as per 437-A or Cr.P.C.Cnse againstA.5is already atatec. Explanation for the delay : This case was taken on file on 3.08.10 eand nuinbered ur aboverC.c After furnishing coples of documents the accused werc exarnined U sec. 239 of Cr.P.c. on 18.11.2011 and on the same day chnrges were fraimed.As thara irs delay In aroducing witnesses by the prosecution P.Ws.l and 2 were examined or 02.12.2011,P.W.3was.examinec on14.03.2012,P.W.4was.cxamincdon14.07.2014 and on 31.07.14.the evidencecf prosccutionclosed.On 6.o8.14thieaccused wcn exainined U/sec.313 Cr.P.Cend on 8.01.15 theirial was closed and argunients wuc heard. On 12.1.15 Juidgment was delivered,Hence,thedelay Jucel Magistrateof'First Alur. Copy submitted to: The Honou able Chief Judicial Magistrate, Kurnool."
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1746,
+      "word_count": 214,
+      "normalized_text": "Calendar and Judgment IN THECOURTOF THEJUDICIALMAGISTRATEOF FIRSTCLASS,ALUR. C.C.NO:137/10 Date of Commeneement Released on Filing Apprehension Closure Judgment lence of trial bail of trial of accused 02.12.2011 3.08.10 8.01.1512.01.15 25.07.09 Betweens Compleinant StateNeelavathi DESCRIPTIONOFACCUSED. Mandal Vilage Age Father's Neme Occupation S.No. Nane of the accused 60yearsJoharapuramAspan Coolie L M,Venkatararnudu P.Anjinaiah 2.M Guru Prabhananjineya M.Venkataramudu 3Oyears Joharapuram Aspari Coclie 3,M.Guru Prabhananjineya M.Venkatramudu 3Oycars Joharapuram Aspar Coolie M.Venkatramudu 1MBabRani 32yearsJoherepuramAspari Coolie 5.p.Thimappa (Died abated)jP.Venkataramappa 70years JoharapuranAspari Coolle Oflence :U/sec.498-A.420.ofIPC. Plett of accused Not gullty Fincing o the court Notguilty Sentence or Order :A.l to A,4 were foumd not gulty for the oflences u/sec. ofiPcand theyareacquitted U/sec.248(1)ofCr.P.C. Theirbail bonds shall be in force Torsix months as per 437-A or Cr.P.C.Cnse againstA.5is already atatec. Explanation for the delay : This case was taken on file on 3.08.10 eand nuinbered ur aboverC.c After furnishing coples of documents the accused werc exarnined U sec. 239 of Cr.P.c. on 18.11.2011 and on the same day chnrges were fraimed.As thara irs delay In aroducing witnesses by the prosecution P.Ws.l and 2 were examined or 02.12.2011,P.W.3was.examinec on14.03.2012,P.W.4was.cxamincdon14.07.2014 and on 31.07.14.the evidencecf prosccutionclosed.On 6.o8.14thieaccused wcn exainined U/sec.313 Cr.P.Cend on 8.01.15 theirial was closed and argunients wuc heard. On 12.1.15 Juidgment was delivered,Hence,thedelay Jucel Magistrateof'First Alur. Copy submitted to: The Honou able Chief Judicial Magistrate, Kurnool."
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 1,
+    "total_sentences": 8,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 1746,
+        "word_count": 214,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000027_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 1746,
+            "word_count": 214,
+            "sentence_count": 8,
+            "text": "Calendar and Judgment IN THECOURTOF THEJUDICIALMAGISTRATEOF FIRSTCLASS,ALUR. C.C.NO:137/10 Date of Commeneement Released on Filing Apprehension Closure Judgment lence of trial bail of trial of accused 02.12.2011 3.08.10 8.01.1512.01.15 25.07.09 Betweens Compleinant StateNeelavathi DESCRIPTIONOFACCUSED. Mandal Vilage Age Father's Neme Occupation S.No. Nane of the accused 60yearsJoharapuramAspan Coolie L M,Venkatararnudu P.Anjinaiah 2.M Guru Prabhananjineya M.Venkataramudu 3Oyears Joharapuram Aspari Coclie 3,M.Guru Prabhananjineya M.Venkatramudu 3Oycars Joharapuram Aspar Coolie M.Venkatramudu 1MBabRani 32yearsJoherepuramAspari Coolie 5.p.Thimappa (Died abated)jP.Venkataramappa 70years JoharapuranAspari Coolle Oflence :U/sec.498-A.420.ofIPC. Plett of accused Not gullty Fincing o the court Notguilty Sentence or Order :A.l to A,4 were foumd not gulty for the oflences u/sec. ofiPcand theyareacquitted U/sec.248(1)ofCr.P.C. Theirbail bonds shall be in force Torsix months as per 437-A or Cr.P.C.Cnse againstA.5is already atatec. Explanation for the delay : This case was taken on file on 3.08.10 eand nuinbered ur aboverC.c After furnishing coples of documents the accused werc exarnined U sec. 239 of Cr.P.c. on 18.11.2011 and on the same day chnrges were fraimed.As thara irs delay In aroducing witnesses by the prosecution P.Ws.l and 2 were examined or 02.12.2011,P.W.3was.examinec on14.03.2012,P.W.4was.cxamincdon14.07.2014 and on 31.07.14.the evidencecf prosccutionclosed.On 6.o8.14thieaccused wcn exainined U/sec.313 Cr.P.Cend on 8.01.15 theirial was closed and argunients wuc heard. On 12.1.15 Juidgment was delivered,Hence,thedelay Jucel Magistrateof'First Alur. Copy submitted to: The Honou able Chief Judicial Magistrate, Kurnool.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000027_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 76,
+                "word_count": 7,
+                "text": "Calendar and Judgment IN THECOURTOF THEJUDICIALMAGISTRATEOF FIRSTCLASS,ALUR."
+              },
+              {
+                "sentence_id": "DC_000027_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 226,
+                "word_count": 26,
+                "text": "C.C.NO:137/10 Date of Commeneement Released on Filing Apprehension Closure Judgment lence of trial bail of trial of accused 02.12.2011 3.08.10 8.01.1512.01.15 25.07.09 Betweens Compleinant StateNeelavathi DESCRIPTIONOFACCUSED."
+              },
+              {
+                "sentence_id": "DC_000027_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 444,
+                "word_count": 43,
+                "text": "Mandal Vilage Age Father's Neme Occupation S.No. Nane of the accused 60yearsJoharapuramAspan Coolie L M,Venkatararnudu P.Anjinaiah 2.M Guru Prabhananjineya M.Venkataramudu 3Oyears Joharapuram Aspari Coclie 3,M.Guru Prabhananjineya M.Venkatramudu 3Oycars Joharapuram Aspar Coolie M.Venkatramudu 1MBabRani 32yearsJoherepuramAspari Coolie 5.p.Thimappa (Died abated)jP.Venkataramappa 70years JoharapuranAspari Coolle Oflence :U/sec.498-A.420.ofIPC."
+              },
+              {
+                "sentence_id": "DC_000027_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 132,
+                "word_count": 24,
+                "text": "Plett of accused Not gullty Fincing o the court Notguilty Sentence or Order :A.l to A,4 were foumd not gulty for the oflences u/sec."
+              },
+              {
+                "sentence_id": "DC_000027_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 152,
+                "word_count": 19,
+                "text": "ofiPcand theyareacquitted U/sec.248(1)ofCr.P.C. Theirbail bonds shall be in force Torsix months as per 437-A or Cr.P.C.Cnse againstA.5is already atatec."
+              },
+              {
+                "sentence_id": "DC_000027_P001_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 560,
+                "word_count": 77,
+                "text": "Explanation for the delay : This case was taken on file on 3.08.10 eand nuinbered ur aboverC.c After furnishing coples of documents the accused werc exarnined U sec. 239 of Cr.P.c. on 18.11.2011 and on the same day chnrges were fraimed.As thara irs delay In aroducing witnesses by the prosecution P.Ws.l and 2 were examined or 02.12.2011,P.W.3was.examinec on14.03.2012,P.W.4was.cxamincdon14.07.2014 and on 31.07.14.the evidencecf prosccutionclosed.On 6.o8.14thieaccused wcn exainined U/sec.313 Cr.P.Cend on 8.01.15 theirial was closed and argunients wuc heard."
+              },
+              {
+                "sentence_id": "DC_000027_P001_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 80,
+                "word_count": 8,
+                "text": "On 12.1.15 Juidgment was delivered,Hence,thedelay Jucel Magistrateof'First Alur."
+              },
+              {
+                "sentence_id": "DC_000027_P001_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 69,
+                "word_count": 10,
+                "text": "Copy submitted to: The Honou able Chief Judicial Magistrate, Kurnool."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 2,
+    "state_name": "Andhra Pradesh",
+    "district_code": 10,
+    "district_name": "Kurnool",
+    "court_complex_code": 1020104,
+    "court_complex_name": "Junior Civil Judge`s Court, Alur (Taluka)",
+    "year": 2010,
+    "case_type": "nan",
+    "case_number": "202100001372010",
+    "pdf_title": "XSane scanned image",
+    "pdf_author": "",
+    "pdf_creator": "XSane version 0.999 (sane 1.0) - by Oliver Rauch",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260615095053Z00'00'",
+    "pdf_mod_date": "D:20260615095053Z00'00'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 1.0,
+    "quality_tier": "OCR_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "8a486a9366b0f192fa87c9eafce2c67ba67a81539d5dc1e9ac482e23daa008f2",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.032871"
+  }
+}

@@ -1,0 +1,645 @@
+--- PAGE 1 ---
+ 
+ITA 186/2020  
+ 
+ 
+ 
+ 
+ 
+                      Page 1 of 12 
+ 
+$~1 
+* 
+IN  THE  HIGH  COURT  OF  DELHI  AT  NEW  DELHI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date of Decision:- 11.03.2020 
++  
+ITA 186/2020 
+ 
+DCIT, CIRDE-25(1), NEW DELHI 
+ 
+ 
+..... Appellant 
+Through: 
+Ms.Adeeba Mujahid, Advocate for 
+Mr.Ajit Sharma, Senior Standing 
+Counsel 
+ 
+  
+ 
+ 
+ 
+versus 
+ 
+ 
+ 
+TATA POWER DELHI DISTRIBUTION LTD. 
+..... Respondent 
+Through: 
+Ms.Shashi M. Kapila, Mr.Pravesh 
+Sharma, 
+Mr.R.R.Maurya 
+and 
+Mr.Sushil Kumar, Advocates. 
+CORAM: 
+HON'BLE MR. JUSTICE MANMOHAN 
+HON'BLE MR. JUSTICE SANJEEV NARULA 
+ 
+ 
+ 
+ 
+ 
+SANJEEV NARULA, J (Oral): 
+ 
+1. 
+The present appeal under Section 260 A of the Income Tax Act, 1961 
+(hereinafter referred as “Act”) assails the common order dated 14th June, 
+2019 passed by the learned Income Tax Appellate Tax (“ITAT”), relating to 
+the assessment year (AY) 2009-2010, whereby the Tribunal has decided 
+several appeals preferred by both the Appellant as well as the Respondent. 
+The present appeal is in respect of ITA No. 5368/Del/2013, filed by the 
+Revenue, that stands dismissed by virtue of the impugned order.  
+2. 
+The factual matrix giving rise to the present appeal is that the 
+Respondent-Tata Power Delhi Distribution Ltd. (hereinafter referred as 
+Digitally Signed
+By:SAPNA SETHI
+Signing Date:17.03.2020
+11:57:08
+Signature Not Verified
+
+
+--- PAGE 2 ---
+ 
+ITA 186/2020  
+ 
+ 
+ 
+ 
+ 
+                      Page 2 of 12 
+ 
+“assessee”), a joint venture between the Tata group and the Delhi 
+Government and is in the business of distribution of electricity in north and 
+north-west area of Delhi. An assessment order was passed under Section 
+143(3) of the Act whereby the total income of the Respondent was computed 
+at Rs.139,21,95,000/- and additions were made inter alia on the ground of 
+(a) derecognition of revenue: Rs.78,91,50,000 and (b) disallowance under 
+Section 80 IA of Rs. 35,71,77,686/-.  In the appeal preferred before the 
+Commissioner of Income Tax (hereinafter referred to as “CIT(A)”), the 
+Respondent succeeded and vide order dated 30th July, 2013 the above noted 
+additions were deleted. Thereafter, the assessee and the appellant preferred 
+appeals before the ITAT. The common issues pertaining to abovenoted 
+additions were identified and decided. The issues were decided in favour of 
+the Respondent-assessee vide impugned order dated 14th June, 2019. The 
+Appellant/ Revenue has preferred the present appeal impugning the order 
+passed by the Tribunal qua the aforenoted issues. 
+3. 
+Ms. Adeeba Mujahid, learned standing counsel for the Revenue 
+argues that the order passed by the Tribunal is not in accordance with law 
+and the additions made on account of derecognition of revenue is justified. 
+She argues that since the Respondent-company has not given any refund to 
+the customers, the surplus fund which continues to be at the disposal of the 
+Respondent has to be recognised as income. With respect to the 
+disallowance relating to the deduction made under Section 80 IA of the Act, 
+she argues that this incidental income arising out of the business of the 
+respondent undertaking is not directly related to the business and is therefore 
+not eligible for deduction under the aforenoted provision of the Act. She 
+Digitally Signed
+By:SAPNA SETHI
+Signing Date:17.03.2020
+11:57:08
+Signature Not Verified
+
+
+--- PAGE 3 ---
+ 
+ITA 186/2020  
+ 
+ 
+ 
+ 
+ 
+                      Page 3 of 12 
+ 
+further argues that since the assessee has included income arising on account 
+of commission on arrears, replacement of burnt metres, inspection fee, 
+reconnection fee, miscellaneous recovery from suppliers etc, which are 
+incidental incomes and therefore, cannot be claimed as income derived form 
+eligible business so as to be entitled to deduction under Section 80 IA of the 
+Act. She also submits that this Court in Principal of Commissioner of 
+Income Tax vs. M/s Tata Power Delhi Distribution Ltd., ITA No. 687/2019 
+has issued notice on the appeal preferred by the appellant and prays that this 
+appeal be also admitted. 
+4. 
+We have given thoughtful consideration to the submissions advanced 
+by the learned counsel for the Revenue. The questions of law that have been 
+urged for our consideration as also the gounds of challenge made out in the 
+memorandum of appeal are relating only to (i) additions made on account of 
+derecognised revenue and (ii) for deleting the disallowance deduction made 
+under Section 80 IA of the Act. No other ground has been urged and we 
+have therefore proceeded to consider the merits of the submissions with 
+respect to the  aforenoted issues only. The first addition relating to 
+recognition of the revenue is on account of efficiency gain. The learned 
+Tribunal after considering the facts of the case have applied the ratio of the 
+decision of the Supreme Court in Poona Electric Supply Company Limited 
+vs. CIT (1965) 57 ITR 521, wherein the Apex Court has deliberated upon 
+the concept of commercial profits viz-a-viz clear profits. On the basis of this 
+principle, the Court has held that the amount transferable for the benefit of 
+the consumers do not form part of the assesee’s real profit and for the 
+purpose of calculating the taxable income, such amount has to be deducted 
+Digitally Signed
+By:SAPNA SETHI
+Signing Date:17.03.2020
+11:57:08
+Signature Not Verified
+
+
+--- PAGE 4 ---
+ 
+ITA 186/2020  
+ 
+ 
+ 
+ 
+ 
+                      Page 4 of 12 
+ 
+from its total income. On the strength of this reasoning, the Tribunal has 
+relied upon the decision of the Coordinate Bench in Assessment Year 2006-
+07 and held that since the Respondent-assessee has no right to appropriate 
+the efficiency gain amount and that such amount is at the disposal of DERC, 
+the amount has to be reduced from the profits and loss account. The 
+observations of the Tribunal on this aspect are as under:  
+“15. We find that similar facts were considered by the co-
+ordinate bench in assessment year 2006-07 in ITA N.o. 
+4848/DEL/2010 and 5026/DEL/2010. The relevant findings of 
+the co-ordinate bench read as under: 
+ 
+"17. It is, therefore, clear from the arguments advanced 
+before us that the question involved in this matter is 
+whether the disputed Rs.91.13 crores could be brought to 
+tax by treating it as the application of the income after its 
+accrual. This aspect requires a reading of the provisions 
+of the Delhi Electricity Reforms Act, 2000 with the 
+notifications issued and the orders passed by the DERC. 
+As could be seen from the Delhi Electricity Reforms Act, 
+2000, it received the assent of the President of India on 
+6.3.2001 and promulgated by way of Notification dated 
+8.3.2001. Section 2(c) of the Act defines the commission to 
+mean the Delhi Electricity Regulatory Commission. The 
+Act constitutes the Commission. It empowers the 
+Government to issue directions to the Commission in the 
+matter of policy involving public interest from time of time 
+regulating the discharge of the commission functions. In 
+turn, by virtue of Section 28 of the Act, the holder of the 
+license (i.e. assessee) is under obligation to observe the 
+methodologies 
+and 
+procedure 
+specified 
+by 
+the 
+Commission from time to time in calculating the expected 
+revenue from charges which it is permitted to recover 
+pursuant to the terms of its license and in designing tariffs 
+to collect those revenues. The Commission is also 
+empowered to prescribe the terms and conditions for 
+Digitally Signed
+By:SAPNA SETHI
+Signing Date:17.03.2020
+11:57:08
+Signature Not Verified
+
+
+--- PAGE 5 ---
+ 
+ITA 186/2020  
+ 
+ 
+ 
+ 
+ 
+                      Page 5 of 12 
+ 
+determination of the licensee's revenues and tariffs by 
+regulations duly published in the official Gazette and in 
+such other manner as the Commission considers 
+appropriate. In this respect, it is provided that the 
+Commission shall be guided by the following parameters, 
+namely:- 
+the financial principles and their application provided in 
+the Sixth Schedule to the Act, 1948 read with sections 57 
+and 57 –A of the said Act; 
+the factors which would encourage efficiency, economic 
+use of the resources, good performance, optimum 
+investments and other matters which the Commission 
+considers appropriate keeping in view the salient objects 
+and purposes of the provisions of this Act; and the interest 
+of the consumers.  
+18. In exercise of the powers conferred by Section 12 and 
+other applicable provisions of the Act, the GNCTD issued 
+Notification No. F.11(119/(8)/2001- Power in the month 
+of November 2001. In this Notification vide paragraph 8, 
+the Government considered the necessity of effective re-
+organization· of the DVB and the sale of 51% equity 
+shares in the distribution companies. The assessee is one 
+of the entities, who participated in the bid, became 
+successful for the lowest annual target loss was awarded 
+51% of equity. Vide para 12, this Notification prescribes 
+that in the years between 2002-03 and 2006-07 in the 
+event of actual AT &C loss of a distribution· licensee for 
+any particular year is better i.e. lower than the level 
+proposed in the bid, the distribution licensee shall be 
+allowed to retain 50% of the additional revenue resulting 
+from such better performance and the balance 50% of 
+additional revenue from such better performance shall be 
+counted for the purpose of tariff fixation. Para 13 of such 
+Notification provides that all expenses that shall be 
+permitted by the Commission, tariffs shall be determined 
+in such a way that the distribution licensees earn, at least, 
+16% return on the issued and paid up capital and free 
+reserves 
+(excluding 
+consumer 
+contribution 
+and 
+Digitally Signed
+By:SAPNA SETHI
+Signing Date:17.03.2020
+11:57:08
+Signature Not Verified
+
+
+--- PAGE 6 ---
+ 
+ITA 186/2020  
+ 
+ 
+ 
+ 
+ 
+                      Page 6 of 12 
+ 
+revaluation reserves but including share premium and 
+retained profits outstanding at the end of any particular 
+year) provided that such share capital and free reserves 
+have been invested into fixed or any other assets etc. 
+19. Para 16 of this Notification sums up the mandate in 
+this Notification in the following terms: 
+(a) The AT&C loss programme  is to be as per the bid 
+submitted by the purchaser (selected bidder) as per para 
+11 above.  
+(b) Distributin licensees shall be entitled to retain 50% of 
+the additional revenues from any AT&C loss reduction 
+over and above then level proposed in the bid by the 
+Purchaser (selected bidder) and this shall not be counted 
+as revenue for the purpose of tariff fixation for the 
+succeeding years. The balance 50% of the excess 
+efficiency gain shall be counted as revenue for the 
+purpose of tariff fixation. 
+(c) Distribution licensees earn, at least, 16% return on the 
+issued and paid up capital and free reserves  
+(d) The amount agreed to be made available by the 
+Government to TRANSCO will be as a loan for the 
+particular year.  
+20. In deference to this Notification, the DERC in its 
+order passed in July 2005 at paragraph 4.2 observed that 
+for the Asstt. Year 2004-05, the assessee had achieved 
+AT&C loss level lower than the minimum bid level 
+specified by the GNCTD, accordingly the provisions of the 
+policy directjgns and the GNCTD‟s clarification have 
+been applied to determine the extent of additional revenue 
+to be retained by the DISCOM and that it will be passed 
+down to the consumers while determining the annual 
+revenue requirement the utilities. It is further observed 
+that in case of the assessee as the over achievement in 
+AT&C loss reduction is more than the minimum level 
+target the entire additional revenue as a result of AT and 
+C loss reduction up to minimum level with respect to bid 
+level, and 50% of the additional revenue beyond minimum 
+level has been considered as additional revenue for the 
+Digitally Signed
+By:SAPNA SETHI
+Signing Date:17.03.2020
+11:57:08
+Signature Not Verified
+
+
+--- PAGE 7 ---
+ 
+ITA 186/2020  
+ 
+ 
+ 
+ 
+ 
+                      Page 7 of 12 
+ 
+purpose of ARR determination and balance 50% of the 
+savings beyond minimum level has been approved to be 
+retained by the assessee. · 
+21. Basing on this, we are convinced that the assessee is 
+under statutory obligation to meet the targets of reduction 
+of A&TC losses and when the AT &C loss level reached 
+by the assessee in that particular year is better i.e. lower 
+than the level prescribed in the bid, the assessee shall be 
+entitled to 50% of the additional revenue resulting from 
+such purpose. This 50% becomes the regular taxable 
+income of the assessee and insofar as this income is 
+concerned, for this Asstt. Year 2006-07 also, there is no 
+dispute. The balance 50% of this additional revenue, 
+which is mandatory to be counted for the purpose of tariff 
+fixation, which is called as the „efficiency gain' will be 
+taken into consideration by the DERC while permitting 
+the tariff of the future years to be determined so as to see 
+that the assessee would earn at least 16% return on the 
+issued and paid up capital and free reserves. The 
+Notification issued in November 2001, referred to above, 
+is clear in its mandate that this 50% efficiency gain shall 
+be reckoned as revenue for the. purpose of tariff fixation 
+and the assessee is under obligation to follow the 
+mechanism of fixation of tariff by the DERC. 
+22. In Puna Electricity Supply Company Ltd. vs. CIT 
+(1965) 56 ITR 521 (SC), the Hon‟ble Apex Court 
+considered a similar situation where the licensee like the 
+assessee was obligation to set apart some amount and 
+transfer it to the consumer benefit reserve account which 
+represents a rebate to the customers of  the excess amount 
+collected from them. Hon'ble Apex Court held that there 
+are two types profits in such cases i.e. Commercial profits 
+and clear profits governed by two different enactments. 
+Commercial profits are arrived at on commercial 
+principle whereas the other is regulated by the statute. 
+The clear profits could be determined only after excluding 
+the amount statutorily transferred to represent the rebate 
+to the customers of the excess amount collected from 
+Digitally Signed
+By:SAPNA SETHI
+Signing Date:17.03.2020
+11:57:08
+Signature Not Verified
+
+
+--- PAGE 8 ---
+ 
+ITA 186/2020  
+ 
+ 
+ 
+ 
+ 
+                      Page 8 of 12 
+ 
+them. Finally the Hon' ble Apex Court held that the 
+amount. transferrable for the benefit of the consumers do 
+not form part of the assessee's real profit; and for the 
+purpose of calculating the taxable income, such amount 
+have to be deducted from its total income. 
+23. Record speaks that this decision was brought to the 
+notice of the learned CIT(A) but he distinguished the same 
+stating that in such case the assessee was crediting the 
+excess amount in a separate account called “Consumer 
+Benefit Reserve Account" and they were part of the excess 
+amount paid to it and reserve to be returned to the 
+consumers; whereas in the case of the assessee, the 
+assessee is not required to return the excess amount to the 
+consumers and on the contrary, the assessee is the 
+beneficial owner of the amount which it could use the way 
+it likes.  On this premise, learned CIT(A) held that the 
+decision in the case of Puna Electricity Supply Co. Ltd 
+(supra) has no application to the facts of the present case.  
+24 . On a careful consideration the factual matrix 
+involved in both the cases and the reasoning of the 
+Hon‟ble Apex Court in reaching the conclusion, we are of 
+the considered opinion that the approach of the learned 
+CIT(A) is incorrect. In the preceding paragraphs, we have 
+noted that the assessee is under a statutory obligation to 
+set apart 50% of the excess amount generated due to the 
+overreaching of the targets, for the purpose of the 
+consideration of the DERC to fix the future tariffs either 
+to give relief to the consumers or otherwise. A reading of 
+the statute, notification and the orde rs of the DERC 
+clearly indicates that the assessee is not free to use this 
+efficiency gain amount the way it likes. Whether or not a 
+separate account is opened, when this amount is 
+separately shown under this head in the books, it makes 
+little difference in so far as the application of the ratio of 
+Puna Electricity Supply Co. Ltd. (supra) is concerned. 
+Crux of the matter is that the assessee in both the cases 
+has no right to appropriate the 'efficiency gain' amount 
+and such amount is at the disposal of the DERC though 
+Digitally Signed
+By:SAPNA SETHI
+Signing Date:17.03.2020
+11:57:08
+Signature Not Verified
+
+
+--- PAGE 9 ---
+ 
+ITA 186/2020  
+ 
+ 
+ 
+ 
+ 
+                      Page 9 of 12 
+ 
+not physically but in respect of utilization thereof. We, 
+therefore, are convinced that the ratio of Puna Electricity 
+Supply Co. Ltd (supra) is squarely applicable to the case 
+of the assessee before us and on that score, we allow the 
+contention of the assessee that they have rightly reduced 
+the efficiency gain amount their profit and loss account.”  
+ 
+ 
+5. 
+We feel that in view of the factual situation discussed above, the 
+approach adopted by the Tribunal in applying the ratio of the decision of 
+the Supreme Court in Poona Electric Supply Company Limited vs. CIT 
+(supra) is wholly justified and does not call for any interference. 
+Accordingly the ground of challenge urged by the revenue on this aspect is 
+rejected. 
+6. 
+ With respect to the deductions under Section 80 IA of the Act, the 
+Tribunal has referred to the circular no. 37/2016 dated 2nd November, 2016 
+issuesd by the Central Board of Direct Taxes (hereinafter referrerd to as 
+“CBDT”). On the basis of the said circular, the Tribunal has observed that 
+the issue has become redundant and academic in nature. The relevant 
+portion of the impugned order is extracted herein below: 
+“22. In our considered opinion, the issue is now well settled by the 
+Circular No. 37/2016 dated 02.11.2016 issued by the Central Board 
+of Direct Taxes, which reads as under:  
+ 
+“Chapter VI-A of the Income-tax Act, 1961 ("the Act"), 
+provides for deductions in respect of certain incomes. In 
+computing the profits and gains of a business activity, the 
+Assessing Officer may make certain disallowances, such: as 
+disallowances pertaining to sections 32, 40(a)(ia), 40A(3), 
+43B etc·, of. the Act. At times disallowance out of specific 
+Digitally Signed
+By:SAPNA SETHI
+Signing Date:17.03.2020
+11:57:08
+Signature Not Verified
+
+
+--- PAGE 10 ---
+ 
+ITA 186/2020  
+ 
+ 
+ 
+ 
+ 
+                      Page 10 of 12 
+ 
+'expenditure claimed may also be made. The effect of such 
+disallowances is an increase in the profits. Doubts have been 
+raised as to whether such higher profits would also result in 
+claim for a higher profit-linked deduction under Chapter VI-A. 
+ 
+2. The issue of the claim of higher deduction on the enhanced 
+profits has been a contentious one. However, . the courts have 
+generally held that if the expenditure disallowed is related to 
+the business activity against which the Chapter VI-A deduction 
+has been claimed, the deduction needs to be allowed on the 
+enhanced profits. Some illustrative cases upholding this view 
+are as follows: 
+ 
+(i) if an expenditure incurred by assessee for the puupose of 
+developing a housing project was not allowable on account of 
+non-deduction of TDS under law, such disallowance would 
+ultimately increase assessee's profits from business of 
+developing housing project. The ultimate profits of assessee 
+after adjusting  disallowance under section 40(a)(ia) of the Act 
+would qualify for deduction under section 80-IB of the Act. 
+This view was taken by the courts in the following cases: 
+ 
+• Income-tax Officer - Ward 5(1) vs. Keval Construction, Tax 
+Appeal No. 443 of 2012, December 10, 2012, Gujarat High 
+Court. 
+ 
+• Commissioner of Income-tax-IV, Nagpur vs; Sunil 
+Vishwambharnath Tiwari, IT Appeal No. 2 of 2011, September 
+11, 2015, Bombay High Court. 
+ 
+(ii) deduction under section 40A(3) of the Act. is not allowed, 
+the same would be added to the profits of the undertaking on 
+which the assessee would d o for deduction under section 80-
+IB of the Act. This view was taken by the. court in the 
+following cases: 
+ 
+"Principal CIT. Kanpur vs. S onya Merchants Ltd .. I.T. 
+Appeal No. 248 of 2015, May 03, 2016 Allahabad High 
+Digitally Signed
+By:SAPNA SETHI
+Signing Date:17.03.2020
+11:57:08
+Signature Not Verified
+
+
+--- PAGE 11 ---
+ 
+ITA 186/2020  
+ 
+ 
+ 
+ 
+ 
+                      Page 11 of 12 
+ 
+Court 
+The above views have attained finality as these judgments of 
+the High Courts of Bombay, Gujara:t and Allahabad have 
+been accepted by the Department. 
+ 
+3. In view of the above, the Board has accepted the settled 
+position that the disallowance made under sections 32, 40 (a) 
+(ia), 40A (3), 43B, etc of the Act and other specific 
+disallowance, relted to the business activity against which the 
+Chapter VI-A deduction has been claimed, result in 
+enhancement of the profits of the eligible business, and that 
+deduction under Chapter VI-A is admissible on the profits so 
+enhanced by the disallowance. 
+ 
+4.  Accordingly, henceforth, appeals may not be filed on this 
+ground by officers of the Department and appeals already filed 
+in Courts/ Tribunals may be withdrawn/ not pressed upon. The 
+above may be 
+brought to the notice of all concerned." 
+ 
+23. In view of the above Circular, disallowances made by the 
+Assessing. Officer are related to the business activity against which 
+deduction u/ s 801A of the Act has been claimed which resulted in 
+enhancement of the profits of the eligible business and hence 
+deduction under Chapter VIA is admissible on the profit so 
+enhanced by the disallowances. 
+ 
+24. In light of the above. CBDT Circular, all the issues become 
+academic in nature and therefore, need no separate adjudication, 
+though it would be pertinent to mention chere that all the disputed 
+issues remain open for both the parties in case the deduction u/s 
+801A is denied by the Hon’ble Superior Court. In the light of the 
+above discussion and finding, all the appeals of the assessee are 
+allowed whereas those of the revenue are dismissed.” 
+ 
+7. 
+We do not find any perversity in the view taken by the Tribunal. The 
+circular of CBDT has been issued in view of the decisions of various High 
+Digitally Signed
+By:SAPNA SETHI
+Signing Date:17.03.2020
+11:57:08
+Signature Not Verified
+
+
+--- PAGE 12 ---
+ 
+ITA 186/2020  
+ 
+ 
+ 
+ 
+ 
+                      Page 12 of 12 
+ 
+Courts that find mention therein. The issue is no longer res integra. The 
+Board has accepted the settled position “that the disallowances made 
+underSection 32, 40(a)(ia), 40A(3), 43B, etc. of the Act and other specific 
+disallowances, related to the business activity against which the Chapter 
+VI-A deduction has been claimed, result in enhancement of the profits of 
+the eligible business, and that deduction under Chapter VI-A is admissible 
+on the profits so enhanced by the disallowance”.   
+8. 
+For the foregoing reasons, we find no question of law much less 
+substantial question of law arises for our consideration.  
+9. 
+Accordingly, the appeal is dismissed. 
+ 
+ 
+ 
+ 
+                    SANJEEV NARULA, J  
+ 
+ 
+MANMOHAN, J 
+ 
+ 
+ 
+ 
+ 
+MARCH 11, 2020 
+v 
+Digitally Signed
+By:SAPNA SETHI
+Signing Date:17.03.2020
+11:57:08
+Signature Not Verified

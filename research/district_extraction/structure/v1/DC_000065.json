@@ -1,0 +1,130 @@
+{
+  "document_id": "DC_000065",
+  "source": {
+    "sha256": "47cf8b6bcf1a954ff0ba16b1e1222902b02ad03c22a5f816e1f3b1fe20439022",
+    "filename": "orders_2024_200600000812024_1.pdf",
+    "source_record_id": "DC-S3-065_6_32_1060085_2024_orders_2024_200600000812024_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 28990
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.672
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 323,
+      "word_count": 52,
+      "raw_text": "Complainant is present and vide petition No.5339/24 has submitted that she has settled the matter \noutside the court and has no grievance against the accused person. Hence, she wants to withdraw the \ncase. \n \nConsidering the fact that the matter has been settled between the parties, the case is disposed \nof on withdrawal."
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 318,
+      "word_count": 52,
+      "normalized_text": "Complainant is present and vide petition No.5339/24 has submitted that she has settled the matter\noutside the court and has no grievance against the accused person. Hence, she wants to withdraw the\ncase.\n\nConsidering the fact that the matter has been settled between the parties, the case is disposed\nof on withdrawal."
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 2,
+    "total_sentences": 3,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 318,
+        "word_count": 52,
+        "paragraph_count": 2,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000065_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 203,
+            "word_count": 33,
+            "sentence_count": 2,
+            "text": "Complainant is present and vide petition No.5339/24 has submitted that she has settled the matter\noutside the court and has no grievance against the accused person. Hence, she wants to withdraw the\ncase.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000065_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 164,
+                "word_count": 26,
+                "text": "Complainant is present and vide petition No.5339/24 has submitted that she has settled the matter\noutside the court and has no grievance against the accused person."
+              },
+              {
+                "sentence_id": "DC_000065_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 38,
+                "word_count": 7,
+                "text": "Hence, she wants to withdraw the\ncase."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000065_P001_PAR002",
+            "paragraph_index": 2,
+            "character_count": 113,
+            "word_count": 19,
+            "sentence_count": 1,
+            "text": "Considering the fact that the matter has been settled between the parties, the case is disposed\nof on withdrawal.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000065_P001_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 113,
+                "word_count": 19,
+                "text": "Considering the fact that the matter has been settled between the parties, the case is disposed\nof on withdrawal."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 6,
+    "state_name": "Assam",
+    "district_code": 32,
+    "district_name": "Bajali",
+    "court_complex_code": 1060085,
+    "court_complex_name": "District Court Complex",
+    "year": 2024,
+    "case_type": "nan",
+    "case_number": "200600000812024",
+    "pdf_title": "",
+    "pdf_author": "USER",
+    "pdf_creator": "Microsoft® Word 2010",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260328221124+05'30'",
+    "pdf_mod_date": "D:20260328221124+05'30'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.672,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "ENTITY_REMOVED_DISPOSITIONS",
+      "ENTITY_ADDED_DISPOSITIONS"
+    ],
+    "all_entities_preserved": false
+  },
+  "provenance": {
+    "source_sha256": "47cf8b6bcf1a954ff0ba16b1e1222902b02ad03c22a5f816e1f3b1fe20439022",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.260562"
+  }
+}

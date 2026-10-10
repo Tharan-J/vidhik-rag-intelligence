@@ -1,0 +1,124 @@
+# Phase 6 Multilingual Architecture Configuration
+# Vidhik Research Pipeline - Multilingual Legal Summarization Architecture
+
+experiment:
+  name: "phase6_multilingual_architecture"
+  version: "1.0.0"
+  description: "Controlled empirical comparison between English-first translation architecture vs. direct multilingual generation for legal summarization"
+  random_seed: 42
+
+benchmark:
+  document_ids:
+    - "DC_000001"
+    - "DC_000002"
+    - "DC_000003"
+    - "DC_000004"
+    - "DC_000005"
+    - "DC_000006"
+    - "DC_000007"
+    - "DC_000008"
+    - "DC_000011"
+  total_documents: 9
+  languages:
+    - code: "en"
+      name: "English"
+      flores_code: "eng_Latn"
+      is_pivot: true
+    - code: "ta"
+      name: "Tamil"
+      flores_code: "tam_Taml"
+      is_pivot: false
+    - code: "hi"
+      name: "Hindi"
+      flores_code: "hin_Deva"
+      is_pivot: false
+    - code: "kn"
+      name: "Kannada"
+      flores_code: "kan_Knda"
+      is_pivot: false
+    - code: "mr"
+      name: "Marathi"
+      flores_code: "mar_Deva"
+      is_pivot: false
+  total_languages: 5
+  total_summary_cells: 45
+  total_gold_facts: 85
+  total_evaluation_units: 425
+
+evidence:
+  strategy: "bm25_fixed_k"
+  budget_b: 8
+  evidence_manifest: "phase6_multilingual_architecture/inputs/frozen_evidence_manifest.parquet"
+  evidence_sha256: "a6ded9f093ae56ae23e0cb6c9d99e6eb895820a855a5760bb5a69eabf1dc9b9c"
+
+qwen3_frozen:
+  model: "qwen3-4b-instruct"
+  backend: "ollama"
+  condition: "C"
+  temperature: 0.1
+  top_p: 0.95
+  max_tokens: 450
+  thinking_enabled: false
+
+indictrans2:
+  model_id: "ai4bharat/indictrans2-en-indic-dist-200M"
+  tokenizer: "IndicTransTokenizer"
+  processor: "IndicProcessor"
+  max_length: 512
+  num_beams: 5
+  batch_size: 4
+  dtype: "float16"
+  device_preference: "cuda"
+
+systems:
+  system_a:
+    id: "system_a_english"
+    name: "English Control (Phase 5 Repaired BM25 B=8)"
+    role: "Controlled Intermediate Representation"
+    source: "phase5_repaired_summarization/outputs/summaries.parquet"
+  system_b:
+    id: "system_b_direct_indic"
+    name: "Direct Indic Control (Phase 5 Repaired BM25 B=8)"
+    role: "Multilingual Generation Baseline"
+    source: "phase5_repaired_summarization/outputs/summaries.parquet"
+  system_c:
+    id: "system_c_indictrans2"
+    name: "English -> IndicTrans2 Raw Translation"
+    role: "English-First Translation Baseline"
+  system_d:
+    id: "system_d_legal_aware"
+    name: "Legal-Aware Translation (Entity Protection + IndicTrans2)"
+    role: "Protected Legal Translation Architecture"
+  system_e:
+    id: "system_e_verified"
+    name: "Legal-Aware Translation + Deterministic Verification"
+    role: "Audited Production Architecture"
+
+evaluation:
+  gold_facts_path: "phase6_multilingual_architecture/inputs/frozen_gold_facts.parquet"
+  critical_categories:
+    - "CASE_NUMBER"
+    - "PARTIES"
+    - "STATUTORY_SECTION"
+    - "DISPOSITION"
+    - "RELIEF"
+    - "JUDICIAL_FINDING"
+    - "CHARGE"
+    - "SENTENCE"
+    - "BAIL_STATUS"
+  important_categories:
+    - "COURT"
+    - "DECISION_DATE"
+    - "AMOUNT"
+    - "PROCEDURAL_ACTION"
+    - "ISSUE"
+    - "ARGUMENT"
+  failure_taxonomy:
+    - "R1_RETRIEVAL_FAILURE"
+    - "R2_ENGLISH_GENERATION_FAILURE"
+    - "R3_DIRECT_INDIC_GENERATION_FAILURE"
+    - "R4_TRANSLATION_FAILURE"
+    - "R5_LEGAL_TERMINOLOGY_FAILURE"
+    - "R6_SOURCE_AMBIGUITY"
+    - "R7_EVALUATOR_DISAGREEMENT"
+    - "R8_OTHER"

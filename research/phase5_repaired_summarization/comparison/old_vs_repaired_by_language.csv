@@ -1,0 +1,6 @@
+language,old_overall_preservation,new_overall_preservation,overall_change,old_critical_preservation,new_critical_preservation,critical_change,old_critical_omission,new_critical_omission,omission_change,old_legal_outcome_preservation,new_legal_outcome_preservation,outcome_change
+en,0.5294,0.8235,0.2941,0.5789,0.8158,0.2369,0.3421,0.1053,-0.2368,0.3043,0.7391,0.4348
+ta,0.0824,0.0353,-0.0471,0.1316,0.0263,-0.1053,0.8421,0.9474,0.1053,0.0,0.0435,0.0435
+hi,0.0706,0.1765,0.1059,0.1579,0.2368,0.0789,0.8158,0.7105,-0.1053,0.0,0.1304,0.1304
+kn,0.0941,0.0118,-0.0823,0.1316,0.0263,-0.1053,0.8421,0.9474,0.1053,0.0,0.0,0.0
+mr,0.0588,0.0588,0.0,0.1316,0.0526,-0.079,0.8421,0.9211,0.079,0.0,0.0,0.0

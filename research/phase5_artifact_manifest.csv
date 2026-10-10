@@ -1,0 +1,18 @@
+Artifact,Path,Records,Phase,Audit_Status
+extraction_manifest_v1.parquet,district_extraction/manifests/extraction_manifest_v1.parquet,161,Phase 2,"VERIFIED (161 docs, 324 pages, 139 native, 17 paddleocr, 5 tesseract)"
+paragraphs_provenance_v1.parquet,district_extraction/structure/v1/paragraphs_provenance_v1.parquet,733,Phase 2,"VERIFIED (733 paragraphs; Phase 5 narrative report 1,484 was erroneous)"
+sentences_provenance_v1.parquet,district_extraction/structure/v1/sentences_provenance_v1.parquet,3593,Phase 2,"VERIFIED (3,593 sentences; Phase 5 narrative report 4,288 was erroneous)"
+phase4_evidence.parquet,phase4_summarization/corpus/phase4_evidence.parquet,347,Phase 3/4,VERIFIED (31 documents covered; remaining 130 mapped via rag_experiments chunks)
+fact_ledger_v1.parquet,phase5_fact_preservation/corpus/fact_ledger_v1.parquet,1089,Phase 5,"AUDITED (1,089 machine facts; 100% machine-extracted, 0 human-verified, 170 dups, 32 invalid amounts)"
+evidence_availability_v1.parquet,phase5_fact_preservation/corpus/evidence_availability_v1.parquet,1089,Phase 5,"AUDITED (921 AVAILABLE, 168 RETRIEVAL_MISSING; includes malformed fact artifacts)"
+generation_manifest_v1.parquet,phase5_fact_preservation/generation/generation_manifest_v1.parquet,805,Phase 5,"AUDITED (45 SUCCESS actual generations, 5 FAILURE, 755 ACCOUNTED placeholder pool)"
+claims_v1.parquet,phase5_fact_preservation/claims/claims_v1.parquet,334,Phase 5,AUDITED (334 atomic claims across 45 evaluated benchmark runs)
+claim_fact_alignment_v1.parquet,phase5_fact_preservation/claims/claim_fact_alignment_v1.parquet,750,Phase 5,AUDITED (750 alignment pairs; causes inflated denominator in English)
+deterministic_validation.parquet,phase5_fact_preservation/validation/deterministic_validation.parquet,45,Phase 5,"AUDITED (45 runs; disposition=66.7%, section=77.8% verified)"
+gemini_validation.parquet,phase5_fact_preservation/validation/gemini_validation.parquet,45,Phase 5,"AUDITED (45 runs; 23 live Gemini API, 22 fallback auditor due to 429 quota)"
+human_validation.parquet,phase5_fact_preservation/validation/human_validation.parquet,15,Phase 5,AUDITED (15 runs; narrative report table used different documents than parquet)
+failure_attribution.parquet,phase5_fact_preservation/evaluation/failure_attribution.parquet,416,Phase 5,"AUDITED (416 events; 100% E12; R2=66, R3=350 hardcoded by language; E1-E14 table in report unbacked)"
+document_metrics.parquet,phase5_fact_preservation/evaluation/document_metrics.parquet,45,Phase 5,AUDITED (45 runs across 9 documents; doc-level scores verified)
+language_metrics.parquet,phase5_fact_preservation/evaluation/language_metrics.parquet,5,Phase 5,AUDITED (5 languages; denominator distortion on EN critical omission verified)
+phase5_gemini_cache.sqlite3,phase5_fact_preservation/cache/phase5_gemini_cache.sqlite3,45,Phase 5,AUDITED (Table gemini_eval_cache contains 45 entries)
+phase5_scorecard.json,phase5_fact_preservation/evaluation/phase5_scorecard.json,1,Phase 5,AUDITED (Decision: FAIL confirmed under preregistered criteria)

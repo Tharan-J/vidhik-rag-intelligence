@@ -1,0 +1,15 @@
+| path                                       | type    |   rows | sha256                                                           | role                                                      |
+|:-------------------------------------------|:--------|-------:|:-----------------------------------------------------------------|:----------------------------------------------------------|
+| inputs/frozen_gold_facts.parquet           | Parquet |     85 | e41e9880baf54fa385be5d095584669aa36d861c27c4805b049f551ea0a09ac9 | Frozen certified gold facts ground truth                  |
+| inputs/frozen_english_summaries.parquet    | Parquet |      9 | c74dd735d360852db5848a0edc160b782f50aced5a31e76aea839e2103995be7 | Fixed intermediate English summaries (9 docs)             |
+| inputs/frozen_benchmark_manifest.parquet   | Parquet |      9 | 38f2fa1b24894084caf63a65987689ab5d2d6c62ab7981b8680cdb1bda520af7 | Certified 9 benchmark documents manifest                  |
+| inputs/frozen_evidence_manifest.parquet    | Parquet |     66 | a6ded9f093ae56ae23e0cb6c9d99e6eb895820a855a5760bb5a69eabf1dc9b9c | Frozen BM25 B=8 retrieval evidence windows                |
+| outputs/translations.parquet               | Parquet |    216 | e03b81a08c9afdea3a862a80b996d71a7a22984753db8f77920f719e39fa5869 | Raw translations for all 6 systems (216 cells)            |
+| outputs/fact_level_evaluation.parquet      | Parquet |   2040 | 952c96d69b298e21d463f6ea347bd76e1a1675157f0b02f6830a48fa67e2a517 | Raw fact evaluations (6 systems x 340 units = 2,040 rows) |
+| outputs/sentence_alignment.parquet         | Parquet |   3672 | b2021bf5b1c22ec36b81145937f728fd6070294eaaa353744ed391c2e358f4e9 | Sentence-level alignment mapping                          |
+| outputs/entity_translation_results.parquet | Parquet |    776 | 2afe19a48c169d6777e315dad79ea1ae5b0622433c68b7014a428cd4ed966e13 | Entity preservation and restoration records               |
+| results/system_comparison.csv              | CSV     |      6 | 8512ee5a4dd39d3e0759591a766ec3cdd87bac8ea987e8ce7f09bfeacee52eaa | Reported system comparison table                          |
+| results/language_results.csv               | CSV     |     24 | b637290ac69cd9219ce8f80441da424066facaf51a12f1ffc05fb09b12ac4b85 | Reported language breakdown                               |
+| results/document_results.csv               | CSV     |     54 | c578dc79202c65e7215ad0a4138db4afb938adc16036a7b7ec1ac05fbecb93e7 | Reported document breakdown                               |
+| results/failure_attribution.csv            | CSV     |      6 | a2144f05a73cca86103ec23c254b2f9b0818d711622a1feade8ae4229a70d94c | Reported causal failure attribution                       |
+| results/ablation_results.csv               | CSV     |      6 | 05c924e953bc46c1098895020602892f630e631437cfa694be6a3ba699f12abe | Reported ablation deltas relative to T0                   |

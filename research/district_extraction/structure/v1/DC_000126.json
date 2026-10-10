@@ -1,0 +1,171 @@
+{
+  "document_id": "DC_000126",
+  "source": {
+    "sha256": "7c10f51c41424f48b91f9f9f93d3eab1ecd90f16983a28ec17ab4ac9c397415e",
+    "filename": "orders_2024_206400001822024_1.pdf",
+    "source_record_id": "DC-S3-126_27_1_1270001_2024_orders_2024_206400001822024_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 24115
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.862
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 477,
+      "word_count": 77,
+      "raw_text": "COMI-182-2024\nSucha Singh Vs. Nar Singh\nPresent:\nSh.Manjit Bajwa Adv, counsel for applicant. \nFile put up before me being Duty Magistrate as learned\nPresiding Officer is on leave today. Fresh complaint u/s 309 IPC filed. It\nbe registered. File be put up before the learned Presiding Officer of the\nconcerned Court for 17.01.2025.  File be sent back to the concerned Court\nimmediately. \nDate of Order: 24.12.2024\n \n( Ramandeep Kaur)\nJudicial Magistrate Ist Class\nUID NO . PB0679"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 473,
+      "word_count": 77,
+      "normalized_text": "COMI-182-2024\nSucha Singh Vs. Nar Singh\nPresent:\nSh.Manjit Bajwa Adv, counsel for applicant.\nFile put up before me being Duty Magistrate as learned\nPresiding Officer is on leave today. Fresh complaint u/s 309 IPC filed. It\nbe registered. File be put up before the learned Presiding Officer of the\nconcerned Court for 17.01.2025. File be sent back to the concerned Court\nimmediately.\nDate of Order: 24.12.2024\n\n( Ramandeep Kaur)\nJudicial Magistrate Ist Class\nUID NO . PB0679"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 2,
+    "total_sentences": 9,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 473,
+        "word_count": 77,
+        "paragraph_count": 2,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000126_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 408,
+            "word_count": 66,
+            "sentence_count": 7,
+            "text": "COMI-182-2024\nSucha Singh Vs. Nar Singh\nPresent:\nSh.Manjit Bajwa Adv, counsel for applicant.\nFile put up before me being Duty Magistrate as learned\nPresiding Officer is on leave today. Fresh complaint u/s 309 IPC filed. It\nbe registered. File be put up before the learned Presiding Officer of the\nconcerned Court for 17.01.2025. File be sent back to the concerned Court\nimmediately.\nDate of Order: 24.12.2024",
+            "sentences": [
+              {
+                "sentence_id": "DC_000126_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 92,
+                "word_count": 13,
+                "text": "COMI-182-2024\nSucha Singh Vs. Nar Singh\nPresent:\nSh.Manjit Bajwa Adv, counsel for applicant."
+              },
+              {
+                "sentence_id": "DC_000126_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 91,
+                "word_count": 16,
+                "text": "File put up before me being Duty Magistrate as learned\nPresiding Officer is on leave today."
+              },
+              {
+                "sentence_id": "DC_000126_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 34,
+                "word_count": 6,
+                "text": "Fresh complaint u/s 309 IPC filed."
+              },
+              {
+                "sentence_id": "DC_000126_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 17,
+                "word_count": 3,
+                "text": "It\nbe registered."
+              },
+              {
+                "sentence_id": "DC_000126_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 90,
+                "word_count": 15,
+                "text": "File be put up before the learned Presiding Officer of the\nconcerned Court for 17.01.2025."
+              },
+              {
+                "sentence_id": "DC_000126_P001_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 53,
+                "word_count": 9,
+                "text": "File be sent back to the concerned Court\nimmediately."
+              },
+              {
+                "sentence_id": "DC_000126_P001_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 25,
+                "word_count": 4,
+                "text": "Date of Order: 24.12.2024"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000126_P001_PAR002",
+            "paragraph_index": 2,
+            "character_count": 63,
+            "word_count": 11,
+            "sentence_count": 2,
+            "text": "( Ramandeep Kaur)\nJudicial Magistrate Ist Class\nUID NO . PB0679",
+            "sentences": [
+              {
+                "sentence_id": "DC_000126_P001_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 56,
+                "word_count": 10,
+                "text": "( Ramandeep Kaur)\nJudicial Magistrate Ist Class\nUID NO ."
+              },
+              {
+                "sentence_id": "DC_000126_P001_PAR002_SEN002",
+                "sentence_index": 2,
+                "character_count": 6,
+                "word_count": 1,
+                "text": "PB0679"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 27,
+    "state_name": "Chandigarh",
+    "district_code": 1,
+    "district_name": "Chandigarh",
+    "court_complex_code": 1270001,
+    "court_complex_name": "District Court, Chandigarh",
+    "year": 2024,
+    "case_type": "nan",
+    "case_number": "206400001822024",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "PDFsam Basic v5.2.4",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260330034107+05'30'",
+    "pdf_mod_date": "D:20260330034107+05'30'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.862,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "7c10f51c41424f48b91f9f9f93d3eab1ecd90f16983a28ec17ab4ac9c397415e",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.459398"
+  }
+}

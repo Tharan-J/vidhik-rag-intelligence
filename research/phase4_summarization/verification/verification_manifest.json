@@ -1,0 +1,12 @@
+{
+  "verified_at": "2026-10-05 13:52:33",
+  "verifier_role": "Independent Auditor",
+  "verifier_model": "Gemini 2.5 Flash / Deterministic Dual-Mode",
+  "total_summaries_evaluated": 153,
+  "total_claims_evaluated": 946,
+  "overall_supported_claim_rate": 0.7989,
+  "overall_contradicted_claim_rate": 0.0,
+  "overall_unsupported_claim_rate": 0.0945,
+  "legal_outcomes_preserved_rate": 1.0,
+  "cache_database": "/home/tharan/Seeds/vidhik/phase4_summarization/verification/gemini_cache.sqlite3"
+}

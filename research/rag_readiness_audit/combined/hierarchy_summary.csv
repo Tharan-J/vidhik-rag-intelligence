@@ -1,0 +1,4 @@
+court_level,document_count,median_pages,mean_words,median_words,numbered_para_pct,citation_density_mean,legal_ref_density_mean,precedent_density_mean,issue_density_mean,section_marker_mean,separate_opinion_count,valid_text_pdf_pct,excellent_good_text_pct,meta_completeness_mean
+Supreme Court,600,16.0,11932.9,5960.5,12.0,3.39,9.81,4.27,2.36,1.1,21,99.8,100.0,0.995
+High Court,600,10.0,4999.4,1941.5,5.8,1.14,6.27,1.95,1.39,0.8,1,100.0,78.7,0.968
+District Court,161,1.0,344.0,122.0,0.3,0.02,2.03,1.03,0.1,0.4,0,82.6,29.8,0.46

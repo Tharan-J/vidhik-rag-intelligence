@@ -1,0 +1,78 @@
+# ==============================================================================
+# Vidhik Ingestion Pipeline Configuration
+# ==============================================================================
+
+# Corpus input settings
+corpus:
+  master_metadata_parquet: "../research/rag_readiness_audit/master_document_audit.parquet"
+  master_metadata_csv: "../research/rag_readiness_audit/master_document_audit.csv"
+  district_structure_dir: "../research/district_extraction/structure/v1"
+  legal_data_dir: "../research/legal_data"
+  target_documents: 1361
+
+# Extraction and OCR Fallback
+extraction:
+  primary_engine: "pymupdf"
+  min_page_chars: 30
+  ocr_fallback: "paddleocr"
+  ocr_confidence_threshold: 0.5
+
+# Legal Text Normalization
+normalization:
+  repair_line_wraps: true
+  collapse_repeated_whitespace: true
+  preserve_legal_entities: true
+
+# Sentence Segmentation
+segmentation:
+  engine: "auto" # "spacy" with fallback to deterministic legal regex
+  spacy_model: "en_core_web_sm"
+
+# Structure-Aware Chunking
+chunking:
+  target_tokens: 500
+  min_tokens: 250
+  max_tokens: 700
+  overlap_tokens: 75
+  respect_paragraph_boundaries: true
+  respect_sentence_boundaries: true
+
+# Embedding Settings
+embedding:
+  model: "BAAI/bge-m3"
+  dense_dim: 1024
+  batch_size: 4
+  max_length: 1024
+  local_model_dir: "../research/rag_experiments/indexes/models/bge-m3"
+  onnx_model_file: "BAAI-bge-m3_quantized.onnx"
+  tokenizer_file: "tokenizer.json"
+
+# Qdrant Cloud Storage (Dense Vector Only)
+qdrant:
+  collection_name: "vidhik_legal_chunks"
+  dense_vector_name: "dense"
+  distance: "Cosine"
+  upsert_batch_size: 16
+  timeout: 60.0
+  https: true
+  port: 443
+
+# BM25 Sparse Lexical Retrieval Index
+bm25:
+  index_dir: "indexes/bm25"
+  index_file: "bm25_index.pkl"
+  mapping_file: "bm25_mapping.parquet"
+  k1: 1.5
+  b: 0.75
+  epsilon: 0.25
+
+# Manifest and Tracking
+manifest:
+  path: "manifests/qdrant_ingestion_manifest.parquet"
+  csv_mirror_path: "manifests/qdrant_ingestion_manifest.csv"
+
+# Logging
+logging:
+  log_dir: "logs"
+  log_file: "ingestion.log"
+  level: "INFO"

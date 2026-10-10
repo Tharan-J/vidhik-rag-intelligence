@@ -1,0 +1,47 @@
+# Phase 7 Translation Layer Configuration
+# Vidhik Research Pipeline - Controlled Legal Translation Experiment
+
+experiment:
+  phase: "phase7_translation"
+  name: "English -> Indic Translation Optimization Experiment"
+  benchmark_documents: 9
+  gold_facts: 85
+  critical_facts: 38
+  indic_languages: ["ta", "hi", "kn", "mr"]
+  target_universe_units: 340
+  critical_universe_units: 152
+
+indictrans2:
+  model_id: "ai4bharat/indictrans2-en-indic-dist-200M"
+  device_preference: "cuda"
+  max_length: 256
+  beam_sizes:
+    default: 4
+    candidate_beams: [2, 4, 6]
+  batch_size: 1
+
+systems:
+  T0:
+    id: "T0_BASELINE_LEGAL_AWARE"
+    name: "Phase 6 Legal-Aware Translation Baseline"
+    description: "Sentence-split English summary -> Phase 6 Entity/Glossary Protection -> IndicTrans2 -> Restoration"
+  T1:
+    id: "T1_CONTEXT_AWARE"
+    name: "Context-Aware Translation"
+    description: "Translates target sentence with sliding context window awareness (previous/next sentence cues) to avoid isolated semantic drift"
+  T2:
+    id: "T2_STRONGER_TERMINOLOGY"
+    name: "Enhanced Legal Terminology & Entity Protection"
+    description: "Comprehensive regex + statutory + court/judge/bail/disposition glossary protection with strict placeholder restoration"
+  T3:
+    id: "T3_CLAIM_ALIGNED"
+    name: "Claim & Sentence Aligned Translation"
+    description: "Strict English claim-to-sentence mapping with alignment verification and sentence boundary preservation"
+  T4:
+    id: "T4_CANDIDATE_RERANKING"
+    name: "Translation Candidate Generation & Legal Reranking"
+    description: "Generates multiple decoding candidates (beams/temperatures) and reranks via deterministic legal entity, terminology, and contradiction score"
+  T5:
+    id: "T5_COMBINED_OPTIMAL"
+    name: "Combined Optimal Translation Pipeline"
+    description: "Integrates Enhanced Terminology Protection (T2) + Claim Alignment (T3) + Legal Reranking (T4)"

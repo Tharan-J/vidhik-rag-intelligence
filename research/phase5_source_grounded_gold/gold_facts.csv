@@ -1,0 +1,343 @@
+gold_fact_id,fact_id,doc_id,category,criticality,source_value,normalized_value,source_text,source_page,source_paragraph_id,source_sentence_id,pdf_sha256,verification_status,verification_method,candidate_source,candidate_fact_id,reviewer,review_timestamp,notes,fact_label,quality_flag
+GF-DC_000001-0001,GF-DC_000001-0001,DC_000001,CASE_NUMBER,CRITICAL,"CC.
+No.
+179
+of 1998",CC 179/1998,CC.,1,DC_000001_P001_PAR001,DC_000001_P001_PAR001_SEN002,49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000001_CASE_NUMBER_002,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Case number split across OCR lines; normalized to CC 179/1998.,CC number,PARTIAL
+GF-DC_000001-0002,GF-DC_000001-0002,DC_000001,COURT,IMPORTANT,IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR,"Junior Civil Judge, Chennur","IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur.",1,DC_000001_P001_PAR001,DC_000001_P001_PAR001_SEN001,49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000001_COURT_001,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Court name from document header.,Presiding court,
+GF-DC_000001-0003,GF-DC_000001-0003,DC_000001,PARTIES,CRITICAL,"The State of Telangana through the
+Sub-Inspector of police, Srirampur",State of Telangana (SHO Srirampur),"Between:-
+The State of Telangana through the
+Sub-Inspector of police, Srirampur
+ ...",1,DC_000001_P001_PAR005,DC_000001_P001_PAR005_SEN001,49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000001_PARTIES_004,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Complainant prosecution identified on p.1.,Complainant,
+GF-DC_000001-0004,GF-DC_000001-0004,DC_000001,PARTIES,CRITICAL,Bodduna Rajamallu,Bodduna Rajamallu,"Complainant
+AND
+Bodduna Rajamallu",1,DC_000001_P001_PAR005,DC_000001_P001_PAR005_SEN002,49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Sole accused named in caption (machine extraction had captured docket order text).,Accused,
+GF-DC_000001-0005,GF-DC_000001-0005,DC_000001,OFFICER,CONTEXTUAL,"Sri Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur.","Sri Uday Bhaskar Rao, JCJ Chennur","IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur.",1,DC_000001_P001_PAR001,DC_000001_P001_PAR001_SEN001,49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Judge name from header.,Presiding judge,
+GF-DC_000001-0006,GF-DC_000001-0006,DC_000001,DATE,IMPORTANT,"8th day of
+August, 2017",08-Aug-2017,"Given under my hand and the seal of this court, on this the 8th day of
+August, 2017.",1,DC_000001_P001_PAR007,DC_000001_P001_PAR007_SEN001,49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000001_DECISION_DATE_003,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Date docket order signed.,Order date,
+GF-DC_000001-0007,GF-DC_000001-0007,DC_000001,PROCEDURAL_ACTION,IMPORTANT,"this case is transferred to I Addl.JFCM, Mancherial.",Transferred to I Addl.JFCM Mancherial,"District and Sessions Judge, Adilabad vide Proc.Dis.No.5555/2017/Admn,
+dated.3.8.2017 this case is transferred to I Addl.JFCM, Mancherial.",1,DC_000001_P001_PAR006,DC_000001_P001_PAR006_SEN003,49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000001_PROCEDURAL_ACTION_007,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Administrative transfer per administrative circular. Reclassified from candidate DISPOSITION to PROCEDURAL_ACTION; substantive trial disposition is ABSENT_IN_SOURCE.,Administrative transfer order,
+GF-DC_000001-0008,GF-DC_000001-0008,DC_000001,PROCEDURAL_ACTION,IMPORTANT,"As per the directions of Hon'ble
+Prl. District and Sessions Judge, Adilabad vide Proc.Dis.No.5555/2017/Admn,
+dated.3.8.2017 this case is transferred to I Addl.JFCM, Mancherial.",Proc.Dis.No.5555/2017/Admn dt 3.8.2017,"...Accused
+DOCKET ORDER
+This case is suo-moto advanced to this day.",1,DC_000001_P001_PAR006,DC_000001_P001_PAR006_SEN001,49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Reference to administrative circular ordering the transfer.,Transfer authority reference,
+GF-DC_000002-0001,GF-DC_000002-0001,DC_000002,CASE_NUMBER,CRITICAL,"CC.
+No. 165 of 1998",CC 165/1998,CC.,1,DC_000002_P001_PAR001,DC_000002_P001_PAR001_SEN003,5d8380af2722ed4f71b38fc5ce00a2b3dcd7090f618032a42d78d4c3bef85304,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000002_CASE_NUMBER_002,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Case number from caption.,CC number,
+GF-DC_000002-0002,GF-DC_000002-0002,DC_000002,COURT,IMPORTANT,IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR,"Junior Civil Judge, Chennur","IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G.",1,DC_000002_P001_PAR001,DC_000002_P001_PAR001_SEN001,5d8380af2722ed4f71b38fc5ce00a2b3dcd7090f618032a42d78d4c3bef85304,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000002_COURT_001,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Court name from header.,Presiding court,
+GF-DC_000002-0003,GF-DC_000002-0003,DC_000002,PARTIES,CRITICAL,"The State of Telangana Rep.by
+SHO, Kotapally.",State of Telangana (SHO Kotapally),"Between:-
+The State of Telangana Rep.by
+SHO, Kotapally.",1,DC_000002_P001_PAR003,DC_000002_P001_PAR003_SEN001,5d8380af2722ed4f71b38fc5ce00a2b3dcd7090f618032a42d78d4c3bef85304,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000002_PARTIES_004,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Complainant as named in caption.,Complainant,
+GF-DC_000002-0004,GF-DC_000002-0004,DC_000002,PARTIES,CRITICAL,Tallapalli Sagar,Tallapalli Sagar,"Complainant
+AND
+Tallapalli Sagar",1,DC_000002_P001_PAR003,DC_000002_P001_PAR003_SEN003,5d8380af2722ed4f71b38fc5ce00a2b3dcd7090f618032a42d78d4c3bef85304,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,"Sole accused named in caption (machine extraction had captured bare word ""Accused"").",Accused,
+GF-DC_000002-0005,GF-DC_000002-0005,DC_000002,OFFICER,CONTEXTUAL,"Sri G. Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur.","Sri G. Uday Bhaskar Rao, JCJ Chennur","IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G.",1,DC_000002_P001_PAR001,DC_000002_P001_PAR001_SEN001,5d8380af2722ed4f71b38fc5ce00a2b3dcd7090f618032a42d78d4c3bef85304,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Judge name from header.,Presiding judge,
+GF-DC_000002-0006,GF-DC_000002-0006,DC_000002,PROCEDURAL_ACTION,IMPORTANT,"Permission received from Honrable District and Session's Judge Adilabad, by
+O.M.Dis.No. 1099/2018/crl dated 07.03.2018 To enter in LPC Register",Permission to enter LPC Register per O.M.Dis.No.1099/2018/crl dt 07.03.2018,"DOCKET ORDER
+Permission received from Honrable District and Session's Judge Adilabad, by
+O.M.Dis.No. 1099/2018/crl dated 07.03.2018 To enter in LPC Register",1,DC_000002_P001_PAR005,DC_000002_P001_PAR005_SEN001,5d8380af2722ed4f71b38fc5ce00a2b3dcd7090f618032a42d78d4c3bef85304,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Administrative entry into Long Pending Case Register per High Court/Sessions circular; substantive disposition on merits is ABSENT_IN_SOURCE.,LPC Register entry order,
+GF-DC_000002-0007,GF-DC_000002-0007,DC_000002,DATE,IMPORTANT,"13th day of
+March, 2018",13-Mar-2018,"Given under my hand and the seal of this court, on this the 13th day of
+March, 2018.",1,DC_000002_P001_PAR006,DC_000002_P001_PAR006_SEN001,5d8380af2722ed4f71b38fc5ce00a2b3dcd7090f618032a42d78d4c3bef85304,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000002_DECISION_DATE_003,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Date docket order was issued.,Order date,
+GF-DC_000003-0001,GF-DC_000003-0001,DC_000003,CASE_NUMBER,CRITICAL,"CC.
+No. 136 of 1998",CC 136/1998,CC.,1,DC_000003_P001_PAR001,DC_000003_P001_PAR001_SEN002,d5e7b3b2c747b0bc5ed1b6148b11d4039e8852708205adb81025b0bd520425df,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000003_CASE_NUMBER_002,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Case number from caption.,CC number,
+GF-DC_000003-0002,GF-DC_000003-0002,DC_000003,COURT,IMPORTANT,IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR,"Junior Civil Judge, Chennur","IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Smt. Shaik Rehana
+ Junior Civil Judge,
+ Chennur.",1,DC_000003_P001_PAR001,DC_000003_P001_PAR001_SEN001,d5e7b3b2c747b0bc5ed1b6148b11d4039e8852708205adb81025b0bd520425df,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000003_COURT_001,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Court name from header.,Presiding court,
+GF-DC_000003-0003,GF-DC_000003-0003,DC_000003,PARTIES,CRITICAL,"The State of Telangana Rep.by
+SI, Neelwai.",State of Telangana (SI Neelwai),"Between:-
+The State of Telangana Rep.by
+Sub-Inspector of Police, Neelwai
+ ...",1,DC_000003_P001_PAR003,DC_000003_P001_PAR003_SEN001,d5e7b3b2c747b0bc5ed1b6148b11d4039e8852708205adb81025b0bd520425df,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000003_PARTIES_004,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Complainant from caption.,Complainant,
+GF-DC_000003-0004,GF-DC_000003-0004,DC_000003,PARTIES,CRITICAL,Satwaji @ Sudhakaranna and others,Satwaji @ Sudhakaranna (and others),"Complainant
+AND
+Satwaji @ Sudhakaranna and others",1,DC_000003_P001_PAR003,DC_000003_P001_PAR003_SEN002,d5e7b3b2c747b0bc5ed1b6148b11d4039e8852708205adb81025b0bd520425df,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Lead accused and unnamed co-accused.,Accused,
+GF-DC_000003-0005,GF-DC_000003-0005,DC_000003,OFFICER,CONTEXTUAL,"Smt. Shaik Rehana
+ Junior Civil Judge,
+ Chennur.","Smt. Shaik Rehana, JCJ Chennur","IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Smt. Shaik Rehana
+ Junior Civil Judge,
+ Chennur.",1,DC_000003_P001_PAR001,DC_000003_P001_PAR001_SEN001,d5e7b3b2c747b0bc5ed1b6148b11d4039e8852708205adb81025b0bd520425df,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Judge name from header.,Presiding judge,
+GF-DC_000003-0006,GF-DC_000003-0006,DC_000003,PROCEDURAL_ACTION,IMPORTANT,"Permission received from Honrable District and Session's Judge Adilabad, by
+O.M.Dis.No. 1044/2018/crl dated 07.03.2018 To enter in LPC Register",Permission to enter LPC Register per O.M.Dis.No.1044/2018/crl dt 07.03.2018,"DOCKET ORDER
+Permission received from Honrable District and Session's Judge Adilabad, by
+O.M.Dis.No. 1044/2018/crl dated 07.03.2018 To enter in LPC Register",1,DC_000003_P001_PAR005,DC_000003_P001_PAR005_SEN001,d5e7b3b2c747b0bc5ed1b6148b11d4039e8852708205adb81025b0bd520425df,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Procedural entry into LPC register; substantive disposition is ABSENT_IN_SOURCE.,LPC Register entry order,
+GF-DC_000003-0007,GF-DC_000003-0007,DC_000003,DATE,IMPORTANT,"13th day
+of March, 2018",13-Mar-2018,"Given under my hand and the seal of this court, on this the 13th day
+of March, 2018.",1,DC_000003_P001_PAR006,DC_000003_P001_PAR006_SEN001,d5e7b3b2c747b0bc5ed1b6148b11d4039e8852708205adb81025b0bd520425df,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000003_DECISION_DATE_003,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Date docket order signed.,Order date,
+GF-DC_000004-0001,GF-DC_000004-0001,DC_000004,CASE_NUMBER,CRITICAL,"CC.
+No.135 of 1998",CC 135/1998,CC.,1,DC_000004_P001_PAR001,DC_000004_P001_PAR001_SEN003,e5eec855ff6a88c3f2090318473ebacf640d5f9af4e8de33e8d18f6abb9e569b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000004_CASE_NUMBER_002,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Case number from caption.,CC number,
+GF-DC_000004-0002,GF-DC_000004-0002,DC_000004,COURT,IMPORTANT,IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR,"Junior Civil Judge, Chennur","IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G.",1,DC_000004_P001_PAR001,DC_000004_P001_PAR001_SEN001,e5eec855ff6a88c3f2090318473ebacf640d5f9af4e8de33e8d18f6abb9e569b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000004_COURT_001,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Court from header.,Presiding court,
+GF-DC_000004-0003,GF-DC_000004-0003,DC_000004,PARTIES,CRITICAL,"The State of Telangana Rep.by
+Sub-Inspector of police, Kotapally",State of Telangana (SI Kotapally),"Between:-
+The State of Telangana Rep.by
+Sub-Inspector of police, Kotapally
+ ...",1,DC_000004_P001_PAR003,DC_000004_P001_PAR003_SEN001,e5eec855ff6a88c3f2090318473ebacf640d5f9af4e8de33e8d18f6abb9e569b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000004_PARTIES_004,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Complainant from caption.,Complainant,
+GF-DC_000004-0004,GF-DC_000004-0004,DC_000004,PARTIES,CRITICAL,Jangelli Ganganna @ Narayana,Jangelli Ganganna @ Narayana,"Complainant
+AND
+Jangelli Ganganna @ Narayana",1,DC_000004_P001_PAR003,DC_000004_P001_PAR003_SEN002,e5eec855ff6a88c3f2090318473ebacf640d5f9af4e8de33e8d18f6abb9e569b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Sole accused named.,Accused,
+GF-DC_000004-0005,GF-DC_000004-0005,DC_000004,OFFICER,CONTEXTUAL,"Sri G. Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur.","Sri G. Uday Bhaskar Rao, JCJ Chennur","IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G.",1,DC_000004_P001_PAR001,DC_000004_P001_PAR001_SEN001,e5eec855ff6a88c3f2090318473ebacf640d5f9af4e8de33e8d18f6abb9e569b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Judge from header.,Presiding judge,
+GF-DC_000004-0006,GF-DC_000004-0006,DC_000004,PROCEDURAL_ACTION,IMPORTANT,"Permission received from Hon'ble District and Session's Judge Adilabad, by
+O.M.Dis.No. 1105/2018/crl dated 07.03.2018 To enter in LPC Register",Permission to enter LPC Register per O.M.Dis.No.1105/2018/crl dt 07.03.2018,"DOCKET ORDER
+Permission received from Hon'ble District and Session's Judge Adilabad, by
+O.M.Dis.No. 1105/2018/crl dated 07.03.2018 To enter in LPC Register",1,DC_000004_P001_PAR005,DC_000004_P001_PAR005_SEN001,e5eec855ff6a88c3f2090318473ebacf640d5f9af4e8de33e8d18f6abb9e569b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,LPC Register entry procedural action; substantive disposition is ABSENT_IN_SOURCE.,LPC Register entry order,
+GF-DC_000004-0007,GF-DC_000004-0007,DC_000004,DATE,IMPORTANT,"13th day of
+March, 2018",13-Mar-2018,"Given under my hand and the seal of this court, on this the 13th day of
+March, 2018.",1,DC_000004_P001_PAR006,DC_000004_P001_PAR006_SEN001,e5eec855ff6a88c3f2090318473ebacf640d5f9af4e8de33e8d18f6abb9e569b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000004_DECISION_DATE_003,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Date docket order signed.,Order date,
+GF-DC_000005-0001,GF-DC_000005-0001,DC_000005,CASE_NUMBER,CRITICAL,"CC.
+No.
+134
+of 1998",CC 134/1998,CC.,1,DC_000005_P001_PAR001,DC_000005_P001_PAR001_SEN002,838dacd1ea2bfe57b4d6872bdeacab2fedd0388affca53822f9ad851a383069a,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000005_CASE_NUMBER_002,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Number split across OCR paragraphs; combined as CC 134/1998.,CC number,PARTIAL
+GF-DC_000005-0002,GF-DC_000005-0002,DC_000005,COURT,IMPORTANT,IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR,"Junior Civil Judge, Chennur","IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur.",1,DC_000005_P001_PAR001,DC_000005_P001_PAR001_SEN001,838dacd1ea2bfe57b4d6872bdeacab2fedd0388affca53822f9ad851a383069a,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000005_COURT_001,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Court from header.,Presiding court,
+GF-DC_000005-0003,GF-DC_000005-0003,DC_000005,PARTIES,CRITICAL,"The State of Telangana through the
+Sub-Inspector of police, Kotapally",State of Telangana (SI Kotapally),"Between:-
+The State of Telangana through the
+Sub-Inspector of police, Kotapally
+ ...",1,DC_000005_P001_PAR005,DC_000005_P001_PAR005_SEN001,838dacd1ea2bfe57b4d6872bdeacab2fedd0388affca53822f9ad851a383069a,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000005_PARTIES_004,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Complainant from caption.,Complainant,
+GF-DC_000005-0004,GF-DC_000005-0004,DC_000005,PARTIES,CRITICAL,Golla Rajam,Golla Rajam,"Complainant
+AND
+Golla Rajam",1,DC_000005_P001_PAR005,DC_000005_P001_PAR005_SEN002,838dacd1ea2bfe57b4d6872bdeacab2fedd0388affca53822f9ad851a383069a,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Sole accused named.,Accused,
+GF-DC_000005-0005,GF-DC_000005-0005,DC_000005,OFFICER,CONTEXTUAL,"Sri Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur.","Sri Uday Bhaskar Rao, JCJ Chennur","IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur.",1,DC_000005_P001_PAR001,DC_000005_P001_PAR001_SEN001,838dacd1ea2bfe57b4d6872bdeacab2fedd0388affca53822f9ad851a383069a,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Judge from header.,Presiding judge,
+GF-DC_000005-0006,GF-DC_000005-0006,DC_000005,PROCEDURAL_ACTION,IMPORTANT,"Permission received from Hon'ble District and Session's Judge, Adilabad, by
+O.M.Dis.No. 1102/2018/Crl, dated 07.03.2018 to enter in LPC Register",Permission to enter LPC Register per O.M.Dis.No.1102/2018/Crl dt 07.03.2018,"...Accused
+DOCKET ORDER
+Permission received from Hon'ble District and Session's Judge, Adilabad, by
+O.M.Dis.No. 1102/2018/Crl, dated 07.03.2018 to enter in LPC Register",1,DC_000005_P001_PAR006,DC_000005_P001_PAR006_SEN001,838dacd1ea2bfe57b4d6872bdeacab2fedd0388affca53822f9ad851a383069a,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,LPC Register entry procedural action; substantive disposition is ABSENT_IN_SOURCE.,LPC Register entry order,
+GF-DC_000005-0007,GF-DC_000005-0007,DC_000005,DATE,IMPORTANT,"13th day of
+March, 2018",13-Mar-2018,"Given under my hand and the seal of this court, on this the 13th day of
+March, 2018.",1,DC_000005_P001_PAR007,DC_000005_P001_PAR007_SEN001,838dacd1ea2bfe57b4d6872bdeacab2fedd0388affca53822f9ad851a383069a,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000005_DECISION_DATE_003,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Date order signed.,Order date,
+GF-DC_000006-0001,GF-DC_000006-0001,DC_000006,CASE_NUMBER,CRITICAL,C.C.No. 132 of 1998,CC 132/1998,"MONDAY THE 15TH DAY OF SEPTEMBER,, 2014
+C.C.No. 132 of 1998
+Between:-
+The State through the Sub-Inspector
+of Police, P.S.",1,DC_000006_P001_PAR001,DC_000006_P001_PAR001_SEN002,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000006_CASE_NUMBER_002,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Case number from body of judgment.,CC number,
+GF-DC_000006-0002,GF-DC_000006-0002,DC_000006,COURT,IMPORTANT,"IN THE COURT OF THE JUDICIAL MAGISTRATE OF FIRST CLASS AT
+CHINNOOR","Judicial Magistrate of First Class, Chinnoor","1 CC 132 OF 1998
+IN THE COURT OF THE JUDICIAL MAGISTRATE OF FIRST CLASS AT
+CHINNOOR
+ PRESENT: Ms. SHAIK REHANA
+ Judicial Magistrate of First Class,
+ Chinnor.",1,DC_000006_P001_PAR001,DC_000006_P001_PAR001_SEN001,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000006_COURT_001,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Court name from header.,Presiding court,
+GF-DC_000006-0003,GF-DC_000006-0003,DC_000006,OFFICER,CONTEXTUAL,"Ms. Shaik Rehana
+ Judicial Magistrate of First Class,
+ Chinnoor","Ms. Shaik Rehana, JMFC Chinnoor","1 CC 132 OF 1998
+IN THE COURT OF THE JUDICIAL MAGISTRATE OF FIRST CLASS AT
+CHINNOOR
+ PRESENT: Ms. SHAIK REHANA
+ Judicial Magistrate of First Class,
+ Chinnor.",1,DC_000006_P001_PAR001,DC_000006_P001_PAR001_SEN001,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Judge name from header.,Presiding judge,
+GF-DC_000006-0004,GF-DC_000006-0004,DC_000006,DATE,IMPORTANT,"15th DAY OF SEPTEMBER, 2014",15-Sep-2014,"Dictated to the Sr. Assistant, transcribed by her and after correction,
+pronounced by me in the open Court on this the 15th day of September, 2014.",5,DC_000006_P005_PAR001,DC_000006_P005_PAR001_SEN004,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000006_DECISION_DATE_003,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Date judgment pronounced.,Judgment date,
+GF-DC_000006-0005,GF-DC_000006-0005,DC_000006,PARTIES,CRITICAL,"The State through the Sub-Inspector
+of Police, P.S. Jaipur",State (SI PS Jaipur),"1 CC 132 OF 1998
+IN THE COURT OF THE JUDICIAL MAGISTRATE OF FIRST CLASS AT
+CHINNOOR
+ PRESENT: Ms. SHAIK REHANA
+ Judicial Magistrate of First Class,
+ Chinnor.",1,DC_000006_P001_PAR001,DC_000006_P001_PAR001_SEN001,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000006_PARTIES_004,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Prosecution complainant.,Complainant,
+GF-DC_000006-0006,GF-DC_000006-0006,DC_000006,PARTIES,CRITICAL,A-8: Radhakka,Radhakka (A-8),"Complainant
+ AND
+ A-1: Satwaji @ Sudhakaranna
+A-2: Golla Rajam
+A-3: Parasaboina Rajam @ Naganna
+A-5: Arigela Venka Goud @ Pratap
+A-6: Gaddam Rajam @ Yadanna
+A-7: Ganganna @ Mallesh
+A-8: Radhakka
+A-9: Rayaposham @ Kishan
+A-10: Bomgoni Komura Goud (died)
+(case against A-1 to A-7 and A-9 to A-10 is split up
+and numbered as CC 47 of 2014 )
+(A-10 since died on 16.9.1993 in Cr.No. 83/1993 of PS Jaipur),",1,DC_000006_P001_PAR001,DC_000006_P001_PAR001_SEN004,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Sole facing accused in this split trial.,Accused A-8,
+GF-DC_000006-0007,GF-DC_000006-0007,DC_000006,PARTIES,CRITICAL,Smt. Lambu Anantha Devi,Smt. Lambu Anantha Devi (PW-1),"The brief averments of the charge sheet are as follows:-
+Smt. Lambu Anantha Devi is the complainant, PW-1 and Kumri Lambu
+Radhika are the husband and daughter respectively of Smt. Lambu Anantha Devi
+and they are residents of Kistampur village.",1,DC_000006_P001_PAR002,DC_000006_P001_PAR002_SEN007,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Hostile complainant witness PW-1 whose testimony led to acquittal.,Complainant witness PW-1,
+GF-DC_000006-0008,GF-DC_000006-0008,DC_000006,CHARGE,CRITICAL,"section 147, 148, 427 r/w 149 IPC","IPC s.147, 148, 427 r/w 149","The Circle Inspector of police, Mancherial filed the charge sheet against the
+accused No.1 to 10 for the offences under section 147, 148, 427 r/w 149 IPC in
+Cr.No. 37/1993 of PS Jaipur.",1,DC_000006_P001_PAR002,DC_000006_P001_PAR002_SEN005,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000006_STATUTORY_SECTION_006,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Substantive criminal charges framed.,IPC charges,
+GF-DC_000006-0009,GF-DC_000006-0009,DC_000006,AMOUNT,IMPORTANT,"causing damage to the bus to the tune of
+Rs. 2,05,000/-","Rs. 2,05,000","On the night of 12.4.1993 Smt.
+Anantha Devi along with her daughter Radhfika were sleeping in the house of
+one Madhava Reddy in the same village as her husband PW-1 and son were not
+present at the house on the intervening night of 12/13.4.1993, A-1 to A-10 formed
+themselves into unlawful assembly armed with deadly weapons including guns
+went to the house of PW-1 around 0100 hours with common object of causing
+wrongful damage to the property of PW-1.",2,DC_000006_P002_PAR001,DC_000006_P002_PAR001_SEN005,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,"Substantive monetary damage value found during independent source review (replaces malformed ""rs,"" candidate).",Property damage value,
+GF-DC_000006-0010,GF-DC_000006-0010,DC_000006,DATE,IMPORTANT,night of 12/13.4.1993,12-Apr-1993/13-Apr-1993 (night),"On the night of 12.4.1993 Smt.
+Anantha Devi along with her daughter Radhfika were sleeping in the house of
+one Madhava Reddy in the same village as her husband PW-1 and son were not
+present at the house on the intervening night of 12/13.4.1993, A-1 to A-10 formed
+themselves into unlawful assembly armed with deadly weapons including guns
+went to the house of PW-1 around 0100 hours with common object of causing
+wrongful damage to the property of PW-1.",2,DC_000006_P002_PAR001,DC_000006_P002_PAR001_SEN005,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Date/time of alleged attack on APSRTC bus.,Incident date,
+GF-DC_000006-0011,GF-DC_000006-0011,DC_000006,DISPOSITION,CRITICAL,case against A-4 is acquitted,A-4 acquitted on 08-Jan-1999,"On 8.1.1999 the
+case against A-4 is acquitted.",2,DC_000006_P002_PAR001,DC_000006_P002_PAR001_SEN024,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Prior co-accused acquittal recorded in procedural history.,Acquittal A-4,
+GF-DC_000006-0012,GF-DC_000006-0012,DC_000006,JUDICIAL_FINDING,CRITICAL,prosecution has failed to prove the guilt of A-8,Prosecution failed to prove guilt of A-8 beyond reasonable doubt,"The
+evidence on record does not show anything as PW-1 has not stated anything
+against A-8, So the prosecution has failed to prove the guilt of A-8 for the
+offences punishable under section 147, 148, 427 r/w 149 IPC beyond all
+reasonable doubt and the accused is entitled under benefit of doubt.",4,DC_000006_P004_PAR001,DC_000006_P004_PAR001_SEN020,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000006_JUDICIAL_FINDING_023,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Core substantive finding on merits distinct from disposition.,Prosecution failure of proof,
+GF-DC_000006-0013,GF-DC_000006-0013,DC_000006,DISPOSITION,CRITICAL,"she is acquitted for the same
+under section 248(1) CrPC.",A-8 Acquitted under Sec. 248(1) Cr.P.C.,"5 CC 132 OF 1998
+under section 147, 148, 427 r/w 149 IPC and she is acquitted for the same
+under section 248(1) CrPC.",5,DC_000006_P005_PAR001,DC_000006_P005_PAR001_SEN001,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000006_DISPOSITION_025,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Substantive judgment verdict under Cr.P.C.,Verdict A-8,
+GF-DC_000006-0014,GF-DC_000006-0014,DC_000006,RELIEF,CRITICAL,"she shall be set at liberty
+forthwith",A-8 set at liberty forthwith,"A-8 is in judicial custody, she shall be set at liberty
+forthwith unless he is not required in any other case.",5,DC_000006_P005_PAR001,DC_000006_P005_PAR001_SEN002,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000006_RELIEF_026,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Judicial relief granted to acquitted accused.,Set at liberty,
+GF-DC_000006-0015,GF-DC_000006-0015,DC_000006,BAIL_STATUS,CRITICAL,A-8 is in judicial custody,A-8 in judicial custody (set at liberty upon acquittal),"A-8 is in judicial custody, she shall be set at liberty
+forthwith unless he is not required in any other case.",5,DC_000006_P005_PAR001,DC_000006_P005_PAR001_SEN002,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000006_BAIL_STATUS_027,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Pre-verdict custody status verified on p.5.,Custody status,
+GF-DC_000006-0016,GF-DC_000006-0016,DC_000006,PROCEDURAL_ACTION,IMPORTANT,"case against A-1 to A-3, A-5 to A-7, A-9 was
+separated from this case and renumbered as CC 47/2014","Split to CC 47/2014 (A-1,A-2,A-3,A-5,A-6,A-7,A-9)","The case against A-1 to A-3, A-5 to A-7, A-9 was
+separated from this case and renumbered as CC 47/2014, as they are
+absconding.",2,DC_000006_P002_PAR001,DC_000006_P002_PAR001_SEN022,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000006_PROCEDURAL_ACTION_015,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Procedural split for absconding accused.,Case split CC 47/2014,
+GF-DC_000006-0017,GF-DC_000006-0017,DC_000006,OFFICER,CONTEXTUAL,"Sri G. Ramesh
+Chander, Advocate for the accused",Sri G. Ramesh Chander (Defense Advocate),for the State-complainant and of Sri G.,1,DC_000006_P001_PAR002,DC_000006_P001_PAR002_SEN003,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Named defense counsel.,Defense advocate,
+GF-DC_000006-0018,GF-DC_000006-0018,DC_000006,OFFICER,CONTEXTUAL,"Md.
+Mustafa, S.I of police, Jaipur","Md. Mustafa, SI Jaipur","on 13.4.1993 on receipt of information about the incident, Md.",2,DC_000006_P002_PAR001,DC_000006_P002_PAR001_SEN010,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Initial IO who registered FIR.,Investigating officer (initial),
+GF-DC_000006-0019,GF-DC_000006-0019,DC_000006,OFFICER,CONTEXTUAL,V Sailu took up further investigation in the case,"V Sailu, CI Mancherial","The CI of police,
+Mancherial namely V Sailu took up further investigation in the case.",2,DC_000006_P002_PAR001,DC_000006_P002_PAR001_SEN016,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,CI who completed investigation and filed charge sheet.,Investigating officer (further),
+GF-DC_000006-0020,GF-DC_000006-0020,DC_000006,DATE,IMPORTANT,on 14.4.1993 while he was in police station,14-Apr-1993 (FIR Cr.No.37/1993 PS Jaipur),"PW-3 is PC 894 who issued First
+Information report deposed that on 14.4.1993 while he was in police station, his
+the then SI of police forwarded a complaint instructing him to register a case,
+upon which he registered a case in Cr.No. 37/1993.",4,DC_000006_P004_PAR001,DC_000006_P004_PAR001_SEN003,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,FIR registration date stated on p.4.,FIR registration date,
+GF-DC_000007-0001,GF-DC_000007-0001,DC_000007,CASE_NUMBER,CRITICAL,"PRC.
+No. 46 of 1998",PRC 46/1998,PRC.,1,DC_000007_P001_PAR001,DC_000007_P001_PAR001_SEN003,437529d8f1cc43ad504b9c592ec40927f2a3648e4dfb06883e45c37b8ad99909,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000007_CASE_NUMBER_002,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Case number from caption.,PRC number,
+GF-DC_000007-0002,GF-DC_000007-0002,DC_000007,COURT,IMPORTANT,IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR,"Junior Civil Judge, Chennur","IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G.",1,DC_000007_P001_PAR001,DC_000007_P001_PAR001_SEN001,437529d8f1cc43ad504b9c592ec40927f2a3648e4dfb06883e45c37b8ad99909,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000007_COURT_001,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Court from header.,Presiding court,
+GF-DC_000007-0003,GF-DC_000007-0003,DC_000007,PARTIES,CRITICAL,"The State of Telangana Rep.by
+SHO, Chennur",State of Telangana (SHO Chennur),"Between:-
+The State of Telangana Rep.by
+SHO, Chennur
+ ...",1,DC_000007_P001_PAR003,DC_000007_P001_PAR003_SEN001,437529d8f1cc43ad504b9c592ec40927f2a3648e4dfb06883e45c37b8ad99909,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000007_PARTIES_004,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Complainant from caption.,Complainant,
+GF-DC_000007-0004,GF-DC_000007-0004,DC_000007,PARTIES,CRITICAL,Jangili Ganganna and 13 others,Jangili Ganganna (and 13 others),"Complainant
+AND
+Jangili Ganganna and 13 others",1,DC_000007_P001_PAR003,DC_000007_P001_PAR003_SEN002,437529d8f1cc43ad504b9c592ec40927f2a3648e4dfb06883e45c37b8ad99909,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Lead accused and 13 unnamed co-accused.,Accused,
+GF-DC_000007-0005,GF-DC_000007-0005,DC_000007,OFFICER,CONTEXTUAL,"Sri G. Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur.","Sri G. Uday Bhaskar Rao, JCJ Chennur","IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G.",1,DC_000007_P001_PAR001,DC_000007_P001_PAR001_SEN001,437529d8f1cc43ad504b9c592ec40927f2a3648e4dfb06883e45c37b8ad99909,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Judge from header.,Presiding judge,
+GF-DC_000007-0006,GF-DC_000007-0006,DC_000007,PROCEDURAL_ACTION,IMPORTANT,"Permission received from Honrable District and Sessions Judge Adilabad, by
+O.M.Dis.No. 1051/2018/crl dated 07.03.2018 To enter in LPC Register.",Permission to enter LPC Register per O.M.Dis.No.1051/2018/crl dt 07.03.2018,"DOCKET ORDER
+Permission received from Honrable District and Sessions Judge Adilabad, by
+O.M.Dis.No. 1051/2018/crl dated 07.03.2018 To enter in LPC Register.",1,DC_000007_P001_PAR005,DC_000007_P001_PAR005_SEN001,437529d8f1cc43ad504b9c592ec40927f2a3648e4dfb06883e45c37b8ad99909,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,LPC Register entry procedural action; substantive disposition is ABSENT_IN_SOURCE.,LPC Register entry order,
+GF-DC_000007-0007,GF-DC_000007-0007,DC_000007,DATE,IMPORTANT,"13th day
+of March, 2018",13-Mar-2018,"Given under my hand and the seal of this court, on this the 13th day
+of March, 2018.",1,DC_000007_P001_PAR006,DC_000007_P001_PAR006_SEN001,437529d8f1cc43ad504b9c592ec40927f2a3648e4dfb06883e45c37b8ad99909,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000007_DECISION_DATE_003,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Date order signed.,Order date,
+GF-DC_000008-0001,GF-DC_000008-0001,DC_000008,CASE_NUMBER,CRITICAL,"PRC.
+No. 44 of 1998",PRC 44/1998,PRC.,1,DC_000008_P001_PAR001,DC_000008_P001_PAR001_SEN003,b37953406ccd311d503b764c5fc4d197933c033121b19bfa457935c491b451cb,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000008_CASE_NUMBER_002,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Case number from caption.,PRC number,
+GF-DC_000008-0002,GF-DC_000008-0002,DC_000008,COURT,IMPORTANT,IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR,"Junior Civil Judge, Chennur","IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G.",1,DC_000008_P001_PAR001,DC_000008_P001_PAR001_SEN001,b37953406ccd311d503b764c5fc4d197933c033121b19bfa457935c491b451cb,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000008_COURT_001,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Court from header.,Presiding court,
+GF-DC_000008-0003,GF-DC_000008-0003,DC_000008,PARTIES,CRITICAL,"The State of Telangana Rep.by
+SHO, Kotapalli",State of Telangana (SHO Kotapalli),"Between:-
+The State of Telangana Rep.by
+SHO, Kotapalli
+ ...",1,DC_000008_P001_PAR003,DC_000008_P001_PAR003_SEN001,b37953406ccd311d503b764c5fc4d197933c033121b19bfa457935c491b451cb,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000008_PARTIES_003,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Complainant from caption.,Complainant,
+GF-DC_000008-0004,GF-DC_000008-0004,DC_000008,PARTIES,CRITICAL,Praboina Rajanna,Praboina Rajanna,"Complainant
+AND
+Praboina Rajanna",1,DC_000008_P001_PAR003,DC_000008_P001_PAR003_SEN002,b37953406ccd311d503b764c5fc4d197933c033121b19bfa457935c491b451cb,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Sole accused named.,Accused,
+GF-DC_000008-0005,GF-DC_000008-0005,DC_000008,OFFICER,CONTEXTUAL,"Sri G. Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur.","Sri G. Uday Bhaskar Rao, JCJ Chennur","IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G.",1,DC_000008_P001_PAR001,DC_000008_P001_PAR001_SEN001,b37953406ccd311d503b764c5fc4d197933c033121b19bfa457935c491b451cb,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Judge from header.,Presiding judge,
+GF-DC_000008-0006,GF-DC_000008-0006,DC_000008,PROCEDURAL_ACTION,IMPORTANT,"Permission received from Honrable Prl.District and Sessions Judge Adilabad,
+by O.M.Dis.No. 1467/2018/crl dated 21-03-2018To enter in LPC Register",Permission to enter LPC Register per O.M.Dis.No.1467/2018/crl dt 21.03.2018,"DOCKET ORDER
+Permission received from Honrable Prl.District and Sessions Judge Adilabad,
+by O.M.Dis.No. 1467/2018/crl dated 21-03-2018To enter in LPC Register",1,DC_000008_P001_PAR005,DC_000008_P001_PAR005_SEN001,b37953406ccd311d503b764c5fc4d197933c033121b19bfa457935c491b451cb,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,LPC Register entry procedural action; substantive disposition is ABSENT_IN_SOURCE.,LPC Register entry order,
+GF-DC_000008-0007,GF-DC_000008-0007,DC_000008,DATE,IMPORTANT,"23rd day
+of March, 2018",23-Mar-2018,"Given under my hand and the seal of this court, on this the 23rd day
+of March, 2018.",1,DC_000008_P001_PAR006,DC_000008_P001_PAR006_SEN001,b37953406ccd311d503b764c5fc4d197933c033121b19bfa457935c491b451cb,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Date order signed.,Order date,
+GF-DC_000011-0001,GF-DC_000011-0001,DC_000011,CASE_NUMBER,CRITICAL,PRC NO. 38 OF 1998,PRC 38/1998,"JAYARAM REDDY
+JUDL.MAGISTRATE OF FIRST CLASS
+CHENNUR
+THURSDAY THIS THE 6TH DAY OF MARCH, 2014
+PRC NO. 38 OF 1998
+Between:-
+ State of A.P.",1,DC_000011_P001_PAR001,DC_000011_P001_PAR001_SEN002,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000011_CASE_NUMBER_002,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Case number from header.,PRC number,
+GF-DC_000011-0002,GF-DC_000011-0002,DC_000011,COURT,IMPORTANT,IN THE COURT OF JUDL MAGISTRATE ISTCLASS AT CHENNUR,"Judicial Magistrate of First Class, Chennur","1 PRC 38 OF 1998
+IN THE COURT OF JUDL MAGISTRATE ISTCLASS AT CHENNUR
+PRESENT: - Sri K.",1,DC_000011_P001_PAR001,DC_000011_P001_PAR001_SEN001,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000011_COURT_001,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Abbreviated OCR: JUDL MAGISTRATE ISTCLASS = Judicial Magistrate First Class.,Presiding court,OCR_SUSPECT
+GF-DC_000011-0003,GF-DC_000011-0003,DC_000011,OFFICER,CONTEXTUAL,"Sri K. JAYARAM REDDY
+JUDL.MAGISTRATE OF FIRST CLASS
+CHENNUR","Sri K. Jayaram Reddy, JMFC Chennur","1 PRC 38 OF 1998
+IN THE COURT OF JUDL MAGISTRATE ISTCLASS AT CHENNUR
+PRESENT: - Sri K.",1,DC_000011_P001_PAR001,DC_000011_P001_PAR001_SEN001,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Judge from header.,Presiding judge,
+GF-DC_000011-0004,GF-DC_000011-0004,DC_000011,DATE,IMPORTANT,"THURSDAY THIS THE 6TH DAY OF MARCH, 2014",06-Mar-2014,"JAYARAM REDDY
+JUDL.MAGISTRATE OF FIRST CLASS
+CHENNUR
+THURSDAY THIS THE 6TH DAY OF MARCH, 2014
+PRC NO. 38 OF 1998
+Between:-
+ State of A.P.",1,DC_000011_P001_PAR001,DC_000011_P001_PAR001_SEN002,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000011_DECISION_DATE_003,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Date of committal order.,Order date,
+GF-DC_000011-0005,GF-DC_000011-0005,DC_000011,PARTIES,CRITICAL,"State of A.P. through Circle Inspector
+ of Police, Chennur",State of A.P. (CI Chennur),"JAYARAM REDDY
+JUDL.MAGISTRATE OF FIRST CLASS
+CHENNUR
+THURSDAY THIS THE 6TH DAY OF MARCH, 2014
+PRC NO. 38 OF 1998
+Between:-
+ State of A.P.",1,DC_000011_P001_PAR001,DC_000011_P001_PAR001_SEN002,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Complainant prosecution (pre-bifurcation AP).,Complainant,
+GF-DC_000011-0006,GF-DC_000011-0006,DC_000011,PARTIES,CRITICAL,"A-8: Radhakka @ Kursinga Mothu Bai
+ @ Madavi @ Samithi, W/o Pulluri Prasada Rao
+ Age 46 years, R/o Pippalladara, Jainur Mandal
+ of Adilabad District.","Radhakka @ Kursinga Mothu Bai, W/o Pulluri Prasada Rao, age 46, Pippalladara, Adilabad","AND
+A-8: Radhakka @ Kursinga Mothu Bai
+ @ Madavi @ Samithi, W/o Pulluri Prasada Rao
+ Age 46 years, R/o Pippalladara, Jainur Mandal
+ of Adilabad District.",1,DC_000011_P001_PAR002,DC_000011_P001_PAR002_SEN001,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Full accused detail with aliases from caption.,Accused A-8,
+GF-DC_000011-0007,GF-DC_000011-0007,DC_000011,CHARGE,CRITICAL,"offence punishable U/s. 147, 148, 302 r/w 149 IPC","IPC s.147, 148, 302 r/w 149","The Circle Inspector of Police, Chennur has filed charge sheet in Cr.No.
+5/1993, PS Chennur for the offence punishable U/s.",1,DC_000011_P001_PAR004,DC_000011_P001_PAR004_SEN001,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000011_STATUTORY_SECTION_008,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Charges from charge sheet in Cr.No.5/1993.,IPC charges,
+GF-DC_000011-0008,GF-DC_000011-0008,DC_000011,CHARGE,CRITICAL,"section 25(1)(a), 27 of IA Act","Arms Act s.25(1)(a), 27","147, 148, 302 r/w 149 IPC
+and section 25(1)(a), 27 of IA Act against the accused.",1,DC_000011_P001_PAR004,DC_000011_P001_PAR004_SEN002,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000011_STATUTORY_SECTION_006,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Arms Act charges alongside IPC charges.,Arms Act charges,
+GF-DC_000011-0009,GF-DC_000011-0009,DC_000011,DATE,IMPORTANT,on 26.3.1993 at 11.00 p.m.,26-Mar-1993 23:00,"The brief facts of the case are that, the accused along with other extremists,
+who are belongs Extremists of Chennur Dalam (PWG) deter the deceased Bansilal
+from possession of Government land allotted to the deceased in which the
+deceased was transplanting Mango sapling under ITDA scheme, the accused
+warned the deceased Bansilal, but he did not head to their warnings and continued
+transplantation and on 26.3.1993 at 11.00 p.m.",1,DC_000011_P001_PAR004,DC_000011_P001_PAR004_SEN004,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Time and date of alleged murder of Bansilal.,Incident date,
+GF-DC_000011-0010,GF-DC_000011-0010,DC_000011,DISPOSITION,CRITICAL,"this case is
+committed to the Court of Sessions, Adilabad, U/s.209 (a) Cr.PC.",Committed to Sessions Court Adilabad u/s 209(a) CrPC,"Hence this case is
+committed to the Court of Sessions, Adilabad, U/s.209 (a) Cr.PC.",2,DC_000011_P002_PAR001,DC_000011_P002_PAR001_SEN012,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000011_DISPOSITION_021,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Substantive committal order under CrPC s.209(a) as homicide is exclusively triable by Sessions Court.,Committal order,
+GF-DC_000011-0011,GF-DC_000011-0011,DC_000011,BAIL_STATUS,CRITICAL,The accused is in Jail,Accused is in Jail (Judicial Custody),The accused is in Jail.,2,DC_000011_P002_PAR001,DC_000011_P002_PAR001_SEN014,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000011_BAIL_STATUS_022,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Explicit custody finding in committal order.,Custody status,
+GF-DC_000011-0012,GF-DC_000011-0012,DC_000011,PROCEDURAL_ACTION,IMPORTANT,"produce the accused before the Hon'ble District Court,
+Adilabad on 20.3.2014",Accused to be produced at Adilabad Sessions Court on 20-Mar-2014,"The Superintendent, Central Prison, Warangal
+is directed to produce the accused before the Hon'ble District Court,
+Adilabad on 20.3.2014
+8.",2,DC_000011_P002_PAR001,DC_000011_P002_PAR001_SEN015,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,INDEPENDENT_SOURCE_PASS,,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Date fixed for accused appearance at Sessions Court.,Production date at Sessions Court,
+GF-DC_000011-0013,GF-DC_000011-0013,DC_000011,PROCEDURAL_ACTION,IMPORTANT,"On 30.1.1996 case against A-1 to A-6, A-8 was split up from PRC 14/1995",Split from PRC 14/1995 on 30-Jan-1996,"On 30.1.1996 case against A-1 to A-6, A-8 was split up from PRC 14/1995.",2,DC_000011_P002_PAR001,DC_000011_P002_PAR001_SEN004,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000011_PROCEDURAL_ACTION_017,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Initial procedural split from original committal case.,Split from PRC 14/1995,
+GF-DC_000011-0014,GF-DC_000011-0014,DC_000011,PROCEDURAL_ACTION,IMPORTANT,"on 8.9.1998 case against A-1, A-3, A-5, A-6, A-8 was split up from PRC 6/1996 and
+numbered as PRC 38/1998","Split from PRC 6/1996 on 08-Sep-1998, renumbered PRC 38/1998","on 8.9.1998 case against A-1, A-3, A-5, A-6, A-8 was split up from PRC 6/1996 and
+numbered as PRC 38/1998 and issued section 82 CrPC proceedings.",2,DC_000011_P002_PAR001,DC_000011_P002_PAR001_SEN005,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000011_PROCEDURAL_ACTION_018,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Renumbering to PRC 38/1998 following further split.,Renumbered as PRC 38/1998,
+GF-DC_000011-0015,GF-DC_000011-0015,DC_000011,PROCEDURAL_ACTION,IMPORTANT,"On 21.2.2014 accused No.8 is produced on execution of PT Warrant and
+the case against other accused, who are involved in this offence was split up from
+PRC 38/1998 and numbered as PRC 8/2014",A-8 produced on PT Warrant 21-Feb-2014; co-accused split to PRC 8/2014,"On 21.2.2014 accused No.8 is produced on execution of PT Warrant and
+the case against other accused, who are involved in this offence was split up from
+PRC 38/1998 and numbered as PRC 8/2014 and the PRC 38/1998 shall run
+against the accused No.8 only.",2,DC_000011_P002_PAR001,DC_000011_P002_PAR001_SEN007,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b,GOLD_VERIFIED,PDF_VISUAL_PLUS_PHASE2,fact_ledger_v1.parquet,FACT_DC_000011_PROCEDURAL_ACTION_019,HUMAN_LEGAL_AUDITOR,2026-10-05T15:00:00Z,Final procedural split enabling individual committal of A-8.,PT Warrant execution and split PRC 8/2014,

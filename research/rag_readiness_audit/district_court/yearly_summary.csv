@@ -1,0 +1,7 @@
+decision_year,document_count,median_pages,median_words,mean_citations_per_1k,mean_legal_refs_per_1k,excellent_quality_pct
+1998,18,1.0,89.5,0.0,1.16,0.0
+2010,18,1.0,4.0,0.0,0.65,0.0
+2020,18,1.0,473.0,0.0,0.87,5.6
+2021,17,1.0,96.0,0.04,0.52,0.0
+2024,54,1.0,123.0,0.04,3.09,0.0
+2025,36,1.0,152.0,0.0,2.85,0.0

@@ -1,0 +1,171 @@
+{
+  "document_id": "DC_000111",
+  "source": {
+    "sha256": "868337d1d9db33f5714b5c3ac7d97c49fc2fda25264195fb227c4610d1b7951e",
+    "filename": "orders_2024_201700000192024_4.pdf",
+    "source_record_id": "DC-S3-111_27_1_1270001_2024_orders_2024_201700000192024_4",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 45143
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.9989
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1059,
+      "word_count": 149,
+      "raw_text": "6          M/s Floorex Tiles vs M/s Crystal Ceramic Industries\n  CS No. 19 of 2024\n      CNR NO. CHCH01-007863-2024\n  \nM/s Floorex Tiles    vs      M/s Crystal Ceramic Industries \nPresent: Sh. Subodh Walia, counsel for the applicant/plaintiff. \nArguments heard. \nVide separate order of even date  an application under Order\n23 rule 1 CPC alongwith order 7 rule 10 CPC, order 30 rule 7(2), Section\n16 of Court Fees Act etc filed by the applicant/plaintiff stands allowed.\nThe instant suit stands dismissed as withdrawn, with a permission to the\napplicant/plaintiff to file fresh suit on same cause of action. The original\ndocuments be returned to the applicant/plaintiff. Necessary certificate\nregarding refund of court fee be also issued. \nFile be consigned to the record room. \nPronounced in open Court\n    Ashwani Kumar,\n08.01.2025\n          ADJ-Cum-Presiding Judge\nCommercial Court, Chandigarh\n     HR01016\nAshwani Kumar,\nADJ-Cum-Presiding Judge\nCommercial Court, Chandigarh\nHR0106/08.01.2025\nSHALU\nDigitally\nsigned by\nSHALU\nDate:\n2025.01.09\n14:13:24\n+0530"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1012,
+      "word_count": 149,
+      "normalized_text": "6 M/s Floorex Tiles vs M/s Crystal Ceramic Industries\n CS No. 19 of 2024\n CNR NO. CHCH01-007863-2024\n\nM/s Floorex Tiles vs M/s Crystal Ceramic Industries\nPresent: Sh. Subodh Walia, counsel for the applicant/plaintiff.\nArguments heard.\nVide separate order of even date an application under Order\n23 rule 1 CPC alongwith order 7 rule 10 CPC, order 30 rule 7(2), Section\n16 of Court Fees Act etc filed by the applicant/plaintiff stands allowed.\nThe instant suit stands dismissed as withdrawn, with a permission to the\napplicant/plaintiff to file fresh suit on same cause of action. The original\ndocuments be returned to the applicant/plaintiff. Necessary certificate\nregarding refund of court fee be also issued.\nFile be consigned to the record room.\nPronounced in open Court\n Ashwani Kumar,\n08.01.2025\n ADJ-Cum-Presiding Judge\nCommercial Court, Chandigarh\n HR01016\nAshwani Kumar,\nADJ-Cum-Presiding Judge\nCommercial Court, Chandigarh\nHR0106/08.01.2025\nSHALU\nDigitally\nsigned by\nSHALU\nDate:\n2025.01.09\n14:13:24\n+0530"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 2,
+    "total_sentences": 9,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 1012,
+        "word_count": 149,
+        "paragraph_count": 2,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000111_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 100,
+            "word_count": 17,
+            "sentence_count": 1,
+            "text": "6 M/s Floorex Tiles vs M/s Crystal Ceramic Industries\n CS No. 19 of 2024\n CNR NO. CHCH01-007863-2024",
+            "sentences": [
+              {
+                "sentence_id": "DC_000111_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 100,
+                "word_count": 17,
+                "text": "6 M/s Floorex Tiles vs M/s Crystal Ceramic Industries\n CS No. 19 of 2024\n CNR NO. CHCH01-007863-2024"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000111_P001_PAR002",
+            "paragraph_index": 2,
+            "character_count": 910,
+            "word_count": 132,
+            "sentence_count": 8,
+            "text": "M/s Floorex Tiles vs M/s Crystal Ceramic Industries\nPresent: Sh. Subodh Walia, counsel for the applicant/plaintiff.\nArguments heard.\nVide separate order of even date an application under Order\n23 rule 1 CPC alongwith order 7 rule 10 CPC, order 30 rule 7(2), Section\n16 of Court Fees Act etc filed by the applicant/plaintiff stands allowed.\nThe instant suit stands dismissed as withdrawn, with a permission to the\napplicant/plaintiff to file fresh suit on same cause of action. The original\ndocuments be returned to the applicant/plaintiff. Necessary certificate\nregarding refund of court fee be also issued.\nFile be consigned to the record room.\nPronounced in open Court\n Ashwani Kumar,\n08.01.2025\n ADJ-Cum-Presiding Judge\nCommercial Court, Chandigarh\n HR01016\nAshwani Kumar,\nADJ-Cum-Presiding Judge\nCommercial Court, Chandigarh\nHR0106/08.01.2025\nSHALU\nDigitally\nsigned by\nSHALU\nDate:\n2025.01.09\n14:13:24\n+0530",
+            "sentences": [
+              {
+                "sentence_id": "DC_000111_P001_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 115,
+                "word_count": 16,
+                "text": "M/s Floorex Tiles vs M/s Crystal Ceramic Industries\nPresent: Sh. Subodh Walia, counsel for the applicant/plaintiff."
+              },
+              {
+                "sentence_id": "DC_000111_P001_PAR002_SEN002",
+                "sentence_index": 2,
+                "character_count": 16,
+                "word_count": 2,
+                "text": "Arguments heard."
+              },
+              {
+                "sentence_id": "DC_000111_P001_PAR002_SEN003",
+                "sentence_index": 3,
+                "character_count": 206,
+                "word_count": 37,
+                "text": "Vide separate order of even date an application under Order\n23 rule 1 CPC alongwith order 7 rule 10 CPC, order 30 rule 7(2), Section\n16 of Court Fees Act etc filed by the applicant/plaintiff stands allowed."
+              },
+              {
+                "sentence_id": "DC_000111_P001_PAR002_SEN004",
+                "sentence_index": 4,
+                "character_count": 136,
+                "word_count": 22,
+                "text": "The instant suit stands dismissed as withdrawn, with a permission to the\napplicant/plaintiff to file fresh suit on same cause of action."
+              },
+              {
+                "sentence_id": "DC_000111_P001_PAR002_SEN005",
+                "sentence_index": 5,
+                "character_count": 62,
+                "word_count": 8,
+                "text": "The original\ndocuments be returned to the applicant/plaintiff."
+              },
+              {
+                "sentence_id": "DC_000111_P001_PAR002_SEN006",
+                "sentence_index": 6,
+                "character_count": 67,
+                "word_count": 10,
+                "text": "Necessary certificate\nregarding refund of court fee be also issued."
+              },
+              {
+                "sentence_id": "DC_000111_P001_PAR002_SEN007",
+                "sentence_index": 7,
+                "character_count": 37,
+                "word_count": 7,
+                "text": "File be consigned to the record room."
+              },
+              {
+                "sentence_id": "DC_000111_P001_PAR002_SEN008",
+                "sentence_index": 8,
+                "character_count": 264,
+                "word_count": 30,
+                "text": "Pronounced in open Court\n Ashwani Kumar,\n08.01.2025\n ADJ-Cum-Presiding Judge\nCommercial Court, Chandigarh\n HR01016\nAshwani Kumar,\nADJ-Cum-Presiding Judge\nCommercial Court, Chandigarh\nHR0106/08.01.2025\nSHALU\nDigitally\nsigned by\nSHALU\nDate:\n2025.01.09\n14:13:24\n+0530"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 27,
+    "state_name": "Chandigarh",
+    "district_code": 1,
+    "district_name": "Chandigarh",
+    "court_complex_code": 1270001,
+    "court_complex_name": "District Court, Chandigarh",
+    "year": 2024,
+    "case_type": "nan",
+    "case_number": "201700000192024",
+    "pdf_title": "JUDGMENT",
+    "pdf_author": "",
+    "pdf_creator": "Writer",
+    "pdf_producer": "GPL Ghostscript 10.06.0",
+    "pdf_creation_date": "D:20260330034106+05'30'",
+    "pdf_mod_date": "D:20260330034106+05'30'"
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.9989,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "868337d1d9db33f5714b5c3ac7d97c49fc2fda25264195fb227c4610d1b7951e",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.402022"
+  }
+}

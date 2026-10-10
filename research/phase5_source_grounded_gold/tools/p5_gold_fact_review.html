@@ -1,0 +1,2331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vidhik Phase 5 - Source-Grounded Legal Fact Gold Reviewer</title>
+    <style>
+        :root {
+            --bg: #0f172a;
+            --surface: #1e293b;
+            --border: #334155;
+            --text: #f8fafc;
+            --muted: #94a3b8;
+            --primary: #38bdf8;
+            --gold: #10b981;
+            --rejected: #f43f5e;
+            --duplicate: #f59e0b;
+            --critical: #ef4444;
+            --important: #3b82f6;
+            --contextual: #64748b;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 24px;
+        }
+        header {
+            margin-bottom: 24px;
+            padding-bottom: 16px;
+            border-bottom: 1px solid var(--border);
+        }
+        h1 { margin: 0 0 8px 0; font-size: 24px; color: var(--primary); }
+        p.subtitle { margin: 0; color: var(--muted); font-size: 14px; }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 16px;
+            margin: 20px 0;
+        }
+        .stat-card {
+            background: var(--surface);
+            padding: 16px;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+        }
+        .stat-val { font-size: 24px; font-weight: bold; color: var(--text); }
+        .stat-lbl { font-size: 12px; color: var(--muted); text-transform: uppercase; margin-top: 4px; }
+        .controls {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            margin-bottom: 16px;
+            background: var(--surface);
+            padding: 12px;
+            border-radius: 8px;
+        }
+        select, input {
+            background: #0f172a;
+            border: 1px solid var(--border);
+            color: var(--text);
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-size: 13px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 13px;
+            background: var(--surface);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        th, td {
+            padding: 10px 12px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+            vertical-align: top;
+        }
+        th { background: #1e293b; color: var(--muted); font-weight: 600; text-transform: uppercase; font-size: 11px; }
+        tr:hover { background: rgba(255,255,255,0.02); }
+        .badge {
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 10px;
+            font-weight: 700;
+        }
+        .crit-critical { color: #fca5a5; background: rgba(239, 68, 68, 0.2); }
+        .crit-important { color: #93c5fd; background: rgba(59, 130, 246, 0.2); }
+        .crit-contextual { color: #cbd5e1; background: rgba(100, 116, 139, 0.2); }
+        .cat-pill {
+            background: #334155;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 500;
+        }
+        .status-pill {
+            padding: 3px 8px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 600;
+        }
+        .status-gold { color: #6ee7b7; background: rgba(16, 185, 129, 0.2); }
+        .status-rej { color: #fda4af; background: rgba(244, 63, 94, 0.2); }
+        .status-dup { color: #fde68a; background: rgba(245, 158, 11, 0.2); }
+        .source-val { font-family: monospace; font-size: 12px; max-width: 180px; word-break: break-word; }
+        .source-text { font-size: 12px; max-width: 280px; color: #cbd5e1; }
+        .notes { font-size: 12px; max-width: 220px; color: #94a3b8; }
+        code { font-size: 11px; color: var(--primary); }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Vidhik Phase 5: Legal Fact Gold Set Reviewer</h1>
+        <p class="subtitle">Auditable, Source-Grounded Legal Facts for the 9-Document Benchmark (45 Model Summaries)</p>
+    </header>
+
+    <div class="stats">
+        <div class="stat-card">
+            <div class="stat-val">85</div>
+            <div class="stat-lbl">Gold Verified Facts</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-val">38</div>
+            <div class="stat-lbl">Critical Facts</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-val">41</div>
+            <div class="stat-lbl">Rejected / Duplicate Candidates</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-val">37</div>
+            <div class="stat-lbl">Newly Discovered Facts</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-val">100%</div>
+            <div class="stat-lbl">Provenance Resolved</div>
+        </div>
+    </div>
+
+    <div class="controls">
+        <input type="text" id="searchBox" placeholder="Search text, party, case..." onkeyup="filterRows()">
+        <select id="docFilter" onchange="filterRows()">
+            <option value="">All Documents (9)</option>
+            <option value="DC_000001">DC_000001</option><option value="DC_000002">DC_000002</option><option value="DC_000003">DC_000003</option><option value="DC_000004">DC_000004</option><option value="DC_000005">DC_000005</option><option value="DC_000006">DC_000006</option><option value="DC_000007">DC_000007</option><option value="DC_000008">DC_000008</option><option value="DC_000011">DC_000011</option>
+        </select>
+        <select id="critFilter" onchange="filterRows()">
+            <option value="">All Criticalities</option>
+            <option value="CRITICAL">CRITICAL</option>
+            <option value="IMPORTANT">IMPORTANT</option>
+            <option value="CONTEXTUAL">CONTEXTUAL</option>
+        </select>
+        <select id="statusFilter" onchange="filterRows()">
+            <option value="">All Review Statuses</option>
+            <option value="GOLD_VERIFIED">GOLD_VERIFIED</option>
+            <option value="REJECTED_CANDIDATE">REJECTED_CANDIDATE</option>
+            <option value="DUPLICATE_OF_FACT">DUPLICATE_OF_FACT</option>
+        </select>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Doc ID</th>
+                <th>Fact ID</th>
+                <th>Criticality</th>
+                <th>Category</th>
+                <th>Candidate / Source Value</th>
+                <th>Page</th>
+                <th>Sentence ID</th>
+                <th>Source Text (Phase 2 Provenance)</th>
+                <th>Normalized Gold Value</th>
+                <th>Status</th>
+                <th>Auditor Notes</th>
+            </tr>
+        </thead>
+        <tbody id="factsBody">
+            
+        <tr class="status-gold crit-critical" data-doc="DC_000001" data-cat="CASE_NUMBER" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000001</strong></td>
+            <td><code>FACT_DC_000001_CASE_NUMBER_002</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">CASE_NUMBER</span></td>
+            <td class="source-val">202100001791998</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000001_P001_PAR001_SEN002</code></td>
+            <td class="source-text">CC.</td>
+            <td><strong>CC 179/1998</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Case number split across OCR lines; normalized to CC 179/1998.</td>
+        </tr>
+        
+        <tr class="status-rej crit-critical" data-doc="DC_000001" data-cat="DISPOSITION" data-status="REJECTED_CANDIDATE" data-crit="CRITICAL">
+            <td><strong>DC_000001</strong></td>
+            <td><code>FACT_DC_000001_DISPOSITION_008</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">DISPOSITION</span></td>
+            <td class="source-val">District and Sessions Judge, Adilabad vide Proc.Dis.No.5555/2017/Admn,
+dated.3.8.2017 this case is transferred to I Addl.JFCM, Mancherial.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000001_P001_PAR006_SEN003</code></td>
+            <td class="source-text">District and Sessions Judge, Adilabad vide Proc.Dis.No.5555/2017/Admn,
+dated.3.8.2017 this case is transferred to I Addl.JFCM, Mancherial.</td>
+            <td><strong>transferred</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[ADMINISTRATIVE_TRANSFER_NOT_DISPOSITION] Administrative transfer docket action; substantive judicial disposition ABSENT_IN_SOURCE.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000001" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000001</strong></td>
+            <td><code>FACT_DC_000001_PARTIES_004</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">Between:-
+The State of Telangana through the
+Sub-Inspector of police, Srirampur
+ ...</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000001_P001_PAR005_SEN001</code></td>
+            <td class="source-text">Between:-
+The State of Telangana through the
+Sub-Inspector of police, Srirampur
+ ...</td>
+            <td><strong>State of Telangana (SHO Srirampur)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Complainant prosecution identified on p.1.</td>
+        </tr>
+        
+        <tr class="status-rej crit-critical" data-doc="DC_000001" data-cat="PARTIES" data-status="REJECTED_CANDIDATE" data-crit="CRITICAL">
+            <td><strong>DC_000001</strong></td>
+            <td><code>FACT_DC_000001_PARTIES_005</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">...Accused
+DOCKET ORDER
+This case is suo-moto advanced to this day.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000001_P001_PAR006_SEN001</code></td>
+            <td class="source-text">...Accused
+DOCKET ORDER
+This case is suo-moto advanced to this day.</td>
+            <td><strong>Accused
+DOCKET ORDER
+This case is suo moto advanced to this day</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000001" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000001</strong></td>
+            <td><code>GF-DC_000001-0004</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000001_P001_PAR005_SEN002</code></td>
+            <td class="source-text">Complainant
+AND
+Bodduna Rajamallu</td>
+            <td><strong>Bodduna Rajamallu</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Sole accused named in caption (machine extraction had captured docket order text).</td>
+        </tr>
+        
+        <tr class="status-rej crit-critical" data-doc="DC_000001" data-cat="RELIEF" data-status="REJECTED_CANDIDATE" data-crit="CRITICAL">
+            <td><strong>DC_000001</strong></td>
+            <td><code>FACT_DC_000001_RELIEF_009</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">RELIEF</span></td>
+            <td class="source-val">District and Sessions Judge, Adilabad vide Proc.Dis.No.5555/2017/Admn,
+dated.3.8.2017 this case is transferred to I Addl.JFCM, Mancherial.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000001_P001_PAR006_SEN003</code></td>
+            <td class="source-text">District and Sessions Judge, Adilabad vide Proc.Dis.No.5555/2017/Admn,
+dated.3.8.2017 this case is transferred to I Addl.JFCM, Mancherial.</td>
+            <td><strong>District and Sessions Judge, Adilabad vide Proc.Dis.No.5555/2017/Admn,
+dated.3.8.2017 this case is t</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[MISCLASSIFIED_PROCEDURAL_TEXT] Transfer proceedings reference misclassified as relief.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000001" data-cat="COURT" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000001</strong></td>
+            <td><code>FACT_DC_000001_COURT_001</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">COURT</span></td>
+            <td class="source-val">Chennur, JCJ Court Complex</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000001_P001_PAR001_SEN001</code></td>
+            <td class="source-text">IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur.</td>
+            <td><strong>Junior Civil Judge, Chennur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Court name from document header.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000001" data-cat="DECISION_DATE" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000001</strong></td>
+            <td><code>FACT_DC_000001_DECISION_DATE_003</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">DECISION_DATE</span></td>
+            <td class="source-val">Given under my hand and the seal of this court, on this the 8th day of
+August, 2017.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000001_P001_PAR007_SEN001</code></td>
+            <td class="source-text">Given under my hand and the seal of this court, on this the 8th day of
+August, 2017.</td>
+            <td><strong>08-Aug-2017</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Date docket order signed.</td>
+        </tr>
+        
+        <tr class="status-dup crit-important" data-doc="DC_000001" data-cat="PROCEDURAL_ACTION" data-status="DUPLICATE_OF_FACT" data-crit="IMPORTANT">
+            <td><strong>DC_000001</strong></td>
+            <td><code>FACT_DC_000001_PROCEDURAL_ACTION_006</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">...Accused
+DOCKET ORDER
+This case is suo-moto advanced to this day.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000001_P001_PAR006_SEN001</code></td>
+            <td class="source-text">...Accused
+DOCKET ORDER
+This case is suo-moto advanced to this day.</td>
+            <td><strong>SUO-MOTO_ADVANCED</strong></td>
+            <td><span class="status-pill status-dup">DUPLICATE_OF_FACT</span></td>
+            <td class="notes">[REDUNDANT_DUPLICATE_EXTRACTION] Redundant multiple extraction of identical procedural milestone or section citation.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000001" data-cat="PROCEDURAL_ACTION" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000001</strong></td>
+            <td><code>FACT_DC_000001_PROCEDURAL_ACTION_007</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">District and Sessions Judge, Adilabad vide Proc.Dis.No.5555/2017/Admn,
+dated.3.8.2017 this case is transferred to I Addl.JFCM, Mancherial.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000001_P001_PAR006_SEN003</code></td>
+            <td class="source-text">District and Sessions Judge, Adilabad vide Proc.Dis.No.5555/2017/Admn,
+dated.3.8.2017 this case is transferred to I Addl.JFCM, Mancherial.</td>
+            <td><strong>Transferred to I Addl.JFCM Mancherial</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Administrative transfer per administrative circular. Reclassified from candidate DISPOSITION to PROCEDURAL_ACTION; substantive trial disposition is ABSENT_IN_SOURCE.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000001" data-cat="PROCEDURAL_ACTION" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000001</strong></td>
+            <td><code>GF-DC_000001-0008</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000001_P001_PAR006_SEN001</code></td>
+            <td class="source-text">...Accused
+DOCKET ORDER
+This case is suo-moto advanced to this day.</td>
+            <td><strong>Proc.Dis.No.5555/2017/Admn dt 3.8.2017</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Reference to administrative circular ordering the transfer.</td>
+        </tr>
+        
+        <tr class="status-gold crit-contextual" data-doc="DC_000001" data-cat="OFFICER" data-status="GOLD_VERIFIED" data-crit="CONTEXTUAL">
+            <td><strong>DC_000001</strong></td>
+            <td><code>GF-DC_000001-0005</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">OFFICER</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000001_P001_PAR001_SEN001</code></td>
+            <td class="source-text">IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur.</td>
+            <td><strong>Sri Uday Bhaskar Rao, JCJ Chennur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Judge name from header.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000002" data-cat="CASE_NUMBER" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000002</strong></td>
+            <td><code>FACT_DC_000002_CASE_NUMBER_002</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">CASE_NUMBER</span></td>
+            <td class="source-val">202100001651998</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000002_P001_PAR001_SEN003</code></td>
+            <td class="source-text">CC.</td>
+            <td><strong>CC 165/1998</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Case number from caption.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000002" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000002</strong></td>
+            <td><code>FACT_DC_000002_PARTIES_004</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">Between:-
+The State of Telangana Rep.by
+SHO, Kotapally.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000002_P001_PAR003_SEN001</code></td>
+            <td class="source-text">Between:-
+The State of Telangana Rep.by
+SHO, Kotapally.</td>
+            <td><strong>State of Telangana (SHO Kotapally)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Complainant as named in caption.</td>
+        </tr>
+        
+        <tr class="status-rej crit-critical" data-doc="DC_000002" data-cat="PARTIES" data-status="REJECTED_CANDIDATE" data-crit="CRITICAL">
+            <td><strong>DC_000002</strong></td>
+            <td><code>FACT_DC_000002_PARTIES_005</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">Accused</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000002_P001_PAR004_SEN002</code></td>
+            <td class="source-text">Accused</td>
+            <td><strong>Accused</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[DOCKET_HEADER_NOT_PARTY] Docket order header text or generic label masquerading as party name.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000002" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000002</strong></td>
+            <td><code>GF-DC_000002-0004</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000002_P001_PAR003_SEN003</code></td>
+            <td class="source-text">Complainant
+AND
+Tallapalli Sagar</td>
+            <td><strong>Tallapalli Sagar</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Sole accused named in caption (machine extraction had captured bare word "Accused").</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000002" data-cat="COURT" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000002</strong></td>
+            <td><code>FACT_DC_000002_COURT_001</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">COURT</span></td>
+            <td class="source-val">Chennur, JCJ Court Complex</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000002_P001_PAR001_SEN001</code></td>
+            <td class="source-text">IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G.</td>
+            <td><strong>Junior Civil Judge, Chennur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Court name from header.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000002" data-cat="DECISION_DATE" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000002</strong></td>
+            <td><code>FACT_DC_000002_DECISION_DATE_003</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">DECISION_DATE</span></td>
+            <td class="source-val">Given under my hand and the seal of this court, on this the 13th day of
+March, 2018.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000002_P001_PAR006_SEN001</code></td>
+            <td class="source-text">Given under my hand and the seal of this court, on this the 13th day of
+March, 2018.</td>
+            <td><strong>13-Mar-2018</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Date docket order was issued.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000002" data-cat="PROCEDURAL_ACTION" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000002</strong></td>
+            <td><code>GF-DC_000002-0006</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000002_P001_PAR005_SEN001</code></td>
+            <td class="source-text">DOCKET ORDER
+Permission received from Honrable District and Session's Judge Adilabad, by
+O.M.Dis.No. 1099/2018/crl dated 07.03.2018 To enter in LPC Register</td>
+            <td><strong>Permission to enter LPC Register per O.M.Dis.No.1099/2018/crl dt 07.03.2018</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Administrative entry into Long Pending Case Register per High Court/Sessions circular; substantive disposition on merits is ABSENT_IN_SOURCE.</td>
+        </tr>
+        
+        <tr class="status-gold crit-contextual" data-doc="DC_000002" data-cat="OFFICER" data-status="GOLD_VERIFIED" data-crit="CONTEXTUAL">
+            <td><strong>DC_000002</strong></td>
+            <td><code>GF-DC_000002-0005</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">OFFICER</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000002_P001_PAR001_SEN001</code></td>
+            <td class="source-text">IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G.</td>
+            <td><strong>Sri G. Uday Bhaskar Rao, JCJ Chennur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Judge name from header.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000003" data-cat="CASE_NUMBER" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000003</strong></td>
+            <td><code>FACT_DC_000003_CASE_NUMBER_002</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">CASE_NUMBER</span></td>
+            <td class="source-val">202100001361998</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000003_P001_PAR001_SEN002</code></td>
+            <td class="source-text">CC.</td>
+            <td><strong>CC 136/1998</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Case number from caption.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000003" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000003</strong></td>
+            <td><code>FACT_DC_000003_PARTIES_004</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">Between:-
+The State of Telangana Rep.by
+Sub-Inspector of Police, Neelwai
+ ...</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000003_P001_PAR003_SEN001</code></td>
+            <td class="source-text">Between:-
+The State of Telangana Rep.by
+Sub-Inspector of Police, Neelwai
+ ...</td>
+            <td><strong>State of Telangana (SI Neelwai)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Complainant from caption.</td>
+        </tr>
+        
+        <tr class="status-rej crit-critical" data-doc="DC_000003" data-cat="PARTIES" data-status="REJECTED_CANDIDATE" data-crit="CRITICAL">
+            <td><strong>DC_000003</strong></td>
+            <td><code>FACT_DC_000003_PARTIES_005</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">...Accused</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000003_P001_PAR004_SEN001</code></td>
+            <td class="source-text">...Accused</td>
+            <td><strong>Accused</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000003" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000003</strong></td>
+            <td><code>GF-DC_000003-0004</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000003_P001_PAR003_SEN002</code></td>
+            <td class="source-text">Complainant
+AND
+Satwaji @ Sudhakaranna and others</td>
+            <td><strong>Satwaji @ Sudhakaranna (and others)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Lead accused and unnamed co-accused.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000003" data-cat="COURT" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000003</strong></td>
+            <td><code>FACT_DC_000003_COURT_001</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">COURT</span></td>
+            <td class="source-val">Chennur, JCJ Court Complex</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000003_P001_PAR001_SEN001</code></td>
+            <td class="source-text">IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Smt. Shaik Rehana
+ Junior Civil Judge,
+ Chennur.</td>
+            <td><strong>Junior Civil Judge, Chennur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Court name from header.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000003" data-cat="DECISION_DATE" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000003</strong></td>
+            <td><code>FACT_DC_000003_DECISION_DATE_003</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">DECISION_DATE</span></td>
+            <td class="source-val">DOCKET ORDER
+Permission received from Honrable District and Session's Judge Adilabad, by
+O.M.Dis.No. 1044/2018/crl dated 07.03.2018 To enter in LPC Register</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000003_P001_PAR006_SEN001</code></td>
+            <td class="source-text">Given under my hand and the seal of this court, on this the 13th day
+of March, 2018.</td>
+            <td><strong>13-Mar-2018</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Date docket order signed.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000003" data-cat="PROCEDURAL_ACTION" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000003</strong></td>
+            <td><code>GF-DC_000003-0006</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000003_P001_PAR005_SEN001</code></td>
+            <td class="source-text">DOCKET ORDER
+Permission received from Honrable District and Session's Judge Adilabad, by
+O.M.Dis.No. 1044/2018/crl dated 07.03.2018 To enter in LPC Register</td>
+            <td><strong>Permission to enter LPC Register per O.M.Dis.No.1044/2018/crl dt 07.03.2018</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Procedural entry into LPC register; substantive disposition is ABSENT_IN_SOURCE.</td>
+        </tr>
+        
+        <tr class="status-gold crit-contextual" data-doc="DC_000003" data-cat="OFFICER" data-status="GOLD_VERIFIED" data-crit="CONTEXTUAL">
+            <td><strong>DC_000003</strong></td>
+            <td><code>GF-DC_000003-0005</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">OFFICER</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000003_P001_PAR001_SEN001</code></td>
+            <td class="source-text">IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Smt. Shaik Rehana
+ Junior Civil Judge,
+ Chennur.</td>
+            <td><strong>Smt. Shaik Rehana, JCJ Chennur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Judge name from header.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000004" data-cat="CASE_NUMBER" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000004</strong></td>
+            <td><code>FACT_DC_000004_CASE_NUMBER_002</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">CASE_NUMBER</span></td>
+            <td class="source-val">202100001351998</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000004_P001_PAR001_SEN003</code></td>
+            <td class="source-text">CC.</td>
+            <td><strong>CC 135/1998</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Case number from caption.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000004" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000004</strong></td>
+            <td><code>FACT_DC_000004_PARTIES_004</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">Between:-
+The State of Telangana Rep.by
+Sub-Inspector of police, Kotapally
+ ...</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000004_P001_PAR003_SEN001</code></td>
+            <td class="source-text">Between:-
+The State of Telangana Rep.by
+Sub-Inspector of police, Kotapally
+ ...</td>
+            <td><strong>State of Telangana (SI Kotapally)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Complainant from caption.</td>
+        </tr>
+        
+        <tr class="status-rej crit-critical" data-doc="DC_000004" data-cat="PARTIES" data-status="REJECTED_CANDIDATE" data-crit="CRITICAL">
+            <td><strong>DC_000004</strong></td>
+            <td><code>FACT_DC_000004_PARTIES_005</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">Accused</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000004_P001_PAR004_SEN002</code></td>
+            <td class="source-text">Accused</td>
+            <td><strong>Accused</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[DOCKET_HEADER_NOT_PARTY] Docket order header text or generic label masquerading as party name.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000004" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000004</strong></td>
+            <td><code>GF-DC_000004-0004</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000004_P001_PAR003_SEN002</code></td>
+            <td class="source-text">Complainant
+AND
+Jangelli Ganganna @ Narayana</td>
+            <td><strong>Jangelli Ganganna @ Narayana</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Sole accused named.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000004" data-cat="COURT" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000004</strong></td>
+            <td><code>FACT_DC_000004_COURT_001</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">COURT</span></td>
+            <td class="source-val">Chennur, JCJ Court Complex</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000004_P001_PAR001_SEN001</code></td>
+            <td class="source-text">IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G.</td>
+            <td><strong>Junior Civil Judge, Chennur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Court from header.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000004" data-cat="DECISION_DATE" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000004</strong></td>
+            <td><code>FACT_DC_000004_DECISION_DATE_003</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">DECISION_DATE</span></td>
+            <td class="source-val">Given under my hand and the seal of this court, on this the 13th day of
+March, 2018.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000004_P001_PAR006_SEN001</code></td>
+            <td class="source-text">Given under my hand and the seal of this court, on this the 13th day of
+March, 2018.</td>
+            <td><strong>13-Mar-2018</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Date docket order signed.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000004" data-cat="PROCEDURAL_ACTION" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000004</strong></td>
+            <td><code>GF-DC_000004-0006</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000004_P001_PAR005_SEN001</code></td>
+            <td class="source-text">DOCKET ORDER
+Permission received from Hon'ble District and Session's Judge Adilabad, by
+O.M.Dis.No. 1105/2018/crl dated 07.03.2018 To enter in LPC Register</td>
+            <td><strong>Permission to enter LPC Register per O.M.Dis.No.1105/2018/crl dt 07.03.2018</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] LPC Register entry procedural action; substantive disposition is ABSENT_IN_SOURCE.</td>
+        </tr>
+        
+        <tr class="status-gold crit-contextual" data-doc="DC_000004" data-cat="OFFICER" data-status="GOLD_VERIFIED" data-crit="CONTEXTUAL">
+            <td><strong>DC_000004</strong></td>
+            <td><code>GF-DC_000004-0005</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">OFFICER</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000004_P001_PAR001_SEN001</code></td>
+            <td class="source-text">IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G.</td>
+            <td><strong>Sri G. Uday Bhaskar Rao, JCJ Chennur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Judge from header.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000005" data-cat="CASE_NUMBER" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000005</strong></td>
+            <td><code>FACT_DC_000005_CASE_NUMBER_002</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">CASE_NUMBER</span></td>
+            <td class="source-val">202100001341998</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000005_P001_PAR001_SEN002</code></td>
+            <td class="source-text">CC.</td>
+            <td><strong>CC 134/1998</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Number split across OCR paragraphs; combined as CC 134/1998.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000005" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000005</strong></td>
+            <td><code>FACT_DC_000005_PARTIES_004</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">Between:-
+The State of Telangana through the
+Sub-Inspector of police, Kotapally
+ ...</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000005_P001_PAR005_SEN001</code></td>
+            <td class="source-text">Between:-
+The State of Telangana through the
+Sub-Inspector of police, Kotapally
+ ...</td>
+            <td><strong>State of Telangana (SI Kotapally)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Complainant from caption.</td>
+        </tr>
+        
+        <tr class="status-rej crit-critical" data-doc="DC_000005" data-cat="PARTIES" data-status="REJECTED_CANDIDATE" data-crit="CRITICAL">
+            <td><strong>DC_000005</strong></td>
+            <td><code>FACT_DC_000005_PARTIES_005</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">...Accused
+DOCKET ORDER
+Permission received from Hon'ble District and Session's Judge, Adilabad, by
+O.M.Dis.No. 1102/2018/Crl, dated 07.03.2018 to enter in LPC Register</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000005_P001_PAR006_SEN001</code></td>
+            <td class="source-text">...Accused
+DOCKET ORDER
+Permission received from Hon'ble District and Session's Judge, Adilabad, by
+O.M.Dis.No. 1102/2018/Crl, dated 07.03.2018 to enter in LPC Register</td>
+            <td><strong>Accused
+DOCKET ORDER
+Permission received from Hon'ble District and Session's Judge, Adilabad, by
+O M Dis No  1102/2018/Crl, dated 07 03 2018 to enter in LPC Register</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000005" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000005</strong></td>
+            <td><code>GF-DC_000005-0004</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000005_P001_PAR005_SEN002</code></td>
+            <td class="source-text">Complainant
+AND
+Golla Rajam</td>
+            <td><strong>Golla Rajam</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Sole accused named.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000005" data-cat="COURT" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000005</strong></td>
+            <td><code>FACT_DC_000005_COURT_001</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">COURT</span></td>
+            <td class="source-val">Chennur, JCJ Court Complex</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000005_P001_PAR001_SEN001</code></td>
+            <td class="source-text">IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur.</td>
+            <td><strong>Junior Civil Judge, Chennur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Court from header.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000005" data-cat="DECISION_DATE" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000005</strong></td>
+            <td><code>FACT_DC_000005_DECISION_DATE_003</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">DECISION_DATE</span></td>
+            <td class="source-val">Given under my hand and the seal of this court, on this the 13th day of
+March, 2018.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000005_P001_PAR007_SEN001</code></td>
+            <td class="source-text">Given under my hand and the seal of this court, on this the 13th day of
+March, 2018.</td>
+            <td><strong>13-Mar-2018</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Date order signed.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000005" data-cat="PROCEDURAL_ACTION" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000005</strong></td>
+            <td><code>GF-DC_000005-0006</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000005_P001_PAR006_SEN001</code></td>
+            <td class="source-text">...Accused
+DOCKET ORDER
+Permission received from Hon'ble District and Session's Judge, Adilabad, by
+O.M.Dis.No. 1102/2018/Crl, dated 07.03.2018 to enter in LPC Register</td>
+            <td><strong>Permission to enter LPC Register per O.M.Dis.No.1102/2018/Crl dt 07.03.2018</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] LPC Register entry procedural action; substantive disposition is ABSENT_IN_SOURCE.</td>
+        </tr>
+        
+        <tr class="status-gold crit-contextual" data-doc="DC_000005" data-cat="OFFICER" data-status="GOLD_VERIFIED" data-crit="CONTEXTUAL">
+            <td><strong>DC_000005</strong></td>
+            <td><code>GF-DC_000005-0005</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">OFFICER</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000005_P001_PAR001_SEN001</code></td>
+            <td class="source-text">IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur.</td>
+            <td><strong>Sri Uday Bhaskar Rao, JCJ Chennur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Judge from header.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000006" data-cat="BAIL_STATUS" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_BAIL_STATUS_027</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">BAIL_STATUS</span></td>
+            <td class="source-val">A-8 is in judicial custody, she shall be set at liberty
+forthwith unless he is not required in any other case.</td>
+            <td>p.5</td>
+            <td class="sentence-id"><code>DC_000006_P005_PAR001_SEN002</code></td>
+            <td class="source-text">A-8 is in judicial custody, she shall be set at liberty
+forthwith unless he is not required in any other case.</td>
+            <td><strong>A-8 in judicial custody (set at liberty upon acquittal)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Pre-verdict custody status verified on p.5.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000006" data-cat="CASE_NUMBER" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_CASE_NUMBER_002</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">CASE_NUMBER</span></td>
+            <td class="source-val">C.C.No. 132 of 1998</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000006_P001_PAR001_SEN002</code></td>
+            <td class="source-text">MONDAY THE 15TH DAY OF SEPTEMBER,, 2014
+C.C.No. 132 of 1998
+Between:-
+The State through the Sub-Inspector
+of Police, P.S.</td>
+            <td><strong>CC 132/1998</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Case number from body of judgment.</td>
+        </tr>
+        
+        <tr class="status-rej crit-critical" data-doc="DC_000006" data-cat="CHARGE" data-status="REJECTED_CANDIDATE" data-crit="CRITICAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_CHARGE_021</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">CHARGE</span></td>
+            <td class="source-val">From the
+facts and evidence collected in the investigation it is established that A-1 to A-10
+committed the offence punishable under section 147, 148, 427 r/w 149 IPC.</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000006_P002_PAR001_SEN017</code></td>
+            <td class="source-text">From the
+facts and evidence collected in the investigation it is established that A-1 to A-10
+committed the offence punishable under section 147, 148, 427 r/w 149 IPC.</td>
+            <td><strong>From the
+facts and evidence collected in the investigation it is established that A-1 to A-10
+commit</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000006" data-cat="DISPOSITION" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>GF-DC_000006-0011</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">DISPOSITION</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000006_P002_PAR001_SEN024</code></td>
+            <td class="source-text">On 8.1.1999 the
+case against A-4 is acquitted.</td>
+            <td><strong>A-4 acquitted on 08-Jan-1999</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Prior co-accused acquittal recorded in procedural history.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000006" data-cat="DISPOSITION" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_DISPOSITION_025</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">DISPOSITION</span></td>
+            <td class="source-val">5 CC 132 OF 1998
+under section 147, 148, 427 r/w 149 IPC and she is acquitted for the same
+under section 248(1) CrPC.</td>
+            <td>p.5</td>
+            <td class="sentence-id"><code>DC_000006_P005_PAR001_SEN001</code></td>
+            <td class="source-text">5 CC 132 OF 1998
+under section 147, 148, 427 r/w 149 IPC and she is acquitted for the same
+under section 248(1) CrPC.</td>
+            <td><strong>A-8 Acquitted under Sec. 248(1) Cr.P.C.</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Substantive judgment verdict under Cr.P.C.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000006" data-cat="JUDICIAL_FINDING" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_JUDICIAL_FINDING_023</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">JUDICIAL_FINDING</span></td>
+            <td class="source-val">The
+evidence on record does not show anything as PW-1 has not stated anything
+against A-8, So the prosecution has failed to prove the guilt of A-8 for the
+offences punishable under section 147, 148, 427 r/w 149 IPC beyond all
+reasonable doubt and the accused is entitled under benefit of doubt.</td>
+            <td>p.4</td>
+            <td class="sentence-id"><code>DC_000006_P004_PAR001_SEN020</code></td>
+            <td class="source-text">The
+evidence on record does not show anything as PW-1 has not stated anything
+against A-8, So the prosecution has failed to prove the guilt of A-8 for the
+offences punishable under section 147, 148, 427 r/w 149 IPC beyond all
+reasonable doubt and the accused is entitled under benefit of doubt.</td>
+            <td><strong>Prosecution failed to prove guilt of A-8 beyond reasonable doubt</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Core substantive finding on merits distinct from disposition.</td>
+        </tr>
+        
+        <tr class="status-dup crit-critical" data-doc="DC_000006" data-cat="JUDICIAL_FINDING" data-status="DUPLICATE_OF_FACT" data-crit="CRITICAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_JUDICIAL_FINDING_024</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">JUDICIAL_FINDING</span></td>
+            <td class="source-val">In the result, the accused 8 is found not guilty for the offence punishable</td>
+            <td>p.4</td>
+            <td class="sentence-id"><code>DC_000006_P004_PAR001_SEN022</code></td>
+            <td class="source-text">In the result, the accused 8 is found not guilty for the offence punishable</td>
+            <td><strong>In the result, the accused 8 is found not guilty for the offence punishable</strong></td>
+            <td><span class="status-pill status-dup">DUPLICATE_OF_FACT</span></td>
+            <td class="notes">[REDUNDANT_DUPLICATE_EXTRACTION] Redundant multiple extraction of identical procedural milestone or section citation.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000006" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_PARTIES_004</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">Complainant
+ AND
+ A-1: Satwaji @ Sudhakaranna
+A-2: Golla Rajam
+A-3: Parasaboina Rajam @ Naganna
+A-5: Arigela Venka Goud @ Pratap
+A-6: Gaddam Rajam @ Yadanna
+A-7: Ganganna @ Mallesh
+A-8: Radhakka
+A-9: Rayaposham @ Kishan
+A-10: Bomgoni Komura Goud (died)
+(case against A-1 to A-7 and A-9 to A-10 is split up
+and numbered as CC 47 of 2014 )
+(A-10 since died on 16.9.1993 in Cr.No. 83/1993 of PS Jaipur),</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000006_P001_PAR001_SEN001</code></td>
+            <td class="source-text">1 CC 132 OF 1998
+IN THE COURT OF THE JUDICIAL MAGISTRATE OF FIRST CLASS AT
+CHINNOOR
+ PRESENT: Ms. SHAIK REHANA
+ Judicial Magistrate of First Class,
+ Chinnor.</td>
+            <td><strong>State (SI PS Jaipur)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Prosecution complainant.</td>
+        </tr>
+        
+        <tr class="status-rej crit-critical" data-doc="DC_000006" data-cat="PARTIES" data-status="REJECTED_CANDIDATE" data-crit="CRITICAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_PARTIES_005</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">Accused
+ This case is coming on 1.9.2014 for final hearing before me in the
+presence of learned A.P.P.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000006_P001_PAR002_SEN002</code></td>
+            <td class="source-text">Accused
+ This case is coming on 1.9.2014 for final hearing before me in the
+presence of learned A.P.P.</td>
+            <td><strong>Accused
+ This case is coming on 1 9 2014 for final hearing before me in the
+presence of learned A P P</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000006" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>GF-DC_000006-0006</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000006_P001_PAR001_SEN004</code></td>
+            <td class="source-text">Complainant
+ AND
+ A-1: Satwaji @ Sudhakaranna
+A-2: Golla Rajam
+A-3: Parasaboina Rajam @ Naganna
+A-5: Arigela Venka Goud @ Pratap
+A-6: Gaddam Rajam @ Yadanna
+A-7: Ganganna @ Mallesh
+A-8: Radhakka
+A-9: Rayaposham @ Kishan
+A-10: Bomgoni Komura Goud (died)
+(case against A-1 to A-7 and A-9 to A-10 is split up
+and numbered as CC 47 of 2014 )
+(A-10 since died on 16.9.1993 in Cr.No. 83/1993 of PS Jaipur),</td>
+            <td><strong>Radhakka (A-8)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Sole facing accused in this split trial.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000006" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>GF-DC_000006-0007</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000006_P001_PAR002_SEN007</code></td>
+            <td class="source-text">The brief averments of the charge sheet are as follows:-
+Smt. Lambu Anantha Devi is the complainant, PW-1 and Kumri Lambu
+Radhika are the husband and daughter respectively of Smt. Lambu Anantha Devi
+and they are residents of Kistampur village.</td>
+            <td><strong>Smt. Lambu Anantha Devi (PW-1)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Hostile complainant witness PW-1 whose testimony led to acquittal.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000006" data-cat="RELIEF" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_RELIEF_026</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">RELIEF</span></td>
+            <td class="source-val">A-8 is in judicial custody, she shall be set at liberty
+forthwith unless he is not required in any other case.</td>
+            <td>p.5</td>
+            <td class="sentence-id"><code>DC_000006_P005_PAR001_SEN002</code></td>
+            <td class="source-text">A-8 is in judicial custody, she shall be set at liberty
+forthwith unless he is not required in any other case.</td>
+            <td><strong>A-8 set at liberty forthwith</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Judicial relief granted to acquitted accused.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000006" data-cat="STATUTORY_SECTION" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_STATUTORY_SECTION_006</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">STATUTORY_SECTION</span></td>
+            <td class="source-val">Section 147, 148, 427 IPC</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000006_P001_PAR002_SEN005</code></td>
+            <td class="source-text">The Circle Inspector of police, Mancherial filed the charge sheet against the
+accused No.1 to 10 for the offences under section 147, 148, 427 r/w 149 IPC in
+Cr.No. 37/1993 of PS Jaipur.</td>
+            <td><strong>IPC s.147, 148, 427 r/w 149</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Substantive criminal charges framed.</td>
+        </tr>
+        
+        <tr class="status-dup crit-critical" data-doc="DC_000006" data-cat="STATUTORY_SECTION" data-status="DUPLICATE_OF_FACT" data-crit="CRITICAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_STATUTORY_SECTION_008</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">STATUTORY_SECTION</span></td>
+            <td class="source-val">Section 207 CrPC</td>
+            <td>p.3</td>
+            <td class="sentence-id"><code>DC_000006_P003_PAR001_SEN001</code></td>
+            <td class="source-text">Section 207 CrPC</td>
+            <td><strong>SEC_207_CRPC</strong></td>
+            <td><span class="status-pill status-dup">DUPLICATE_OF_FACT</span></td>
+            <td class="notes">[REDUNDANT_DUPLICATE_EXTRACTION] Redundant multiple extraction of identical procedural milestone or section citation.</td>
+        </tr>
+        
+        <tr class="status-dup crit-critical" data-doc="DC_000006" data-cat="STATUTORY_SECTION" data-status="DUPLICATE_OF_FACT" data-crit="CRITICAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_STATUTORY_SECTION_010</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">STATUTORY_SECTION</span></td>
+            <td class="source-val">Section 239 CrPC</td>
+            <td>p.3</td>
+            <td class="sentence-id"><code>DC_000006_P003_PAR001_SEN001</code></td>
+            <td class="source-text">Section 239 CrPC</td>
+            <td><strong>SEC_239_CRPC</strong></td>
+            <td><span class="status-pill status-dup">DUPLICATE_OF_FACT</span></td>
+            <td class="notes">[REDUNDANT_DUPLICATE_EXTRACTION] Redundant multiple extraction of identical procedural milestone or section citation.</td>
+        </tr>
+        
+        <tr class="status-dup crit-critical" data-doc="DC_000006" data-cat="STATUTORY_SECTION" data-status="DUPLICATE_OF_FACT" data-crit="CRITICAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_STATUTORY_SECTION_012</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">STATUTORY_SECTION</span></td>
+            <td class="source-val">Section 313 CrPC</td>
+            <td>p.3</td>
+            <td class="sentence-id"><code>DC_000006_P003_PAR001_SEN009</code></td>
+            <td class="source-text">Section 313 CrPC</td>
+            <td><strong>SEC_313_CRPC</strong></td>
+            <td><span class="status-pill status-dup">DUPLICATE_OF_FACT</span></td>
+            <td class="notes">[REDUNDANT_DUPLICATE_EXTRACTION] Redundant multiple extraction of identical procedural milestone or section citation.</td>
+        </tr>
+        
+        <tr class="status-rej crit-important" data-doc="DC_000006" data-cat="AMOUNT" data-status="REJECTED_CANDIDATE" data-crit="IMPORTANT">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_AMOUNT_014</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">AMOUNT</span></td>
+            <td class="source-val">rs,</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000006_P002_PAR001_SEN009</code></td>
+            <td class="source-text">rs,</td>
+            <td><strong>rs,</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[MALFORMED_CURRENCY_PREFIX] Standalone currency symbol with no numeric amount.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000006" data-cat="AMOUNT" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000006</strong></td>
+            <td><code>GF-DC_000006-0009</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">AMOUNT</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000006_P002_PAR001_SEN005</code></td>
+            <td class="source-text">On the night of 12.4.1993 Smt.
+Anantha Devi along with her daughter Radhfika were sleeping in the house of
+one Madhava Reddy in the same village as her husband PW-1 and son were not
+present at the house on the intervening night of 12/13.4.1993, A-1 to A-10 formed
+themselves into unlawful assembly armed with deadly weapons including guns
+went to the house of PW-1 around 0100 hours with common object of causing
+wrongful damage to the property of PW-1.</td>
+            <td><strong>Rs. 2,05,000</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Substantive monetary damage value found during independent source review (replaces malformed "rs," candidate).</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000006" data-cat="COURT" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_COURT_001</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">COURT</span></td>
+            <td class="source-val">Chennur, JCJ Court Complex</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000006_P001_PAR001_SEN001</code></td>
+            <td class="source-text">1 CC 132 OF 1998
+IN THE COURT OF THE JUDICIAL MAGISTRATE OF FIRST CLASS AT
+CHINNOOR
+ PRESENT: Ms. SHAIK REHANA
+ Judicial Magistrate of First Class,
+ Chinnor.</td>
+            <td><strong>Judicial Magistrate of First Class, Chinnoor</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Court name from header.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000006" data-cat="DATE" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000006</strong></td>
+            <td><code>GF-DC_000006-0010</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">DATE</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000006_P002_PAR001_SEN005</code></td>
+            <td class="source-text">On the night of 12.4.1993 Smt.
+Anantha Devi along with her daughter Radhfika were sleeping in the house of
+one Madhava Reddy in the same village as her husband PW-1 and son were not
+present at the house on the intervening night of 12/13.4.1993, A-1 to A-10 formed
+themselves into unlawful assembly armed with deadly weapons including guns
+went to the house of PW-1 around 0100 hours with common object of causing
+wrongful damage to the property of PW-1.</td>
+            <td><strong>12-Apr-1993/13-Apr-1993 (night)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Date/time of alleged attack on APSRTC bus.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000006" data-cat="DATE" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000006</strong></td>
+            <td><code>GF-DC_000006-0020</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">DATE</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.4</td>
+            <td class="sentence-id"><code>DC_000006_P004_PAR001_SEN003</code></td>
+            <td class="source-text">PW-3 is PC 894 who issued First
+Information report deposed that on 14.4.1993 while he was in police station, his
+the then SI of police forwarded a complaint instructing him to register a case,
+upon which he registered a case in Cr.No. 37/1993.</td>
+            <td><strong>14-Apr-1993 (FIR Cr.No.37/1993 PS Jaipur)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] FIR registration date stated on p.4.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000006" data-cat="DECISION_DATE" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_DECISION_DATE_003</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">DECISION_DATE</span></td>
+            <td class="source-val">Dictated to the Sr. Assistant, transcribed by her and after correction,
+pronounced by me in the open Court on this the 15th day of September, 2014.</td>
+            <td>p.5</td>
+            <td class="sentence-id"><code>DC_000006_P005_PAR001_SEN004</code></td>
+            <td class="source-text">Dictated to the Sr. Assistant, transcribed by her and after correction,
+pronounced by me in the open Court on this the 15th day of September, 2014.</td>
+            <td><strong>15-Sep-2014</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Date judgment pronounced.</td>
+        </tr>
+        
+        <tr class="status-rej crit-important" data-doc="DC_000006" data-cat="ISSUE" data-status="REJECTED_CANDIDATE" data-crit="IMPORTANT">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_ISSUE_022</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">ISSUE</span></td>
+            <td class="source-val">The point for consideration is whether the prosecution has proved the guilt
+of A-8 for the offence punishable under section 147, 148, 427 r/w 149 IPC beyond
+all reasonable doubt ?</td>
+            <td>p.3</td>
+            <td class="sentence-id"><code>DC_000006_P003_PAR001_SEN013</code></td>
+            <td class="source-text">The point for consideration is whether the prosecution has proved the guilt
+of A-8 for the offence punishable under section 147, 148, 427 r/w 149 IPC beyond
+all reasonable doubt ?</td>
+            <td><strong>The point for consideration is whether the prosecution has proved the guilt
+of A-8 for the offence punishable under sect</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000006" data-cat="PROCEDURAL_ACTION" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_PROCEDURAL_ACTION_015</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">Complainant
+ AND
+ A-1: Satwaji @ Sudhakaranna
+A-2: Golla Rajam
+A-3: Parasaboina Rajam @ Naganna
+A-5: Arigela Venka Goud @ Pratap
+A-6: Gaddam Rajam @ Yadanna
+A-7: Ganganna @ Mallesh
+A-8: Radhakka
+A-9: Rayaposham @ Kishan
+A-10: Bomgoni Komura Goud (died)
+(case against A-1 to A-7 and A-9 to A-10 is split up
+and numbered as CC 47 of 2014 )
+(A-10 since died on 16.9.1993 in Cr.No. 83/1993 of PS Jaipur),</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000006_P002_PAR001_SEN022</code></td>
+            <td class="source-text">The case against A-1 to A-3, A-5 to A-7, A-9 was
+separated from this case and renumbered as CC 47/2014, as they are
+absconding.</td>
+            <td><strong>Split to CC 47/2014 (A-1,A-2,A-3,A-5,A-6,A-7,A-9)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Procedural split for absconding accused.</td>
+        </tr>
+        
+        <tr class="status-dup crit-important" data-doc="DC_000006" data-cat="PROCEDURAL_ACTION" data-status="DUPLICATE_OF_FACT" data-crit="IMPORTANT">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_PROCEDURAL_ACTION_016</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">The Circle Inspector of police, Mancherial filed the charge sheet against the
+accused No.1 to 10 for the offences under section 147, 148, 427 r/w 149 IPC in
+Cr.No. 37/1993 of PS Jaipur.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000006_P001_PAR002_SEN005</code></td>
+            <td class="source-text">The Circle Inspector of police, Mancherial filed the charge sheet against the
+accused No.1 to 10 for the offences under section 147, 148, 427 r/w 149 IPC in
+Cr.No. 37/1993 of PS Jaipur.</td>
+            <td><strong>CHARGE_SHEET</strong></td>
+            <td><span class="status-pill status-dup">DUPLICATE_OF_FACT</span></td>
+            <td class="notes">[REDUNDANT_DUPLICATE_EXTRACTION] Redundant multiple extraction of identical procedural milestone or section citation.</td>
+        </tr>
+        
+        <tr class="status-dup crit-important" data-doc="DC_000006" data-cat="PROCEDURAL_ACTION" data-status="DUPLICATE_OF_FACT" data-crit="IMPORTANT">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_PROCEDURAL_ACTION_017</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">The brief averments of the charge sheet are as follows:-
+Smt. Lambu Anantha Devi is the complainant, PW-1 and Kumri Lambu
+Radhika are the husband and daughter respectively of Smt. Lambu Anantha Devi
+and they are residents of Kistampur village.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000006_P001_PAR002_SEN007</code></td>
+            <td class="source-text">The brief averments of the charge sheet are as follows:-
+Smt. Lambu Anantha Devi is the complainant, PW-1 and Kumri Lambu
+Radhika are the husband and daughter respectively of Smt. Lambu Anantha Devi
+and they are residents of Kistampur village.</td>
+            <td><strong>CHARGE_SHEET</strong></td>
+            <td><span class="status-pill status-dup">DUPLICATE_OF_FACT</span></td>
+            <td class="notes">[REDUNDANT_DUPLICATE_EXTRACTION] Redundant multiple extraction of identical procedural milestone or section citation.</td>
+        </tr>
+        
+        <tr class="status-dup crit-important" data-doc="DC_000006" data-cat="PROCEDURAL_ACTION" data-status="DUPLICATE_OF_FACT" data-crit="IMPORTANT">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_PROCEDURAL_ACTION_018</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">The charge sheet was taken on file under section 147, 148, 427 r/w 149
+IPC against A-1 to A-9.</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000006_P002_PAR001_SEN021</code></td>
+            <td class="source-text">The charge sheet was taken on file under section 147, 148, 427 r/w 149
+IPC against A-1 to A-9.</td>
+            <td><strong>CHARGE_SHEET</strong></td>
+            <td><span class="status-pill status-dup">DUPLICATE_OF_FACT</span></td>
+            <td class="notes">[REDUNDANT_DUPLICATE_EXTRACTION] Redundant multiple extraction of identical procedural milestone or section citation.</td>
+        </tr>
+        
+        <tr class="status-dup crit-important" data-doc="DC_000006" data-cat="PROCEDURAL_ACTION" data-status="DUPLICATE_OF_FACT" data-crit="IMPORTANT">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_PROCEDURAL_ACTION_019</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">3 CC 132 OF 1998
+under section 207 CrPC and examined under section 239 CrPC, she denied the
+commission of offence.</td>
+            <td>p.3</td>
+            <td class="sentence-id"><code>DC_000006_P003_PAR001_SEN001</code></td>
+            <td class="source-text">3 CC 132 OF 1998
+under section 207 CrPC and examined under section 239 CrPC, she denied the
+commission of offence.</td>
+            <td><strong>EXAMINED_UNDER_SECTION</strong></td>
+            <td><span class="status-pill status-dup">DUPLICATE_OF_FACT</span></td>
+            <td class="notes">[REDUNDANT_DUPLICATE_EXTRACTION] Redundant multiple extraction of identical procedural milestone or section citation.</td>
+        </tr>
+        
+        <tr class="status-dup crit-important" data-doc="DC_000006" data-cat="PROCEDURAL_ACTION" data-status="DUPLICATE_OF_FACT" data-crit="IMPORTANT">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_PROCEDURAL_ACTION_020</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">A-8 was examined under section 313 CrPC in respect of material
+particulars for which she denied the same and reported no defence evidence.</td>
+            <td>p.3</td>
+            <td class="sentence-id"><code>DC_000006_P003_PAR001_SEN009</code></td>
+            <td class="source-text">A-8 was examined under section 313 CrPC in respect of material
+particulars for which she denied the same and reported no defence evidence.</td>
+            <td><strong>EXAMINED_UNDER_SECTION</strong></td>
+            <td><span class="status-pill status-dup">DUPLICATE_OF_FACT</span></td>
+            <td class="notes">[REDUNDANT_DUPLICATE_EXTRACTION] Redundant multiple extraction of identical procedural milestone or section citation.</td>
+        </tr>
+        
+        <tr class="status-gold crit-contextual" data-doc="DC_000006" data-cat="OFFICER" data-status="GOLD_VERIFIED" data-crit="CONTEXTUAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>GF-DC_000006-0003</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">OFFICER</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000006_P001_PAR001_SEN001</code></td>
+            <td class="source-text">1 CC 132 OF 1998
+IN THE COURT OF THE JUDICIAL MAGISTRATE OF FIRST CLASS AT
+CHINNOOR
+ PRESENT: Ms. SHAIK REHANA
+ Judicial Magistrate of First Class,
+ Chinnor.</td>
+            <td><strong>Ms. Shaik Rehana, JMFC Chinnoor</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Judge name from header.</td>
+        </tr>
+        
+        <tr class="status-gold crit-contextual" data-doc="DC_000006" data-cat="OFFICER" data-status="GOLD_VERIFIED" data-crit="CONTEXTUAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>GF-DC_000006-0017</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">OFFICER</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000006_P001_PAR002_SEN003</code></td>
+            <td class="source-text">for the State-complainant and of Sri G.</td>
+            <td><strong>Sri G. Ramesh Chander (Defense Advocate)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Named defense counsel.</td>
+        </tr>
+        
+        <tr class="status-gold crit-contextual" data-doc="DC_000006" data-cat="OFFICER" data-status="GOLD_VERIFIED" data-crit="CONTEXTUAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>GF-DC_000006-0018</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">OFFICER</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000006_P002_PAR001_SEN010</code></td>
+            <td class="source-text">on 13.4.1993 on receipt of information about the incident, Md.</td>
+            <td><strong>Md. Mustafa, SI Jaipur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Initial IO who registered FIR.</td>
+        </tr>
+        
+        <tr class="status-gold crit-contextual" data-doc="DC_000006" data-cat="OFFICER" data-status="GOLD_VERIFIED" data-crit="CONTEXTUAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>GF-DC_000006-0019</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">OFFICER</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000006_P002_PAR001_SEN016</code></td>
+            <td class="source-text">The CI of police,
+Mancherial namely V Sailu took up further investigation in the case.</td>
+            <td><strong>V Sailu, CI Mancherial</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] CI who completed investigation and filed charge sheet.</td>
+        </tr>
+        
+        <tr class="status-dup crit-contextual" data-doc="DC_000006" data-cat="OTHER_CRITICAL_FACT" data-status="DUPLICATE_OF_FACT" data-crit="CONTEXTUAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_OTHER_CRITICAL_FACT_028</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">OTHER_CRITICAL_FACT</span></td>
+            <td class="source-val">MONDAY THE 15TH DAY OF SEPTEMBER,, 2014
+C.C.No. 132 of 1998
+Between:-
+The State through the Sub-Inspector
+of Police, P.S.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000006_P001_PAR001_SEN002</code></td>
+            <td class="source-text">MONDAY THE 15TH DAY OF SEPTEMBER,, 2014
+C.C.No. 132 of 1998
+Between:-
+The State through the Sub-Inspector
+of Police, P.S.</td>
+            <td><strong>MONDAY THE 15TH DAY OF SEPTEMBER,, 2014
+C.C.NO. 132 OF 1998
+BETWEEN:-
+THE STATE THROUGH THE SUB-INSPECTOR
+OF POLICE, P.S.</strong></td>
+            <td><span class="status-pill status-dup">DUPLICATE_OF_FACT</span></td>
+            <td class="notes">[REDUNDANT_DUPLICATE_EXTRACTION] Redundant multiple extraction of identical procedural milestone or section citation.</td>
+        </tr>
+        
+        <tr class="status-rej crit-contextual" data-doc="DC_000006" data-cat="STATUTE" data-status="REJECTED_CANDIDATE" data-crit="CONTEXTUAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_STATUTE_007</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">STATUTE</span></td>
+            <td class="source-val">IPC</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000006_P001_PAR002_SEN005</code></td>
+            <td class="source-text">IPC</td>
+            <td><strong>IPC</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        <tr class="status-rej crit-contextual" data-doc="DC_000006" data-cat="STATUTE" data-status="REJECTED_CANDIDATE" data-crit="CONTEXTUAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_STATUTE_009</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">STATUTE</span></td>
+            <td class="source-val">CrPC</td>
+            <td>p.3</td>
+            <td class="sentence-id"><code>DC_000006_P003_PAR001_SEN001</code></td>
+            <td class="source-text">CrPC</td>
+            <td><strong>CRPC</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        <tr class="status-rej crit-contextual" data-doc="DC_000006" data-cat="STATUTE" data-status="REJECTED_CANDIDATE" data-crit="CONTEXTUAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_STATUTE_011</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">STATUTE</span></td>
+            <td class="source-val">CrPC</td>
+            <td>p.3</td>
+            <td class="sentence-id"><code>DC_000006_P003_PAR001_SEN001</code></td>
+            <td class="source-text">CrPC</td>
+            <td><strong>CRPC</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        <tr class="status-rej crit-contextual" data-doc="DC_000006" data-cat="STATUTE" data-status="REJECTED_CANDIDATE" data-crit="CONTEXTUAL">
+            <td><strong>DC_000006</strong></td>
+            <td><code>FACT_DC_000006_STATUTE_013</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">STATUTE</span></td>
+            <td class="source-val">CrPC</td>
+            <td>p.3</td>
+            <td class="sentence-id"><code>DC_000006_P003_PAR001_SEN009</code></td>
+            <td class="source-text">CrPC</td>
+            <td><strong>CRPC</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000007" data-cat="CASE_NUMBER" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000007</strong></td>
+            <td><code>FACT_DC_000007_CASE_NUMBER_002</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">CASE_NUMBER</span></td>
+            <td class="source-val">203300000461998</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000007_P001_PAR001_SEN003</code></td>
+            <td class="source-text">PRC.</td>
+            <td><strong>PRC 46/1998</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Case number from caption.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000007" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000007</strong></td>
+            <td><code>FACT_DC_000007_PARTIES_004</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">Between:-
+The State of Telangana Rep.by
+SHO, Chennur
+ ...</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000007_P001_PAR003_SEN001</code></td>
+            <td class="source-text">Between:-
+The State of Telangana Rep.by
+SHO, Chennur
+ ...</td>
+            <td><strong>State of Telangana (SHO Chennur)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Complainant from caption.</td>
+        </tr>
+        
+        <tr class="status-rej crit-critical" data-doc="DC_000007" data-cat="PARTIES" data-status="REJECTED_CANDIDATE" data-crit="CRITICAL">
+            <td><strong>DC_000007</strong></td>
+            <td><code>FACT_DC_000007_PARTIES_005</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">...Accused</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000007_P001_PAR004_SEN001</code></td>
+            <td class="source-text">...Accused</td>
+            <td><strong>Accused</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000007" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000007</strong></td>
+            <td><code>GF-DC_000007-0004</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000007_P001_PAR003_SEN002</code></td>
+            <td class="source-text">Complainant
+AND
+Jangili Ganganna and 13 others</td>
+            <td><strong>Jangili Ganganna (and 13 others)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Lead accused and 13 unnamed co-accused.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000007" data-cat="COURT" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000007</strong></td>
+            <td><code>FACT_DC_000007_COURT_001</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">COURT</span></td>
+            <td class="source-val">Chennur, JCJ Court Complex</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000007_P001_PAR001_SEN001</code></td>
+            <td class="source-text">IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G.</td>
+            <td><strong>Junior Civil Judge, Chennur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Court from header.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000007" data-cat="DECISION_DATE" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000007</strong></td>
+            <td><code>FACT_DC_000007_DECISION_DATE_003</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">DECISION_DATE</span></td>
+            <td class="source-val">DOCKET ORDER
+Permission received from Honrable District and Sessions Judge Adilabad, by
+O.M.Dis.No. 1051/2018/crl dated 07.03.2018 To enter in LPC Register.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000007_P001_PAR006_SEN001</code></td>
+            <td class="source-text">Given under my hand and the seal of this court, on this the 13th day
+of March, 2018.</td>
+            <td><strong>13-Mar-2018</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Date order signed.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000007" data-cat="PROCEDURAL_ACTION" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000007</strong></td>
+            <td><code>GF-DC_000007-0006</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000007_P001_PAR005_SEN001</code></td>
+            <td class="source-text">DOCKET ORDER
+Permission received from Honrable District and Sessions Judge Adilabad, by
+O.M.Dis.No. 1051/2018/crl dated 07.03.2018 To enter in LPC Register.</td>
+            <td><strong>Permission to enter LPC Register per O.M.Dis.No.1051/2018/crl dt 07.03.2018</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] LPC Register entry procedural action; substantive disposition is ABSENT_IN_SOURCE.</td>
+        </tr>
+        
+        <tr class="status-gold crit-contextual" data-doc="DC_000007" data-cat="OFFICER" data-status="GOLD_VERIFIED" data-crit="CONTEXTUAL">
+            <td><strong>DC_000007</strong></td>
+            <td><code>GF-DC_000007-0005</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">OFFICER</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000007_P001_PAR001_SEN001</code></td>
+            <td class="source-text">IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G.</td>
+            <td><strong>Sri G. Uday Bhaskar Rao, JCJ Chennur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Judge from header.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000008" data-cat="CASE_NUMBER" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000008</strong></td>
+            <td><code>FACT_DC_000008_CASE_NUMBER_002</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">CASE_NUMBER</span></td>
+            <td class="source-val">203300000441998</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000008_P001_PAR001_SEN003</code></td>
+            <td class="source-text">PRC.</td>
+            <td><strong>PRC 44/1998</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Case number from caption.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000008" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000008</strong></td>
+            <td><code>FACT_DC_000008_PARTIES_003</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">Between:-
+The State of Telangana Rep.by
+SHO, Kotapalli
+ ...</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000008_P001_PAR003_SEN001</code></td>
+            <td class="source-text">Between:-
+The State of Telangana Rep.by
+SHO, Kotapalli
+ ...</td>
+            <td><strong>State of Telangana (SHO Kotapalli)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Complainant from caption.</td>
+        </tr>
+        
+        <tr class="status-rej crit-critical" data-doc="DC_000008" data-cat="PARTIES" data-status="REJECTED_CANDIDATE" data-crit="CRITICAL">
+            <td><strong>DC_000008</strong></td>
+            <td><code>FACT_DC_000008_PARTIES_004</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">...Accused</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000008_P001_PAR004_SEN001</code></td>
+            <td class="source-text">...Accused</td>
+            <td><strong>Accused</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000008" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000008</strong></td>
+            <td><code>GF-DC_000008-0004</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000008_P001_PAR003_SEN002</code></td>
+            <td class="source-text">Complainant
+AND
+Praboina Rajanna</td>
+            <td><strong>Praboina Rajanna</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Sole accused named.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000008" data-cat="COURT" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000008</strong></td>
+            <td><code>FACT_DC_000008_COURT_001</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">COURT</span></td>
+            <td class="source-val">Chennur, JCJ Court Complex</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000008_P001_PAR001_SEN001</code></td>
+            <td class="source-text">IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G.</td>
+            <td><strong>Junior Civil Judge, Chennur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Court from header.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000008" data-cat="DATE" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000008</strong></td>
+            <td><code>GF-DC_000008-0007</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">DATE</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000008_P001_PAR006_SEN001</code></td>
+            <td class="source-text">Given under my hand and the seal of this court, on this the 23rd day
+of March, 2018.</td>
+            <td><strong>23-Mar-2018</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Date order signed.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000008" data-cat="PROCEDURAL_ACTION" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000008</strong></td>
+            <td><code>GF-DC_000008-0006</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000008_P001_PAR005_SEN001</code></td>
+            <td class="source-text">DOCKET ORDER
+Permission received from Honrable Prl.District and Sessions Judge Adilabad,
+by O.M.Dis.No. 1467/2018/crl dated 21-03-2018To enter in LPC Register</td>
+            <td><strong>Permission to enter LPC Register per O.M.Dis.No.1467/2018/crl dt 21.03.2018</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] LPC Register entry procedural action; substantive disposition is ABSENT_IN_SOURCE.</td>
+        </tr>
+        
+        <tr class="status-gold crit-contextual" data-doc="DC_000008" data-cat="OFFICER" data-status="GOLD_VERIFIED" data-crit="CONTEXTUAL">
+            <td><strong>DC_000008</strong></td>
+            <td><code>GF-DC_000008-0005</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">OFFICER</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000008_P001_PAR001_SEN001</code></td>
+            <td class="source-text">IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G.</td>
+            <td><strong>Sri G. Uday Bhaskar Rao, JCJ Chennur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Judge from header.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000011" data-cat="BAIL_STATUS" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_BAIL_STATUS_022</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">BAIL_STATUS</span></td>
+            <td class="source-val">The accused is in Jail.</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000011_P002_PAR001_SEN014</code></td>
+            <td class="source-text">The accused is in Jail.</td>
+            <td><strong>Accused is in Jail (Judicial Custody)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Explicit custody finding in committal order.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000011" data-cat="CASE_NUMBER" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_CASE_NUMBER_002</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">CASE_NUMBER</span></td>
+            <td class="source-val">PRC 38 OF 1998</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000011_P001_PAR001_SEN002</code></td>
+            <td class="source-text">JAYARAM REDDY
+JUDL.MAGISTRATE OF FIRST CLASS
+CHENNUR
+THURSDAY THIS THE 6TH DAY OF MARCH, 2014
+PRC NO. 38 OF 1998
+Between:-
+ State of A.P.</td>
+            <td><strong>PRC 38/1998</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Case number from header.</td>
+        </tr>
+        
+        <tr class="status-rej crit-critical" data-doc="DC_000011" data-cat="CHARGE" data-status="REJECTED_CANDIDATE" data-crit="CRITICAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_CHARGE_020</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">CHARGE</span></td>
+            <td class="source-val">The Circle Inspector of Police, Chennur has filed charge sheet in Cr.No.
+5/1993, PS Chennur for the offence punishable U/s.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000011_P001_PAR004_SEN001</code></td>
+            <td class="source-text">The Circle Inspector of Police, Chennur has filed charge sheet in Cr.No.
+5/1993, PS Chennur for the offence punishable U/s.</td>
+            <td><strong>The Circle Inspector of Police, Chennur has filed charge sheet in Cr.No.
+5/1993, PS Chennur for the</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000011" data-cat="DISPOSITION" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_DISPOSITION_021</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">DISPOSITION</span></td>
+            <td class="source-val">Hence this case is
+committed to the Court of Sessions, Adilabad, U/s.209 (a) Cr.PC.</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000011_P002_PAR001_SEN012</code></td>
+            <td class="source-text">Hence this case is
+committed to the Court of Sessions, Adilabad, U/s.209 (a) Cr.PC.</td>
+            <td><strong>Committed to Sessions Court Adilabad u/s 209(a) CrPC</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Substantive committal order under CrPC s.209(a) as homicide is exclusively triable by Sessions Court.</td>
+        </tr>
+        
+        <tr class="status-rej crit-critical" data-doc="DC_000011" data-cat="PARTIES" data-status="REJECTED_CANDIDATE" data-crit="CRITICAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_PARTIES_004</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">JAYARAM REDDY
+JUDL.MAGISTRATE OF FIRST CLASS
+CHENNUR
+THURSDAY THIS THE 6TH DAY OF MARCH, 2014
+PRC NO. 38 OF 1998
+Between:-
+ State of A.P.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000011_P001_PAR001_SEN002</code></td>
+            <td class="source-text">JAYARAM REDDY
+JUDL.MAGISTRATE OF FIRST CLASS
+CHENNUR
+THURSDAY THIS THE 6TH DAY OF MARCH, 2014
+PRC NO. 38 OF 1998
+Between:-
+ State of A.P.</td>
+            <td><strong>JAYARAM REDDY
+JUDL MAGISTRATE OF FIRST CLASS
+CHENNUR
+THURSDAY THIS THE 6TH DAY OF MARCH, 2014
+PRC NO  38 OF 1998
+Between 
+ State of A P</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[JUDICIAL_OFFICER_NOT_PARTY] Presiding magistrate name misclassified as party.</td>
+        </tr>
+        
+        <tr class="status-rej crit-critical" data-doc="DC_000011" data-cat="PARTIES" data-status="REJECTED_CANDIDATE" data-crit="CRITICAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_PARTIES_005</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">Accused.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000011_P001_PAR002_SEN003</code></td>
+            <td class="source-text">Accused.</td>
+            <td><strong>Accused</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000011" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>GF-DC_000011-0005</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000011_P001_PAR001_SEN002</code></td>
+            <td class="source-text">JAYARAM REDDY
+JUDL.MAGISTRATE OF FIRST CLASS
+CHENNUR
+THURSDAY THIS THE 6TH DAY OF MARCH, 2014
+PRC NO. 38 OF 1998
+Between:-
+ State of A.P.</td>
+            <td><strong>State of A.P. (CI Chennur)</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Complainant prosecution (pre-bifurcation AP).</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000011" data-cat="PARTIES" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>GF-DC_000011-0006</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">PARTIES</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000011_P001_PAR002_SEN001</code></td>
+            <td class="source-text">AND
+A-8: Radhakka @ Kursinga Mothu Bai
+ @ Madavi @ Samithi, W/o Pulluri Prasada Rao
+ Age 46 years, R/o Pippalladara, Jainur Mandal
+ of Adilabad District.</td>
+            <td><strong>Radhakka @ Kursinga Mothu Bai, W/o Pulluri Prasada Rao, age 46, Pippalladara, Adilabad</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Full accused detail with aliases from caption.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000011" data-cat="STATUTORY_SECTION" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_STATUTORY_SECTION_006</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">STATUTORY_SECTION</span></td>
+            <td class="source-val">Section 25(1)(a), 27 of IA Act</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000011_P001_PAR004_SEN002</code></td>
+            <td class="source-text">147, 148, 302 r/w 149 IPC
+and section 25(1)(a), 27 of IA Act against the accused.</td>
+            <td><strong>Arms Act s.25(1)(a), 27</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Arms Act charges alongside IPC charges.</td>
+        </tr>
+        
+        <tr class="status-gold crit-critical" data-doc="DC_000011" data-cat="STATUTORY_SECTION" data-status="GOLD_VERIFIED" data-crit="CRITICAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_STATUTORY_SECTION_008</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">STATUTORY_SECTION</span></td>
+            <td class="source-val">Section 147, 148, 302 IPC</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000011_P001_PAR004_SEN001</code></td>
+            <td class="source-text">The Circle Inspector of Police, Chennur has filed charge sheet in Cr.No.
+5/1993, PS Chennur for the offence punishable U/s.</td>
+            <td><strong>IPC s.147, 148, 302 r/w 149</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Charges from charge sheet in Cr.No.5/1993.</td>
+        </tr>
+        
+        <tr class="status-dup crit-critical" data-doc="DC_000011" data-cat="STATUTORY_SECTION" data-status="DUPLICATE_OF_FACT" data-crit="CRITICAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_STATUTORY_SECTION_010</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">STATUTORY_SECTION</span></td>
+            <td class="source-val">Section 25(1)(a), 27 of IA Act</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000011_P002_PAR001_SEN002</code></td>
+            <td class="source-text">Section 25(1)(a), 27 of IA Act</td>
+            <td><strong>SEC_25_1__a_27ofIA_ACT</strong></td>
+            <td><span class="status-pill status-dup">DUPLICATE_OF_FACT</span></td>
+            <td class="notes">[REDUNDANT_DUPLICATE_EXTRACTION] Redundant multiple extraction of identical procedural milestone or section citation.</td>
+        </tr>
+        
+        <tr class="status-dup crit-critical" data-doc="DC_000011" data-cat="STATUTORY_SECTION" data-status="DUPLICATE_OF_FACT" data-crit="CRITICAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_STATUTORY_SECTION_012</code></td>
+            <td><span class="badge crit-critical">CRITICAL</span></td>
+            <td><span class="cat-pill">STATUTORY_SECTION</span></td>
+            <td class="source-val">Section 82 CrPC</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000011_P002_PAR001_SEN005</code></td>
+            <td class="source-text">Section 82 CrPC</td>
+            <td><strong>SEC_82_CRPC</strong></td>
+            <td><span class="status-pill status-dup">DUPLICATE_OF_FACT</span></td>
+            <td class="notes">[REDUNDANT_DUPLICATE_EXTRACTION] Redundant multiple extraction of identical procedural milestone or section citation.</td>
+        </tr>
+        
+        <tr class="status-rej crit-important" data-doc="DC_000011" data-cat="AMOUNT" data-status="REJECTED_CANDIDATE" data-crit="IMPORTANT">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_AMOUNT_014</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">AMOUNT</span></td>
+            <td class="source-val">rs,</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000011_P001_PAR002_SEN001</code></td>
+            <td class="source-text">rs,</td>
+            <td><strong>rs,</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[MALFORMED_CURRENCY_PREFIX] Standalone currency symbol with no numeric amount.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000011" data-cat="COURT" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_COURT_001</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">COURT</span></td>
+            <td class="source-val">Chennur, JCJ Court Complex</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000011_P001_PAR001_SEN001</code></td>
+            <td class="source-text">1 PRC 38 OF 1998
+IN THE COURT OF JUDL MAGISTRATE ISTCLASS AT CHENNUR
+PRESENT: - Sri K.</td>
+            <td><strong>Judicial Magistrate of First Class, Chennur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Abbreviated OCR: JUDL MAGISTRATE ISTCLASS = Judicial Magistrate First Class.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000011" data-cat="DATE" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000011</strong></td>
+            <td><code>GF-DC_000011-0009</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">DATE</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000011_P001_PAR004_SEN004</code></td>
+            <td class="source-text">The brief facts of the case are that, the accused along with other extremists,
+who are belongs Extremists of Chennur Dalam (PWG) deter the deceased Bansilal
+from possession of Government land allotted to the deceased in which the
+deceased was transplanting Mango sapling under ITDA scheme, the accused
+warned the deceased Bansilal, but he did not head to their warnings and continued
+transplantation and on 26.3.1993 at 11.00 p.m.</td>
+            <td><strong>26-Mar-1993 23:00</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Time and date of alleged murder of Bansilal.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000011" data-cat="DECISION_DATE" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_DECISION_DATE_003</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">DECISION_DATE</span></td>
+            <td class="source-val">Typed to my dictation on computer after correction pronounced by me
+in open court on this 6th day of March, 2014.</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000011_P001_PAR001_SEN002</code></td>
+            <td class="source-text">JAYARAM REDDY
+JUDL.MAGISTRATE OF FIRST CLASS
+CHENNUR
+THURSDAY THIS THE 6TH DAY OF MARCH, 2014
+PRC NO. 38 OF 1998
+Between:-
+ State of A.P.</td>
+            <td><strong>06-Mar-2014</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Date of committal order.</td>
+        </tr>
+        
+        <tr class="status-dup crit-important" data-doc="DC_000011" data-cat="PROCEDURAL_ACTION" data-status="DUPLICATE_OF_FACT" data-crit="IMPORTANT">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_PROCEDURAL_ACTION_015</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">The Circle Inspector of Police, Chennur has filed charge sheet in Cr.No.
+5/1993, PS Chennur for the offence punishable U/s.</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000011_P001_PAR004_SEN001</code></td>
+            <td class="source-text">The Circle Inspector of Police, Chennur has filed charge sheet in Cr.No.
+5/1993, PS Chennur for the offence punishable U/s.</td>
+            <td><strong>CHARGE_SHEET</strong></td>
+            <td><span class="status-pill status-dup">DUPLICATE_OF_FACT</span></td>
+            <td class="notes">[REDUNDANT_DUPLICATE_EXTRACTION] Redundant multiple extraction of identical procedural milestone or section citation.</td>
+        </tr>
+        
+        <tr class="status-dup crit-important" data-doc="DC_000011" data-cat="PROCEDURAL_ACTION" data-status="DUPLICATE_OF_FACT" data-crit="IMPORTANT">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_PROCEDURAL_ACTION_016</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">This court took cognizance of the case against the accused for the
+offence under section 147, 148, 302 r/w 149 IPC and section 25(1)(a), 27 of IA
+Act.</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000011_P002_PAR001_SEN002</code></td>
+            <td class="source-text">This court took cognizance of the case against the accused for the
+offence under section 147, 148, 302 r/w 149 IPC and section 25(1)(a), 27 of IA
+Act.</td>
+            <td><strong>COGNIZANCE</strong></td>
+            <td><span class="status-pill status-dup">DUPLICATE_OF_FACT</span></td>
+            <td class="notes">[REDUNDANT_DUPLICATE_EXTRACTION] Redundant multiple extraction of identical procedural milestone or section citation.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000011" data-cat="PROCEDURAL_ACTION" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_PROCEDURAL_ACTION_017</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">On 30.1.1996 case against A-1 to A-6, A-8 was split up from PRC 14/1995.</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000011_P002_PAR001_SEN004</code></td>
+            <td class="source-text">On 30.1.1996 case against A-1 to A-6, A-8 was split up from PRC 14/1995.</td>
+            <td><strong>Split from PRC 14/1995 on 30-Jan-1996</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Initial procedural split from original committal case.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000011" data-cat="PROCEDURAL_ACTION" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_PROCEDURAL_ACTION_018</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">on 8.9.1998 case against A-1, A-3, A-5, A-6, A-8 was split up from PRC 6/1996 and
+numbered as PRC 38/1998 and issued section 82 CrPC proceedings.</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000011_P002_PAR001_SEN005</code></td>
+            <td class="source-text">on 8.9.1998 case against A-1, A-3, A-5, A-6, A-8 was split up from PRC 6/1996 and
+numbered as PRC 38/1998 and issued section 82 CrPC proceedings.</td>
+            <td><strong>Split from PRC 6/1996 on 08-Sep-1998, renumbered PRC 38/1998</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Renumbering to PRC 38/1998 following further split.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000011" data-cat="PROCEDURAL_ACTION" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_PROCEDURAL_ACTION_019</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">On 21.2.2014 accused No.8 is produced on execution of PT Warrant and
+the case against other accused, who are involved in this offence was split up from
+PRC 38/1998 and numbered as PRC 8/2014 and the PRC 38/1998 shall run
+against the accused No.8 only.</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000011_P002_PAR001_SEN007</code></td>
+            <td class="source-text">On 21.2.2014 accused No.8 is produced on execution of PT Warrant and
+the case against other accused, who are involved in this offence was split up from
+PRC 38/1998 and numbered as PRC 8/2014 and the PRC 38/1998 shall run
+against the accused No.8 only.</td>
+            <td><strong>A-8 produced on PT Warrant 21-Feb-2014; co-accused split to PRC 8/2014</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">Final procedural split enabling individual committal of A-8.</td>
+        </tr>
+        
+        <tr class="status-gold crit-important" data-doc="DC_000011" data-cat="PROCEDURAL_ACTION" data-status="GOLD_VERIFIED" data-crit="IMPORTANT">
+            <td><strong>DC_000011</strong></td>
+            <td><code>GF-DC_000011-0012</code></td>
+            <td><span class="badge crit-important">IMPORTANT</span></td>
+            <td><span class="cat-pill">PROCEDURAL_ACTION</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000011_P002_PAR001_SEN015</code></td>
+            <td class="source-text">The Superintendent, Central Prison, Warangal
+is directed to produce the accused before the Hon'ble District Court,
+Adilabad on 20.3.2014
+8.</td>
+            <td><strong>Accused to be produced at Adilabad Sessions Court on 20-Mar-2014</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Date fixed for accused appearance at Sessions Court.</td>
+        </tr>
+        
+        <tr class="status-gold crit-contextual" data-doc="DC_000011" data-cat="OFFICER" data-status="GOLD_VERIFIED" data-crit="CONTEXTUAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>GF-DC_000011-0003</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">OFFICER</span></td>
+            <td class="source-val">[NEWLY_DISCOVERED_IN_SOURCE]</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000011_P001_PAR001_SEN001</code></td>
+            <td class="source-text">1 PRC 38 OF 1998
+IN THE COURT OF JUDL MAGISTRATE ISTCLASS AT CHENNUR
+PRESENT: - Sri K.</td>
+            <td><strong>Sri K. Jayaram Reddy, JMFC Chennur</strong></td>
+            <td><span class="status-pill status-gold">GOLD_VERIFIED</span></td>
+            <td class="notes">[INDEPENDENT_PASS] Judge from header.</td>
+        </tr>
+        
+        <tr class="status-dup crit-contextual" data-doc="DC_000011" data-cat="OTHER_CRITICAL_FACT" data-status="DUPLICATE_OF_FACT" data-crit="CONTEXTUAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_OTHER_CRITICAL_FACT_023</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">OTHER_CRITICAL_FACT</span></td>
+            <td class="source-val">Cr.No.
+5/1993</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000011_P001_PAR004_SEN001</code></td>
+            <td class="source-text">Cr.No.
+5/1993</td>
+            <td><strong>CR.NO.
+5/1993</strong></td>
+            <td><span class="status-pill status-dup">DUPLICATE_OF_FACT</span></td>
+            <td class="notes">[REDUNDANT_DUPLICATE_EXTRACTION] Redundant multiple extraction of identical procedural milestone or section citation.</td>
+        </tr>
+        
+        <tr class="status-rej crit-contextual" data-doc="DC_000011" data-cat="STATUTE" data-status="REJECTED_CANDIDATE" data-crit="CONTEXTUAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_STATUTE_007</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">STATUTE</span></td>
+            <td class="source-val">IA Act</td>
+            <td>p.1</td>
+            <td class="sentence-id"><code>DC_000011_P001_PAR004_SEN002</code></td>
+            <td class="source-text">IA Act</td>
+            <td><strong>IA ACT</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        <tr class="status-rej crit-contextual" data-doc="DC_000011" data-cat="STATUTE" data-status="REJECTED_CANDIDATE" data-crit="CONTEXTUAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_STATUTE_009</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">STATUTE</span></td>
+            <td class="source-val">IPC</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000011_P002_PAR001_SEN002</code></td>
+            <td class="source-text">IPC</td>
+            <td><strong>IPC</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        <tr class="status-rej crit-contextual" data-doc="DC_000011" data-cat="STATUTE" data-status="REJECTED_CANDIDATE" data-crit="CONTEXTUAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_STATUTE_011</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">STATUTE</span></td>
+            <td class="source-val">Act</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000011_P002_PAR001_SEN002</code></td>
+            <td class="source-text">Act</td>
+            <td><strong>ACT</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[MALFORMED_STATUTE_FRAGMENT] Truncated token from Arms Act citation.</td>
+        </tr>
+        
+        <tr class="status-rej crit-contextual" data-doc="DC_000011" data-cat="STATUTE" data-status="REJECTED_CANDIDATE" data-crit="CONTEXTUAL">
+            <td><strong>DC_000011</strong></td>
+            <td><code>FACT_DC_000011_STATUTE_013</code></td>
+            <td><span class="badge crit-contextual">CONTEXTUAL</span></td>
+            <td><span class="cat-pill">STATUTE</span></td>
+            <td class="source-val">CrPC</td>
+            <td>p.2</td>
+            <td class="sentence-id"><code>DC_000011_P002_PAR001_SEN005</code></td>
+            <td class="source-text">CrPC</td>
+            <td><strong>CRPC</strong></td>
+            <td><span class="status-pill status-rej">REJECTED_CANDIDATE</span></td>
+            <td class="notes">[NON_SUBSTANTIVE_OR_UNGROUNDED] Rejected upon human legal inspection of original PDF.</td>
+        </tr>
+        
+        </tbody>
+    </table>
+
+    <script>
+        function filterRows() {
+            const search = document.getElementById('searchBox').value.toLowerCase();
+            const doc = document.getElementById('docFilter').value;
+            const crit = document.getElementById('critFilter').value;
+            const status = document.getElementById('statusFilter').value;
+            
+            const rows = document.querySelectorAll('#factsBody tr');
+            rows.forEach(r => {
+                const matchDoc = !doc || r.getAttribute('data-doc') === doc;
+                const matchCrit = !crit || r.getAttribute('data-crit') === crit;
+                const matchStatus = !status || r.getAttribute('data-status') === status;
+                const matchSearch = !search || r.innerText.toLowerCase().includes(search);
+                
+                if (matchDoc && matchCrit && matchStatus && matchSearch) {
+                    r.style.display = '';
+                } else {
+                    r.style.display = 'none';
+                }
+            });
+        }
+    </script>
+</body>
+</html>

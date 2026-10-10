@@ -1,0 +1,1185 @@
+--- PAGE 1 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 1 of 27
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+%
+Judgment delivered on: 20.09.2021
++ O.M.P.(I) (COMM.) 163/2020
+M/S ABIR INFRASTRUCTURE PRIVATE LIMITED ..... Petitioner
+versus
+TEESTAVALLEY POWER TRANSMISSION
+LIMITED & ORS.
+..... Respondent
+Advocates who appeared in this case:
+For the Petitioner
+: Mr S.S. Ray, Advocate with Ms
+: Rakhi Ray and Mr Vaibhav Gulia,
+For the Respondent
+: Mr Tarun Johri, Advocate with Mr
+: Vishwajeet Tyagi and Mr Ankur Gupta.
+CORAM
+HON’BLE MR JUSTICE VIBHU BAKHRU
+JUDGMENT
+VIBHU BAKHRU, J
+1.
+Abir Infrastructure Private Limited (hereafter ‘AIPL’) has filed
+the present petition under Section 9 of the Arbitration and Conciliation
+Act, 1996 (hereafter the ‘A&C Act’), inter alia, praying that respondent
+no.1, Teestavalley Power Transmission Limited (hereafter ‘TPTL’), be
+restrained
+from
+invoking
+the
+Bank
+Guarantees
+bearing
+no.
+0910310BG0000163 and 0910310BG0000165 issued by respondent
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 2 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 2 of 27
+no.2, State Bank of India. In the alternative, AIPL further prays that
+respondent nos. 2 and 3 (collectively referred to as ‘SBI’) be directed to
+not entertain any invocation of the aforementioned Bank Guarantees
+and to not encash the same.
+2.
+The aforementioned Bank Guarantees are referred to as BG-163
+and BG-165 and are collectively referred to as ‘the BGs in question’.
+The present value of BG-163 is ₹7,11,04,475/- and that of BG-165 is 
+₹61,71,284/-.  
+3.
+Mr Ray, learned counsel appearing for AIPL, contended that
+TPTL is not entitled to invoke the BGs in question as the same are not
+unconditional Bank Guarantees and the requisite conditions for
+invoking the same – that AIPL has failed to perform the contract in
+question; has been called upon to pay the sum advanced; and has failed
+to pay the same – have not been met. According to him, it is not
+established that AIPL has failed to perform the contract in question, and
+therefore, the conditions in the underlying Contract have not been
+fulfilled. He submitted that since there is no finding of any Court or
+Tribunal of competent jurisdiction that AIPL has failed to fulfil its
+obligations under the terms of the Contract with TPTL, the BGs in
+question cannot be invoked.
+4.
+It is AIPL’s case that the issues involved in the present petition
+are no longer res-integra in view of the decision of a Coordinate Bench
+of this Court in Abir Infrastructure Private Ltd. v. Teestavalley Power
+Transmission Ltd. & Ors : 214 (2014) DLT 235. AIPL contends that
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 3 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 3 of 27
+this Court had considered the wordings of the BGs in question and had
+rejected
+TPTL’s
+contention
+that
+the
+BGs
+in
+question
+were
+unconditional. The Court found that the BGs in question were
+conditional and could be invoked only if the conditions were met.
+5.
+The controversy in the present case arises in the following
+context :-
+5.1
+The disputes between AIPL and TPTL arises in respect of an
+Agreement dated 22.02.2010 (hereafter ‘the Contract’) that was entered
+into between TTPL and a consortium of AIPL and M/s Deepak Cable
+India Limited for “the construction of 400 KV D/C Transmission Line
+from the 1200 MW TEESTA III Hydro Electric Project in the State of
+Sikkim to the Kishanganj Pooling Station in the State of Bihar spanning
+a length of approximately 212 KM” (hereafter ‘the Project’).
+5.2
+The Project was divided into two geographical sections. The first
+section stretched from TEESTA III Hydro Electric Project in the State
+of Sikkim to Panighata, West Bengal (termed as ‘Package A-1’). The
+second section stretched from Panighata, West Bengal to Kishanganj,
+Bihar (termed as ‘Package A-2’). The scope of work under the Project
+in respect of each section was covered under two Agreements – being
+the Supply Agreement and Service Agreement.
+5.3
+The
+consideration
+payable
+for
+the
+Supply
+and
+Service
+Agreements for the first section Package A-1 was agreed at
+₹1,08,39,99,596/- (Rupees One Hundred and Eight Crores, Thirty Nine 
+Lakhs, Ninety Nine Thousand, Five Hundred and Ninety Six only) and
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 4 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 4 of 27
+₹117,41,06,487/- (Rupees One Hundred and Seventeen Crores, Forty 
+One Lakhs, Six Thousand, Four Hundred and Eighty Seven only)
+respectively. The consideration for the Supply and Service Agreements
+for Package A-2 was agreed at ₹54,97,41,986/- (Rupees Fifty Four 
+Crores, Ninety Seven Lakhs, Forty One Thousand, Nine Hundred and
+Eighty Six only) and ₹36,72,49,533/- (Rupees Thirty Six Crores, 
+Seventy Two Lakhs, Forty Nine Thousand, Five Hundred and Thirty
+Three only) respectively. Thus, the aggregate consideration for the
+works under the Supply and Service Agreements, which were covered
+under the scope of the Contract, was thus ₹317,50,97,602/- (Rupees 
+Three Hundred and Seventeen Crores, Fifty Lakhs, Ninety Seven
+Thousand, Six Hundred and Two only).
+5.4
+AIPL claims that immediately on notification of the Award of the
+Contract on 18.11.2009, it mobilised its manpower, equipment and
+other resources to execute the Contract.
+5.5
+Admittedly, the Contract could not be executed within the
+stipulated period and there were substantial delays. AIPL claims that
+the Contract was delayed for various reasons attributable to TPTL. It
+claims that after mobilization of its resources, it found that TPTL had
+not even obtained the necessary clearances such as forest clearance or
+the Right of Way (RoW) under the India Telegraph Act, 1885. The other
+statutory approvals were also not obtained. In view of the delays caused
+for reasons beyond the control of AIPL, the time for executing the
+Contract was extended from time to time. AIPL further states that TPTL
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 5 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 5 of 27
+had also not done the preliminary necessary work of planning the
+Project and was not equipped to execute the Contract.
+5.6
+In 2010, a Core Committee was constituted at the instance of
+TPTL and the said committee was of the opinion that certain new
+equipment and machinery ought to be used to execute the works instead
+of using conventional methods. AIPL states that it had complied with
+the said requirement and purchased the equipment and machinery as
+desired by the Core Committee, for speeding up the execution of the
+Contract and meeting the various timelines. However, the cost of the
+said machinery was not reimbursed to AIPL.
+5.7
+AIPL further states that in addition to the reasons attributable to
+TPTL, the Project was also delayed on account of other reasons not
+attributable to either parties such as the Gorkhaland agitation in the
+years 2009 to 2011 and occurrence of an earthquake in the State of
+Sikkim in September, 2011 that resulted in a major damage. AIPL states
+that despite the abovementioned delays on the part of TPTL and/or for
+reasons beyond the control of AIPL, it completed 74% of the work till
+14.05.2014.
+5.8
+AIPL had furnished eight Bank Guarantees to TPTL aggregating
+₹56,95,85,144/- including the BGs in question. The BGs in question 
+were to secure TPTL in respect of repayment/recovery of funds
+advanced by TPTL. BG-163, as initially submitted, was for a value of
+₹15,85,05,417/- and BG-165, as initially submitted, was for a value of 
+₹2,80,69,966/-.  
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 6 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 6 of 27
+5.9
+On 14.05.2014, TPTL sought to invoke all the eight Bank
+Guarantees for an aggregate amount of ₹47,90,73,153/-. BG-163 and 
+BG-165 were invoked for a sum of ₹8,83,85,339/- and ₹76,78,053/-
+respectively.
+5.10
+The BGs in question were furnished by AIPL against advance
+payments, which were to be adjusted in tranches from payments against
+Running Account Bills (RA Bills). The values of the BGs in question
+were thus, required to be reduced corresponding to the adjustment of
+advance payments.
+5.11
+Aggrieved by the action of TPTL in invoking the Bank
+Guarantees, AIPL filed a petition under Section 9 of the A&C Act,
+before this Court, being OMP No. 557/2014, seeking stay of invocation
+of the eight Bank Guarantees aggregating ₹47,90,73,153/- furnished by 
+AIPL in terms of the Contract.
+5.12
+This Court passed an ad-interim order dated 16.05.2014 in the
+said petition staying the encashment of the Bank Guarantees subject to
+the same being kept alive. TPTL appealed against the said order under
+Section 37 of the A&C Act before the Division Bench of this Court
+[being FAO (OS) 250/2014]. The said appeal was disposed of by the
+Division Bench by an order dated 21.05.2014 directing the banks to
+remit the entire amount covered by the Demand Drafts issued by SBI to
+the Registrar General of this Court. The Registrar General was directed
+to keep the amount in a Fixed Deposit in UCO Bank, in its name. And,
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 7 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 7 of 27
+the matter was remanded to the learned Single Judge to pass a fresh
+order.
+5.13
+In terms of the order dated 21.05.2014 passed in FAO (OS)
+250/2014, a sum of ₹47,90,73,153/- was deposited in this Court in a 
+Fixed Deposit for a period of one year in the name of the Registrar
+General of this Court.
+5.14
+On 30.05.2014, TPTL terminated the Contract.
+5.15
+On 03.09.2014, this Court passed a judgment disposing of
+AIPL’s petition under Section 9 of the A&C Act [Abir Infrastructure
+Private Ltd. v. Teestavalley Power Transmission Ltd. & Ors : 214
+(2014) DLT 235]. This Court held that six of the eight Bank Guarantees
+(all except the BGs in question) were unconditional Bank Guarantees
+and thus, their invocation could not be interdicted except in a case of
+egregious fraud or special equities. The Court held that since no such
+special circumstances existed, no interference was warranted to injunct
+invocation of the Bank Guarantees.
+5.16
+Insofar as the BGs in question are concerned, this Court held that
+the said Bank Guarantees were conditional and the conditions had not
+been met. Accordingly, this Court interdicted the invocation of the two
+BGs in question.
+5.17
+Thereafter, on 01.11.2014, disputes between AIPL and TPTL
+were referred to an Arbitral Tribunal presided by Justice (Retired) A.S.
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 8 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 8 of 27
+Anand, former Chief Justice of India, Justice (Retired) Deepak Verma
+and Justice (Retired) S N Krishna.
+5.18
+It is averred in the petition that subsequently Teesta Urja Limited
+(hereafter ‘TUL’), Holding Company of TPTL intervened and, offered
+to amicably resolve the disputes. AIPL states that it was also keen for a
+negotiated settlement and readily accepted TUL’s overture.
+5.19
+Thereafter, TUL constituted a three member Committee to
+examine the disputes between the parties. It is averred that TUL
+considered the relevant issues and found that TPTL’s decision to
+terminate the Contract and to have the same executed at the risk and
+costs of AIPL was not justified. The Committee recommended that the
+amount of ₹38,30,09,761/- collected by encashment of the six Bank 
+Guarantees be refunded along with interest. AIPL claims that despite
+the above it has not received any payments in terms of the
+recommendations made by the Committee.
+5.20
+On 30.01.2019 Corporate Insolvency Resolution Process was
+initiated against AIPL.
+5.21
+On 18.06.2020, TPTL once again sent a letter to AIPL
+demanding a sum of ₹7,72,75,759/- being the unadjusted outstanding 
+amounts against the initial advances made to AIPL. TPTL further stated
+that if the payment as demanded was not made, it would invoke the BGs
+in question. The Resolution Professional in control of AIPL responded
+by a letter dated 23.06.2021 disputing the invocation of the BGs in
+question as the same were held to be conditional by this Court. The said
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 9 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 9 of 27
+letter was followed by another letter dated 25.06.2020 requesting that
+the BGs in question be permitted to be kept alive for a further period of
+six months in terms of the decision of this Court dated 03.09.2014 in
+OMP 557/2014. TPTL had not consented to the same. Consequently,
+AIPL has filed the present petition.
+Submissions
+6.
+Mr. Ray, learned counsel appearing for AIPL, submitted that in
+view of the decision of this Court in OMP No.557/2014, TPTL is
+interdicted from invoking the BGs in question. The Court had held that
+the BGs in question were conditional and the said decision has attained
+finality. Thus, TPTL could not invoke the BGs in question without any
+Court or Tribunal finding that AIPL had failed to fulfil its obligations
+under the terms of ‘the Contract’.
+7.
+He pointed out that in terms of the BGs in question, the obligation
+of SBI was limited to “an amount equal to the outstanding balance of
+the advance payment, taking into account such amounts, which have
+been repaid by the Contractor from time to time in accordance with the
+terms of payment of the said Contract as evidenced by appropriate
+payment certificates”.
+He submitted that in view of the above, the
+original value of the BGs in question were reduced. The value of BG-
+163 was reduced to ₹7,11,04,075/- on 29.06.2021 and, the value of BG-
+165 was reduced to ₹61,71,284/- on 28.06.2021.  He submitted that 
+currently payment against the RA Bills aggregating ₹12.44 crores were 
+pending and therefore, no amount was payable by AIPL against the BGs
+in question.
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 10 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 10 of 27
+8.
+Mr. Ray, learned counsel appearing for AIPL, also emphasized
+that there was no ground for TPTL to invoke the BGs in question since
+the three-member Committee constituted by TUL also found that the
+termination of the Contract was not justified. It was recommended that
+the amount of ₹38.30 crores recovered by TPTL by invoking the six 
+Bank Guarantees be refunded to AIPL along with interest.
+9.
+Mr. Johri, learned counsel appearing for TPTL submitted that this
+Court had, in Abir Infrastructure Private Ltd. v. Teestavalley Power
+Transmission Ltd. & Ors (supra) [order dated 03.09.2014 passed in
+OMP No.557/2014], interdicted the invocation of the BGs in question
+on the ground that the necessary conditions as stipulated in the BGs in
+question were not complied with. However, the same did not mean that
+TPTL was restrained from invoking the BGs in question after
+complying with the conditions stipulated therein. He submitted that the
+letters invoking the BGs in question did not expressly state that AIPL
+had failed to fulfil its obligations under the Contract; it had been called
+upon to pay the outstanding advance payments; and it had failed to do
+so. He submitted that the letters now sent to SBI fulfil the aforesaid
+conditions and therefore, the earlier decision in Abir Infrastructure
+Private Ltd. v. Teestavalley Power Transmission Ltd. & Ors (supra)
+does not come in the way of the TPTL to invoke the BGs in question.
+10.
+He submitted that there has been a material change after the said
+decision was rendered on 03.09.2014. The Contract was terminated and
+TPTL had got the project completed from another Contractor at the risk
+and cost of AIPL and its JV partner. The project was completed in the
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 11 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 11 of 27
+year 2019, TPTL has incurred additional costs and TPTL quantified the
+claim against AIPL at ₹470.33 crores.  He submitted that the petitions 
+under the Insolvency & Bankruptcy Code, 2016 (IBC) against AIPL
+and its JV partner Deepak Cables (India) Ltd. were admitted and there
+is a serious doubt as to whether the AIPL or its erstwhile JV partner can
+meet its obligations.
+Reasons and Conclusion
+11.
+The controversy in the present petition is within a narrow
+compass. According to AIPL, TPTL cannot invoke the BGs in question
+in view of the decision of this court in Abir Infrastructure Private Ltd.
+v. Teestavalley Power Transmission Ltd. & Ors (supra). AIPL claims
+that in terms of the said decision, the BGs in question were held to be
+conditional and could not be invoked till the stipulated conditions were
+satisfied. One of the primary conditions to be satisfied is the failure of
+AIPL to fulfil its obligations under the Contract and, according to AIPL,
+the said condition would be satisfied only when the Court or the Arbitral
+Tribunal determines the same. According to AIPL, TPTL’s assertion
+that AIPL had failed to fulfil its obligations under the Contract would
+not satisfy the condition as stipulated under the BGs in question.
+12.
+Thus, the principal question to be adjudicated is whether the
+decision of this Court in Abir Infrastructure Private Ltd. v. Teestavalley
+Power Transmission Ltd. & Ors (supra) precludes TPTL from invoking
+the BGs in question and the Arbitral Tribunal finally determines that
+AIPL has failed in performance of its obligations under the Contract
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 12 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 12 of 27
+and rejects its challenge to the termination of the Contract?
+13.
+Before proceeding further, it would be pertinent to refer to the
+relevant terms of the BGs in question. The relevant extract from BG
+No.165 is set out below:
+“We refer to the Contract (“the contract”) signed on
+22.2.2010 between you and Joint Venture of M/s. Abir
+Infrastructure Private Limited having its Registered
+Office at Ground Floor, C-Block, Plot No.14, Factory
+Road, Adj. to Safdarjung Hospital, Ring Road, New
+Delhi-1100 29 and M/s. Deepak Cables (India) Limited
+having its Registered Office at No.7, N.S.Iyenger
+Street, Sheshadripuram, Bangalore – 560020 (“the
+contract”)
+concerning
+Ex-works
+Supply
+of
+all
+equipment and materials including mandatory spares
+for the complete execution of Tower Package – A1 for
+400 KV D/C (Quad) Teesta III HEP – Panighata section
+of
+Teesta
+III
+–
+Kishanganj
+Transmission
+Line
+associated with 1200 MW Teesta III HEP at North
+Sikkim and concerning Services Contract for providing
+all services in respect of equipment supplied under
+Supply Contract for providing all services in respect of
+equipment supplied under Supply Contract for the
+complete execution of the Tower Package – A1 for 400
+KV D/C (Quad) Teesta III HEP – Panighata section of
+Teesta III – Kishanganj Transmission Line associated
+with 1200 MW Teesta III HEP at North Sikkim.
+Whereas, in accordance with the terms of the said
+Contract, the Employer has agreed to pay or cause to be
+paid to the Contractor an Advance Payment in the
+amount of Rs.26,17,42,403/- (Rupees Twenty Six
+Crores Seventeen Lakhs Forty Two Thousand Four
+Hundred and Three only).
+By this letter we, the undersigned, State Bank of India,
+Industrial
+Finance
+Branch,
+Raj
+Bhavan
+Road,
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 13 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 13 of 27
+Somajiguda, Hyderabad – 500082, a Bank (which
+expression shall include its successors, administrators,
+executors and assigns) having its Registered/Head
+Office at State Bank Bhavan, Central Office, 8th Floor,
+Madame Cama Marg, Mumbai-400021, Maharashtra,
+do hereby irrevocably guarantee repayment of the said
+amounts upon the first demand of the Employer without
+cavil or argument in the even that the Contractor fails
+to commence or fulfil its obligations under the terms of
+the said Contract, and in the event of such failure,
+refuses to repay all or part (as the case may be) of the
+said advance payment to the Employer.
+Provided always that the Bank’s obligation shall
+be limited to an amount equal to the outstanding
+balance of the advance payment, taking into
+account such amounts, which have been repaid by
+the Contractor from time to time in accordance
+with the terms of payment of the said contract as
+evidenced by appropriate payment certificates…”
+14.
+The language of BG No.163 is also similar in material aspects.
+15.
+As noted above, the controversy in the present case is centered
+around the condition regarding failure on the part of the Contractor
+[AIPL] to fulfil its obligations under the terms of the said Contract.
+16.
+In Abir Infrastructure Private Ltd. v. Teestavalley Power
+Transmission Ltd. & Ors (supra), it was contended on behalf of AIPL
+that the BGs in question were conditional and the conditions as
+stipulated therein were not met. It was further contended that even if
+the same were met, the due process, as provided under the BGs in
+question, had not been followed. The relevant contentions as noted by
+the Court in its decision are reproduced below:
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 14 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 14 of 27
+“14. The submissions advanced by Mr. Rajiv Nayar,
+learned Senior counsel for the petitioner can be
+summarised in the following manner:
+a)
+Firstly, learned Senior counsel for the petitioner has
+argued that all the bank guarantees which are
+subject matter of the encashment are conditional in
+nature and the encashment/disbursement of the
+bank guarantee amount is contrary to the terms of
+the bank guarantee and cannot be allowed. He has
+argued that there are different terms which are
+provided in the respective bank guarantees which
+make them conditional in nature. It has been argued
+that the wordings of the bank guarantee which are
+different
+from
+the
+ones
+contained
+in
+the
+unconditional bank guarantee make them obvious
+that there are certain conditions laid down in the
+bank guarantees and upon fulfilment of the said
+conditions only, the bank guarantees can be put to
+encashment.
+b)
+Secondly, learned Senior counsel drawing the aid
+from the previous submissions has read over the
+terms
+and
+conditions
+provided
+in
+the
+bank
+guarantee
+No.0910310BG0000163
+and
+0910310BG0000165 which are for the sums of
+Rs.8,83,85,339 and Rs.76,78,053 respectively. The
+said terms read as under :
+“2.9.2 It is submitted that the Bank Guarantee no.
+0910310BG0000163
+&
+0910310BG0000165 for Advance Payment
+amounting
+to
+Rs.
+8,83,85,339/-
+and
+76,78,053/- respectively (aggregating to Rs.
+9,60,63, 692/-} are completely conditional
+bank guarantees. The condition precedent
+for
+invocation
+of
+the
+aforesaid
+Bank
+Guarantees is reproduced hereunder:
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 15 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 15 of 27
+“….do hereby irrevocably guarantee
+repayment of the said amounts upon
+the first demand of the Employer
+without cavil or argument in the
+event that the Contractor fails to
+commence or fulfill its obligations
+under the terms of the said Contract,
+and in the event of such failure,
+refuses to repay all or part (as the
+case may be) of the said advance
+payment to the Employer……”
+As per the learned Senior counsel for the petitioner,
+the aforementioned bank guarantees are conditional in
+nature and are dependent upon the fulfilment of the
+following conditions:
+a)
+The failure of the petitioner to commence
+operations under the terms of the contract or
+b) The failure of the petitioner to fulfil its obligations
+under the terms of the contract and consequently.
+c) After such a failure (which implies a notice of the
+same to be sent to the contractor) there is a demand by
+the respondent of such advance money.
+d) Thereafter the petitioner refuses to repay such
+advance payment.
+It has been argued that firstly none of the
+aforementioned conditions in the instant case gets
+attracted and even they are, still the due process provided
+in the bank guarantee prior to invocation of the said bank
+guarantee is not followed and as such the said invocation
+of the bank guarantees is vitiated.
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 16 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 16 of 27
+c) It has been argued by the learned senior counsel for the
+petitioner that it is not the respondents’ case that the
+petitioner has failed to commence its obligations and
+the same is also not factually correct as the respondent’s
+own case is that the petitioner has completed more than
+50 % of the works. It has been argued that even if it
+assumed that there exists any such case of the
+respondents that the petitioner has failed to fulfil the
+obligations contained in the contract, the said failure
+ought to have been pointed out to the petitioner and in
+the instant case the respondent issued the cure notice
+dated 15th May, 2014 post the invocation of the bank
+guarantees. The said invocation of the bank guarantees
+is vitiated by the prior notice which ought to have been
+given by the respondent No.1 to the petitioner and this
+also reflects the conduct of the respondent No.1 that the
+actions of the respondent No.1 are actuated by mala
+fide and fraud without putting the petitioner to notice
+on the alleged breaches committed by the petitioner
+prior to the invocation of the bank guarantees.
+d) Learned Senior counsel for the petitioner has argued that
+the respondent No.1 has not made any demand of the
+money advanced to the petitioner nor there exists any
+refusal on the record to show that there was ever any
+money advanced to the petitioner. As such, it has been
+argued by the learned Senior counsel for the petitioner
+that none of the afore noted conditions provided in the
+bank guarantees are satisfied as there was neither a
+notice prior to invocation nor any demand coupled with
+the refusal and as such the invocation of the bank
+guarantees is required to be prevented by the Court as
+the invocation is clearly contrary to the conditions of
+the bank guarantees. It has been further argued by the
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 17 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 17 of 27
+learned Senior counsel for the petitioner that even the
+invocation letter does not state any fact of demand
+made by the respondent and/ or refusal there of or the
+non fulfilment of the obligations on the part of the
+petitioner or anything connected with the same, thus,
+the invocation letter is also bad.
+In support of the proposition that the conditions
+contained in the bank guarantee are to be strictly
+construed, learned Senior counsel for the petitioner has
+relied upon the judgment passed in the case of
+Hindustan Construction vs. State of Bihar, (1999) 8
+SCC 436.”
+17.
+It is apparent from the above that the thrust of AIPL’s contentions
+was that there was no failure on its part to fulfil the obligations and even
+if it was so, TPTL had not taken the necessary steps to point out the
+same. AIPL had also emphasized that after the BGs in question were
+invoked, TPTL had issued a Cure Notice dated 15.05.2014. The
+invocation of the BGs in question was vitiated as prior notice was not
+given by TPTL. The Court considered the aforesaid contentions;
+examined the letters sent by TPTL for invoking the BGs in question,
+and inter alia, held as under:
+“23. From the reading of the terms of the Bank
+guarantees
+Nos.
+0910310BG0000163
+and
+0910310BG0000165, it can be seen that the bank has
+guaranteed to repayment to said amount to the
+employer without cavil in the event the contractor fails
+to commence or fulfil the obligations under the terms
+of the contract and in the event of such failure refuses
+to repay all or part of the said advance payment to the
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 18 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 18 of 27
+employer. It is thus apparent that the liability of the
+bank would commence when the bank is informed
+about the demand on the ground of the failure to
+commence or fulfilment of the obligations under the
+terms of the contract and the refusal to pay the said
+sum or part of the advanced sum. The liability of the
+bank as per the terms of the guarantee is also limited to
+the amount equal to the outstanding balance of the
+advance payment and taking into account such amount
+which has been repaid by the contractor from time to
+time. Thus, the repayment of the advance sum and/ or
+adjustment
+by
+way
+of
+the
+repayment
+and/or
+information as to refusal to repay by the contractor the
+said advance sum or part thereof are crucial facts which
+affect the liability of the bank as per the terms of the
+bank
+guarantee
+Nos.0910310BG0000163
+and
+0910310BG0000165. Accordingly, the said facts of
+the refusal to repay by the contractor or repayment of
+the advanced sum either in part or in full and
+adjustment of the advanced sum by way of the payment
+are prerequisite conditions on the basis of which, the
+bank can honour the guaranteed sum after getting itself
+satisfied in terms of the bank guarantee.
+***
+***
+***
+***
+25. I have considered the submissions advanced by the
+learned counsel for the parties on the terms of the bank
+guarantees
+Nos.
+0910310BG0000163
+and
+0910310BG0000165
+being
+conditional
+or
+unconditional in nature and I would say the terms of
+the two bank guarantees are distinctly worded and the
+plain reading of the same do not indicate at least on
+prima facie basis that the said two bank guarantees are
+unconditional in nature, though in the contract, they are
+mentioned as unconditional and similar was the
+position when the exparte order was passed on 16th
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 19 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 19 of 27
+May, 2014. The reasons for my prima facie view on the
+two bank guarantee Nos. 0910310BG0000163 and
+0910310BG0000165 are as under:
+a)
+It is well settled principle of law that only the terms
+of the bank guarantee are required to be read in
+order to discern whether the bank guarantees are
+conditional
+or
+unconditional
+in
+nature.
+In
+Mahatma Gandhi Sakkare Karkhane v. National
+Heavy
+Engineering
+Coop
+Ltd.
+(supra)
+the
+Supreme Court has laid down this proposition in
+para 28 by approving the earlier judgment of
+Hindustan Construction Co. Ltd. v. State of Bihar
+(supra) and observed that the terms of the bank
+guarantee are extremely material in order to
+understand the nature of the bank guarantee. Upon
+applying the said principle of law to the case in
+hand, it can be seen that the clauses in the said bank
+guarantee
+though
+provide
+that
+the
+bank
+is
+irrevocably guaranteeing to repay the amount
+without of any cavil or argument but the said
+guarantee of the bank is further conditioned by the
+eventuality of the failure of the contractor to fulfil
+its obligation and in the event of such failure, his
+refusal to pay all or part of the advance payment.
+Under these circumstances, the guarantee of the
+bank to pay by way of plain reading is not
+completely unconditional in nature which may
+enable the bank to repay the sum on mere
+demand but the demand has to be made to the
+bank
+and
+should
+contain
+the
+necessary
+ingredients including the petitioners failure to
+fulfil the obligations contained in the contract
+and its refusal to repay. The said position is
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 20 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 20 of 27
+possible once the petitioner is alarmed about the
+repayment of the advanced sum or the part thereof
+and has been given chance to repay the same and
+the guarantee of the bank shall commence once the
+petitioner/contractor
+refuses
+to
+repay.
+The
+invocation letters dated 14th May, 2014 do not
+contain
+the
+said
+ingredients
+nor
+the
+respondent’s counsel in their arguments oral as
+well in the writing suggest the said position. On
+the contrary, the respondent continued to argue that
+the said bank guarantees are unconditional in
+nature and the wordings are to be understood in
+context. The said submissions are rejected as
+meritless in view of my reasons stated in the
+present paragraph.
+b) The clauses of these two bank guarantees Nos.
+0910310BG0000163 and 0910310BG0000165 are
+distinctly worded from the other ones in as much
+as in the cases of unconditional bank guarantees
+where the bank has no role to play in the
+transactions, the stipulations like “beneficiary is
+the sole judge to determine the breach” or “bank
+has no role to further enquire about the payment to
+be made” or “without going into the enquiry” or
+related terms are normally mentioned in the
+guarantee documents. In the two bank guarantees,
+such stipulations like that the beneficiary is the sole
+judge or “without going into further enquiry as to
+payment or correctness of the payment” or related
+one are clearly not present. Thus, the judgments
+rendered in the cases of UP Coop Federation
+Limited v. Singh Consultants and Engineers (P)
+Ltd. (supra) and Mahatma Gandhi (supra) and
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 21 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 21 of 27
+Himadri Chemicals Ltd v. Coal Tar Refining
+Company (supra) and line of the authorities passed
+on the basis that in unconditional guarantee
+documents where beneficiary is the sole judge and
+the party cannot raise the dispute are not applicable
+to the factual position in hand in view of the
+differences in the wordings of the Bank guarantees.
+Therefore, the submission of the Dr. Singhvi,
+learned Senior counsel for the respondent that it is
+understanding and belief of the respondent which
+is to be taken in to consideration while seeking the
+repayment of the advanced sum from the bank at
+the time of encashing the bank guarantee is
+required to be rejected. This is due to the reason
+that the wordings of the guarantee documents do
+not permit the beneficiary to be the sole judge of
+the recovery of the advanced sum. On the other
+hand, the wordings of the clauses of the guarantee
+documents provide the objective criteria for
+enabling the bank to honour the guarantee and
+repay the advance which is that by first looking
+into the contractors failure to perform the
+obligation and refusal to repay the advanced
+sum
+and
+thereafter
+further
+taking
+into
+consideration the payments already made by
+the contractor by looking into the payment
+certificates. In such circumstances, it cannot be
+readily inferred that the two bank guarantees are
+totally unconditional in nature which can be
+honoured on mere demand which does not fulfil
+the criteria for invocation as per the terms of the
+bank guarantee.
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 22 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 22 of 27
+c)
+The submission of Dr. Singhvi, learned Senior
+counsel that the clause 9.2.2 of the contract has to
+be read along with the bank guarantees while
+examining the petitioner’s plea that the bank
+guarantees are conditional or unconditional as the
+said clause 9.2.2 mandates that the petitioner shall
+furnish the unconditional bank guarantees towards
+the advanced sum. I have examined the said
+submission of Dr. Singhvi and would say that the
+same runs contrary to the submission of learned
+counsel for the respondent that the bank guarantee
+is a contract independent to that of the underlying
+contract. If the terms of the bank guarantees plainly
+condition the liability of the bank by fulfilment of
+certain pre-requisites like the failure of the
+petitioner to perform the obligation and in that
+event his refusal to repay. The said mechanism is
+required to be followed by the respondent at the
+time of the invocation and non following of the
+same cannot be justified by substituting the terms
+of
+underlying
+agreement
+in
+the
+guarantee
+document. If the submission of the respondent is
+that the petitioner was mandated to furnish an
+unconditional bank guarantee and now is arguing
+that the bank guarantee is conditional, that by itself
+does not absolve the Court from examining the
+terms of the bank guarantees in order see through
+the true import of the terms of the bank guarantees.
+Therefore, whatever is the effect of the clause
+9.2.2, if the terms of the bank guarantee are clear
+and plain, the court cannot go contrary to the terms
+of the bank guarantee document to hold otherwise.
+The aspect of the breach of the said terms if any
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 23 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 23 of 27
+has to be looked into at the time of preferring claim
+or
+cross
+claim
+in
+the
+arbitral
+proceedings.
+Therefore, this court is unable to accede to the
+submission advanced by Dr. Singhvi, learned
+Senior counsel for the respondent.
+d) The submission of Dr. Singhvi, learned Senior
+counsel for the respondent that the order dated 16th
+May, 2014 records that the bank guarantees are
+unconditional in nature and thus this court should
+be persuaded to take the said position is also not
+correct in as much as the said view was taken by
+the court at ex-parte ad interim stage. The Court
+after hearing the parties and examining the
+documents filed by them and the import of them
+can also form an opinion different from the one
+taken at ex-parte ad interim stage. Therefore, the
+said submission of the respondent counsel is also
+rejected.
+In view of my aforementioned reasons, prima
+facie,
+I
+find
+that
+the
+bank
+guarantees
+Nos.0910310BG0000163
+and
+0910310BG0000165 are conditional in nature and
+the invocation of the said bank guarantees by way
+of the letter dated 14th May, 2014 without
+fulfilment
+the
+mechanism
+provided
+in
+the
+guarantee documents by informing the petitioner
+about the repayment of the advanced sum and
+seeking the refusal or acceptance to repay is clearly
+contrary to the express terms of the guarantee
+documents. The said invocation is therefore prima
+facie contrary to the terms of the bank guarantee
+Nos.0910310BG0000163
+and
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 24 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 24 of 27
+0910310BG0000165 and as such liable to be
+interfered with by this Court.”
+18.
+It is clear from the aforesaid decision that this Court had found
+that the BGs in question were conditional. However, there is no finding
+that the condition regarding failure on the part of AIPL to fulfil its
+obligations in terms of the Contract would be met only when a Court or
+a Tribunal of competent jurisdiction returns a finding to the aforesaid
+effect. The condition stipulated in the BGs in question would be met
+on TPTL expressly informing SBI that the said condition had been met
+and calling upon SBI to pay the amount under the BGs in question. The
+Court also observed that the BGs in question provided for an objective
+criteria that could be looked into by the Bank.
+19.
+The Court further held that “under these circumstances, the
+guarantee of the bank to pay by way of plain reading is not completely
+unconditional in nature, which may enable the bank to repay the same
+on mere demand but the demand has to be made to the bank and should
+contain the necessary ingredients including the petitioner’s failure to
+fulfil the obligations contained in the contract and its refusal to repay.”
+20.
+The Court found the BGs in question to be conditional upon a
+demand being made in express terms thereof. The Court did not hold
+that conditions regarding failure of the Contractor to fulfil its
+obligations under the Contract would be met only on a competent court
+determining the same.
+21.
+This would also run contrary to the express undertaking of SBI
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 25 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 25 of 27
+to pay the amounts upon the first demand of the employer [TPTL]
+without cavil or argument. Thus, it follows that if TPTL had made a
+demand expressly in conformity with the conditions stipulated in the
+BGs in question, SBI would be bound to make the payments. Since the
+letters of invocation of the BGs in question sent to SBI were not in
+conformity with the conditions and did not state that the aforesaid
+conditions were satisfied, this Court had interdicted the invocation of
+the BGs in question. It is also material to note that this Court had also
+directed that AIPL would keep the BGs in question alive by renewing
+them if the need arose. It was further clarified that the same did not
+preclude the parties to deal with the BGs in question as per the
+mechanism provided under the guarantee documents.
+22.
+Mr Ray laid much emphasis on the observation made in Abir
+Infrastructure Private Ltd. v. Teestavalley Power Transmission Ltd. &
+Ors (supra):
+“The submission of the Dr. Singhvi, learned Senior
+counsel for the respondent that it is understanding and
+belief of the respondent which is to be taken in to
+consideration while seeking the repayment of the
+advanced sum from the bank at the time of encashing
+the bank guarantee is required to be rejected. This is due
+to the reason that the wordings of the guarantee
+documents do not permit the beneficiary to be the sole
+judge of the recovery of the advanced sum. On the other
+hand, the wordings of the clauses of the guarantee
+documents provide the objective criteria for enabling the
+bank to honour the guarantee and repay the advance
+which is that by first looking into the contractors failure
+to perform the obligation and refusal to repay the
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 26 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 26 of 27
+advanced sum and thereafter further taking into
+consideration the payments already made by the
+contractor by looking into the payment certificates.
+23.
+The aforesaid decision cannot be construed to mean that the BGs
+cannot be invoked prior to any court/arbitral tribunal determining that
+AIPL had failed to perform its obligations under the Contract. The
+Court had not accepted the contention that the understanding or belief
+of TPTL was sufficient and clarified that the objective criteria as
+specified in the petition was required to be satisfied. Clearly, the same
+would be satisfied on TPTL communicating the demand in terms of the
+BGs in question. SBI can examine the same but such examination is
+limited to satisfying itself that the demand is in terms of the BGs in
+question; it is not required to determine the dispute between the parties
+or to take a view on the same.
+24.
+In the present case, TPTL had terminated the Contract and
+consequently the remaining works had to be contracted to another
+contractor, who has since completed the same. TPTL had also made a
+claim of approximately ₹470.33 crores against AIPL and its JV partner.   
+25.
+It is also pertinent to note that the BGs in question were issued to
+secure TPTL against the advance payments made to AIPL. The said
+advance payments were to be adjusted against the demand to be made
+pursuant to the RA bills. It is not disputed that part of the advances
+were duly adjusted against the RA bills and the value of the BGs in
+question were reduced correspondingly. It is also not disputed that the
+BGs in question are sought to be invoked in respect of advances that
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified
+
+
+--- PAGE 27 ---
+O.M.P.(I) (COMM.) 163/2020
+Page 27 of 27
+remain unrecovered or unadjusted. AIPL claims that it has presented
+the RA Bills to the extent of ₹12.44 crores. However, TPTL does not 
+admit that the same is payable. The disputes between the parties are yet
+to be adjudicated/resolved.
+26.
+In the given circumstances, this Court is unwilling to accept that
+TPTL can be interdicted from invoking the BGs in question in terms
+thereof.
+27.
+Considering the above, this Court is unable to accept that TPTL
+is required to be injuncted from invoking the BGs in question or SBI is
+required to be restrained from making any payments against the same,
+pending adjudication of the disputes between the parties.
+28.
+The petition is, accordingly, dismissed.
+VIBHU BAKHRU, J
+SEPTEMBER 20, 2021
+pkv/gsr
+Digitally Signed
+By:DUSHYANT
+RAWAL
+Signature Not Verified

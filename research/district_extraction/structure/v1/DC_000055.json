@@ -1,0 +1,165 @@
+{
+  "document_id": "DC_000055",
+  "source": {
+    "sha256": "e7ba8d4f587d0874ac1f49aa6e74ec7ebe80b47fc5b474161e8ea5e78fd3085d",
+    "filename": "orders_2024_200800000272024_1.pdf",
+    "source_record_id": "DC-S3-055_6_32_1060085_2024_orders_2024_200800000272024_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 2,
+    "file_size_bytes": 22541
+  },
+  "routing": {
+    "initial_route": "NATIVE_SUSPICIOUS",
+    "fallback_used": false,
+    "route_reason": "BORDERLINE_LOW_WORD_COUNT_POSSIBLE_SHORT_ORDER"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.616
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 139,
+      "word_count": 20,
+      "raw_text": "11-09-2025\nAppellant is absent without any steps.\n \nLd. Counsel  for the Respondent is\npresent.\n \nFixing on \n 11-11-2025 \nfor\nPayment/ N.O."
+    },
+    {
+      "page_number": 2,
+      "character_count": 0,
+      "word_count": 0,
+      "raw_text": ""
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 134,
+      "word_count": 20,
+      "normalized_text": "11-09-2025\nAppellant is absent without any steps.\n\nLd. Counsel for the Respondent is\npresent.\n\nFixing on\n 11-11-2025\nfor\nPayment/ N.O."
+    },
+    {
+      "page_number": 2,
+      "character_count": 0,
+      "word_count": 0,
+      "normalized_text": ""
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 3,
+    "total_sentences": 4,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 134,
+        "word_count": 20,
+        "paragraph_count": 3,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000055_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 49,
+            "word_count": 7,
+            "sentence_count": 1,
+            "text": "11-09-2025\nAppellant is absent without any steps.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000055_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 49,
+                "word_count": 7,
+                "text": "11-09-2025\nAppellant is absent without any steps."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000055_P001_PAR002",
+            "paragraph_index": 2,
+            "character_count": 42,
+            "word_count": 7,
+            "sentence_count": 2,
+            "text": "Ld. Counsel for the Respondent is\npresent.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000055_P001_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 3,
+                "word_count": 1,
+                "text": "Ld."
+              },
+              {
+                "sentence_id": "DC_000055_P001_PAR002_SEN002",
+                "sentence_index": 2,
+                "character_count": 38,
+                "word_count": 6,
+                "text": "Counsel for the Respondent is\npresent."
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000055_P001_PAR003",
+            "paragraph_index": 3,
+            "character_count": 39,
+            "word_count": 6,
+            "sentence_count": 1,
+            "text": "Fixing on\n 11-11-2025\nfor\nPayment/ N.O.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000055_P001_PAR003_SEN001",
+                "sentence_index": 1,
+                "character_count": 39,
+                "word_count": 6,
+                "text": "Fixing on\n 11-11-2025\nfor\nPayment/ N.O."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "character_count": 0,
+        "word_count": 0,
+        "paragraph_count": 0,
+        "paragraphs": []
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 6,
+    "state_name": "Assam",
+    "district_code": 32,
+    "district_name": "Bajali",
+    "court_complex_code": 1060085,
+    "court_complex_name": "District Court Complex",
+    "year": 2024,
+    "case_type": "nan",
+    "case_number": "200800000272024",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "Writer",
+    "pdf_producer": "LibreOffice 7.3",
+    "pdf_creation_date": "D:20250911154719+05'30'",
+    "pdf_mod_date": ""
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.616,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "e7ba8d4f587d0874ac1f49aa6e74ec7ebe80b47fc5b474161e8ea5e78fd3085d",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.227735"
+  }
+}

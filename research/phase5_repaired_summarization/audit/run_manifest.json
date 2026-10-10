@@ -1,0 +1,37 @@
+{
+  "experiment_id": "PHASE5_REPAIRED_SUMMARIZATION_BM25_B8",
+  "pipeline_version": "5.2.1",
+  "timestamp": "2026-10-05T14:30:12.383882+00:00",
+  "benchmark_documents": [
+    "DC_000001",
+    "DC_000002",
+    "DC_000003",
+    "DC_000004",
+    "DC_000005",
+    "DC_000006",
+    "DC_000007",
+    "DC_000008",
+    "DC_000011"
+  ],
+  "languages": [
+    "en",
+    "ta",
+    "hi",
+    "kn",
+    "mr"
+  ],
+  "total_summaries_expected": 45,
+  "total_summaries_generated": 45,
+  "total_failures": 0,
+  "model": "qwen3-4b-instruct",
+  "model_version": "qwen3:4b-instruct",
+  "prompt_condition": "condition_c",
+  "temperature": 0.1,
+  "top_p": 0.95,
+  "max_tokens": 450,
+  "thinking_enabled": false,
+  "evidence_strategy": "BM25",
+  "evidence_budget": 8,
+  "evidence_manifest_sha256": "a6ded9f093ae56ae23e0cb6c9d99e6eb895820a855a5760bb5a69eabf1dc9b9c",
+  "summaries_parquet_sha256": "f443c0327e91f0789d4b8612d6a06577b58aaa117e62afe061cdff15f9453214"
+}

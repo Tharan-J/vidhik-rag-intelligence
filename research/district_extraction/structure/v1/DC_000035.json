@@ -1,0 +1,1954 @@
+{
+  "document_id": "DC_000035",
+  "source": {
+    "sha256": "08f2db65c3c226bcc878b82b2a7b8e7ebf09e381c96b669e6df45756256e1e46",
+    "filename": "orders_2010_201700000042010_1.pdf",
+    "source_record_id": "DC-S3-035_2_10_1020104_2010_orders_2010_201700000042010_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 12,
+    "file_size_bytes": 61657
+  },
+  "routing": {
+    "initial_route": "NATIVE_GOOD",
+    "fallback_used": false,
+    "route_reason": "HIGH_CONFIDENCE_DIGITAL_TEXT_STREAM"
+  },
+  "extraction": {
+    "selected_method": "native",
+    "extractor_name": "PyMuPDF-Native",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.9992
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1384,
+      "word_count": 222,
+      "raw_text": "IN THE COURT OF THE JUNIOR CIVIL JUDGE, ALUR.\nPresent : Sri M.K.V.Achari, Junior Civil Judge, Alur.\nMonday, this the 12th day of  November, 2018.\nO.S.No.4/2010\nBetween:\n1. B.  Shivanagi Reddy died by L.Rs.\n2. Smt. B. Akkanagamma\n3. Smt. Vedavathi\n4. B. Bhoomana Goud\n5. B. Theerthana Goud\n6. B. Karibasana Goud\n  …Plaintiffs\n    (Plaintiff Nos. 2 to 6 are added as L.Rs. of \n      plaintiff No.1 as per orders in I.A.No. 174/2013\n      dated 23-4-2014)\n                                              \nAnd\n1. H. Hussain Saheb @ Basha\n2. H. Khader @ Pedda Mabu\n3. Mohiddin @ Chinna Mabu\n     \n         …Defendants\n  \nThis suit  coming on 25-10-2018 before me for final hearing in the presence of\nSri Y.R. Mallikarjuna and Sri B. Lakshmikanth,  Advocates for the plaintiffs and of Sri A.\nAllah Bakash,    Advocate for the defendants and after hearing both sides  and having\nstood over for consideration till this day, this court delivered the following :-\nJUDGMENT\n1)   \nThis suit is filed by the plaintiffs against defendants 1 to 3 for passing decree\ndirecting the defendants to execute the registered sale deed in favour of the plaintiffs\nin respect of the suit schedule property and to receive the balance of sale\nconsideration, otherwise, the court may execute registered sale deed in respect of the\nplaint schedule property on behalf of defendants 1 to 3  and for costs of the suit."
+    },
+    {
+      "page_number": 2,
+      "character_count": 1826,
+      "word_count": 314,
+      "raw_text": "2\n2) \nThe  brief averments of the plaint are:\nThe plaintiffs submit that defendants are the sons of late H. Kale Saheb, who is\nabsolute owner of the plaint schedule property, having right and title over the plaint\nschedule property, which is self acquired property.\n3)\nOriginally  the suit is filed by late B. Siva Nagi Reddy, subsequently plaintiff Nos.\n2 to 6  were added as legal heirs of late B. Siva Nagi Reddy and proceeded with the suit\nas B.  Siva Nagi Reddy died during the pendency of the suit.\n4)\nThe plaintiffs submit that  late H. Kale Saheb sold the plaint schedule property\nto B. Siva Nagi Reddy on 31-10-2001 for  valid consideration of Rs.40,000/-.  The\nplaintiff paid Rs.33,400/- to the said H. Kale Saheb towards advance of sale\nconsideration and H. Kale Saheb  executed an unregistered sale agreement in favour\nof B. Siva Nagi Reddy  agreeing to receive the balance of sale consideration of\nRs.6,600/- and he will execute a registered sale deed in favour of late B. Siva Nagi\nReddy without creating any litigation.  The registration charges has to be born by  late\nB. Siva Nagi Reddy and the measurement expenses has to be  born by late H. Kale\nSaheb.  On 31-10-2011  late H. Kale Saheb  delivered the possession of the plaint\nschedule property to late B. Siva Nagi Reddy and since then B. Siva Nagi Reddy is in\npeaceful possession and enjoyment of the plaint schedule property.\n5)\nThe plaintiffs submit that H. Kale Saheb died leaving behind defendants as his\nlegal heirs.    During the life time of the H. Kale Saheb, B. Siva Nagi Reddy  demanded\norally to execute registered sale deed on receiving balance of sale consideration and\nto execute the registered sale deed in his favour.  The said H. Kale Saheb evaded to\nreceive the balance of sale consideration of Rs.6,600/- and to execute registered sale"
+    },
+    {
+      "page_number": 3,
+      "character_count": 1692,
+      "word_count": 288,
+      "raw_text": "3\ndeed in favour of the B. Siva Nagi Reddy.  After demise of H. Kale Saheb, B. Siva Nagi\nReddy  several times demanded the defendants orally to execute the registered sale\ndeed and to receive the balance of sale consideration and  expressed his readiness to\nfulfill his part of contract.  The defendants failed to execute the registered sale deed\nand did not receive balance of sale consideration.  Finally, B. Siva Nagi Reddy got\nissued legal notice dated 16-1-2010 to defendants calling upon them to execute\nregistered sale deed in favour of B. Siva Nagi Reddy  and to receive balance of sale\nconsideration of Rs.6,600/-.  The defendants received notices, failed to execute\nregistered sale deed in respect of the plaint schedule property in favour of B. Siva Nagi\nReddy .  Hence, the suit. \n6)\nDefendant No. 1  filed his written statement along with the adoption memo of\ndefendant Nos. 2 and 3 to adopt the written statement of defendant No.1 by them.\nThe defendants submitted that the suit framed is not maintainable either in law or on\nfacts.   The relationship with the late H. Kale Saheb as sons and that the plaint\nschedule property is  self acquired property of  late H. Kale Sab are admitted and\ndenied the rest of the averments of the plaint.\n7)\nThe defendants denied the execution of the sale agreement  by their father H.\nKale Saheb in respect of the plaint schedule property and submitted that their father\nduring the life time is in possession and defendants after demise of their father came\nto possession of plaint schedule property.\n8)\nIt is alleged that the sale agreement dated 31-10-2001 is false one, fabricated\none and also pleaded that the sale agreement is forged one."
+    },
+    {
+      "page_number": 4,
+      "character_count": 1818,
+      "word_count": 318,
+      "raw_text": "4\n9)\nThe defendants submit that during the lifetime of their father never at any\npoint of time B. Siva Nagi Reddy demanded either orally or in writing   and legal notice\nissued only after demise of their father and further submitted that B. Siva Nagi Reddy\nnever expressed his readiness and willingness to get sale deed executed by\ndefendants  and came forward to pay the balance of sale consideration.\n10)\nThe defendants submit that the suit is barred by limitation and the suit is to be\nfiled within period of limitation from the date of  execution of sale agreement by\ntendering the balance of sale consideration.\n11)\nThe defendants submit that suit is liable to be dismissed in lemini  since the\nmandatory provision of  depositing of balance of sale consideration on the date of\nfiling of the suit is not made and that suit  has  to be rejected and submits that B. Siva\nNagi Reddy did not approached the court with clean hands seeking the equitable relief\nof specific performance and submitted that the survey number, extent and boundaries\nare totally wrong and submit that these defendants are not only the legal heirs left to\ntheir father and father of the defendants died intestate leaving behind other legal\nheirs and the suit    is not maintainable for not adding them as proper parties and\nfurther submit  that there is no cause of action in filing of the suit  and prayed to\ndismiss the suit  with costs .\n12)\nThe defendants filed additional written statement that execution for\nagreement of sale has no valid title to dispose off property as suit for partition filed\non the file of Hon’ble Senior  Civil Judge’s Court, Adoni in O.S. No. 37/2011 by\nHussainbee and others for their share and submit that suit is non est in the eye of law\nand submit that the suit is not enforcible and liable to be dismissed."
+    },
+    {
+      "page_number": 5,
+      "character_count": 1481,
+      "word_count": 261,
+      "raw_text": "5\n13)\nThe following issues are framed for adjudication of the suit.\n(1) Whether the  plaintiff is entitled for specific performance  as prayed for?\n(2) To what relief?\nThe following additional issue is framed:\n(1) Whether the suit is barred by limitation law ?\n14)\n During the course of trial, on behalf of the plaintiffs, plaintiff No.4   examined\nhimself as  P.W- 1 and two others as P.W-2 and P.W-3  and got marked Exs. A-1 to A-4.\nOn behalf of the defendants,  defendant No.1 examined as D.W-1 and got marked Exs.\nB-1 and B-2 .\n15)\n  Heard both sides. \n16)\n   ISSUE NO.1:-  Originally the suit filed by  B. Siva Nagi Reddy for specific\nperformance of agreement of sale dated 31-10-2001 over the plaint schedule\nproperty.   Agreement of sale of plaint schedule property entered by H. Kale Saheb\nand  B. Siva Nagi Reddy.  It is an admitted fact that plaint schedule property is self\nacquired property of H. Kale Saheb and agreement of sale entered during the life time\nof H. Kale Saheb.  It is agreed by H. Kale Saheb to sell the plaint schedule property for\nRs. 40,000/- and received Rs. 33,400/- from  B. Siva Nagi Reddy and remaining balance\nof sale consideration is to be received by H. Kale Saheb as and when offered by  B. Siva\nNagi Reddy and to execute registered sale deed without creating any litigation.\n17)\nP.W-1 is son of  B. Siva Nagi Reddy, gave  evidence to the facts of the case and\nsought for decree and further examined P.W-2 who is the attestor of agreement of"
+    },
+    {
+      "page_number": 6,
+      "character_count": 2022,
+      "word_count": 340,
+      "raw_text": "6\nsale  and P.W-3 is the scribe of agreement of sale and marked Exs. A-1 to A-4.\nDefendant No.1 examined as D.W-1 and got marked Exs. B-1 and B-2.  Before going to\nthe evidence of witness, it is appropriate to say that agreement of sale dated 31-10-\n2001 sent to District Registrar, Kurnool for impounding as per the orders in I.A.No.\n18/2010 for collecting deficit stamp duty i.e., Rs.7,320/- and penalty of Rs. 14,640/-\nand unregistered sale agreement admitted into evidence on behalf of the plaintiffs.\n18)\nP.W-1 gave evidence by way of affidavit, that his father  B. Siva Nagi Reddy filed\nthe suit and H. Kale Saheb executed an agreement of sale deed dated     31-10-2001\nand his father demanded defendants to execute registered sale deed on receipt of\nsale consideration by issuing legal notice dated 16-1-2010 and he also filed postal\nreceipt of legal notice and acknowledgment cards of legal notice evidencing that the\nlegal notice received by the defendants.  P.W-1 evidence is supported by the evidence\nof P.W-2 and P.W-3.   P.W-2  gave evidence that he attested Ex.A-1 along with K.\nRanganna of Hathi Belagal  village and P.W-3 scribe of Ex.A-1 and also submitted that\nH. Kale Saheb executed Ex.A-1 on receipt of advance of sale consideration i.e.,\nRs.33,400/- and remaining amount of Rs.6,600/- has to be received by H. Kale Saheb on\nthe offer of  B. Siva Nagi Reddy and H. Kale Saheb has to execute the registered sale\ndeed.  P.W-3 in cross-examination submitted that he used to maintain records for\ndocuments written by him and further said he has not filed any such record before the\ncourt.  P.W-3 said that plaint schedule property delivered to  B. Siva Nagi Reddy on the\ndate of execution of Ex.A-1.  P.W-2 said that H. Kale Saheb executed Ex.A-1.\n19)\nThe suit is based on the  documentary evidence.  Plaintiffs established that\nEx.A-1 executed by the father of defendants.  Now it is for the defendants to establish\ntheir case as they taken plea that Ex.A-1 is fabricated, created and the signatures of H."
+    },
+    {
+      "page_number": 7,
+      "character_count": 1671,
+      "word_count": 291,
+      "raw_text": "7\nKale Saheb are forged.  D.W-1 denied that his father executed Ex.A-1 but did not\ndenied the receiving of consideration under Ex.A-1 by him and defendants 2 and 3 and\nhe also admitted that he know the contents of Ex.A-2 legal notice.  He also said that\nthe father of P.W-1 met their father and their father refused to register the sale deed\nby denying the signature of him but the said fact is not mentioned in the pleadings of\nthe defendants.\n20)\nDefendants did not choose to adduce any evidence to establish that signature\nof their father on Ex.A-1 is forged  apart from the plea of forgery, defendants counsel\ncontended that B. Siva Nagi Reddy who is the father of the plaintiffs did not complied\nthe prerequisite condition u/Sec. 16 (c) of Specific Relief Act by tendering the balance\nof sale consideration to their father or to them or by depositing the amount in civil\ncourt deposit account.  Sec. 16(c) of Specific Relief Act   reads as follows :\nc) who fails to aver and prove that he has performed or has always\nbeen ready and willing to perform the essential terms of the contract which\nare to be performed by him, other than terms the performance of which has\nbeen prevented or waived by the defendant.\nExplanation: For the purposes of clause (c),-(i) where a contract\ninvolves the payment of money, it is not essential for the plaintiff to\nactually tender to the defendant or to deposit in court any money except\nwhen so directed by the court; \n(ii) the plaintiff must aver performance of, or readiness and\nwillingness to perform, the contract according to its true construction.\n21)\nAs seen from the recitals of Ex.A-1,  plaint schedule property handed over"
+    },
+    {
+      "page_number": 8,
+      "character_count": 1729,
+      "word_count": 304,
+      "raw_text": "8\n to the 1st plaintiff  i.e., B. Siva Nagi Reddy on the date of execution by H. Kale Saheb on\nreceipt of advance of sale consideration and agreed to  receive balance of sale\nconsideration as and when  B. Siva Nagi Reddy offers to him and registered the sale\ndeed without any litigation.  As seen from recitals of Ex.A-1, time is not the essence\nof contract as there is no time fixed for validity of Ex.A-1.  The counsel for the\ndefendants relied upon the decision reported in 2007(2) L.S. 146 (D.B.)  in between\nMohammed Ibrahim and another Vs. Mohammed Abdul Razzak   and  also referred\nto para 28 and 29 wherein it is held that:\n28.  The basic principle behind Section 16(c) of the Specific\nPerformance Act read with Explanation (ii) is that any person seeking\nbenefit of the specific performance of contract must manifest that his\nconduct has been blemishless throughout entitling him to the specific relief\nand the Court is to grant relief on the basis of the conduct of the person\nseeking relief and that the meaning of such an averment of readiness and\nwillingness must be that the non-completion of the contract was not the\nfault of the plaintiffs and that they were disposed and able to complete it\nhad it not been renounced by the defendant.  We do not intend to repeat\nthe decisions relied for the same proposition of law. (Vide Sugani V.\nRameshwar Das and another, 2006(5) ALT 10 (SC)) .\n29. When the vendee was never ready and willing to perform his part\nof contract, evident from his own conduct revealed from the registered\nnotices exchanged, we have no hesitation in stating that he was never ready\nand willing to perform his part of contract and as such he was not entitled\nto the relief of specific performance."
+    },
+    {
+      "page_number": 9,
+      "character_count": 2071,
+      "word_count": 356,
+      "raw_text": "9\n22)\nThe defendants projected that there is no compliance of Section 16(c) of\nSpecific Relief Act but the ruling submitted by the defendants is not applicable as to\nthe facts of the case.  On one hand, defendants denied the execution of Ex.A-1 by\ntheir father by taking plea of forgery and on the other hand, they say that there is no\ncompliance of Sec. 16(c) of Specific Relief Act when the defendants takes the plea of\nforgery they cannot go with the plea that there is no compliance of mandatory\nprovision of Section 16(c) of Specific Relief Act.  Further, the defendants did not\nadduce any documentary  evidence to show that they are in possession and enjoyment\nof the plaint schedule property.  The defendants got marked Ex.B-1 in order to\nestablish that their father died on 29-10-2004 and Ex.B-2 also filed i.e., the wedding\ncard of Zubeda Bee who is the daughter of  late H. Kale Saheb by pointing these\ndocuments defendants counsel argued that the said person was not brought on\nrecord and suit is not maintainable as there are no proper parties.  But here in the\npresent case there is no any evidence to show that the said Zubeda Bee is having\ninterest over the plaint schedule property.  Hence, the plea of non joinder of parties is\nignored.  Hence, the issue is settled in favour of the plaintiffs and plaintiffs are\nentitled to relief of Specific Relief Act against the defendants.\n23)\nADDITIONAL ISSUE NO.1 :-    The defendants taken specific plea that suit is\nbarred by limitation.  The defendants counsel argued that H. Kale Saheb refused to\nexecute registered sale deed by denying the signatures of Ex.A-1 and since the period\nof limitation has to be calculated.  According to Article 54 of Limitation Act here\naccording to the recitals of Ex.A-1, it is a specific case that  B. Siva Nagi Reddy has to\noffer the remaining balance of sale consideration and for that H. Kale Saheb has to\naccept and further H. Kale Saheb has to execute registered document relating to\nplaint schedule property.  After Ex.A-2 is taken into consideration there is refusal by"
+    },
+    {
+      "page_number": 10,
+      "character_count": 1583,
+      "word_count": 270,
+      "raw_text": "10\nthe defendants to execute the registered sale deed as they did not given any reply to\nthe legal notice.  The counsel for the plaintiffs submitted citation reported on 29\nOctober 2014 of Hon’ble Supreme Court of India Civil Appeal Nos.  9949-9950 of\n2014  in between Rathnavathi and Another Vs. Kavita Ganashamdas  and relied\nupon para Nos.  49 and 50 wherein it is held that :\n49. Mere  reading of Article 54 of the Limitation Act would show that\nif the date is fixed for performance of the agreement, then non-compliance\nof the agreement on the date would give a cause of action to file suit for\nspecific  performance within three years from the date so fixed.  However,\nwhen no such date is fixed, limitation of three years to file a suit  for specific\nperformance  would begin when the plaintiff has noticed that the\ndefendant has refused the performance of the agreement.\n50.  The case at hand admittedly does not fall in the first category of\nArticle 54 of the Limitation Act because as observed supra, no date was\nfixed in the agreement for its performance.  The case would thus be\ngoverned by the second category viz., when plaintiff has a notice that\nperformance is refused.\nexplained that time bound is taken when plaintiffs noticed refusal on the part of the\nobligants.  Admittedly defendants have knowledge of Ex.A-1 i.e., executed by their\nfather Exs. A-3 and A-4 shows the same where the defendants did not gave any reply.\nHence, the suit is not barred by limitation.   Accordingly, additional issue is answered in\nfavour of the plaintiffs and against the defendants."
+    },
+    {
+      "page_number": 11,
+      "character_count": 1284,
+      "word_count": 207,
+      "raw_text": "11\n24)\nISSUE NO.2:-  In view of the findings on issue No.1 and additional issue , the suit\nof the plaintiffs is liable to be decreed with costs. \n25)\nIn the result, the suit is decreed  with costs in favour of the plaintiffs directing\nthe defendants to execute registered sale deed in favour  of the  plaintiff  Nos. 2 to 6\non receipt of balance of sale consideration i.e., Rs. 6,600/- at the time of registration\nwithin two months from the date of decree, if  fails, the plaintiffs are at liberty to get\nexecute regular registered sale deed under due process of law only after depositing\nthe balance of sale consideration i.e., Rs. 6,600/- into the court for which the\ndefendants are entitled. \nDictated to the Stenographer, transcribed by her,  corrected and pronounced by\nme in the open Court  this the 12th day of November, 2018.\n  Sd/- Sri M.K.V. Achari\n                \nJUNIOR CIVIL JUDGE, \n        \n   ALUR.\nAPPENDIX OF EVIDENCE\nWITNESSES EXAMINED\nFor Plaintiffs:\n \n     \nFor Defendants :\nP.W-1 : B.  Bhoomana Gouda\nD.W-1 : H. Hussainsab.\nP.W-2 :B. Mudhukappa Setty\nP.W-3 : M. Pompaiah Swamy\nEXHIBITS MARKED\nFor Plaintiffs:\nEx.A-1:  Original  sale agreement executed by H. Kale Saheb in favour of \n                    B. Shivanagi Reddy ( marked subject to proof and relevancy)"
+    },
+    {
+      "page_number": 12,
+      "character_count": 407,
+      "word_count": 56,
+      "raw_text": "12\nEx.A-2:  Office copy of lawyer’s  notice dated 16-1-2010.\nEx.A-3:  Postal receipts three in numbers. \nEx.A-4: Served postal acknowledgment cards three in numbers.\nFor Defendants:    \nEx.B-1 : Death certificate of H. Kale Sab issued by Panchayath Secretary,\n                 Alur dated 12-1-2018.\nEx.B-2 : Notarized wedding card of Jubeda Bi.\n  Sd/- Sri M.K.V. Achari\n      \nJUNIOR CIVIL JUDGE,  \n   ALUR."
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 1300,
+      "word_count": 222,
+      "normalized_text": "IN THE COURT OF THE JUNIOR CIVIL JUDGE, ALUR.\nPresent : Sri M.K.V.Achari, Junior Civil Judge, Alur.\nMonday, this the 12th day of November, 2018.\nO.S.No.4/2010\nBetween:\n1. B. Shivanagi Reddy died by L.Rs.\n2. Smt. B. Akkanagamma\n3. Smt. Vedavathi\n4. B. Bhoomana Goud\n5. B. Theerthana Goud\n6. B. Karibasana Goud\n ...Plaintiffs\n (Plaintiff Nos. 2 to 6 are added as L.Rs. of\n plaintiff No.1 as per orders in I.A.No. 174/2013\n dated 23-4-2014)\n\nAnd\n1. H. Hussain Saheb @ Basha\n2. H. Khader @ Pedda Mabu\n3. Mohiddin @ Chinna Mabu\n\n ...Defendants\n\nThis suit coming on 25-10-2018 before me for final hearing in the presence of\nSri Y.R. Mallikarjuna and Sri B. Lakshmikanth, Advocates for the plaintiffs and of Sri A.\nAllah Bakash, Advocate for the defendants and after hearing both sides and having\nstood over for consideration till this day, this court delivered the following :-\nJUDGMENT\n1)\nThis suit is filed by the plaintiffs against defendants 1 to 3 for passing decree\ndirecting the defendants to execute the registered sale deed in favour of the plaintiffs\nin respect of the suit schedule property and to receive the balance of sale\nconsideration, otherwise, the court may execute registered sale deed in respect of the\nplaint schedule property on behalf of defendants 1 to 3 and for costs of the suit."
+    },
+    {
+      "page_number": 2,
+      "character_count": 1805,
+      "word_count": 314,
+      "normalized_text": "2\n2)\nThe brief averments of the plaint are:\nThe plaintiffs submit that defendants are the sons of late H. Kale Saheb, who is\nabsolute owner of the plaint schedule property, having right and title over the plaint\nschedule property, which is self acquired property.\n3)\nOriginally the suit is filed by late B. Siva Nagi Reddy, subsequently plaintiff Nos.\n2 to 6 were added as legal heirs of late B. Siva Nagi Reddy and proceeded with the suit\nas B. Siva Nagi Reddy died during the pendency of the suit.\n4)\nThe plaintiffs submit that late H. Kale Saheb sold the plaint schedule property\nto B. Siva Nagi Reddy on 31-10-2001 for valid consideration of Rs.40,000/-. The\nplaintiff paid Rs.33,400/- to the said H. Kale Saheb towards advance of sale\nconsideration and H. Kale Saheb executed an unregistered sale agreement in favour\nof B. Siva Nagi Reddy agreeing to receive the balance of sale consideration of\nRs.6,600/- and he will execute a registered sale deed in favour of late B. Siva Nagi\nReddy without creating any litigation. The registration charges has to be born by late\nB. Siva Nagi Reddy and the measurement expenses has to be born by late H. Kale\nSaheb. On 31-10-2011 late H. Kale Saheb delivered the possession of the plaint\nschedule property to late B. Siva Nagi Reddy and since then B. Siva Nagi Reddy is in\npeaceful possession and enjoyment of the plaint schedule property.\n5)\nThe plaintiffs submit that H. Kale Saheb died leaving behind defendants as his\nlegal heirs. During the life time of the H. Kale Saheb, B. Siva Nagi Reddy demanded\norally to execute registered sale deed on receiving balance of sale consideration and\nto execute the registered sale deed in his favour. The said H. Kale Saheb evaded to\nreceive the balance of sale consideration of Rs.6,600/- and to execute registered sale"
+    },
+    {
+      "page_number": 3,
+      "character_count": 1677,
+      "word_count": 288,
+      "normalized_text": "3\ndeed in favour of the B. Siva Nagi Reddy. After demise of H. Kale Saheb, B. Siva Nagi\nReddy several times demanded the defendants orally to execute the registered sale\ndeed and to receive the balance of sale consideration and expressed his readiness to\nfulfill his part of contract. The defendants failed to execute the registered sale deed\nand did not receive balance of sale consideration. Finally, B. Siva Nagi Reddy got\nissued legal notice dated 16-1-2010 to defendants calling upon them to execute\nregistered sale deed in favour of B. Siva Nagi Reddy and to receive balance of sale\nconsideration of Rs.6,600/-. The defendants received notices, failed to execute\nregistered sale deed in respect of the plaint schedule property in favour of B. Siva Nagi\nReddy . Hence, the suit.\n6)\nDefendant No. 1 filed his written statement along with the adoption memo of\ndefendant Nos. 2 and 3 to adopt the written statement of defendant No.1 by them.\nThe defendants submitted that the suit framed is not maintainable either in law or on\nfacts. The relationship with the late H. Kale Saheb as sons and that the plaint\nschedule property is self acquired property of late H. Kale Sab are admitted and\ndenied the rest of the averments of the plaint.\n7)\nThe defendants denied the execution of the sale agreement by their father H.\nKale Saheb in respect of the plaint schedule property and submitted that their father\nduring the life time is in possession and defendants after demise of their father came\nto possession of plaint schedule property.\n8)\nIt is alleged that the sale agreement dated 31-10-2001 is false one, fabricated\none and also pleaded that the sale agreement is forged one."
+    },
+    {
+      "page_number": 4,
+      "character_count": 1803,
+      "word_count": 318,
+      "normalized_text": "4\n9)\nThe defendants submit that during the lifetime of their father never at any\npoint of time B. Siva Nagi Reddy demanded either orally or in writing and legal notice\nissued only after demise of their father and further submitted that B. Siva Nagi Reddy\nnever expressed his readiness and willingness to get sale deed executed by\ndefendants and came forward to pay the balance of sale consideration.\n10)\nThe defendants submit that the suit is barred by limitation and the suit is to be\nfiled within period of limitation from the date of execution of sale agreement by\ntendering the balance of sale consideration.\n11)\nThe defendants submit that suit is liable to be dismissed in lemini since the\nmandatory provision of depositing of balance of sale consideration on the date of\nfiling of the suit is not made and that suit has to be rejected and submits that B. Siva\nNagi Reddy did not approached the court with clean hands seeking the equitable relief\nof specific performance and submitted that the survey number, extent and boundaries\nare totally wrong and submit that these defendants are not only the legal heirs left to\ntheir father and father of the defendants died intestate leaving behind other legal\nheirs and the suit is not maintainable for not adding them as proper parties and\nfurther submit that there is no cause of action in filing of the suit and prayed to\ndismiss the suit with costs .\n12)\nThe defendants filed additional written statement that execution for\nagreement of sale has no valid title to dispose off property as suit for partition filed\non the file of Hon'ble Senior Civil Judge's Court, Adoni in O.S. No. 37/2011 by\nHussainbee and others for their share and submit that suit is non est in the eye of law\nand submit that the suit is not enforcible and liable to be dismissed."
+    },
+    {
+      "page_number": 5,
+      "character_count": 1459,
+      "word_count": 261,
+      "normalized_text": "5\n13)\nThe following issues are framed for adjudication of the suit.\n(1) Whether the plaintiff is entitled for specific performance as prayed for?\n(2) To what relief?\nThe following additional issue is framed:\n(1) Whether the suit is barred by limitation law ?\n14)\n During the course of trial, on behalf of the plaintiffs, plaintiff No.4 examined\nhimself as P.W- 1 and two others as P.W-2 and P.W-3 and got marked Exs. A-1 to A-4.\nOn behalf of the defendants, defendant No.1 examined as D.W-1 and got marked Exs.\nB-1 and B-2 .\n15)\n Heard both sides.\n16)\n ISSUE NO.1:- Originally the suit filed by B. Siva Nagi Reddy for specific\nperformance of agreement of sale dated 31-10-2001 over the plaint schedule\nproperty. Agreement of sale of plaint schedule property entered by H. Kale Saheb\nand B. Siva Nagi Reddy. It is an admitted fact that plaint schedule property is self\nacquired property of H. Kale Saheb and agreement of sale entered during the life time\nof H. Kale Saheb. It is agreed by H. Kale Saheb to sell the plaint schedule property for\nRs. 40,000/- and received Rs. 33,400/- from B. Siva Nagi Reddy and remaining balance\nof sale consideration is to be received by H. Kale Saheb as and when offered by B. Siva\nNagi Reddy and to execute registered sale deed without creating any litigation.\n17)\nP.W-1 is son of B. Siva Nagi Reddy, gave evidence to the facts of the case and\nsought for decree and further examined P.W-2 who is the attestor of agreement of"
+    },
+    {
+      "page_number": 6,
+      "character_count": 2002,
+      "word_count": 340,
+      "normalized_text": "6\nsale and P.W-3 is the scribe of agreement of sale and marked Exs. A-1 to A-4.\nDefendant No.1 examined as D.W-1 and got marked Exs. B-1 and B-2. Before going to\nthe evidence of witness, it is appropriate to say that agreement of sale dated 31-10-\n2001 sent to District Registrar, Kurnool for impounding as per the orders in I.A.No.\n18/2010 for collecting deficit stamp duty i.e., Rs.7,320/- and penalty of Rs. 14,640/-\nand unregistered sale agreement admitted into evidence on behalf of the plaintiffs.\n18)\nP.W-1 gave evidence by way of affidavit, that his father B. Siva Nagi Reddy filed\nthe suit and H. Kale Saheb executed an agreement of sale deed dated 31-10-2001\nand his father demanded defendants to execute registered sale deed on receipt of\nsale consideration by issuing legal notice dated 16-1-2010 and he also filed postal\nreceipt of legal notice and acknowledgment cards of legal notice evidencing that the\nlegal notice received by the defendants. P.W-1 evidence is supported by the evidence\nof P.W-2 and P.W-3. P.W-2 gave evidence that he attested Ex.A-1 along with K.\nRanganna of Hathi Belagal village and P.W-3 scribe of Ex.A-1 and also submitted that\nH. Kale Saheb executed Ex.A-1 on receipt of advance of sale consideration i.e.,\nRs.33,400/- and remaining amount of Rs.6,600/- has to be received by H. Kale Saheb on\nthe offer of B. Siva Nagi Reddy and H. Kale Saheb has to execute the registered sale\ndeed. P.W-3 in cross-examination submitted that he used to maintain records for\ndocuments written by him and further said he has not filed any such record before the\ncourt. P.W-3 said that plaint schedule property delivered to B. Siva Nagi Reddy on the\ndate of execution of Ex.A-1. P.W-2 said that H. Kale Saheb executed Ex.A-1.\n19)\nThe suit is based on the documentary evidence. Plaintiffs established that\nEx.A-1 executed by the father of defendants. Now it is for the defendants to establish\ntheir case as they taken plea that Ex.A-1 is fabricated, created and the signatures of H."
+    },
+    {
+      "page_number": 7,
+      "character_count": 1663,
+      "word_count": 291,
+      "normalized_text": "7\nKale Saheb are forged. D.W-1 denied that his father executed Ex.A-1 but did not\ndenied the receiving of consideration under Ex.A-1 by him and defendants 2 and 3 and\nhe also admitted that he know the contents of Ex.A-2 legal notice. He also said that\nthe father of P.W-1 met their father and their father refused to register the sale deed\nby denying the signature of him but the said fact is not mentioned in the pleadings of\nthe defendants.\n20)\nDefendants did not choose to adduce any evidence to establish that signature\nof their father on Ex.A-1 is forged apart from the plea of forgery, defendants counsel\ncontended that B. Siva Nagi Reddy who is the father of the plaintiffs did not complied\nthe prerequisite condition u/Sec. 16 (c) of Specific Relief Act by tendering the balance\nof sale consideration to their father or to them or by depositing the amount in civil\ncourt deposit account. Sec. 16(c) of Specific Relief Act reads as follows :\nc) who fails to aver and prove that he has performed or has always\nbeen ready and willing to perform the essential terms of the contract which\nare to be performed by him, other than terms the performance of which has\nbeen prevented or waived by the defendant.\nExplanation: For the purposes of clause (c),-(i) where a contract\ninvolves the payment of money, it is not essential for the plaintiff to\nactually tender to the defendant or to deposit in court any money except\nwhen so directed by the court;\n(ii) the plaintiff must aver performance of, or readiness and\nwillingness to perform, the contract according to its true construction.\n21)\nAs seen from the recitals of Ex.A-1, plaint schedule property handed over"
+    },
+    {
+      "page_number": 8,
+      "character_count": 1718,
+      "word_count": 304,
+      "normalized_text": "8\n to the 1st plaintiff i.e., B. Siva Nagi Reddy on the date of execution by H. Kale Saheb on\nreceipt of advance of sale consideration and agreed to receive balance of sale\nconsideration as and when B. Siva Nagi Reddy offers to him and registered the sale\ndeed without any litigation. As seen from recitals of Ex.A-1, time is not the essence\nof contract as there is no time fixed for validity of Ex.A-1. The counsel for the\ndefendants relied upon the decision reported in 2007(2) L.S. 146 (D.B.) in between\nMohammed Ibrahim and another Vs. Mohammed Abdul Razzak and also referred\nto para 28 and 29 wherein it is held that:\n28. The basic principle behind Section 16(c) of the Specific\nPerformance Act read with Explanation (ii) is that any person seeking\nbenefit of the specific performance of contract must manifest that his\nconduct has been blemishless throughout entitling him to the specific relief\nand the Court is to grant relief on the basis of the conduct of the person\nseeking relief and that the meaning of such an averment of readiness and\nwillingness must be that the non-completion of the contract was not the\nfault of the plaintiffs and that they were disposed and able to complete it\nhad it not been renounced by the defendant. We do not intend to repeat\nthe decisions relied for the same proposition of law. (Vide Sugani V.\nRameshwar Das and another, 2006(5) ALT 10 (SC)) .\n29. When the vendee was never ready and willing to perform his part\nof contract, evident from his own conduct revealed from the registered\nnotices exchanged, we have no hesitation in stating that he was never ready\nand willing to perform his part of contract and as such he was not entitled\nto the relief of specific performance."
+    },
+    {
+      "page_number": 9,
+      "character_count": 2056,
+      "word_count": 356,
+      "normalized_text": "9\n22)\nThe defendants projected that there is no compliance of Section 16(c) of\nSpecific Relief Act but the ruling submitted by the defendants is not applicable as to\nthe facts of the case. On one hand, defendants denied the execution of Ex.A-1 by\ntheir father by taking plea of forgery and on the other hand, they say that there is no\ncompliance of Sec. 16(c) of Specific Relief Act when the defendants takes the plea of\nforgery they cannot go with the plea that there is no compliance of mandatory\nprovision of Section 16(c) of Specific Relief Act. Further, the defendants did not\nadduce any documentary evidence to show that they are in possession and enjoyment\nof the plaint schedule property. The defendants got marked Ex.B-1 in order to\nestablish that their father died on 29-10-2004 and Ex.B-2 also filed i.e., the wedding\ncard of Zubeda Bee who is the daughter of late H. Kale Saheb by pointing these\ndocuments defendants counsel argued that the said person was not brought on\nrecord and suit is not maintainable as there are no proper parties. But here in the\npresent case there is no any evidence to show that the said Zubeda Bee is having\ninterest over the plaint schedule property. Hence, the plea of non joinder of parties is\nignored. Hence, the issue is settled in favour of the plaintiffs and plaintiffs are\nentitled to relief of Specific Relief Act against the defendants.\n23)\nADDITIONAL ISSUE NO.1 :- The defendants taken specific plea that suit is\nbarred by limitation. The defendants counsel argued that H. Kale Saheb refused to\nexecute registered sale deed by denying the signatures of Ex.A-1 and since the period\nof limitation has to be calculated. According to Article 54 of Limitation Act here\naccording to the recitals of Ex.A-1, it is a specific case that B. Siva Nagi Reddy has to\noffer the remaining balance of sale consideration and for that H. Kale Saheb has to\naccept and further H. Kale Saheb has to execute registered document relating to\nplaint schedule property. After Ex.A-2 is taken into consideration there is refusal by"
+    },
+    {
+      "page_number": 10,
+      "character_count": 1568,
+      "word_count": 270,
+      "normalized_text": "10\nthe defendants to execute the registered sale deed as they did not given any reply to\nthe legal notice. The counsel for the plaintiffs submitted citation reported on 29\nOctober 2014 of Hon'ble Supreme Court of India Civil Appeal Nos. 9949-9950 of\n2014 in between Rathnavathi and Another Vs. Kavita Ganashamdas and relied\nupon para Nos. 49 and 50 wherein it is held that :\n49. Mere reading of Article 54 of the Limitation Act would show that\nif the date is fixed for performance of the agreement, then non-compliance\nof the agreement on the date would give a cause of action to file suit for\nspecific performance within three years from the date so fixed. However,\nwhen no such date is fixed, limitation of three years to file a suit for specific\nperformance would begin when the plaintiff has noticed that the\ndefendant has refused the performance of the agreement.\n50. The case at hand admittedly does not fall in the first category of\nArticle 54 of the Limitation Act because as observed supra, no date was\nfixed in the agreement for its performance. The case would thus be\ngoverned by the second category viz., when plaintiff has a notice that\nperformance is refused.\nexplained that time bound is taken when plaintiffs noticed refusal on the part of the\nobligants. Admittedly defendants have knowledge of Ex.A-1 i.e., executed by their\nfather Exs. A-3 and A-4 shows the same where the defendants did not gave any reply.\nHence, the suit is not barred by limitation. Accordingly, additional issue is answered in\nfavour of the plaintiffs and against the defendants."
+    },
+    {
+      "page_number": 11,
+      "character_count": 1216,
+      "word_count": 207,
+      "normalized_text": "11\n24)\nISSUE NO.2:- In view of the findings on issue No.1 and additional issue , the suit\nof the plaintiffs is liable to be decreed with costs.\n25)\nIn the result, the suit is decreed with costs in favour of the plaintiffs directing\nthe defendants to execute registered sale deed in favour of the plaintiff Nos. 2 to 6\non receipt of balance of sale consideration i.e., Rs. 6,600/- at the time of registration\nwithin two months from the date of decree, if fails, the plaintiffs are at liberty to get\nexecute regular registered sale deed under due process of law only after depositing\nthe balance of sale consideration i.e., Rs. 6,600/- into the court for which the\ndefendants are entitled.\nDictated to the Stenographer, transcribed by her, corrected and pronounced by\nme in the open Court this the 12th day of November, 2018.\n Sd/- Sri M.K.V. Achari\n\nJUNIOR CIVIL JUDGE,\n\n ALUR.\nAPPENDIX OF EVIDENCE\nWITNESSES EXAMINED\nFor Plaintiffs:\n\nFor Defendants :\nP.W-1 : B. Bhoomana Gouda\nD.W-1 : H. Hussainsab.\nP.W-2 :B. Mudhukappa Setty\nP.W-3 : M. Pompaiah Swamy\nEXHIBITS MARKED\nFor Plaintiffs:\nEx.A-1: Original sale agreement executed by H. Kale Saheb in favour of\n B. Shivanagi Reddy ( marked subject to proof and relevancy)"
+    },
+    {
+      "page_number": 12,
+      "character_count": 372,
+      "word_count": 56,
+      "normalized_text": "12\nEx.A-2: Office copy of lawyer's notice dated 16-1-2010.\nEx.A-3: Postal receipts three in numbers.\nEx.A-4: Served postal acknowledgment cards three in numbers.\nFor Defendants:\nEx.B-1 : Death certificate of H. Kale Sab issued by Panchayath Secretary,\n Alur dated 12-1-2018.\nEx.B-2 : Notarized wedding card of Jubeda Bi.\n Sd/- Sri M.K.V. Achari\n\nJUNIOR CIVIL JUDGE,\n ALUR."
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 19,
+    "total_sentences": 208,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 1300,
+        "word_count": 222,
+        "paragraph_count": 4,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000035_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 437,
+            "word_count": 74,
+            "sentence_count": 17,
+            "text": "IN THE COURT OF THE JUNIOR CIVIL JUDGE, ALUR.\nPresent : Sri M.K.V.Achari, Junior Civil Judge, Alur.\nMonday, this the 12th day of November, 2018.\nO.S.No.4/2010\nBetween:\n1. B. Shivanagi Reddy died by L.Rs.\n2. Smt. B. Akkanagamma\n3. Smt. Vedavathi\n4. B. Bhoomana Goud\n5. B. Theerthana Goud\n6. B. Karibasana Goud\n ...Plaintiffs\n (Plaintiff Nos. 2 to 6 are added as L.Rs. of\n plaintiff No.1 as per orders in I.A.No. 174/2013\n dated 23-4-2014)",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 45,
+                "word_count": 9,
+                "text": "IN THE COURT OF THE JUNIOR CIVIL JUDGE, ALUR."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 53,
+                "word_count": 8,
+                "text": "Present : Sri M.K.V.Achari, Junior Civil Judge, Alur."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 44,
+                "word_count": 8,
+                "text": "Monday, this the 12th day of November, 2018."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 25,
+                "word_count": 3,
+                "text": "O.S.No.4/2010\nBetween:\n1."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 2,
+                "word_count": 1,
+                "text": "B."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 29,
+                "word_count": 5,
+                "text": "Shivanagi Reddy died by L.Rs."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 2,
+                "word_count": 1,
+                "text": "2."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 7,
+                "word_count": 2,
+                "text": "Smt. B."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 14,
+                "word_count": 2,
+                "text": "Akkanagamma\n3."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 17,
+                "word_count": 3,
+                "text": "Smt. Vedavathi\n4."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 2,
+                "word_count": 1,
+                "text": "B."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN012",
+                "sentence_index": 12,
+                "character_count": 16,
+                "word_count": 3,
+                "text": "Bhoomana Goud\n5."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN013",
+                "sentence_index": 13,
+                "character_count": 2,
+                "word_count": 1,
+                "text": "B."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN014",
+                "sentence_index": 14,
+                "character_count": 18,
+                "word_count": 3,
+                "text": "Theerthana Goud\n6."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN015",
+                "sentence_index": 15,
+                "character_count": 2,
+                "word_count": 1,
+                "text": "B."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN016",
+                "sentence_index": 16,
+                "character_count": 73,
+                "word_count": 12,
+                "text": "Karibasana Goud\n ...Plaintiffs\n (Plaintiff Nos. 2 to 6 are added as L.Rs."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR001_SEN017",
+                "sentence_index": 17,
+                "character_count": 70,
+                "word_count": 11,
+                "text": "of\n plaintiff No.1 as per orders in I.A.No. 174/2013\n dated 23-4-2014)"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000035_P001_PAR002",
+            "paragraph_index": 2,
+            "character_count": 83,
+            "word_count": 18,
+            "sentence_count": 6,
+            "text": "And\n1. H. Hussain Saheb @ Basha\n2. H. Khader @ Pedda Mabu\n3. Mohiddin @ Chinna Mabu",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P001_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 6,
+                "word_count": 2,
+                "text": "And\n1."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR002_SEN002",
+                "sentence_index": 2,
+                "character_count": 2,
+                "word_count": 1,
+                "text": "H."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR002_SEN003",
+                "sentence_index": 3,
+                "character_count": 24,
+                "word_count": 5,
+                "text": "Hussain Saheb @ Basha\n2."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR002_SEN004",
+                "sentence_index": 4,
+                "character_count": 2,
+                "word_count": 1,
+                "text": "H."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR002_SEN005",
+                "sentence_index": 5,
+                "character_count": 22,
+                "word_count": 5,
+                "text": "Khader @ Pedda Mabu\n3."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR002_SEN006",
+                "sentence_index": 6,
+                "character_count": 22,
+                "word_count": 4,
+                "text": "Mohiddin @ Chinna Mabu"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000035_P001_PAR003",
+            "paragraph_index": 3,
+            "character_count": 13,
+            "word_count": 1,
+            "sentence_count": 1,
+            "text": "...Defendants",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P001_PAR003_SEN001",
+                "sentence_index": 1,
+                "character_count": 13,
+                "word_count": 1,
+                "text": "...Defendants"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000035_P001_PAR004",
+            "paragraph_index": 4,
+            "character_count": 760,
+            "word_count": 129,
+            "sentence_count": 4,
+            "text": "This suit coming on 25-10-2018 before me for final hearing in the presence of\nSri Y.R. Mallikarjuna and Sri B. Lakshmikanth, Advocates for the plaintiffs and of Sri A.\nAllah Bakash, Advocate for the defendants and after hearing both sides and having\nstood over for consideration till this day, this court delivered the following :-\nJUDGMENT\n1)\nThis suit is filed by the plaintiffs against defendants 1 to 3 for passing decree\ndirecting the defendants to execute the registered sale deed in favour of the plaintiffs\nin respect of the suit schedule property and to receive the balance of sale\nconsideration, otherwise, the court may execute registered sale deed in respect of the\nplaint schedule property on behalf of defendants 1 to 3 and for costs of the suit.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P001_PAR004_SEN001",
+                "sentence_index": 1,
+                "character_count": 86,
+                "word_count": 16,
+                "text": "This suit coming on 25-10-2018 before me for final hearing in the presence of\nSri Y.R."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR004_SEN002",
+                "sentence_index": 2,
+                "character_count": 23,
+                "word_count": 4,
+                "text": "Mallikarjuna and Sri B."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR004_SEN003",
+                "sentence_index": 3,
+                "character_count": 56,
+                "word_count": 9,
+                "text": "Lakshmikanth, Advocates for the plaintiffs and of Sri A."
+              },
+              {
+                "sentence_id": "DC_000035_P001_PAR004_SEN004",
+                "sentence_index": 4,
+                "character_count": 592,
+                "word_count": 100,
+                "text": "Allah Bakash, Advocate for the defendants and after hearing both sides and having\nstood over for consideration till this day, this court delivered the following :-\nJUDGMENT\n1)\nThis suit is filed by the plaintiffs against defendants 1 to 3 for passing decree\ndirecting the defendants to execute the registered sale deed in favour of the plaintiffs\nin respect of the suit schedule property and to receive the balance of sale\nconsideration, otherwise, the court may execute registered sale deed in respect of the\nplaint schedule property on behalf of defendants 1 to 3 and for costs of the suit."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "character_count": 1805,
+        "word_count": 314,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000035_P002_PAR001",
+            "paragraph_index": 1,
+            "character_count": 1805,
+            "word_count": 314,
+            "sentence_count": 28,
+            "text": "2\n2)\nThe brief averments of the plaint are:\nThe plaintiffs submit that defendants are the sons of late H. Kale Saheb, who is\nabsolute owner of the plaint schedule property, having right and title over the plaint\nschedule property, which is self acquired property.\n3)\nOriginally the suit is filed by late B. Siva Nagi Reddy, subsequently plaintiff Nos.\n2 to 6 were added as legal heirs of late B. Siva Nagi Reddy and proceeded with the suit\nas B. Siva Nagi Reddy died during the pendency of the suit.\n4)\nThe plaintiffs submit that late H. Kale Saheb sold the plaint schedule property\nto B. Siva Nagi Reddy on 31-10-2001 for valid consideration of Rs.40,000/-. The\nplaintiff paid Rs.33,400/- to the said H. Kale Saheb towards advance of sale\nconsideration and H. Kale Saheb executed an unregistered sale agreement in favour\nof B. Siva Nagi Reddy agreeing to receive the balance of sale consideration of\nRs.6,600/- and he will execute a registered sale deed in favour of late B. Siva Nagi\nReddy without creating any litigation. The registration charges has to be born by late\nB. Siva Nagi Reddy and the measurement expenses has to be born by late H. Kale\nSaheb. On 31-10-2011 late H. Kale Saheb delivered the possession of the plaint\nschedule property to late B. Siva Nagi Reddy and since then B. Siva Nagi Reddy is in\npeaceful possession and enjoyment of the plaint schedule property.\n5)\nThe plaintiffs submit that H. Kale Saheb died leaving behind defendants as his\nlegal heirs. During the life time of the H. Kale Saheb, B. Siva Nagi Reddy demanded\norally to execute registered sale deed on receiving balance of sale consideration and\nto execute the registered sale deed in his favour. The said H. Kale Saheb evaded to\nreceive the balance of sale consideration of Rs.6,600/- and to execute registered sale",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 105,
+                "word_count": 20,
+                "text": "2\n2)\nThe brief averments of the plaint are:\nThe plaintiffs submit that defendants are the sons of late H."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 157,
+                "word_count": 25,
+                "text": "Kale Saheb, who is\nabsolute owner of the plaint schedule property, having right and title over the plaint\nschedule property, which is self acquired property."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 42,
+                "word_count": 9,
+                "text": "3)\nOriginally the suit is filed by late B."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 88,
+                "word_count": 17,
+                "text": "Siva Nagi Reddy, subsequently plaintiff Nos.\n2 to 6 were added as legal heirs of late B."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 49,
+                "word_count": 10,
+                "text": "Siva Nagi Reddy and proceeded with the suit\nas B."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 53,
+                "word_count": 10,
+                "text": "Siva Nagi Reddy died during the pendency of the suit."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 37,
+                "word_count": 7,
+                "text": "4)\nThe plaintiffs submit that late H."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 50,
+                "word_count": 9,
+                "text": "Kale Saheb sold the plaint schedule property\nto B."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 69,
+                "word_count": 10,
+                "text": "Siva Nagi Reddy on 31-10-2001 for valid consideration of Rs.40,000/-."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 45,
+                "word_count": 8,
+                "text": "The\nplaintiff paid Rs.33,400/- to the said H."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 55,
+                "word_count": 9,
+                "text": "Kale Saheb towards advance of sale\nconsideration and H."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN012",
+                "sentence_index": 12,
+                "character_count": 66,
+                "word_count": 11,
+                "text": "Kale Saheb executed an unregistered sale agreement in favour\nof B."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN013",
+                "sentence_index": 13,
+                "character_count": 147,
+                "word_count": 26,
+                "text": "Siva Nagi Reddy agreeing to receive the balance of sale consideration of\nRs.6,600/- and he will execute a registered sale deed in favour of late B."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN014",
+                "sentence_index": 14,
+                "character_count": 48,
+                "word_count": 7,
+                "text": "Siva Nagi\nReddy without creating any litigation."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN015",
+                "sentence_index": 15,
+                "character_count": 50,
+                "word_count": 10,
+                "text": "The registration charges has to be born by late\nB."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN016",
+                "sentence_index": 16,
+                "character_count": 70,
+                "word_count": 14,
+                "text": "Siva Nagi Reddy and the measurement expenses has to be born by late H."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN017",
+                "sentence_index": 17,
+                "character_count": 11,
+                "word_count": 2,
+                "text": "Kale\nSaheb."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN018",
+                "sentence_index": 18,
+                "character_count": 21,
+                "word_count": 4,
+                "text": "On 31-10-2011 late H."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN019",
+                "sentence_index": 19,
+                "character_count": 78,
+                "word_count": 13,
+                "text": "Kale Saheb delivered the possession of the plaint\nschedule property to late B."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN020",
+                "sentence_index": 20,
+                "character_count": 33,
+                "word_count": 7,
+                "text": "Siva Nagi Reddy and since then B."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN021",
+                "sentence_index": 21,
+                "character_count": 88,
+                "word_count": 14,
+                "text": "Siva Nagi Reddy is in\npeaceful possession and enjoyment of the plaint schedule property."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN022",
+                "sentence_index": 22,
+                "character_count": 32,
+                "word_count": 6,
+                "text": "5)\nThe plaintiffs submit that H."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN023",
+                "sentence_index": 23,
+                "character_count": 61,
+                "word_count": 10,
+                "text": "Kale Saheb died leaving behind defendants as his\nlegal heirs."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN024",
+                "sentence_index": 24,
+                "character_count": 30,
+                "word_count": 7,
+                "text": "During the life time of the H."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN025",
+                "sentence_index": 25,
+                "character_count": 14,
+                "word_count": 3,
+                "text": "Kale Saheb, B."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN026",
+                "sentence_index": 26,
+                "character_count": 161,
+                "word_count": 26,
+                "text": "Siva Nagi Reddy demanded\norally to execute registered sale deed on receiving balance of sale consideration and\nto execute the registered sale deed in his favour."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN027",
+                "sentence_index": 27,
+                "character_count": 11,
+                "word_count": 3,
+                "text": "The said H."
+              },
+              {
+                "sentence_id": "DC_000035_P002_PAR001_SEN028",
+                "sentence_index": 28,
+                "character_count": 107,
+                "word_count": 17,
+                "text": "Kale Saheb evaded to\nreceive the balance of sale consideration of Rs.6,600/- and to execute registered sale"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 3,
+        "character_count": 1677,
+        "word_count": 288,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000035_P003_PAR001",
+            "paragraph_index": 1,
+            "character_count": 1677,
+            "word_count": 288,
+            "sentence_count": 20,
+            "text": "3\ndeed in favour of the B. Siva Nagi Reddy. After demise of H. Kale Saheb, B. Siva Nagi\nReddy several times demanded the defendants orally to execute the registered sale\ndeed and to receive the balance of sale consideration and expressed his readiness to\nfulfill his part of contract. The defendants failed to execute the registered sale deed\nand did not receive balance of sale consideration. Finally, B. Siva Nagi Reddy got\nissued legal notice dated 16-1-2010 to defendants calling upon them to execute\nregistered sale deed in favour of B. Siva Nagi Reddy and to receive balance of sale\nconsideration of Rs.6,600/-. The defendants received notices, failed to execute\nregistered sale deed in respect of the plaint schedule property in favour of B. Siva Nagi\nReddy . Hence, the suit.\n6)\nDefendant No. 1 filed his written statement along with the adoption memo of\ndefendant Nos. 2 and 3 to adopt the written statement of defendant No.1 by them.\nThe defendants submitted that the suit framed is not maintainable either in law or on\nfacts. The relationship with the late H. Kale Saheb as sons and that the plaint\nschedule property is self acquired property of late H. Kale Sab are admitted and\ndenied the rest of the averments of the plaint.\n7)\nThe defendants denied the execution of the sale agreement by their father H.\nKale Saheb in respect of the plaint schedule property and submitted that their father\nduring the life time is in possession and defendants after demise of their father came\nto possession of plaint schedule property.\n8)\nIt is alleged that the sale agreement dated 31-10-2001 is false one, fabricated\none and also pleaded that the sale agreement is forged one.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 26,
+                "word_count": 7,
+                "text": "3\ndeed in favour of the B."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 16,
+                "word_count": 3,
+                "text": "Siva Nagi Reddy."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 18,
+                "word_count": 4,
+                "text": "After demise of H."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 14,
+                "word_count": 3,
+                "text": "Kale Saheb, B."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 206,
+                "word_count": 33,
+                "text": "Siva Nagi\nReddy several times demanded the defendants orally to execute the registered sale\ndeed and to receive the balance of sale consideration and expressed his readiness to\nfulfill his part of contract."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 108,
+                "word_count": 17,
+                "text": "The defendants failed to execute the registered sale deed\nand did not receive balance of sale consideration."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 11,
+                "word_count": 2,
+                "text": "Finally, B."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 135,
+                "word_count": 23,
+                "text": "Siva Nagi Reddy got\nissued legal notice dated 16-1-2010 to defendants calling upon them to execute\nregistered sale deed in favour of B."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 75,
+                "word_count": 12,
+                "text": "Siva Nagi Reddy and to receive balance of sale\nconsideration of Rs.6,600/-."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 130,
+                "word_count": 21,
+                "text": "The defendants received notices, failed to execute\nregistered sale deed in respect of the plaint schedule property in favour of B."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 17,
+                "word_count": 4,
+                "text": "Siva Nagi\nReddy ."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN012",
+                "sentence_index": 12,
+                "character_count": 16,
+                "word_count": 3,
+                "text": "Hence, the suit."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN013",
+                "sentence_index": 13,
+                "character_count": 159,
+                "word_count": 29,
+                "text": "6)\nDefendant No. 1 filed his written statement along with the adoption memo of\ndefendant Nos. 2 and 3 to adopt the written statement of defendant No.1 by them."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN014",
+                "sentence_index": 14,
+                "character_count": 92,
+                "word_count": 16,
+                "text": "The defendants submitted that the suit framed is not maintainable either in law or on\nfacts."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN015",
+                "sentence_index": 15,
+                "character_count": 33,
+                "word_count": 6,
+                "text": "The relationship with the late H."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN016",
+                "sentence_index": 16,
+                "character_count": 93,
+                "word_count": 17,
+                "text": "Kale Saheb as sons and that the plaint\nschedule property is self acquired property of late H."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN017",
+                "sentence_index": 17,
+                "character_count": 73,
+                "word_count": 14,
+                "text": "Kale Sab are admitted and\ndenied the rest of the averments of the plaint."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN018",
+                "sentence_index": 18,
+                "character_count": 79,
+                "word_count": 14,
+                "text": "7)\nThe defendants denied the execution of the sale agreement by their father H."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN019",
+                "sentence_index": 19,
+                "character_count": 215,
+                "word_count": 35,
+                "text": "Kale Saheb in respect of the plaint schedule property and submitted that their father\nduring the life time is in possession and defendants after demise of their father came\nto possession of plaint schedule property."
+              },
+              {
+                "sentence_id": "DC_000035_P003_PAR001_SEN020",
+                "sentence_index": 20,
+                "character_count": 142,
+                "word_count": 25,
+                "text": "8)\nIt is alleged that the sale agreement dated 31-10-2001 is false one, fabricated\none and also pleaded that the sale agreement is forged one."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 4,
+        "character_count": 1803,
+        "word_count": 318,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000035_P004_PAR001",
+            "paragraph_index": 1,
+            "character_count": 1803,
+            "word_count": 318,
+            "sentence_count": 8,
+            "text": "4\n9)\nThe defendants submit that during the lifetime of their father never at any\npoint of time B. Siva Nagi Reddy demanded either orally or in writing and legal notice\nissued only after demise of their father and further submitted that B. Siva Nagi Reddy\nnever expressed his readiness and willingness to get sale deed executed by\ndefendants and came forward to pay the balance of sale consideration.\n10)\nThe defendants submit that the suit is barred by limitation and the suit is to be\nfiled within period of limitation from the date of execution of sale agreement by\ntendering the balance of sale consideration.\n11)\nThe defendants submit that suit is liable to be dismissed in lemini since the\nmandatory provision of depositing of balance of sale consideration on the date of\nfiling of the suit is not made and that suit has to be rejected and submits that B. Siva\nNagi Reddy did not approached the court with clean hands seeking the equitable relief\nof specific performance and submitted that the survey number, extent and boundaries\nare totally wrong and submit that these defendants are not only the legal heirs left to\ntheir father and father of the defendants died intestate leaving behind other legal\nheirs and the suit is not maintainable for not adding them as proper parties and\nfurther submit that there is no cause of action in filing of the suit and prayed to\ndismiss the suit with costs .\n12)\nThe defendants filed additional written statement that execution for\nagreement of sale has no valid title to dispose off property as suit for partition filed\non the file of Hon'ble Senior Civil Judge's Court, Adoni in O.S. No. 37/2011 by\nHussainbee and others for their share and submit that suit is non est in the eye of law\nand submit that the suit is not enforcible and liable to be dismissed.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P004_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 97,
+                "word_count": 19,
+                "text": "4\n9)\nThe defendants submit that during the lifetime of their father never at any\npoint of time B."
+              },
+              {
+                "sentence_id": "DC_000035_P004_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 140,
+                "word_count": 24,
+                "text": "Siva Nagi Reddy demanded either orally or in writing and legal notice\nissued only after demise of their father and further submitted that B."
+              },
+              {
+                "sentence_id": "DC_000035_P004_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 160,
+                "word_count": 26,
+                "text": "Siva Nagi Reddy\nnever expressed his readiness and willingness to get sale deed executed by\ndefendants and came forward to pay the balance of sale consideration."
+              },
+              {
+                "sentence_id": "DC_000035_P004_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 212,
+                "word_count": 37,
+                "text": "10)\nThe defendants submit that the suit is barred by limitation and the suit is to be\nfiled within period of limitation from the date of execution of sale agreement by\ntendering the balance of sale consideration."
+              },
+              {
+                "sentence_id": "DC_000035_P004_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 247,
+                "word_count": 46,
+                "text": "11)\nThe defendants submit that suit is liable to be dismissed in lemini since the\nmandatory provision of depositing of balance of sale consideration on the date of\nfiling of the suit is not made and that suit has to be rejected and submits that B."
+              },
+              {
+                "sentence_id": "DC_000035_P004_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 541,
+                "word_count": 94,
+                "text": "Siva\nNagi Reddy did not approached the court with clean hands seeking the equitable relief\nof specific performance and submitted that the survey number, extent and boundaries\nare totally wrong and submit that these defendants are not only the legal heirs left to\ntheir father and father of the defendants died intestate leaving behind other legal\nheirs and the suit is not maintainable for not adding them as proper parties and\nfurther submit that there is no cause of action in filing of the suit and prayed to\ndismiss the suit with costs ."
+              },
+              {
+                "sentence_id": "DC_000035_P004_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 226,
+                "word_count": 38,
+                "text": "12)\nThe defendants filed additional written statement that execution for\nagreement of sale has no valid title to dispose off property as suit for partition filed\non the file of Hon'ble Senior Civil Judge's Court, Adoni in O.S."
+              },
+              {
+                "sentence_id": "DC_000035_P004_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 173,
+                "word_count": 34,
+                "text": "No. 37/2011 by\nHussainbee and others for their share and submit that suit is non est in the eye of law\nand submit that the suit is not enforcible and liable to be dismissed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 5,
+        "character_count": 1459,
+        "word_count": 261,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000035_P005_PAR001",
+            "paragraph_index": 1,
+            "character_count": 1459,
+            "word_count": 261,
+            "sentence_count": 26,
+            "text": "5\n13)\nThe following issues are framed for adjudication of the suit.\n(1) Whether the plaintiff is entitled for specific performance as prayed for?\n(2) To what relief?\nThe following additional issue is framed:\n(1) Whether the suit is barred by limitation law ?\n14)\n During the course of trial, on behalf of the plaintiffs, plaintiff No.4 examined\nhimself as P.W- 1 and two others as P.W-2 and P.W-3 and got marked Exs. A-1 to A-4.\nOn behalf of the defendants, defendant No.1 examined as D.W-1 and got marked Exs.\nB-1 and B-2 .\n15)\n Heard both sides.\n16)\n ISSUE NO.1:- Originally the suit filed by B. Siva Nagi Reddy for specific\nperformance of agreement of sale dated 31-10-2001 over the plaint schedule\nproperty. Agreement of sale of plaint schedule property entered by H. Kale Saheb\nand B. Siva Nagi Reddy. It is an admitted fact that plaint schedule property is self\nacquired property of H. Kale Saheb and agreement of sale entered during the life time\nof H. Kale Saheb. It is agreed by H. Kale Saheb to sell the plaint schedule property for\nRs. 40,000/- and received Rs. 33,400/- from B. Siva Nagi Reddy and remaining balance\nof sale consideration is to be received by H. Kale Saheb as and when offered by B. Siva\nNagi Reddy and to execute registered sale deed without creating any litigation.\n17)\nP.W-1 is son of B. Siva Nagi Reddy, gave evidence to the facts of the case and\nsought for decree and further examined P.W-2 who is the attestor of agreement of",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 67,
+                "word_count": 12,
+                "text": "5\n13)\nThe following issues are framed for adjudication of the suit."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 77,
+                "word_count": 12,
+                "text": "(1) Whether the plaintiff is entitled for specific performance as prayed for?"
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 19,
+                "word_count": 4,
+                "text": "(2) To what relief?"
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 92,
+                "word_count": 16,
+                "text": "The following additional issue is framed:\n(1) Whether the suit is barred by limitation law ?"
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 157,
+                "word_count": 29,
+                "text": "14)\n During the course of trial, on behalf of the plaintiffs, plaintiff No.4 examined\nhimself as P.W- 1 and two others as P.W-2 and P.W-3 and got marked Exs."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 11,
+                "word_count": 3,
+                "text": "A-1 to A-4."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 81,
+                "word_count": 14,
+                "text": "On behalf of the defendants, defendant No.1 examined as D.W-1 and got marked Exs."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 13,
+                "word_count": 4,
+                "text": "B-1 and B-2 ."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 22,
+                "word_count": 4,
+                "text": "15)\n Heard both sides."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 49,
+                "word_count": 9,
+                "text": "16)\n ISSUE NO.1:- Originally the suit filed by B."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 113,
+                "word_count": 17,
+                "text": "Siva Nagi Reddy for specific\nperformance of agreement of sale dated 31-10-2001 over the plaint schedule\nproperty."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN012",
+                "sentence_index": 12,
+                "character_count": 59,
+                "word_count": 10,
+                "text": "Agreement of sale of plaint schedule property entered by H."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN013",
+                "sentence_index": 13,
+                "character_count": 17,
+                "word_count": 4,
+                "text": "Kale Saheb\nand B."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN014",
+                "sentence_index": 14,
+                "character_count": 16,
+                "word_count": 3,
+                "text": "Siva Nagi Reddy."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN015",
+                "sentence_index": 15,
+                "character_count": 84,
+                "word_count": 15,
+                "text": "It is an admitted fact that plaint schedule property is self\nacquired property of H."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN016",
+                "sentence_index": 16,
+                "character_count": 67,
+                "word_count": 13,
+                "text": "Kale Saheb and agreement of sale entered during the life time\nof H."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN017",
+                "sentence_index": 17,
+                "character_count": 11,
+                "word_count": 2,
+                "text": "Kale Saheb."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN018",
+                "sentence_index": 18,
+                "character_count": 18,
+                "word_count": 5,
+                "text": "It is agreed by H."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN019",
+                "sentence_index": 19,
+                "character_count": 55,
+                "word_count": 10,
+                "text": "Kale Saheb to sell the plaint schedule property for\nRs."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN020",
+                "sentence_index": 20,
+                "character_count": 25,
+                "word_count": 4,
+                "text": "40,000/- and received Rs."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN021",
+                "sentence_index": 21,
+                "character_count": 16,
+                "word_count": 3,
+                "text": "33,400/- from B."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN022",
+                "sentence_index": 22,
+                "character_count": 83,
+                "word_count": 15,
+                "text": "Siva Nagi Reddy and remaining balance\nof sale consideration is to be received by H."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN023",
+                "sentence_index": 23,
+                "character_count": 36,
+                "word_count": 8,
+                "text": "Kale Saheb as and when offered by B."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN024",
+                "sentence_index": 24,
+                "character_count": 84,
+                "word_count": 13,
+                "text": "Siva\nNagi Reddy and to execute registered sale deed without creating any litigation."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN025",
+                "sentence_index": 25,
+                "character_count": 22,
+                "word_count": 6,
+                "text": "17)\nP.W-1 is son of B."
+              },
+              {
+                "sentence_id": "DC_000035_P005_PAR001_SEN026",
+                "sentence_index": 26,
+                "character_count": 140,
+                "word_count": 26,
+                "text": "Siva Nagi Reddy, gave evidence to the facts of the case and\nsought for decree and further examined P.W-2 who is the attestor of agreement of"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 6,
+        "character_count": 2002,
+        "word_count": 340,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000035_P006_PAR001",
+            "paragraph_index": 1,
+            "character_count": 2002,
+            "word_count": 340,
+            "sentence_count": 24,
+            "text": "6\nsale and P.W-3 is the scribe of agreement of sale and marked Exs. A-1 to A-4.\nDefendant No.1 examined as D.W-1 and got marked Exs. B-1 and B-2. Before going to\nthe evidence of witness, it is appropriate to say that agreement of sale dated 31-10-\n2001 sent to District Registrar, Kurnool for impounding as per the orders in I.A.No.\n18/2010 for collecting deficit stamp duty i.e., Rs.7,320/- and penalty of Rs. 14,640/-\nand unregistered sale agreement admitted into evidence on behalf of the plaintiffs.\n18)\nP.W-1 gave evidence by way of affidavit, that his father B. Siva Nagi Reddy filed\nthe suit and H. Kale Saheb executed an agreement of sale deed dated 31-10-2001\nand his father demanded defendants to execute registered sale deed on receipt of\nsale consideration by issuing legal notice dated 16-1-2010 and he also filed postal\nreceipt of legal notice and acknowledgment cards of legal notice evidencing that the\nlegal notice received by the defendants. P.W-1 evidence is supported by the evidence\nof P.W-2 and P.W-3. P.W-2 gave evidence that he attested Ex.A-1 along with K.\nRanganna of Hathi Belagal village and P.W-3 scribe of Ex.A-1 and also submitted that\nH. Kale Saheb executed Ex.A-1 on receipt of advance of sale consideration i.e.,\nRs.33,400/- and remaining amount of Rs.6,600/- has to be received by H. Kale Saheb on\nthe offer of B. Siva Nagi Reddy and H. Kale Saheb has to execute the registered sale\ndeed. P.W-3 in cross-examination submitted that he used to maintain records for\ndocuments written by him and further said he has not filed any such record before the\ncourt. P.W-3 said that plaint schedule property delivered to B. Siva Nagi Reddy on the\ndate of execution of Ex.A-1. P.W-2 said that H. Kale Saheb executed Ex.A-1.\n19)\nThe suit is based on the documentary evidence. Plaintiffs established that\nEx.A-1 executed by the father of defendants. Now it is for the defendants to establish\ntheir case as they taken plea that Ex.A-1 is fabricated, created and the signatures of H.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 67,
+                "word_count": 14,
+                "text": "6\nsale and P.W-3 is the scribe of agreement of sale and marked Exs."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 11,
+                "word_count": 3,
+                "text": "A-1 to A-4."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 52,
+                "word_count": 9,
+                "text": "Defendant No.1 examined as D.W-1 and got marked Exs."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 12,
+                "word_count": 3,
+                "text": "B-1 and B-2."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 264,
+                "word_count": 44,
+                "text": "Before going to\nthe evidence of witness, it is appropriate to say that agreement of sale dated 31-10-\n2001 sent to District Registrar, Kurnool for impounding as per the orders in I.A.No.\n18/2010 for collecting deficit stamp duty i.e., Rs.7,320/- and penalty of Rs."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 92,
+                "word_count": 13,
+                "text": "14,640/-\nand unregistered sale agreement admitted into evidence on behalf of the plaintiffs."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 63,
+                "word_count": 12,
+                "text": "18)\nP.W-1 gave evidence by way of affidavit, that his father B."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 37,
+                "word_count": 8,
+                "text": "Siva Nagi Reddy filed\nthe suit and H."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 353,
+                "word_count": 55,
+                "text": "Kale Saheb executed an agreement of sale deed dated 31-10-2001\nand his father demanded defendants to execute registered sale deed on receipt of\nsale consideration by issuing legal notice dated 16-1-2010 and he also filed postal\nreceipt of legal notice and acknowledgment cards of legal notice evidencing that the\nlegal notice received by the defendants."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 63,
+                "word_count": 11,
+                "text": "P.W-1 evidence is supported by the evidence\nof P.W-2 and P.W-3."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 57,
+                "word_count": 10,
+                "text": "P.W-2 gave evidence that he attested Ex.A-1 along with K."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN012",
+                "sentence_index": 12,
+                "character_count": 87,
+                "word_count": 15,
+                "text": "Ranganna of Hathi Belagal village and P.W-3 scribe of Ex.A-1 and also submitted that\nH."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN013",
+                "sentence_index": 13,
+                "character_count": 148,
+                "word_count": 24,
+                "text": "Kale Saheb executed Ex.A-1 on receipt of advance of sale consideration i.e.,\nRs.33,400/- and remaining amount of Rs.6,600/- has to be received by H."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN014",
+                "sentence_index": 14,
+                "character_count": 29,
+                "word_count": 7,
+                "text": "Kale Saheb on\nthe offer of B."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN015",
+                "sentence_index": 15,
+                "character_count": 22,
+                "word_count": 5,
+                "text": "Siva Nagi Reddy and H."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN016",
+                "sentence_index": 16,
+                "character_count": 51,
+                "word_count": 9,
+                "text": "Kale Saheb has to execute the registered sale\ndeed."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN017",
+                "sentence_index": 17,
+                "character_count": 166,
+                "word_count": 28,
+                "text": "P.W-3 in cross-examination submitted that he used to maintain records for\ndocuments written by him and further said he has not filed any such record before the\ncourt."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN018",
+                "sentence_index": 18,
+                "character_count": 56,
+                "word_count": 9,
+                "text": "P.W-3 said that plaint schedule property delivered to B."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN019",
+                "sentence_index": 19,
+                "character_count": 51,
+                "word_count": 10,
+                "text": "Siva Nagi Reddy on the\ndate of execution of Ex.A-1."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN020",
+                "sentence_index": 20,
+                "character_count": 18,
+                "word_count": 4,
+                "text": "P.W-2 said that H."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN021",
+                "sentence_index": 21,
+                "character_count": 27,
+                "word_count": 4,
+                "text": "Kale Saheb executed Ex.A-1."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN022",
+                "sentence_index": 22,
+                "character_count": 50,
+                "word_count": 9,
+                "text": "19)\nThe suit is based on the documentary evidence."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN023",
+                "sentence_index": 23,
+                "character_count": 72,
+                "word_count": 10,
+                "text": "Plaintiffs established that\nEx.A-1 executed by the father of defendants."
+              },
+              {
+                "sentence_id": "DC_000035_P006_PAR001_SEN024",
+                "sentence_index": 24,
+                "character_count": 131,
+                "word_count": 24,
+                "text": "Now it is for the defendants to establish\ntheir case as they taken plea that Ex.A-1 is fabricated, created and the signatures of H."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 7,
+        "character_count": 1663,
+        "word_count": 291,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000035_P007_PAR001",
+            "paragraph_index": 1,
+            "character_count": 1663,
+            "word_count": 291,
+            "sentence_count": 9,
+            "text": "7\nKale Saheb are forged. D.W-1 denied that his father executed Ex.A-1 but did not\ndenied the receiving of consideration under Ex.A-1 by him and defendants 2 and 3 and\nhe also admitted that he know the contents of Ex.A-2 legal notice. He also said that\nthe father of P.W-1 met their father and their father refused to register the sale deed\nby denying the signature of him but the said fact is not mentioned in the pleadings of\nthe defendants.\n20)\nDefendants did not choose to adduce any evidence to establish that signature\nof their father on Ex.A-1 is forged apart from the plea of forgery, defendants counsel\ncontended that B. Siva Nagi Reddy who is the father of the plaintiffs did not complied\nthe prerequisite condition u/Sec. 16 (c) of Specific Relief Act by tendering the balance\nof sale consideration to their father or to them or by depositing the amount in civil\ncourt deposit account. Sec. 16(c) of Specific Relief Act reads as follows :\nc) who fails to aver and prove that he has performed or has always\nbeen ready and willing to perform the essential terms of the contract which\nare to be performed by him, other than terms the performance of which has\nbeen prevented or waived by the defendant.\nExplanation: For the purposes of clause (c),-(i) where a contract\ninvolves the payment of money, it is not essential for the plaintiff to\nactually tender to the defendant or to deposit in court any money except\nwhen so directed by the court;\n(ii) the plaintiff must aver performance of, or readiness and\nwillingness to perform, the contract according to its true construction.\n21)\nAs seen from the recitals of Ex.A-1, plaint schedule property handed over",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P007_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 24,
+                "word_count": 5,
+                "text": "7\nKale Saheb are forged."
+              },
+              {
+                "sentence_id": "DC_000035_P007_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 208,
+                "word_count": 37,
+                "text": "D.W-1 denied that his father executed Ex.A-1 but did not\ndenied the receiving of consideration under Ex.A-1 by him and defendants 2 and 3 and\nhe also admitted that he know the contents of Ex.A-2 legal notice."
+              },
+              {
+                "sentence_id": "DC_000035_P007_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 208,
+                "word_count": 39,
+                "text": "He also said that\nthe father of P.W-1 met their father and their father refused to register the sale deed\nby denying the signature of him but the said fact is not mentioned in the pleadings of\nthe defendants."
+              },
+              {
+                "sentence_id": "DC_000035_P007_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 185,
+                "word_count": 31,
+                "text": "20)\nDefendants did not choose to adduce any evidence to establish that signature\nof their father on Ex.A-1 is forged apart from the plea of forgery, defendants counsel\ncontended that B."
+              },
+              {
+                "sentence_id": "DC_000035_P007_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 102,
+                "word_count": 17,
+                "text": "Siva Nagi Reddy who is the father of the plaintiffs did not complied\nthe prerequisite condition u/Sec."
+              },
+              {
+                "sentence_id": "DC_000035_P007_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 163,
+                "word_count": 29,
+                "text": "16 (c) of Specific Relief Act by tendering the balance\nof sale consideration to their father or to them or by depositing the amount in civil\ncourt deposit account."
+              },
+              {
+                "sentence_id": "DC_000035_P007_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 312,
+                "word_count": 58,
+                "text": "Sec. 16(c) of Specific Relief Act reads as follows :\nc) who fails to aver and prove that he has performed or has always\nbeen ready and willing to perform the essential terms of the contract which\nare to be performed by him, other than terms the performance of which has\nbeen prevented or waived by the defendant."
+              },
+              {
+                "sentence_id": "DC_000035_P007_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 376,
+                "word_count": 62,
+                "text": "Explanation: For the purposes of clause (c),-(i) where a contract\ninvolves the payment of money, it is not essential for the plaintiff to\nactually tender to the defendant or to deposit in court any money except\nwhen so directed by the court;\n(ii) the plaintiff must aver performance of, or readiness and\nwillingness to perform, the contract according to its true construction."
+              },
+              {
+                "sentence_id": "DC_000035_P007_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 77,
+                "word_count": 13,
+                "text": "21)\nAs seen from the recitals of Ex.A-1, plaint schedule property handed over"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 8,
+        "character_count": 1718,
+        "word_count": 304,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000035_P008_PAR001",
+            "paragraph_index": 1,
+            "character_count": 1718,
+            "word_count": 304,
+            "sentence_count": 12,
+            "text": "8\n to the 1st plaintiff i.e., B. Siva Nagi Reddy on the date of execution by H. Kale Saheb on\nreceipt of advance of sale consideration and agreed to receive balance of sale\nconsideration as and when B. Siva Nagi Reddy offers to him and registered the sale\ndeed without any litigation. As seen from recitals of Ex.A-1, time is not the essence\nof contract as there is no time fixed for validity of Ex.A-1. The counsel for the\ndefendants relied upon the decision reported in 2007(2) L.S. 146 (D.B.) in between\nMohammed Ibrahim and another Vs. Mohammed Abdul Razzak and also referred\nto para 28 and 29 wherein it is held that:\n28. The basic principle behind Section 16(c) of the Specific\nPerformance Act read with Explanation (ii) is that any person seeking\nbenefit of the specific performance of contract must manifest that his\nconduct has been blemishless throughout entitling him to the specific relief\nand the Court is to grant relief on the basis of the conduct of the person\nseeking relief and that the meaning of such an averment of readiness and\nwillingness must be that the non-completion of the contract was not the\nfault of the plaintiffs and that they were disposed and able to complete it\nhad it not been renounced by the defendant. We do not intend to repeat\nthe decisions relied for the same proposition of law. (Vide Sugani V.\nRameshwar Das and another, 2006(5) ALT 10 (SC)) .\n29. When the vendee was never ready and willing to perform his part\nof contract, evident from his own conduct revealed from the registered\nnotices exchanged, we have no hesitation in stating that he was never ready\nand willing to perform his part of contract and as such he was not entitled\nto the relief of specific performance.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P008_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 32,
+                "word_count": 7,
+                "text": "8\n to the 1st plaintiff i.e., B."
+              },
+              {
+                "sentence_id": "DC_000035_P008_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 46,
+                "word_count": 10,
+                "text": "Siva Nagi Reddy on the date of execution by H."
+              },
+              {
+                "sentence_id": "DC_000035_P008_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 121,
+                "word_count": 21,
+                "text": "Kale Saheb on\nreceipt of advance of sale consideration and agreed to receive balance of sale\nconsideration as and when B."
+              },
+              {
+                "sentence_id": "DC_000035_P008_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 82,
+                "word_count": 14,
+                "text": "Siva Nagi Reddy offers to him and registered the sale\ndeed without any litigation."
+              },
+              {
+                "sentence_id": "DC_000035_P008_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 118,
+                "word_count": 23,
+                "text": "As seen from recitals of Ex.A-1, time is not the essence\nof contract as there is no time fixed for validity of Ex.A-1."
+              },
+              {
+                "sentence_id": "DC_000035_P008_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 80,
+                "word_count": 13,
+                "text": "The counsel for the\ndefendants relied upon the decision reported in 2007(2) L.S."
+              },
+              {
+                "sentence_id": "DC_000035_P008_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 141,
+                "word_count": 26,
+                "text": "146 (D.B.) in between\nMohammed Ibrahim and another Vs. Mohammed Abdul Razzak and also referred\nto para 28 and 29 wherein it is held that:\n28."
+              },
+              {
+                "sentence_id": "DC_000035_P008_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 614,
+                "word_count": 105,
+                "text": "The basic principle behind Section 16(c) of the Specific\nPerformance Act read with Explanation (ii) is that any person seeking\nbenefit of the specific performance of contract must manifest that his\nconduct has been blemishless throughout entitling him to the specific relief\nand the Court is to grant relief on the basis of the conduct of the person\nseeking relief and that the meaning of such an averment of readiness and\nwillingness must be that the non-completion of the contract was not the\nfault of the plaintiffs and that they were disposed and able to complete it\nhad it not been renounced by the defendant."
+              },
+              {
+                "sentence_id": "DC_000035_P008_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 80,
+                "word_count": 15,
+                "text": "We do not intend to repeat\nthe decisions relied for the same proposition of law."
+              },
+              {
+                "sentence_id": "DC_000035_P008_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 65,
+                "word_count": 12,
+                "text": "(Vide Sugani V.\nRameshwar Das and another, 2006(5) ALT 10 (SC)) ."
+              },
+              {
+                "sentence_id": "DC_000035_P008_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 3,
+                "word_count": 1,
+                "text": "29."
+              },
+              {
+                "sentence_id": "DC_000035_P008_PAR001_SEN012",
+                "sentence_index": 12,
+                "character_count": 325,
+                "word_count": 57,
+                "text": "When the vendee was never ready and willing to perform his part\nof contract, evident from his own conduct revealed from the registered\nnotices exchanged, we have no hesitation in stating that he was never ready\nand willing to perform his part of contract and as such he was not entitled\nto the relief of specific performance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 9,
+        "character_count": 2056,
+        "word_count": 356,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000035_P009_PAR001",
+            "paragraph_index": 1,
+            "character_count": 2056,
+            "word_count": 356,
+            "sentence_count": 16,
+            "text": "9\n22)\nThe defendants projected that there is no compliance of Section 16(c) of\nSpecific Relief Act but the ruling submitted by the defendants is not applicable as to\nthe facts of the case. On one hand, defendants denied the execution of Ex.A-1 by\ntheir father by taking plea of forgery and on the other hand, they say that there is no\ncompliance of Sec. 16(c) of Specific Relief Act when the defendants takes the plea of\nforgery they cannot go with the plea that there is no compliance of mandatory\nprovision of Section 16(c) of Specific Relief Act. Further, the defendants did not\nadduce any documentary evidence to show that they are in possession and enjoyment\nof the plaint schedule property. The defendants got marked Ex.B-1 in order to\nestablish that their father died on 29-10-2004 and Ex.B-2 also filed i.e., the wedding\ncard of Zubeda Bee who is the daughter of late H. Kale Saheb by pointing these\ndocuments defendants counsel argued that the said person was not brought on\nrecord and suit is not maintainable as there are no proper parties. But here in the\npresent case there is no any evidence to show that the said Zubeda Bee is having\ninterest over the plaint schedule property. Hence, the plea of non joinder of parties is\nignored. Hence, the issue is settled in favour of the plaintiffs and plaintiffs are\nentitled to relief of Specific Relief Act against the defendants.\n23)\nADDITIONAL ISSUE NO.1 :- The defendants taken specific plea that suit is\nbarred by limitation. The defendants counsel argued that H. Kale Saheb refused to\nexecute registered sale deed by denying the signatures of Ex.A-1 and since the period\nof limitation has to be calculated. According to Article 54 of Limitation Act here\naccording to the recitals of Ex.A-1, it is a specific case that B. Siva Nagi Reddy has to\noffer the remaining balance of sale consideration and for that H. Kale Saheb has to\naccept and further H. Kale Saheb has to execute registered document relating to\nplaint schedule property. After Ex.A-2 is taken into consideration there is refusal by",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P009_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 188,
+                "word_count": 34,
+                "text": "9\n22)\nThe defendants projected that there is no compliance of Section 16(c) of\nSpecific Relief Act but the ruling submitted by the defendants is not applicable as to\nthe facts of the case."
+              },
+              {
+                "sentence_id": "DC_000035_P009_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 360,
+                "word_count": 65,
+                "text": "On one hand, defendants denied the execution of Ex.A-1 by\ntheir father by taking plea of forgery and on the other hand, they say that there is no\ncompliance of Sec. 16(c) of Specific Relief Act when the defendants takes the plea of\nforgery they cannot go with the plea that there is no compliance of mandatory\nprovision of Section 16(c) of Specific Relief Act."
+              },
+              {
+                "sentence_id": "DC_000035_P009_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 146,
+                "word_count": 23,
+                "text": "Further, the defendants did not\nadduce any documentary evidence to show that they are in possession and enjoyment\nof the plaint schedule property."
+              },
+              {
+                "sentence_id": "DC_000035_P009_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 181,
+                "word_count": 33,
+                "text": "The defendants got marked Ex.B-1 in order to\nestablish that their father died on 29-10-2004 and Ex.B-2 also filed i.e., the wedding\ncard of Zubeda Bee who is the daughter of late H."
+              },
+              {
+                "sentence_id": "DC_000035_P009_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 172,
+                "word_count": 29,
+                "text": "Kale Saheb by pointing these\ndocuments defendants counsel argued that the said person was not brought on\nrecord and suit is not maintainable as there are no proper parties."
+              },
+              {
+                "sentence_id": "DC_000035_P009_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 140,
+                "word_count": 26,
+                "text": "But here in the\npresent case there is no any evidence to show that the said Zubeda Bee is having\ninterest over the plaint schedule property."
+              },
+              {
+                "sentence_id": "DC_000035_P009_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 53,
+                "word_count": 10,
+                "text": "Hence, the plea of non joinder of parties is\nignored."
+              },
+              {
+                "sentence_id": "DC_000035_P009_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 140,
+                "word_count": 23,
+                "text": "Hence, the issue is settled in favour of the plaintiffs and plaintiffs are\nentitled to relief of Specific Relief Act against the defendants."
+              },
+              {
+                "sentence_id": "DC_000035_P009_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 98,
+                "word_count": 16,
+                "text": "23)\nADDITIONAL ISSUE NO.1 :- The defendants taken specific plea that suit is\nbarred by limitation."
+              },
+              {
+                "sentence_id": "DC_000035_P009_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 37,
+                "word_count": 6,
+                "text": "The defendants counsel argued that H."
+              },
+              {
+                "sentence_id": "DC_000035_P009_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 143,
+                "word_count": 24,
+                "text": "Kale Saheb refused to\nexecute registered sale deed by denying the signatures of Ex.A-1 and since the period\nof limitation has to be calculated."
+              },
+              {
+                "sentence_id": "DC_000035_P009_PAR001_SEN012",
+                "sentence_index": 12,
+                "character_count": 113,
+                "word_count": 21,
+                "text": "According to Article 54 of Limitation Act here\naccording to the recitals of Ex.A-1, it is a specific case that B."
+              },
+              {
+                "sentence_id": "DC_000035_P009_PAR001_SEN013",
+                "sentence_index": 13,
+                "character_count": 88,
+                "word_count": 16,
+                "text": "Siva Nagi Reddy has to\noffer the remaining balance of sale consideration and for that H."
+              },
+              {
+                "sentence_id": "DC_000035_P009_PAR001_SEN014",
+                "sentence_index": 14,
+                "character_count": 39,
+                "word_count": 8,
+                "text": "Kale Saheb has to\naccept and further H."
+              },
+              {
+                "sentence_id": "DC_000035_P009_PAR001_SEN015",
+                "sentence_index": 15,
+                "character_count": 83,
+                "word_count": 12,
+                "text": "Kale Saheb has to execute registered document relating to\nplaint schedule property."
+              },
+              {
+                "sentence_id": "DC_000035_P009_PAR001_SEN016",
+                "sentence_index": 16,
+                "character_count": 60,
+                "word_count": 10,
+                "text": "After Ex.A-2 is taken into consideration there is refusal by"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 10,
+        "character_count": 1568,
+        "word_count": 270,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000035_P010_PAR001",
+            "paragraph_index": 1,
+            "character_count": 1568,
+            "word_count": 270,
+            "sentence_count": 12,
+            "text": "10\nthe defendants to execute the registered sale deed as they did not given any reply to\nthe legal notice. The counsel for the plaintiffs submitted citation reported on 29\nOctober 2014 of Hon'ble Supreme Court of India Civil Appeal Nos. 9949-9950 of\n2014 in between Rathnavathi and Another Vs. Kavita Ganashamdas and relied\nupon para Nos. 49 and 50 wherein it is held that :\n49. Mere reading of Article 54 of the Limitation Act would show that\nif the date is fixed for performance of the agreement, then non-compliance\nof the agreement on the date would give a cause of action to file suit for\nspecific performance within three years from the date so fixed. However,\nwhen no such date is fixed, limitation of three years to file a suit for specific\nperformance would begin when the plaintiff has noticed that the\ndefendant has refused the performance of the agreement.\n50. The case at hand admittedly does not fall in the first category of\nArticle 54 of the Limitation Act because as observed supra, no date was\nfixed in the agreement for its performance. The case would thus be\ngoverned by the second category viz., when plaintiff has a notice that\nperformance is refused.\nexplained that time bound is taken when plaintiffs noticed refusal on the part of the\nobligants. Admittedly defendants have knowledge of Ex.A-1 i.e., executed by their\nfather Exs. A-3 and A-4 shows the same where the defendants did not gave any reply.\nHence, the suit is not barred by limitation. Accordingly, additional issue is answered in\nfavour of the plaintiffs and against the defendants.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P010_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 106,
+                "word_count": 20,
+                "text": "10\nthe defendants to execute the registered sale deed as they did not given any reply to\nthe legal notice."
+              },
+              {
+                "sentence_id": "DC_000035_P010_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 271,
+                "word_count": 47,
+                "text": "The counsel for the plaintiffs submitted citation reported on 29\nOctober 2014 of Hon'ble Supreme Court of India Civil Appeal Nos. 9949-9950 of\n2014 in between Rathnavathi and Another Vs. Kavita Ganashamdas and relied\nupon para Nos. 49 and 50 wherein it is held that :\n49."
+              },
+              {
+                "sentence_id": "DC_000035_P010_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 278,
+                "word_count": 50,
+                "text": "Mere reading of Article 54 of the Limitation Act would show that\nif the date is fixed for performance of the agreement, then non-compliance\nof the agreement on the date would give a cause of action to file suit for\nspecific performance within three years from the date so fixed."
+              },
+              {
+                "sentence_id": "DC_000035_P010_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 210,
+                "word_count": 35,
+                "text": "However,\nwhen no such date is fixed, limitation of three years to file a suit for specific\nperformance would begin when the plaintiff has noticed that the\ndefendant has refused the performance of the agreement."
+              },
+              {
+                "sentence_id": "DC_000035_P010_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 3,
+                "word_count": 1,
+                "text": "50."
+              },
+              {
+                "sentence_id": "DC_000035_P010_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 182,
+                "word_count": 33,
+                "text": "The case at hand admittedly does not fall in the first category of\nArticle 54 of the Limitation Act because as observed supra, no date was\nfixed in the agreement for its performance."
+              },
+              {
+                "sentence_id": "DC_000035_P010_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 117,
+                "word_count": 20,
+                "text": "The case would thus be\ngoverned by the second category viz., when plaintiff has a notice that\nperformance is refused."
+              },
+              {
+                "sentence_id": "DC_000035_P010_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 96,
+                "word_count": 16,
+                "text": "explained that time bound is taken when plaintiffs noticed refusal on the part of the\nobligants."
+              },
+              {
+                "sentence_id": "DC_000035_P010_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 82,
+                "word_count": 12,
+                "text": "Admittedly defendants have knowledge of Ex.A-1 i.e., executed by their\nfather Exs."
+              },
+              {
+                "sentence_id": "DC_000035_P010_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 71,
+                "word_count": 14,
+                "text": "A-3 and A-4 shows the same where the defendants did not gave any reply."
+              },
+              {
+                "sentence_id": "DC_000035_P010_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 44,
+                "word_count": 8,
+                "text": "Hence, the suit is not barred by limitation."
+              },
+              {
+                "sentence_id": "DC_000035_P010_PAR001_SEN012",
+                "sentence_index": 12,
+                "character_count": 97,
+                "word_count": 14,
+                "text": "Accordingly, additional issue is answered in\nfavour of the plaintiffs and against the defendants."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 11,
+        "character_count": 1216,
+        "word_count": 207,
+        "paragraph_count": 4,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000035_P011_PAR001",
+            "paragraph_index": 1,
+            "character_count": 847,
+            "word_count": 149,
+            "sentence_count": 6,
+            "text": "11\n24)\nISSUE NO.2:- In view of the findings on issue No.1 and additional issue , the suit\nof the plaintiffs is liable to be decreed with costs.\n25)\nIn the result, the suit is decreed with costs in favour of the plaintiffs directing\nthe defendants to execute registered sale deed in favour of the plaintiff Nos. 2 to 6\non receipt of balance of sale consideration i.e., Rs. 6,600/- at the time of registration\nwithin two months from the date of decree, if fails, the plaintiffs are at liberty to get\nexecute regular registered sale deed under due process of law only after depositing\nthe balance of sale consideration i.e., Rs. 6,600/- into the court for which the\ndefendants are entitled.\nDictated to the Stenographer, transcribed by her, corrected and pronounced by\nme in the open Court this the 12th day of November, 2018.\n Sd/- Sri M.K.V. Achari",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P011_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 143,
+                "word_count": 28,
+                "text": "11\n24)\nISSUE NO.2:- In view of the findings on issue No.1 and additional issue , the suit\nof the plaintiffs is liable to be decreed with costs."
+              },
+              {
+                "sentence_id": "DC_000035_P011_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 227,
+                "word_count": 41,
+                "text": "25)\nIn the result, the suit is decreed with costs in favour of the plaintiffs directing\nthe defendants to execute registered sale deed in favour of the plaintiff Nos. 2 to 6\non receipt of balance of sale consideration i.e., Rs."
+              },
+              {
+                "sentence_id": "DC_000035_P011_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 253,
+                "word_count": 43,
+                "text": "6,600/- at the time of registration\nwithin two months from the date of decree, if fails, the plaintiffs are at liberty to get\nexecute regular registered sale deed under due process of law only after depositing\nthe balance of sale consideration i.e., Rs."
+              },
+              {
+                "sentence_id": "DC_000035_P011_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 61,
+                "word_count": 10,
+                "text": "6,600/- into the court for which the\ndefendants are entitled."
+              },
+              {
+                "sentence_id": "DC_000035_P011_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 135,
+                "word_count": 23,
+                "text": "Dictated to the Stenographer, transcribed by her, corrected and pronounced by\nme in the open Court this the 12th day of November, 2018."
+              },
+              {
+                "sentence_id": "DC_000035_P011_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 22,
+                "word_count": 4,
+                "text": "Sd/- Sri M.K.V. Achari"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000035_P011_PAR002",
+            "paragraph_index": 2,
+            "character_count": 19,
+            "word_count": 3,
+            "sentence_count": 1,
+            "text": "JUNIOR CIVIL JUDGE,",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P011_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 19,
+                "word_count": 3,
+                "text": "JUNIOR CIVIL JUDGE,"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000035_P011_PAR003",
+            "paragraph_index": 3,
+            "character_count": 61,
+            "word_count": 8,
+            "sentence_count": 2,
+            "text": "ALUR.\nAPPENDIX OF EVIDENCE\nWITNESSES EXAMINED\nFor Plaintiffs:",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P011_PAR003_SEN001",
+                "sentence_index": 1,
+                "character_count": 5,
+                "word_count": 1,
+                "text": "ALUR."
+              },
+              {
+                "sentence_id": "DC_000035_P011_PAR003_SEN002",
+                "sentence_index": 2,
+                "character_count": 55,
+                "word_count": 7,
+                "text": "APPENDIX OF EVIDENCE\nWITNESSES EXAMINED\nFor Plaintiffs:"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000035_P011_PAR004",
+            "paragraph_index": 4,
+            "character_count": 282,
+            "word_count": 47,
+            "sentence_count": 8,
+            "text": "For Defendants :\nP.W-1 : B. Bhoomana Gouda\nD.W-1 : H. Hussainsab.\nP.W-2 :B. Mudhukappa Setty\nP.W-3 : M. Pompaiah Swamy\nEXHIBITS MARKED\nFor Plaintiffs:\nEx.A-1: Original sale agreement executed by H. Kale Saheb in favour of\n B. Shivanagi Reddy ( marked subject to proof and relevancy)",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P011_PAR004_SEN001",
+                "sentence_index": 1,
+                "character_count": 27,
+                "word_count": 6,
+                "text": "For Defendants :\nP.W-1 : B."
+              },
+              {
+                "sentence_id": "DC_000035_P011_PAR004_SEN002",
+                "sentence_index": 2,
+                "character_count": 25,
+                "word_count": 5,
+                "text": "Bhoomana Gouda\nD.W-1 : H."
+              },
+              {
+                "sentence_id": "DC_000035_P011_PAR004_SEN003",
+                "sentence_index": 3,
+                "character_count": 11,
+                "word_count": 1,
+                "text": "Hussainsab."
+              },
+              {
+                "sentence_id": "DC_000035_P011_PAR004_SEN004",
+                "sentence_index": 4,
+                "character_count": 9,
+                "word_count": 2,
+                "text": "P.W-2 :B."
+              },
+              {
+                "sentence_id": "DC_000035_P011_PAR004_SEN005",
+                "sentence_index": 5,
+                "character_count": 27,
+                "word_count": 5,
+                "text": "Mudhukappa Setty\nP.W-3 : M."
+              },
+              {
+                "sentence_id": "DC_000035_P011_PAR004_SEN006",
+                "sentence_index": 6,
+                "character_count": 93,
+                "word_count": 13,
+                "text": "Pompaiah Swamy\nEXHIBITS MARKED\nFor Plaintiffs:\nEx.A-1: Original sale agreement executed by H."
+              },
+              {
+                "sentence_id": "DC_000035_P011_PAR004_SEN007",
+                "sentence_index": 7,
+                "character_count": 27,
+                "word_count": 6,
+                "text": "Kale Saheb in favour of\n B."
+              },
+              {
+                "sentence_id": "DC_000035_P011_PAR004_SEN008",
+                "sentence_index": 8,
+                "character_count": 56,
+                "word_count": 9,
+                "text": "Shivanagi Reddy ( marked subject to proof and relevancy)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 12,
+        "character_count": 372,
+        "word_count": 56,
+        "paragraph_count": 2,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000035_P012_PAR001",
+            "paragraph_index": 1,
+            "character_count": 344,
+            "word_count": 52,
+            "sentence_count": 7,
+            "text": "12\nEx.A-2: Office copy of lawyer's notice dated 16-1-2010.\nEx.A-3: Postal receipts three in numbers.\nEx.A-4: Served postal acknowledgment cards three in numbers.\nFor Defendants:\nEx.B-1 : Death certificate of H. Kale Sab issued by Panchayath Secretary,\n Alur dated 12-1-2018.\nEx.B-2 : Notarized wedding card of Jubeda Bi.\n Sd/- Sri M.K.V. Achari",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P012_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 58,
+                "word_count": 9,
+                "text": "12\nEx.A-2: Office copy of lawyer's notice dated 16-1-2010."
+              },
+              {
+                "sentence_id": "DC_000035_P012_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 41,
+                "word_count": 6,
+                "text": "Ex.A-3: Postal receipts three in numbers."
+              },
+              {
+                "sentence_id": "DC_000035_P012_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 60,
+                "word_count": 8,
+                "text": "Ex.A-4: Served postal acknowledgment cards three in numbers."
+              },
+              {
+                "sentence_id": "DC_000035_P012_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 48,
+                "word_count": 8,
+                "text": "For Defendants:\nEx.B-1 : Death certificate of H."
+              },
+              {
+                "sentence_id": "DC_000035_P012_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 63,
+                "word_count": 9,
+                "text": "Kale Sab issued by Panchayath Secretary,\n Alur dated 12-1-2018."
+              },
+              {
+                "sentence_id": "DC_000035_P012_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 45,
+                "word_count": 8,
+                "text": "Ex.B-2 : Notarized wedding card of Jubeda Bi."
+              },
+              {
+                "sentence_id": "DC_000035_P012_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 22,
+                "word_count": 4,
+                "text": "Sd/- Sri M.K.V. Achari"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "DC_000035_P012_PAR002",
+            "paragraph_index": 2,
+            "character_count": 26,
+            "word_count": 4,
+            "sentence_count": 1,
+            "text": "JUNIOR CIVIL JUDGE,\n ALUR.",
+            "sentences": [
+              {
+                "sentence_id": "DC_000035_P012_PAR002_SEN001",
+                "sentence_index": 1,
+                "character_count": 26,
+                "word_count": 4,
+                "text": "JUNIOR CIVIL JUDGE,\n ALUR."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 2,
+    "state_name": "Andhra Pradesh",
+    "district_code": 10,
+    "district_name": "Kurnool",
+    "court_complex_code": 1020104,
+    "court_complex_name": "Junior Civil Judge`s Court, Alur (Taluka)",
+    "year": 2010,
+    "case_type": "nan",
+    "case_number": "201700000042010",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "Writer",
+    "pdf_producer": "LibreOffice 5.1",
+    "pdf_creation_date": "D:20181205101946Z'",
+    "pdf_mod_date": ""
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.9992,
+    "quality_tier": "NATIVE_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "08f2db65c3c226bcc878b82b2a7b8e7ebf09e381c96b669e6df45756256e1e46",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.122885"
+  }
+}

@@ -1,0 +1,21 @@
+# Phase 3 Dense Embedding Configuration
+model:
+  name: "BAAI/bge-m3"
+  dimension: 1024
+  max_seq_length: 8192
+  normalize_embeddings: true
+  pooling_method: "cls" # standard for BGE-M3
+  device: "cpu"
+
+vector_db:
+  provider: "qdrant"
+  mode: "local_storage" # local path persistence
+  path: "rag_experiments/indexes/qdrant"
+  collection_name: "vidhik_district_p3"
+  distance_metric: "Cosine"
+  hnsw_config:
+    m: 16
+    ef_construct: 100
+    full_scan_threshold: 10000
+
+batch_size: 16

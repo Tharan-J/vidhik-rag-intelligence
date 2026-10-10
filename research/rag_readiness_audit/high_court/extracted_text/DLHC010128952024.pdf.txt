@@ -1,0 +1,1050 @@
+--- PAGE 1 ---
+Page 1 of 25 
+ 
+$~34 
+* 
+IN  THE  HIGH  COURT  OF  DELHI  AT  NEW  DELHI 
++  
+ARB.P. 364/2024, I.A. 5945/2024 
+ 
+PRIMATEL FIBCOM LTD.  
+ 
+ 
+ 
+..... Petitioner 
+Through: 
+Mr. Rohit Gandhi, Ms. Akshita 
+Nigam, Mr. Chintu Jain, Mr. Surender 
+Sheron, Advs.  
+ 
+ 
+ 
+ 
+ 
+versus 
+ 
+ 
+RAILTEL CORPORATION OF INDIA LIMITED,   ..... Respondent 
+Through: 
+Mr. Naman Tandon, Adv. with Mr. 
+Umesh Singh, AR of RAILTEL.  
+ 
+ 
+CORAM: 
+ 
+HON'BLE MR. JUSTICE DINESH KUMAR SHARMA 
+ 
+ 
+ 
+ 
+O R D E R 
+% 
+ 
+ 
+ 
+14.03.2024  
+1. 
+By way of the present petition filed under Section 11 of the Arbitration 
+and Conciliation Act, 1996 (hereinafter, referred to as the „A&C Act‟), 
+the petitioner seeks appointment of an Arbitral Tribunal comprising of a 
+Sole Arbitrator to adjudicate the disputes between the parties. 
+2. 
+The briefcase of the petitioner is that M/s. RajCOMP Info Services 
+Limited (hereinafter „RSIL‟), had issued a Request For Proposal 
+(„RFP‟) for the supply, installation and maintenance of RF Links and 
+outdoor Wi-Fi Access Points across Rajasthan under the Raj Net 
+Project, which included the supply, installation, commissioning of the 
+equipments as specified in BOQl and Facility Management Services 
+through the deployment of requisite manpower for a period of five 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 2 ---
+Page 2 of 25 
+ 
+years as specified in BOQ2 (hereinafter „RajNet Wi-Fi Project‟). 
+3. 
+The respondent invited Expression of Interest (EOI) from empanelled 
+firms for selection as a System Integrator and Implementation Partner 
+for the aforesaid Raj NET Wi-Fi Project. In terms of the said EOI, the 
+Petitioner submitted its expression of interest along with requisite 
+documents. 
+4. 
+The petitioner has submitted that in terms of the request of the 
+respondent, the petitioner submitted its quotation for the work only 
+under BOQ1 of the RajNet Wi-Fi Project, which pertains to supply, 
+installation and commissioning of equipment as specified in BOQ 1. 
+5. 
+Subsequent thereto, the bid was submitted by Railtel for the Raj Net 
+Wi-Fi Project and being the L1, the work under the project was 
+awarded to Respondent. The respondent out of the work awarded to the 
+Railtel by RISL, the respondent awarded part of the work to the 
+petitioner pertaining to BOQ1 and issued the Work Order dated 
+17.11.2017 and Purchase Order dated 12.12.2017. 
+6. 
+Subsequently, a Definitive Agreement dated 27.02.2018 was executed 
+between the parties which contains the arbitration clause. The petitioner 
+has further submitted that in terms of the said Work/Purchase Order 
+and Definitive Agreement and in compliance thereof, the petitioner 
+supplied the equipments in requisite quantities to the respondent, to its 
+complete satisfaction. 
+7. 
+The inspection was duly carried out by the respondent which had also 
+been certified by the third-party auditors appointed by RSIL, namely, 
+Engineers India Ltd. 
+8. 
+The petitioner had also submitted a Warranty Certificate(s) issued by 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 3 ---
+Page 3 of 25 
+ 
+respective OEMs for the equipment/ hardware supplied and Structural 
+Safety Certificates for the towers, certified by the Structural Engineer. 
+9. 
+The petitioner submitted that immediately after the supply of 
+equipments, the work of installation was commenced and carried out 
+and installation has been completed for around 90% of the sites. 
+However, despite the fact that commissioning has been carried out 
+UATs (User Acceptance Test) and Go-live certificates have not been 
+issued for all the sites which have been commissioned/Go-live. 
+10. The petitioner has submitted that in between, the Third Party Auditor 
+(TPA) appointed by RISL i.e. Engineers India Limited (EIL), 
+disassociated itself from the project around August, 2019 and since 
+then no new Third Party Auditor (TPA) has been appointed and/or 
+intimated to the Petitioner. 
+11. The petitioner has submitted that though it has taken all requisite steps 
+for carrying out the work in the remaining sites also and fulfilled its 
+obligations without delay and default, however, there were and are 
+several issues and failures at the end of Respondent which was brought 
+to the notice of Respondent from time to time. However, the same 
+remained unresponded and unaddressed despite repeated requests and 
+reminders by the petitioner.  
+12. The petitioner has submitted that obligation of the Respondent to 
+deploy personnel/field engineers at the Go Live BTS sites and 
+commence Facility Management Services (FMS), immediately upon 
+the site being commissioned and being made Go Live, however, till 
+October, 2022 Facility Management Services (FMS) was not 
+commenced by the Respondent and the requisite personnel/field 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 4 ---
+Page 4 of 25 
+ 
+engineers have not been appointed/deployed by the Respondent at the 
+respective BTS sites. However, after a short span of time, the 
+personnel/field engineers deployed and Facility Management Services 
+were withdrawn by the Respondent and since May, 2023, there has 
+been no deployment by the Respondent.  
+13. The petitioner upon supply of equipments along with requisite 
+documents and certificates had raised invoices in terms of the World 
+Purchase Order. In total 108 invoices have been raised for an amount of 
+Rs. 67,29,83,221/- (Rupees Sixty Seven Crore Twenty Nine Lakhs 
+Eighty Three Thousand Two Hundred Twenty One Only), which have 
+been duly accepted and acknowledged by the Respondent.  
+14. The petitioner also deposited the GST of Rs. 10,26,58,457/- (Rupees 
+Ten Crore Twenty Lakhs Fifty Eight Thousand Four Hundred Fifty 
+Seven Only) with the GST Department, the benefit/credit of the same 
+has duly been availed by the respondent.  
+15. The petitioner has submitted that out of the invoice amount of Rs. 
+67,29,83,221/- (Rupees Sixty Seven Crore Twenty Nine Lakhs Eighty 
+Three Thousand Two Hundred Twenty-One Only), the petitioner has 
+received only Rs.42,12,52,435/- (Rupees Forty-Two Crore Twelve 
+Laksh Fifty-Two Thousand Four Hundred Thirty-Five Only) between 
+20.03.2018 to 07.11.2019 and the balance principal amount has not 
+been paid, despite lapse of substantial period of time and repeated 
+request. 
+16. The petitioner has submitted that it has not received even the 60% of 
+the due and payable towards the supply of the equipments. It has 
+further been submitted that the amount on account of installation and 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 5 ---
+Page 5 of 25 
+ 
+commissioning has also not been paid.  
+17. Learned counsel for the petitioner submits that the parties had entered 
+into a Definitive Agreement (agreement) dated 27.02.2018. Learned 
+counsel also submits that in terms of Clause-18.2, the efforts were 
+made for an amicable settlement.  A notice in this regard was issued 
+dated 16.08.2022 which was responded by the respondent vide an email 
+dated 24.08.2022 the meeting was arranged on 27.08.2022 which was 
+attended by the senior officials of parties, wherein several issues were 
+discussed including the issue of outstanding payment due and payable 
+to the petitioner.  
+18. Learned counsel submitted that the respondent assured that it shall be 
+commencing FMS and deploying requisite field engineer/personnel and 
+shall be issuing fresh Go Live certificates and shall be releasing 
+payments. It has further been submitted that in terms of an email dated 
+29.08.2022 of the respondent the petitioner without prejudice and 
+without any obligation, vide its letter dated 08.09.2022, shared the 
+proposed cluster-wise plan along with the proposed date of start of 
+Maintenance Support Services as requested by the respondent.   
+19. Learned counsel submits that the petitioner had duly issued the notice 
+for resolution of the matter vide its notice. However, despite the expiry 
+of period of thirty days, the respondent failed to make any payment 
+towards the long outstanding dues and had failed to resolve the issues. 
+20. It has been submitted that the petitioner thereafter issued a notice for 
+invoking arbitration dated 26.09.2022 in terms of Clause 18 of the 
+Definitive Agreement dated 27.02.2018 for appointment of a Sole 
+arbitrator. However, no reply to the said notice was received on behalf 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 6 ---
+Page 6 of 25 
+ 
+of the respondent. The respondent vide letter dated 12.l0.2022 offered 
+for good faith negotiation meeting on 14.10.2022. The petitioner 
+informed the respondent that such a meeting had already been held on 
+27.08.2022. Though without prejudice to the right and contention, the 
+petitioner agreed to attend any meeting for resolution of the issues. 
+21. Learned counsel submits that though on the one hand, the respondent 
+showed keenness to resolve the dispute amicably. However, a letter 
+dated 15.10.2022 directed the petitioner for return the uninstalled 
+material which was available with it for installation and threatened that 
+in case said material is not returned immediately, legal proceedings of a 
+criminal nature shall be initiated against the petitioner.  
+22. The letter dated 15.10.2022 of the respondent was respondent by the 
+petitioner vide letter dated 21.10.2022, whereby the petitioner 
+conveyed its readiness and willingness to handover the material to 
+Respondent and enquired from them that (i) whether Railtel will re-
+issue the uninstalled material to petitioner for installation and 
+commissioning of 757 New AP sites (ii) whether Railtel will re-issue 
+the equipment to Petitioner for remaining sites for installation and 
+commissioning.  
+23. However, no response was received. A meeting was again held on 
+25.10.2022, whereby the respondent represented that they want to 
+resolve the issue and assured to make payments of the long outstanding 
+dues. On the same day, an email was received from the Respondent 
+stating that there is a scope for resolution of issues by joint efforts of 
+both the parties and further requested not to immediately act upon the 
+arbitration notice and keep the same in abeyance till 60 days. 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 7 ---
+Page 7 of 25 
+ 
+24. Learned counsel submits that the petitioner relying upon the same did 
+not take any steps. Learned counsel submits that without prejudice to 
+the fact that the sites were commissioned and Go-Live for which 
+certificates have also been issued and though it was not obligatory upon 
+the petitioner to re-activate/re-commission the sites. However, on the 
+request of the respondent, the petitioner by incurring further substantial 
+expenses attempted re-activation/re-commission of all 20 BTS sites for 
+which cluster-wise plan was submitted on 08.09.2022. 
+25. Learned counsel submits that out of the said 20 sites, 12 BTS sites were 
+re-activated/re-commissioned along with connected APs/CPE, the 
+remaining 8 BTS sites could not be re-activated/re-commissioned 
+despite the efforts/attempts of the petitioner due to non-availability of 
+bandwidth/power on the said sites, which was the obligation of the 
+Respondent.  
+26. Learned counsel submits that in terms of the directions of the 
+respondent and the wrongful threat of criminal proceedings, the 
+petitioner started the process of handing over of the uninstalled material 
+and handed over the same vide letters dated 13.03.2023, 30.03.2023 
+and 08.05.2023 to the respondent.  
+27. Learned counsel submits that the petitioner had followed up with the 
+respondent for the release of the aforesaid outstanding dues and several 
+meetings have taken place between the parties.  However, the 
+respondent despite repeated assurances failed to release the amount.  
+28. The petitioner again issued an email dated 15.01.2024 calling upon the 
+respondent to make the payment of the long outstanding dues The 
+petitioner informed that it was left with no other option and is 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 8 ---
+Page 8 of 25 
+ 
+constrained to proceed with the arbitration proceedings. However, the 
+respondent vide communication dated 12.02.2024 again wrote a letter 
+to the petitioner with respect to the handover of the uninstalled material 
+which has duly been replied by the petitioner.  
+29. Learned counsel for the petitioner submits that in terms of Clause 18.2 
+the parties have already made all efforts for the amicable settlement of 
+the dispute. However, the dispute could not be settled. Learned counsel 
+has further submitted that in the judgment of the Supreme Court in 
+Perkins Eastman Architects DPC & Anr. v. HSCC (India) Limited 
+2019 SCC OnLine SC 1517, the unilateral appointment of the Sole 
+Arbitrator is not permissible.  
+30. Issue notice.  
+31. Mr. Naman Tandon, learned counsel for the respondent has accepted 
+the notice.  
+32. Learned counsel for the respondent has fairly submitted that the 
+respondent has no objection to the appointment of an Arbitrator. 
+However, learned counsel submits that the respondents have 
+constituted a panel of 23 persons which includes 4 persons from legal 
+backgrounds.  
+33. Learned counsel submits that an Arbitrator may be appointed out of the 
+list of 23 Arbitrators.  
+34. The list handed over by the learned counsel for the respondent is as 
+follows: 
+Name of the 
+Arbitrator 
+Educational Qualification 
+Address of the Arbitrator 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 9 ---
+Page 9 of 25 
+ 
+Shri R.K. 
+Agarwal 
+ 
+M.Tech (Soil Mech.) & BE 
+(Civil) 
+Bunglow No.30, SP Marg, 
+Chanakya Puri, New Delhi - 
+110021. 
+Shri Harsh 
+Kumar 
+B.Sc, M.Sc,, PGDM, 
+PGD(Information 
+Technology in Business) 
+House No.1National Institute 
+of 
+Financial Management, 
+Sector 48, Pali Road, 
+Faridabad-121001 
+Shri ABL 
+Srivastava 
+B. Com, M. Com, 
+Chartered 
+Accountant, MBF 
+C-301, Stellar Park 
+Apartments, C-58/24, 
+Sector-62, Noida UP-201301 
+Shri 
+Gupta 
+Mahesh 
+Kumar 
+B.E. (Civil), LLb 
+Chief Engineer 
+Const.& CDPE EC 
+Railways, Patna 
+Shri Mahesh 
+Mangal 
+M.Tech 
+57,2nd Floor Suraj Nagar 
+cast, Civil Lines Jaipur-  
+302006 
+Shri Vijay 
+Nand Sharma 
+MA, LLB 
+35/61 Himalaya Apartment, 
+I.P Extension, Delhi-110092 
+Shri B P Khare BE/Civil 
+47, Shree Golden City Phase-
+1, Jaatkhedi, Hoshangabad, 
+Near Vrindavan Road, New 
+Delhi, Bhopal, MP 462026 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 10 ---
+Page 10 of 25 
+ 
+Shri Aditya 
+Kumar Mittal 
+ 
+            _______ 
+Flat C-2/10, Vanashree CHS 
+Plot 1&2, Palm Beach Road, 
+Nerul (West) Navi Mumbai, 
+Pin 400706 
+Shri Rakesh 
+Goyal 
+M.sc    Civil Engineering 
+(Hons) 
+2094/Joy Apartments Sector 
+2 Dwarka New Delhi- 
+110055 
+ Shri Ajay 
+Kumar Lal 
+Post Graduate Pol. Science, 
+Certificate in French, IFRS, 
+LLB 2nd Year. 
+DDA, HIG, Block 3A/101, 
+Motiakhan, New Delhi-
+110055 
+ Shri Rakesh 
+Kumar Mittal 
+Bachelor of Engineering 
+(Electronics and Comm) 
+from 
+Delhi College of Engg. 
+B-23, Inderpuri, ND-110012 
+Shri Lokesh 
+Narayan  
+B.E (Electrical) 
+C-702, Rail Vihar, Sector, 
+Alpha-1, Greater Noida-
+201310 
+ 
+ 
+Shri Ajay 
+Vijayvargiya 
+BE (EC), M TECH 
+M-17A, Samsara, Sector 60, 
+Golf Course Ext Road, 
+Gurugram-122001 
+ 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 11 ---
+Page 11 of 25 
+ 
+Shri Akhil 
+Agarwal 
+Bachelor of Engineering 
+(Electronics and Comm) 
+From IIT Roorkee, M 
+TECH from IIT Kanpur, PG 
+Diploma in IPR from 
+NLSU Bangalore, LLB 
+from DU. 
+K-122, Gulshan Viavante, 
+Sector 137 Noida 201304 
+Shri Pramod 
+Kumar 
+Sangewar 
+B.E(Civil), MBA 
+Flat 105, Shri Harsha 
+Sethuram Unique Vijaypuri 
+Colony, South Lalguda, 
+Secundrabad 
+Shri Anand 
+Prakash 
+B.E(Civil), MBA 
+A-42 Pearl Regalia, Man 
+Sarovar Extension, Jaipur 
+302020 
+Shri Mahesh 
+Kumar Mittal 
+M. Com, CS, Cost & 
+Management Accountant, 
+Masters of Financial 
+Management  
+Flat No 110, Block-K, Sarita 
+Vihar, New Delhi 110076 
+Shri Din Dayal 
+Singh 
+B tech 
+Flat No C502, Gandhavra 
+Society Sector omega 1, 
+Greater Noida 201308 
+Shri Pradeep 
+Kumar 
+BE 
+(E&C),ME(Communication 
+Systems), MBA 
+C-701, Bestech Park View 
+Spa Apartments, Sector 47, 
+Gurugram, Haryana 122018 
+Shri Alok 
+BE( Civil), ME (Structure) 
+M 2/39, 2nd Floor, DLF Phase 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 12 ---
+Page 12 of 25 
+ 
+Kansal 
+2, Gurugram- 122002 
+Shri Anoop 
+Kumar Prasad 
+MA (ECONOMICS) 
+ W-2002. Amrapali sapphire, 
+sector 45, Noida, Gautam 
+buddh Nagar, up-201303 
+Shri Anil 
+Kumar Dutta 
+B sc. (Hons),  BE, 
+Chartered Electrical 
+Engineer (LOND), fellow 
+IET (London0, FIE(India) 
+329B Road No. 4A, Ashok 
+Nagar, Ranchi- 834002 
+Shri K. 
+Vinayaka Rao 
+ BA (Hons.), MA, Diploma 
+in Management, Diploma in 
+Marketing Management 
+B3/134 Rail Vihar Housing 
+Society , Bijli Nagar, 
+Chinchwad, Pune, 
+Maharashtra- 411033 
+ 
+ 
+35. Learned counsel for the respondent submits that this matter is of a 
+technical nature therefore it would be in the fitness of the case if an 
+Arbitrator may be appointed out of the list. Learned counsel for the 
+respondent has also submitted that none of the empanelled arbitrators 
+are/were the employees of the respondent.  
+36. Learned counsel for the petitioner has objected to the same and has 
+submitted that the proposed list is not broad-based and an independent 
+Arbitrator is required to be appointed.  
+37. The appointment of a Sole Arbitrator has come up for discussion before 
+the Hon‟ble Supreme Court and before this court in various cases. As 
+far as the unilateral appointment of an arbitrator is concerned, the 
+Hon‟ble Supreme Court in Perkins Eastman Architects DPC & Anr. v. 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 13 ---
+Page 13 of 25 
+ 
+HSCC (India) Limited 2019 SCC OnLine SC 1517 inter alia held as 
+under: 
+   “This application under Section 11(6) read with Section 
+11(12)(a) of the Arbitration and Conciliation Act, 1996 (“the 
+Act”) and under the Appointment of Arbitrators by the Chief 
+Justice of India Scheme, 1996 (“the Scheme”) prays for the 
+following principal relief:  
+(a) appoint a sole arbitrator, in accordance with Clause 24 of the 
+contract dated 22-5-2017 executed between the parties and the 
+sole arbitrator so appointed may adjudicate the disputes and 
+differences between the parties arising from the said contract.”  
+xxx xxx xxx  
+21. But, in our view that has to be the logical deduction from TRF 
+Ltd. [TRF Ltd. v. Energo Engg. Projects Ltd., (2017) 8 SCC 377 : 
+(2017) 4 SCC (Civ) 72] Para 50 of the decision shows that this 
+Court was concerned with the issue, “whether the Managing 
+Director, after becoming ineligible by operation of law, is he still 
+eligible to nominate an arbitrator” The ineligibility referred to 
+therein, was as a result of operation of law, in that a person 
+having an interest in the dispute or in the outcome or decision 
+thereof, must not only be ineligible to act as an arbitrator but 
+must also not be eligible to appoint anyone else as an arbitrator 
+and that such person cannot and should not have any role in 
+charting out any course to the dispute resolution by having the 
+power to appoint an arbitrator. The next sentences in the 
+paragraph, further show that cases where both the parties could 
+nominate respective arbitrators of their choice were found to be 
+completely a different situation. The reason is clear that whatever 
+advantage a party may derive by nominating an arbitrator of its 
+choice would get counter- balanced by equal power with the other 
+party. But, in a case where only one party has a right to appoint a 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 14 ---
+Page 14 of 25 
+ 
+sole arbitrator, its choice will always have an element of 
+exclusivity in determining or charting the course for dispute 
+resolution. Naturally, the person who has an interest in the 
+outcome or decision of the dispute must not have the power to 
+appoint a sole arbitrator. That has to be taken as the essence of 
+the amendments brought in by the Arbitration and Conciliation 
+(Amendment) Act, 2015 (3 of 2016) and recognised by the 
+decision of this Court in TRF Ltd. [TRF Ltd. v. Energo Engg. 
+Projects Ltd., (2017) 8 SCC 377 : (2017) 4 SCC (Civ) 72]”  
+38. Similarly in TRF Ltd. V. Energo Engineering Projects Ltd. (2017) 8 
+SCC 377 also the Hon‟ble Supreme Court has inter alia held as under: 
+“54. In such a context, the fulcrum of the controversy would be, 
+can an ineligible arbitrator, like the Managing Director, nominate 
+an arbitrator, who may be otherwise eligible and a respectable 
+person. As stated earlier, we are neither concerned with the 
+objectivity nor the individual respectability. We are only 
+concerned with the authority or the power of the Managing 
+Director. By our analysis, we are obligated to arrive at the 
+conclusion that once the arbitrator has become ineligible by 
+operation of law, he cannot nominate another as an arbitrator. 
+The arbitrator becomes ineligible as per prescription contained in 
+Section 12(5) of the Act. It is inconceivable in law that person who 
+is statutorily ineligible can nominate a person. Needless to say, 
+once the infrastructure collapses, the superstructure is bound to 
+collapse. One cannot have a building without the plinth. Or to put 
+it differently, once the identity of the Managing Director as the 
+sole arbitrator is lost, the power to nominate someone else as an 
+arbitrator is obliterated. Therefore, the view expressed by the 
+High Court is not sustainable and we say so.”  
+39. The Co-ordinate Bench of this Court in Margo Networks Pvt Ltd & 
+Anr. Vs. RailTel Corporation of India Ltd Arb.P. 637/2023 after 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 15 ---
+Page 15 of 25 
+ 
+taking into account the judgment of the Supreme Court in Central 
+Organization for Railway Electrification vs. ECI-SPIC-SMO-MCMI 
+(JV) (CORE) inter alia held as under:  
+“20. Two fundamental issues which fall for consideration in this 
+case and which were not specifically answered in CORE, are as 
+under:-  
+i. When appointment of arbitrator/s is to be made out of a panel 
+prepared by one of the parties, whether the said panel is required 
+to be “broad-based”, in conformity with the principle laid down 
+in Voestalpine (supra), and if so, what is the consequence where 
+the panel is not sufficiently “broad based” ?  
+ii. Whether “counter balancing” [as contemplated in Perkins 
+(supra)] is achieved in a situation where one of the parties has a 
+right to choose an arbitrator from a panel whereas the 
+remaining (2 out of 3) members of the arbitral tribunal are 
+appointed by the other party?  
+21. The Supreme Court in Voestalpine (supra), considers in 
+detail, an arbitration agreement which contemplates that one of 
+the parties thereto shall provide a panel to the other side for the 
+purpose of appointment of arbitrator(s).  
+22. The appointment procedure that fell for consideration in 
+Voestalpine (supra) was noted therein as under :  
+“…….. 8. As per the aforesaid procedure, having regard to the 
+quantum of claims and counter claims, three arbitrators are to 
+constitute the arbitral tribunal. The agreement further provides 
+that respondent would make out a panel of engineers with the 
+requisite qualifications and professional experience, which panel 
+will be of serving or retired engineers of government departments 
+or public sector undertakings. From this panel, the respondent has 
+to give a list of five engineers to the petitioner and both the 
+petitioner and the respondent are required to choose one 
+arbitrator each from the said list. The two arbitrators so chosen 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 16 ---
+Page 16 of 25 
+ 
+have to choose the third arbitrator from that very list, who shall 
+act as the presiding arbitrator. ………..” 
+23. In the context of the above procedure, Voestalpine (supra) 
+proceeds to hold that bias or even real likelihood of bias cannot 
+be attributed to persons of the panel simply on the ground that 
+they were retired government or PSU employees. The Supreme 
+Court further notes in Voestalpine that during the course of 
+proceedings in that case, DMRC had forwarded a list of all 31 
+persons on its panel to the petitioner therein for the purpose of 
+nomination by the petitioner of its nominee arbitrator, thereby 
+giving a very wide choice to the petitioner. However, with regard 
+to the stipulation in the concerned arbitration agreement in terms 
+of which a list of 5 engineers from the panel was to be given to the 
+petitioner from which the petitioner was obliged to nominate its 
+arbitrator, the Supreme Court held as under: 
+“……..  
+28. Before we part with, we deem it necessary to make certain 
+comments on the procedure contained in the arbitration 
+agreement for constituting the Arbitral Tribunal. Even when there 
+are a number of persons empanelled, discretion is with DMRC to 
+pick five persons therefrom and forward their names to the other 
+side which is to select one of these five persons as its nominee 
+(though in this case, it is now done away with). Not only this, 
+DMRC is also to nominate its arbitrator from the said list. Above 
+all, the two arbitrators have also limited choice of picking upon 
+the third arbitrator from the very same list i.e. from remaining 
+three persons. This procedure has two adverse consequences. In 
+the first place, the choice given to the opposite party is limited as 
+it has to choose one out of the five names that are forwarded by 
+the other side. There is no free choice to nominate a person out 
+of the entire panel prepared by DMRC. Secondly, with the 
+discretion given to DMRC to choose five persons, a room for 
+suspicion is created in the mind of the other side that DMRC 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 17 ---
+Page 17 of 25 
+ 
+may have picked up its own favourites. Such a situation has to 
+be countenanced. We are therefore, of the opinion that sub-
+clauses (b) & (c) of Clause 9.2 of SCC need to be deleted and 
+instead choice should be given to the parties to nominate any 
+person from the entire panel of arbitrators. Likewise, the two 
+arbitrators nominated by the parties should be given full freedom 
+to choose the third arbitrator from the whole panel. ………..”  
+24. The Supreme Court in Voestalpine (supra) also proceeded to 
+observe as under:- “….. 
+ 
+ 29. Some comments are also needed on Clause 9.2(a) of 
+GCC/SCC, as per which DMRC prepares the panel of "serving or 
+retired engineers of government departments or public sector 
+undertakings". It is not understood as to why the panel has to be 
+limited to the aforesaid category of persons. Keeping in view the 
+spirit of the amended provision and in order to instil confidence 
+in the mind of the other party, it is imperative that panel should 
+be broad based. Apart from serving or retired engineers of 
+government departments and public sector undertakings, 
+engineers of prominence and high repute from private sector 
+should also be included. Likewise panel should comprise of 
+persons with legal background like Judges and lawyers of repute 
+as it is not necessary that all disputes that arise, would be of 
+technical nature. There can be disputes involving purely or 
+substantially legal issues, that too, complicated in nature. 
+Likewise, some disputes may 
+have 
+the 
+dimension of 
+accountancy, etc. Therefore, it would also be appropriate to 
+include persons from this field as well.  
+ 
+30. Time has come to send positive signals to the international 
+business community, in order to create healthy arbitration 
+environment and conducive arbitration culture in this country. 
+Further, as highlighted by the Law Commission also in its report, 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 18 ---
+Page 18 of 25 
+ 
+duty becomes more onerous in government contracts, where one 
+of the parties to the dispute is the Government or public sector 
+undertaking itself and the authority to appoint the arbitrator rests 
+with it. In the instant case also, though choice is given by DMRC 
+to the opposite party but it is limited to choose an arbitrator from 
+the panel prepared by DMRC. It, therefore, becomes imperative 
+to have a much broadbased panel, so that there is no 
+misapprehension that principle of impartiality and independence 
+would be discarded at any stage of the proceedings, specially at 
+the stage of constitution of the Arbitral Tribunal. We, therefore, 
+direct that DMRC shall prepare a broadbased panel on the 
+aforesaid lines, within a period of two months from today. 
+………….”  
+25. Thus, it was held by the Supreme Court in Voestalpine (supra) 
+that:  
+i. Affording a panel of five names to the petitioner from which the 
+petitioner was required to nominate its nominee arbitrator, was 
+restrictive in nature; the same created room for suspicion that 
+DMRC may have picked up its own favourite;  
+ii.Choice should be given to the concerned party to nominate any 
+person from the entire panel of arbitrators;  
+iii. The two arbitrators nominated by the parties should be given 
+full freedom to choose the third arbitrator;  
+iv. The panel ought not to be restricted/limited to retired engineers 
+and/or retired employees but should be broad based and apart 
+from serving or retired employees of government departments and 
+public sector undertakings, the panel should include lawyers, 
+judges, engineers of prominence from the private sector etc.  
+26. CORE does not in any manner overrule Voestalpine (supra) 
+or narrow down the scope thereof, although it does not deal 
+specifically with the issue as to whether the panel afforded by the 
+Railways in that case was in conformance with the principles laid 
+down in Voestalpine (supra). 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 19 ---
+Page 19 of 25 
+ 
+27. The difficulties which were found to have inflicted the panel 
+afforded to the petitioner in Voestalpine (supra) also squarely 
+apply to the present case. 
+28. In the present case, the respondent has shared a panel of ten 
+arbitrators with the petitioner, all being ex-employees of the 
+Railways/RailTel. Apart from the ex-employees of the railways, no 
+other person has been included in the panel. Such a panel is 
+clearly restrictive and is manifestly not “broadbased” and 
+therefore, impinges upon the validity of the appointment 
+procedure prescribed in clause 3.37 of the RFP.  
+29. The principle laid down in Voestalpine (supra) has been 
+followed in a large number of cases to adjudge upon validity of 
+appointment procedure involving appointment from a panel. Thus, 
+In SMS Ltd. Vs Rail Vikas Nigam Limited, out a panel of 37 
+names, only eight names had no connection with the Railways. It 
+was held that even though the panel comprised as many as 37 
+names, it was not sufficiently broadbased. In that case, a previous 
+judgement in the case of Simplex Infrastructures Ltd. Vs. Rail 
+Vikas Nigam Limited was also taken note of, in which a panel of 
+26 names (out of which only 9 were unconnected with the 
+Railways) was held to be not sufficiently broad based inasmuch as 
+the same did not comprise independent persons such as judges, 
+lawyers, engineers of prominence from the private sector etc. The 
+said judgements were relied upon in the case of Overnite Express 
+Limited Vs. Delhi Metro Rail Corporation, this court went to the 
+extent of holding that “the procedure of forwarding a panel of five 
+names to the other contracting party to choose its nominee 
+Arbitrator is now held to be no longer a valid procedure.” 
+ 
+40. Similarly in Shri Ganesh Engineering Works v. Northern Railway 
+and Anr 2023 SCC OnlineDel 7574, It was interalia held as under; 
+“24. The aforementioned judgments of this Court, as rightly 
+contended by the learned counsel for the Petitioner squarely apply 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 20 ---
+Page 20 of 25 
+ 
+to the present case and this Court is not persuaded to take a 
+different view. The choice given to the Petitioner is from a panel 
+of four Retired Railway officials, out of whom Petitioner has to 
+choose two, is a „restricted‟ choice and cannot be countenanced in 
+law, being in contravention of the party autonomy principle. 
+In Voestalpine (supra), an identical situation had arisen where 
+there was a stipulation in the concerned arbitration agreement 
+whereby a list of five engineers from the panel was to be given to 
+the Petitioner and he was obliged to nominate its Arbitrator from 
+amongst those five. The Supreme Court condemned the procedure 
+and observed that it had two adverse consequences. In the first 
+place, the choice given was limited and there was no free choice 
+to nominate from outside the entire panel prepared by DMRC and 
+secondly, with the discretion given to DMRC to choose five 
+persons, room for suspicion was created in the mind of the other 
+side that DMRC may have picked up its own favourites. Therefore, 
+according to the Supreme Court, the purpose of independent 
+appointment would not be served if the Petitioner was given 
+choice to nominate any person from the panel. The Supreme Court 
+further observed that it is imperative to have a broad-based panel 
+so that there is no misapprehension that principle of impartiality 
+and independence has been discarded at any stage of the 
+Constitution of the Arbitral Tribunal. Applying these observations, 
+the choice to the Petitioner to choose two amongst a panel of four 
+Arbitrators cannot be termed as an effective counter balancing 
+and would amount to giving a restricted choice in terms of the 
+judgment in Voestalpine (supra), compromising on impartiality 
+and independence of the appointed Arbitral Tribunal. The 
+procedure envisaging appointment of 2/3rdstrength of the Arbitral 
+Tribunal by the Respondents, to my mind, tilts the scale in favour 
+of the Respondents and is directly hit by the judgments 
+in Perkins(supra), TRF Limited (supra) and Voestalpine (supra). 
+Therefore, it is incumbent that this Court appoints an independent 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 21 ---
+Page 21 of 25 
+ 
+Arbitral Tribunal to adjudicate the disputes between the parties.” 
+ 
+41. This court also in Kalyan Toll Infrastructure Ltd. v. Union of India & 
+Ors. in ARB. P. 1243/2023 has the opportunity to deal with the issue 
+and has inter alia held as under: 
+“24. While examining the aforesaid clause, it was inter alia held 
+that bias or even real likelihood of bias cannot be attributed to 
+persons of the panel simply on the ground that they were retired 
+government or PSU employees. The apex court also noted in 
+Voestalpine (supra) that during the course of proceedings in that 
+case, DMRC had forwarded a list of all  31 persons on its panel to 
+the petitioner therein for the purpose of nomination by the 
+petitioner of its nominee arbitrator, thereby giving a very wide 
+choice to the petitioner. It is pertinent to mention here that in the 
+present case though in the reply the respondent had stated that the 
+sole arbitrator can only be appointed out of empanelled 21 
+arbitrators, however, in their written submission the choice was 
+restricted to three arbitrators. It is also relevant to note that in 
+Voestalpine (supra) the clause provided that the respondent shall 
+give a list of 5 engineers to the petitioner and both the petitioner 
+and respondent were required to choose one arbitrator each from 
+the said list and then two arbitrators shall appoint the presiding 
+arbitrator. Even this procedure did not find favour with the 
+Supreme Court and it was inter alia held that this procedure has 
+two adverse consequences. In the first place, the choice given to 
+the opposite party is limited as it has to choose one out of the five 
+names that are forwarded by the other side and there is no free 
+choice to nominate a person out of the entire panel prepared by 
+DMRC. It was further inter alia held that secondly, with the 
+discretion given to DMRC to choose five persons, room for 
+suspicion is created in the mind of the other side that DMRC may 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 22 ---
+Page 22 of 25 
+ 
+have picked up its own favourites and such a situation has to be 
+countenanced. The Supreme Court further in Voestalpine (supra) 
+inter alia stated that the panel should be broad-based and such 
+panel apart from serving or retired engineers of government 
+departments and public sector undertakings, engineers of 
+prominence and high repute from the private sector should also be 
+included. It was further stated that likewise panel should comprise 
+persons with legal backgrounds like Judges and  lawyers of repute 
+as it is not necessary that all disputes that arise, would be of a 
+technical nature. The apex court stated that it is therefore 
+imperative to have a broad-based panel, so that there is no 
+misapprehension 
+that 
+the 
+principle 
+of 
+impartiality 
+and 
+independence would be discarded at any stage of the proceedings, 
+especially at the stage of the constitution of the Arbitral Tribunal.  
+In SMS Ltd. vs. Rail Vikas Nigam Limited (2020) SCC Online 
+Del 77 it was held that out of a panel of 37 names, only eight 
+names had no connection with the Railways and though the panel 
+comprised as many as 37 names, it was not sufficiently broad-
+based. Similarly, the reliance was placed on Simplex 
+Infrastructures Ltd. Vs. Rail Vikas Nigam Limited 2018 SCC 
+Online Del 13122. Also, the coordinate bench of this court in 
+BVSR-KVR (Joint Ventures) Vs. Rail Vikas Nigam Ltd. 2020 
+SCC OnLine Del 456 has held that the panel should satisfy the 
+concept of neutrality of arbitrators.  
+It is relevant to mention here that the courts have not disapproved 
+of the procedure of preparing a panel of arbitrators for 
+appointing the arbitrators to adjudicate the dispute between the 
+parties. The rule of caution is that a party must have an 
+independent/free choice for nominating its arbitrator from the 
+panel. The coordinate bench of this court in L&T Hydrocarbon 
+Engineering Limited Vs. Indian Oil Corporation Limited 
+2022/DHC/004531 wherein also a panel of three arbitrators was 
+given, it was inter alia held as under:  
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 23 ---
+Page 23 of 25 
+ 
+“………. 96. In the present case, the stipulation requires 
+forwarding three names (even if they are retired employees from 
+other organizations and not IOCL) to the petitioners, for it to 
+choose one name amongst them to act as the Sole Arbitrator. It 
+cannot be overlooked that the list of three names is a restrictive 
+panel limiting the choice of the petitioner to only three options. I 
+have noted that the three persons named in the panel forwarded to 
+the petitioner are retired officers of different organisations like 
+ONGC, SAIL and GAIL. The integrity and impartiality of these 
+officers could not be normally doubted. However, in the absence 
+of a free choice given to the petitioner to choose the arbitrator 
+from a broad and diversified panel, and the power conferred upon 
+the respondent to forward any three names as the panel at its 
+discretion, there is a possibility of apprehension arising on part of 
+the petitioner about the impartiality of the persons in the panel so 
+forwarded. Whether such an apprehension is justified or not, is 
+not for this Court to decide, and is, in any case, immaterial. It is 
+settled law that even an apprehension of bias of an arbitrator in 
+the minds of the parties would defeat the purpose of arbitration, 
+and such a situation must be avoided. Therefore I declare that the 
+procedure for appointment of the arbitrator (if any) shall 
+necessarily be in terms of the observations of the Supreme Court 
+in Voestalpine Schienen GmBH (supra). 98. It is directed that in 
+view of my conclusion in paragraph 80, the General Manager 
+concerned shall consider the claims of the petitioner and take a 
+decision whether they are to be notified or or not, within eight 
+weeks from today. Thereafter, the parties shall proceed in 
+accordance with law…….” 
+27. In Margo Networks Pvt Ltd (supra) after taking into account 
+several judgments, it was inter alia held as under:  
+35. Thus, in an appointment procedure involving appointment 
+from a panel made by one of the contracting parties, it is 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 24 ---
+Page 24 of 25 
+ 
+mandatory for the panel to be sufficiently broad based, in 
+conformity with the principle laid down in Voestalpine (supra), 
+failing which, it would be incumbent on the Court, while 
+exercising jurisdiction under Section 11, to constitute an 
+independent and impartial Arbitral Tribunal as mandated in TRF 
+(supra) and Perkins (supra). The judgement of the Supreme Court 
+in CORE does not alter the position in this regard. 36. In the facts 
+of the present case, applying the principles laid down in 
+Voestalpine (supra) and in view of the aforesaid judgments of this 
+Court, including in L&T Hydrocarbon Engineering Limited 
+(supra), it is evident that the panel offered by the respondent to the 
+petitioner in the present case is restrictive and not broadbased. 
+The same adversely impinges upon the validity of the appointment 
+procedure contained in clause 3.37 (supra), and necessitates that 
+an independent Arbitral Tribunal be constituted by this Court. 
+I consider that the panel of arbitrators as offered by the 
+respondent in the present case is highly restrictive in nature. It is 
+neither broad-based nor is there any “counter-balancing‟. It is 
+also pertinent to mention that entire panel of MOD is consisting of 
+senior retired officers. There is no person from the legal 
+background. In the circumstances, panel is restrictive and not 
+broad-based. In such cases, the jurisdiction of the court to appoint 
+a sole arbitrator cannot be taken.  
+42. The court considers that the panel proposed by the respondent is not 
+“broad based”. I consider that this issue need not be discussed by this 
+court any further and there is no reason to differ from the settled 
+preposition of law as laid down by the coordinate benches of this court.  
+43. Considering that both the parties have consented to the reference to the 
+arbitral tribunal, the present petition is disposed of with the following 
+directions: 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17
+
+
+--- PAGE 25 ---
+Page 25 of 25 
+ 
+i) 
+The disputes between the parties under the said agreement are 
+referred to the arbitral tribunal. 
+ii) 
+Hon‟ble Dr. Justice Satish Chandra, former Judge of Allahabad 
+High Court (Mobile No. 9452332992) is appointed as an arbitrator 
+under the aegis of DIAC to adjudicate the disputes between the 
+parties.  
+iii) The arbitration will be held under the aegis of the Delhi 
+International Arbitration Centre, Delhi High Court, Sher Shah 
+Road, New Delhi hereinafter, referred to as the „DIAC‟). The 
+remuneration of the learned Arbitrator shall be in terms of fee 
+rules of the DIAC Schedule or as the parties may agree. 
+iv) The learned Arbitrator is requested to furnish a declaration in 
+terms of Section 12 of the Act prior to entering into the reference.  
+v) 
+It is made clear that all the rights and contentions of the parties, 
+including as to the arbitrability of any of the claim, any other 
+preliminary objection, as well as claims on merits of the dispute of 
+either of the parties, are left open for adjudication by the learned 
+arbitrator.  
+vi) The parties shall approach the learned arbitrator within two weeks 
+from today. 
+44. The present petition along with pending application stands disposed of.  
+ 
+ 
+DINESH KUMAR SHARMA, J 
+MARCH 14, 2024/AR/AK  
+ 
+This is a digitally signed order.
+The authenticity of the order can be re-verified from Delhi High Court Order Portal by scanning the QR code shown above.
+The Order is downloaded from the DHC Server on 02/05/2024 at 12:14:17

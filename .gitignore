@@ -1,0 +1,108 @@
+# ==============================================================================
+# VIDHIK — GITIGNORE CONFIGURATION
+# Excludes heavy datasets (12+ GB court archives), model weights, build artifacts,
+# temporary caches, and secret credentials while preserving all source code.
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. Environment Variables & Secrets (CRITICAL)
+# ------------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+prototype/.env
+research/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# ------------------------------------------------------------------------------
+# 2. Large Datasets & Legal Corpus Archives (12+ GB Court Judgments)
+# ------------------------------------------------------------------------------
+research/legal_data/
+**/legal_data/
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.gz
+*.parquet
+
+# Court Judgment PDFs & Uploaded Evidence Documents
+*.pdf
+*.PDF
+frontend/storage/
+**/storage/private_cases/
+
+# OCR Binaries & Data
+research/tessdata/
+*.traineddata
+
+# ------------------------------------------------------------------------------
+# 3. Model Weights, Embeddings & Large Indexes (> 100MB exceeds GitHub limits)
+# ------------------------------------------------------------------------------
+*.onnx
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.pkl
+*.pickle
+prototype/indexes/
+research/rag_experiments/indexes/
+**/indexes/bm25/
+
+# ------------------------------------------------------------------------------
+# 4. Node.js & Next.js Build Artifacts
+# ------------------------------------------------------------------------------
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+out/
+frontend/out/
+build/
+frontend/build/
+dist/
+.npm/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.tsbuildinfo
+
+# ------------------------------------------------------------------------------
+# 5. Python Artifacts & Virtual Environments
+# ------------------------------------------------------------------------------
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.pytest_cache/
+**/pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+ENV/
+
+# ------------------------------------------------------------------------------
+# 6. Logs & Runtime Scratches
+# ------------------------------------------------------------------------------
+*.log
+prototype/logs/
+research/**/logs/
+prototype/scratch/
+**/scratch/
+
+# ------------------------------------------------------------------------------
+# 7. OS & IDE Metadata
+# ------------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~

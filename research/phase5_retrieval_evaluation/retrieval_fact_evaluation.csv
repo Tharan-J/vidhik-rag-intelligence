@@ -1,0 +1,334 @@
+fact_id,doc_id,category,criticality,normalized_value,source_sentence_id,source_paragraph_id,source_page,retrieval_status,evidence_sentence_ids,evidence_paragraph_ids,evidence_pages,evidence_text,evidence_sufficiency_reason,matching_method,reviewer_notes,source_sha256
+GF-DC_000001-0001,DC_000001,CASE_NUMBER,CRITICAL,CC 179/1998,DC_000001_P001_PAR001_SEN002,DC_000001_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000001_P001_PAR001_SEN001,DC_000001_P001_PAR001,1,"IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur. CC.",CC 179/1998 assembled across header windows 1-4.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000001.,49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad
+GF-DC_000001-0002,DC_000001,COURT,IMPORTANT,"Junior Civil Judge, Chennur",DC_000001_P001_PAR001_SEN001,DC_000001_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000001_P001_PAR001_SEN001,DC_000001_P001_PAR001,1,"IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur. CC.",Presiding court explicitly present in window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000001.,49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad
+GF-DC_000001-0003,DC_000001,PARTIES,CRITICAL,State of Telangana (SHO Srirampur),DC_000001_P001_PAR005_SEN001,DC_000001_P001_PAR005,1,NOT_RETRIEVED,,,,,"PARTIES was located in page 1 bottom paragraphs (windows 5-8), outside top 4 supplied chunks.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000001.,49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad
+GF-DC_000001-0004,DC_000001,PARTIES,CRITICAL,Bodduna Rajamallu,DC_000001_P001_PAR005_SEN002,DC_000001_P001_PAR005,1,NOT_RETRIEVED,,,,,"PARTIES was located in page 1 bottom paragraphs (windows 5-8), outside top 4 supplied chunks.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000001.,49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad
+GF-DC_000001-0005,DC_000001,OFFICER,CONTEXTUAL,"Sri Uday Bhaskar Rao, JCJ Chennur",DC_000001_P001_PAR001_SEN001,DC_000001_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000001_P001_PAR001_SEN001,DC_000001_P001_PAR001,1,"IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur. CC.",Presiding judge Sri Uday Bhaskar Rao explicitly present in window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000001.,49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad
+GF-DC_000001-0006,DC_000001,DATE,IMPORTANT,08-Aug-2017,DC_000001_P001_PAR007_SEN001,DC_000001_P001_PAR007,1,NOT_RETRIEVED,,,,,"DATE was located in page 1 bottom paragraphs (windows 5-8), outside top 4 supplied chunks.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000001.,49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad
+GF-DC_000001-0007,DC_000001,PROCEDURAL_ACTION,IMPORTANT,Transferred to I Addl.JFCM Mancherial,DC_000001_P001_PAR006_SEN003,DC_000001_P001_PAR006,1,NOT_RETRIEVED,,,,,"PROCEDURAL_ACTION was located in page 1 bottom paragraphs (windows 5-8), outside top 4 supplied chunks.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000001.,49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad
+GF-DC_000001-0008,DC_000001,PROCEDURAL_ACTION,IMPORTANT,Proc.Dis.No.5555/2017/Admn dt 3.8.2017,DC_000001_P001_PAR006_SEN001,DC_000001_P001_PAR006,1,NOT_RETRIEVED,,,,,"PROCEDURAL_ACTION was located in page 1 bottom paragraphs (windows 5-8), outside top 4 supplied chunks.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000001.,49d91ccb95063a2cb7951c4b4bdf6e12eb4728a4c72f6dd0d1f50d4b8a6170ad
+GF-DC_000002-0001,DC_000002,CASE_NUMBER,CRITICAL,CC 165/1998,DC_000002_P001_PAR001_SEN003,DC_000002_P001_PAR001,1,RETRIEVED_SUPPORTED,"DC_000002_P001_PAR001_SEN001,DC_000002_P001_PAR002_SEN001","DC_000002_P001_PAR001,DC_000002_P001_PAR002",1,No. 165 of 1998,Case number CC 165/1998 explicitly present in window 3.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000002.,5d8380af2722ed4f71b38fc5ce00a2b3dcd7090f618032a42d78d4c3bef85304
+GF-DC_000002-0002,DC_000002,COURT,IMPORTANT,"Junior Civil Judge, Chennur",DC_000002_P001_PAR001_SEN001,DC_000002_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000002_P001_PAR001_SEN001,DC_000002_P001_PAR001,1,"IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G. Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur. CC.",COURT explicitly stated in window 1 header.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000002.,5d8380af2722ed4f71b38fc5ce00a2b3dcd7090f618032a42d78d4c3bef85304
+GF-DC_000002-0003,DC_000002,PARTIES,CRITICAL,State of Telangana (SHO Kotapally),DC_000002_P001_PAR003_SEN001,DC_000002_P001_PAR003,1,RETRIEVED_SUPPORTED,DC_000002_P001_PAR003_SEN001,DC_000002_P001_PAR003,1,"Between:-
+The State of Telangana Rep.by
+SHO, Kotapally. ... Complainant
+AND
+Tallapalli Sagar",Party (State of Telangana (SHO Kotapally)) explicitly named in case caption in window 4.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000002.,5d8380af2722ed4f71b38fc5ce00a2b3dcd7090f618032a42d78d4c3bef85304
+GF-DC_000002-0004,DC_000002,PARTIES,CRITICAL,Tallapalli Sagar,DC_000002_P001_PAR003_SEN003,DC_000002_P001_PAR003,1,RETRIEVED_SUPPORTED,DC_000002_P001_PAR003_SEN001,DC_000002_P001_PAR003,1,"Between:-
+The State of Telangana Rep.by
+SHO, Kotapally. ... Complainant
+AND
+Tallapalli Sagar",Party (Tallapalli Sagar) explicitly named in case caption in window 4.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000002.,5d8380af2722ed4f71b38fc5ce00a2b3dcd7090f618032a42d78d4c3bef85304
+GF-DC_000002-0005,DC_000002,OFFICER,CONTEXTUAL,"Sri G. Uday Bhaskar Rao, JCJ Chennur",DC_000002_P001_PAR001_SEN001,DC_000002_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000002_P001_PAR001_SEN001,DC_000002_P001_PAR001,1,"IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G. Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur. CC.",OFFICER explicitly stated in window 1 header.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000002.,5d8380af2722ed4f71b38fc5ce00a2b3dcd7090f618032a42d78d4c3bef85304
+GF-DC_000002-0006,DC_000002,PROCEDURAL_ACTION,IMPORTANT,Permission to enter LPC Register per O.M.Dis.No.1099/2018/crl dt 07.03.2018,DC_000002_P001_PAR005_SEN001,DC_000002_P001_PAR005,1,NOT_RETRIEVED,,,,,"PROCEDURAL_ACTION (LPC order / order date) was in windows 6-8, outside top 4 supplied chunks.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000002.,5d8380af2722ed4f71b38fc5ce00a2b3dcd7090f618032a42d78d4c3bef85304
+GF-DC_000002-0007,DC_000002,DATE,IMPORTANT,13-Mar-2018,DC_000002_P001_PAR006_SEN001,DC_000002_P001_PAR006,1,NOT_RETRIEVED,,,,,"DATE (LPC order / order date) was in windows 6-8, outside top 4 supplied chunks.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000002.,5d8380af2722ed4f71b38fc5ce00a2b3dcd7090f618032a42d78d4c3bef85304
+GF-DC_000003-0001,DC_000003,CASE_NUMBER,CRITICAL,CC 136/1998,DC_000003_P001_PAR001_SEN002,DC_000003_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000003_P001_PAR002_SEN001,DC_000003_P001_PAR002,1,No. 136 of 1998,Case number CC 136/1998 explicitly present in window 2.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000003.,d5e7b3b2c747b0bc5ed1b6148b11d4039e8852708205adb81025b0bd520425df
+GF-DC_000003-0002,DC_000003,COURT,IMPORTANT,"Junior Civil Judge, Chennur",DC_000003_P001_PAR001_SEN001,DC_000003_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000003_P001_PAR001_SEN001,DC_000003_P001_PAR001,1,"IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Smt. Shaik Rehana
+ Junior Civil Judge,
+ Chennur. CC.",COURT explicitly stated in window 1 header.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000003.,d5e7b3b2c747b0bc5ed1b6148b11d4039e8852708205adb81025b0bd520425df
+GF-DC_000003-0003,DC_000003,PARTIES,CRITICAL,State of Telangana (SI Neelwai),DC_000003_P001_PAR003_SEN001,DC_000003_P001_PAR003,1,RETRIEVED_SUPPORTED,DC_000003_P001_PAR003_SEN001,DC_000003_P001_PAR003,1,"Between:-
+The State of Telangana Rep.by
+Sub-Inspector of Police, Neelwai
+ ... Complainant
+AND
+Satwaji @ Sudhakaranna and others",Party (State of Telangana (SI Neelwai)) explicitly named in caption in window 3.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000003.,d5e7b3b2c747b0bc5ed1b6148b11d4039e8852708205adb81025b0bd520425df
+GF-DC_000003-0004,DC_000003,PARTIES,CRITICAL,Satwaji @ Sudhakaranna (and others),DC_000003_P001_PAR003_SEN002,DC_000003_P001_PAR003,1,RETRIEVED_SUPPORTED,DC_000003_P001_PAR003_SEN001,DC_000003_P001_PAR003,1,"Between:-
+The State of Telangana Rep.by
+Sub-Inspector of Police, Neelwai
+ ... Complainant
+AND
+Satwaji @ Sudhakaranna and others",Party (Satwaji @ Sudhakaranna (and others)) explicitly named in caption in window 3.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000003.,d5e7b3b2c747b0bc5ed1b6148b11d4039e8852708205adb81025b0bd520425df
+GF-DC_000003-0005,DC_000003,OFFICER,CONTEXTUAL,"Smt. Shaik Rehana, JCJ Chennur",DC_000003_P001_PAR001_SEN001,DC_000003_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000003_P001_PAR001_SEN001,DC_000003_P001_PAR001,1,"IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Smt. Shaik Rehana
+ Junior Civil Judge,
+ Chennur. CC.",OFFICER explicitly stated in window 1 header.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000003.,d5e7b3b2c747b0bc5ed1b6148b11d4039e8852708205adb81025b0bd520425df
+GF-DC_000003-0006,DC_000003,PROCEDURAL_ACTION,IMPORTANT,Permission to enter LPC Register per O.M.Dis.No.1044/2018/crl dt 07.03.2018,DC_000003_P001_PAR005_SEN001,DC_000003_P001_PAR005,1,NOT_RETRIEVED,,,,,"PROCEDURAL_ACTION was located in bottom paragraphs (windows 5-6), not supplied.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000003.,d5e7b3b2c747b0bc5ed1b6148b11d4039e8852708205adb81025b0bd520425df
+GF-DC_000003-0007,DC_000003,DATE,IMPORTANT,13-Mar-2018,DC_000003_P001_PAR006_SEN001,DC_000003_P001_PAR006,1,NOT_RETRIEVED,,,,,"DATE was located in bottom paragraphs (windows 5-6), not supplied.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000003.,d5e7b3b2c747b0bc5ed1b6148b11d4039e8852708205adb81025b0bd520425df
+GF-DC_000004-0001,DC_000004,CASE_NUMBER,CRITICAL,CC 135/1998,DC_000004_P001_PAR001_SEN003,DC_000004_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000004_P001_PAR002_SEN001,DC_000004_P001_PAR002,1,No.135 of 1998,Case number CC 135/1998 explicitly present in window 3.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000004.,e5eec855ff6a88c3f2090318473ebacf640d5f9af4e8de33e8d18f6abb9e569b
+GF-DC_000004-0002,DC_000004,COURT,IMPORTANT,"Junior Civil Judge, Chennur",DC_000004_P001_PAR001_SEN001,DC_000004_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000004_P001_PAR001_SEN001,DC_000004_P001_PAR001,1,"IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G. Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur. CC.",COURT explicitly stated in window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000004.,e5eec855ff6a88c3f2090318473ebacf640d5f9af4e8de33e8d18f6abb9e569b
+GF-DC_000004-0003,DC_000004,PARTIES,CRITICAL,State of Telangana (SI Kotapally),DC_000004_P001_PAR003_SEN001,DC_000004_P001_PAR003,1,RETRIEVED_SUPPORTED,DC_000004_P001_PAR003_SEN001,DC_000004_P001_PAR003,1,"Between:-
+The State of Telangana Rep.by
+Sub-Inspector of police, Kotapally
+ ... Complainant
+AND
+Jangelli Ganganna @ Narayana",Party (State of Telangana (SI Kotapally)) explicitly named in caption in window 4.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000004.,e5eec855ff6a88c3f2090318473ebacf640d5f9af4e8de33e8d18f6abb9e569b
+GF-DC_000004-0004,DC_000004,PARTIES,CRITICAL,Jangelli Ganganna @ Narayana,DC_000004_P001_PAR003_SEN002,DC_000004_P001_PAR003,1,RETRIEVED_SUPPORTED,DC_000004_P001_PAR003_SEN001,DC_000004_P001_PAR003,1,"Between:-
+The State of Telangana Rep.by
+Sub-Inspector of police, Kotapally
+ ... Complainant
+AND
+Jangelli Ganganna @ Narayana",Party (Jangelli Ganganna @ Narayana) explicitly named in caption in window 4.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000004.,e5eec855ff6a88c3f2090318473ebacf640d5f9af4e8de33e8d18f6abb9e569b
+GF-DC_000004-0005,DC_000004,OFFICER,CONTEXTUAL,"Sri G. Uday Bhaskar Rao, JCJ Chennur",DC_000004_P001_PAR001_SEN001,DC_000004_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000004_P001_PAR001_SEN001,DC_000004_P001_PAR001,1,"IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G. Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur. CC.",OFFICER explicitly stated in window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000004.,e5eec855ff6a88c3f2090318473ebacf640d5f9af4e8de33e8d18f6abb9e569b
+GF-DC_000004-0006,DC_000004,PROCEDURAL_ACTION,IMPORTANT,Permission to enter LPC Register per O.M.Dis.No.1105/2018/crl dt 07.03.2018,DC_000004_P001_PAR005_SEN001,DC_000004_P001_PAR005,1,NOT_RETRIEVED,,,,,"PROCEDURAL_ACTION was located in bottom paragraphs (windows 5-7), not supplied.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000004.,e5eec855ff6a88c3f2090318473ebacf640d5f9af4e8de33e8d18f6abb9e569b
+GF-DC_000004-0007,DC_000004,DATE,IMPORTANT,13-Mar-2018,DC_000004_P001_PAR006_SEN001,DC_000004_P001_PAR006,1,NOT_RETRIEVED,,,,,"DATE was located in bottom paragraphs (windows 5-7), not supplied.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000004.,e5eec855ff6a88c3f2090318473ebacf640d5f9af4e8de33e8d18f6abb9e569b
+GF-DC_000005-0001,DC_000005,CASE_NUMBER,CRITICAL,CC 134/1998,DC_000005_P001_PAR001_SEN002,DC_000005_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000005_P001_PAR001_SEN001,DC_000005_P001_PAR001,1,"IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur. CC.",CC 134/1998 assembled across header windows 1-4.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000005.,838dacd1ea2bfe57b4d6872bdeacab2fedd0388affca53822f9ad851a383069a
+GF-DC_000005-0002,DC_000005,COURT,IMPORTANT,"Junior Civil Judge, Chennur",DC_000005_P001_PAR001_SEN001,DC_000005_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000005_P001_PAR001_SEN001,DC_000005_P001_PAR001,1,"IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur. CC.",Presiding court explicitly present in window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000005.,838dacd1ea2bfe57b4d6872bdeacab2fedd0388affca53822f9ad851a383069a
+GF-DC_000005-0003,DC_000005,PARTIES,CRITICAL,State of Telangana (SI Kotapally),DC_000005_P001_PAR005_SEN001,DC_000005_P001_PAR005,1,NOT_RETRIEVED,,,,,"PARTIES was located in bottom paragraphs (windows 5-7), not supplied.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000005.,838dacd1ea2bfe57b4d6872bdeacab2fedd0388affca53822f9ad851a383069a
+GF-DC_000005-0004,DC_000005,PARTIES,CRITICAL,Golla Rajam,DC_000005_P001_PAR005_SEN002,DC_000005_P001_PAR005,1,NOT_RETRIEVED,,,,,"PARTIES was located in bottom paragraphs (windows 5-7), not supplied.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000005.,838dacd1ea2bfe57b4d6872bdeacab2fedd0388affca53822f9ad851a383069a
+GF-DC_000005-0005,DC_000005,OFFICER,CONTEXTUAL,"Sri Uday Bhaskar Rao, JCJ Chennur",DC_000005_P001_PAR001_SEN001,DC_000005_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000005_P001_PAR001_SEN001,DC_000005_P001_PAR001,1,"IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur. CC.",Judge Sri Uday Bhaskar Rao explicitly present in window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000005.,838dacd1ea2bfe57b4d6872bdeacab2fedd0388affca53822f9ad851a383069a
+GF-DC_000005-0006,DC_000005,PROCEDURAL_ACTION,IMPORTANT,Permission to enter LPC Register per O.M.Dis.No.1102/2018/Crl dt 07.03.2018,DC_000005_P001_PAR006_SEN001,DC_000005_P001_PAR006,1,NOT_RETRIEVED,,,,,"PROCEDURAL_ACTION was located in bottom paragraphs (windows 5-7), not supplied.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000005.,838dacd1ea2bfe57b4d6872bdeacab2fedd0388affca53822f9ad851a383069a
+GF-DC_000005-0007,DC_000005,DATE,IMPORTANT,13-Mar-2018,DC_000005_P001_PAR007_SEN001,DC_000005_P001_PAR007,1,NOT_RETRIEVED,,,,,"DATE was located in bottom paragraphs (windows 5-7), not supplied.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000005.,838dacd1ea2bfe57b4d6872bdeacab2fedd0388affca53822f9ad851a383069a
+GF-DC_000006-0001,DC_000006,CASE_NUMBER,CRITICAL,CC 132/1998,DC_000006_P001_PAR001_SEN002,DC_000006_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000006_P001_PAR001_SEN001,DC_000006_P001_PAR001,1,"1 CC 132 OF 1998
+IN THE COURT OF THE JUDICIAL MAGISTRATE OF FIRST CLASS AT
+CHINNOOR
+ PRESENT: Ms. SHAIK REHANA
+ Judicial Magistrate of First Class,
+ Chinnor. MONDAY THE 15TH DAY OF SEPTEMBER,, 2014
+C.C.No. 132 of 1998
+Between:-
+The State through the Sub-Inspector
+of Police, P.S. Jaipur
+ ...",C.C.No. 132 of 1998 explicitly present in window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0002,DC_000006,COURT,IMPORTANT,"Judicial Magistrate of First Class, Chinnoor",DC_000006_P001_PAR001_SEN001,DC_000006_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000006_P001_PAR001_SEN001,DC_000006_P001_PAR001,1,"1 CC 132 OF 1998
+IN THE COURT OF THE JUDICIAL MAGISTRATE OF FIRST CLASS AT
+CHINNOOR
+ PRESENT: Ms. SHAIK REHANA
+ Judicial Magistrate of First Class,
+ Chinnor. MONDAY THE 15TH DAY OF SEPTEMBER,, 2014
+C.C.No. 132 of 1998
+Between:-
+The State through the Sub-Inspector
+of Police, P.S. Jaipur
+ ...",JMFC Chinnoor explicitly present in window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0003,DC_000006,OFFICER,CONTEXTUAL,"Ms. Shaik Rehana, JMFC Chinnoor",DC_000006_P001_PAR001_SEN001,DC_000006_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000006_P001_PAR001_SEN001,DC_000006_P001_PAR001,1,"1 CC 132 OF 1998
+IN THE COURT OF THE JUDICIAL MAGISTRATE OF FIRST CLASS AT
+CHINNOOR
+ PRESENT: Ms. SHAIK REHANA
+ Judicial Magistrate of First Class,
+ Chinnor. MONDAY THE 15TH DAY OF SEPTEMBER,, 2014
+C.C.No. 132 of 1998
+Between:-
+The State through the Sub-Inspector
+of Police, P.S. Jaipur
+ ...",Presiding judge Ms. Shaik Rehana explicitly present in window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0004,DC_000006,DATE,IMPORTANT,15-Sep-2014,DC_000006_P005_PAR001_SEN004,DC_000006_P005_PAR001,5,RETRIEVED_SUPPORTED,DC_000006_P001_PAR001_SEN002,DC_000006_P001_PAR001,1,"1 CC 132 OF 1998
+IN THE COURT OF THE JUDICIAL MAGISTRATE OF FIRST CLASS AT
+CHINNOOR
+ PRESENT: Ms. SHAIK REHANA
+ Judicial Magistrate of First Class,
+ Chinnor. MONDAY THE 15TH DAY OF SEPTEMBER,, 2014
+C.C.No. 132 of 1998
+Between:-
+The State through the Sub-Inspector
+of Police, P.S. Jaipur
+ ...",Judgment delivery date 15-Sep-2014 explicitly present in window 1.,EXACT_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0005,DC_000006,PARTIES,CRITICAL,State (SI PS Jaipur),DC_000006_P001_PAR001_SEN001,DC_000006_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000006_P001_PAR001_SEN002,DC_000006_P001_PAR001,1,"1 CC 132 OF 1998
+IN THE COURT OF THE JUDICIAL MAGISTRATE OF FIRST CLASS AT
+CHINNOOR
+ PRESENT: Ms. SHAIK REHANA
+ Judicial Magistrate of First Class,
+ Chinnor. MONDAY THE 15TH DAY OF SEPTEMBER,, 2014
+C.C.No. 132 of 1998
+Between:-
+The State through the Sub-Inspector
+of Police, P.S. Jaipur
+ ...",State prosecution complainant explicitly present in window 1 & 2.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0006,DC_000006,PARTIES,CRITICAL,Radhakka (A-8),DC_000006_P001_PAR001_SEN004,DC_000006_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000006_P001_PAR001_SEN004,DC_000006_P001_PAR001,1,"Jaipur
+ ... Complainant
+ AND
+ A-1: Satwaji @ Sudhakaranna
+A-2: Golla Rajam
+A-3: Parasaboina Rajam @ Naganna
+A-5: Arigela Venka Goud @ Pratap
+A-6: Gaddam Rajam @ Yadanna
+A-7: Ganganna @ Mallesh
+A-8: Radhakka
+A-9: Rayaposham @ Kishan
+A-10: Bomgoni Komura Goud (died)
+(case against A-1 to A-7 and A-9 to A-10 is split up
+and numbered as CC 47 of 2014 )
+(A-10 since died on 16.9.1993 in Cr.No. 83/1993 of PS Jaipur),",Accused A-8 Radhakka explicitly listed in window 2.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0007,DC_000006,PARTIES,CRITICAL,Smt. Lambu Anantha Devi (PW-1),DC_000006_P001_PAR002_SEN007,DC_000006_P001_PAR002,1,NOT_RETRIEVED,,,,,"PARTIES (Smt. Lambu Anantha Devi (PW-1)) was located on page 1, which was completely omitted from supplied evidence (only page 1 windows 1-4 retrieved).",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0008,DC_000006,CHARGE,CRITICAL,"IPC s.147, 148, 427 r/w 149",DC_000006_P001_PAR002_SEN005,DC_000006_P001_PAR002,1,RETRIEVED_SUPPORTED,DC_000006_P001_PAR002_SEN004,DC_000006_P001_PAR002,1,"for the State-complainant and of Sri G. Ramesh
+Chander, Advocate for the accused, having been heard and having stood over
+for consideration till this day, the Court delivered the following:-
+ :: J U D G M E N T ::
+1. The Circle Inspector of police, Mancherial filed the charge sheet against the
+accused No.1 to 10 for the offences under section 147, 148, 427 r/w 149 IPC in
+Cr.No. 37/1993 of PS Jaipur.","Penal charges (IPC s.147, 148, 427 r/w 149) explicitly stated in charge sheet averments in window 4.",SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0009,DC_000006,AMOUNT,IMPORTANT,"Rs. 2,05,000",DC_000006_P002_PAR001_SEN005,DC_000006_P002_PAR001,2,NOT_RETRIEVED,,,,,"AMOUNT (Rs. 2,05,000) was located on page 2, which was completely omitted from supplied evidence (only page 1 windows 1-4 retrieved).",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0010,DC_000006,DATE,IMPORTANT,12-Apr-1993/13-Apr-1993 (night),DC_000006_P002_PAR001_SEN005,DC_000006_P002_PAR001,2,NOT_RETRIEVED,,,,,"DATE (12-Apr-1993/13-Apr-1993 (night)) was located on page 2, which was completely omitted from supplied evidence (only page 1 windows 1-4 retrieved).",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0011,DC_000006,DISPOSITION,CRITICAL,A-4 acquitted on 08-Jan-1999,DC_000006_P002_PAR001_SEN024,DC_000006_P002_PAR001,2,NOT_RETRIEVED,,,,,"DISPOSITION (A-4 acquitted on 08-Jan-1999) was located on page 2, which was completely omitted from supplied evidence (only page 1 windows 1-4 retrieved).",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0012,DC_000006,JUDICIAL_FINDING,CRITICAL,Prosecution failed to prove guilt of A-8 beyond reasonable doubt,DC_000006_P004_PAR001_SEN020,DC_000006_P004_PAR001,4,NOT_RETRIEVED,,,,,"JUDICIAL_FINDING (Prosecution failed to prove guilt of A-8 beyond reasonable doubt) was located on page 4, which was completely omitted from supplied evidence (only page 1 windows 1-4 retrieved).",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0013,DC_000006,DISPOSITION,CRITICAL,A-8 Acquitted under Sec. 248(1) Cr.P.C.,DC_000006_P005_PAR001_SEN001,DC_000006_P005_PAR001,5,NOT_RETRIEVED,,,,,"DISPOSITION (A-8 Acquitted under Sec. 248(1) Cr.P.C.) was located on page 5, which was completely omitted from supplied evidence (only page 1 windows 1-4 retrieved).",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0014,DC_000006,RELIEF,CRITICAL,A-8 set at liberty forthwith,DC_000006_P005_PAR001_SEN002,DC_000006_P005_PAR001,5,NOT_RETRIEVED,,,,,"RELIEF (A-8 set at liberty forthwith) was located on page 5, which was completely omitted from supplied evidence (only page 1 windows 1-4 retrieved).",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0015,DC_000006,BAIL_STATUS,CRITICAL,A-8 in judicial custody (set at liberty upon acquittal),DC_000006_P005_PAR001_SEN002,DC_000006_P005_PAR001,5,NOT_RETRIEVED,,,,,"BAIL_STATUS (A-8 in judicial custody (set at liberty upon acquittal)) was located on page 5, which was completely omitted from supplied evidence (only page 1 windows 1-4 retrieved).",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0016,DC_000006,PROCEDURAL_ACTION,IMPORTANT,"Split to CC 47/2014 (A-1,A-2,A-3,A-5,A-6,A-7,A-9)",DC_000006_P002_PAR001_SEN022,DC_000006_P002_PAR001,2,RETRIEVED_SUPPORTED,DC_000006_P001_PAR001_SEN004,DC_000006_P001_PAR001,1,"Jaipur
+ ... Complainant
+ AND
+ A-1: Satwaji @ Sudhakaranna
+A-2: Golla Rajam
+A-3: Parasaboina Rajam @ Naganna
+A-5: Arigela Venka Goud @ Pratap
+A-6: Gaddam Rajam @ Yadanna
+A-7: Ganganna @ Mallesh
+A-8: Radhakka
+A-9: Rayaposham @ Kishan
+A-10: Bomgoni Komura Goud (died)
+(case against A-1 to A-7 and A-9 to A-10 is split up
+and numbered as CC 47 of 2014 )
+(A-10 since died on 16.9.1993 in Cr.No. 83/1993 of PS Jaipur),",Case split to CC 47/2014 for co-accused explicitly stated in caption note in window 2.,EXACT_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0017,DC_000006,OFFICER,CONTEXTUAL,Sri G. Ramesh Chander (Defense Advocate),DC_000006_P001_PAR002_SEN003,DC_000006_P001_PAR002,1,RETRIEVED_SUPPORTED,DC_000006_P001_PAR002_SEN001,DC_000006_P001_PAR002,1,"for the State-complainant and of Sri G. Ramesh
+Chander, Advocate for the accused, having been heard and having stood over
+for consideration till this day, the Court delivered the following:-
+ :: J U D G M E N T ::
+1. The Circle Inspector of police, Mancherial filed the charge sheet against the
+accused No.1 to 10 for the offences under section 147, 148, 427 r/w 149 IPC in
+Cr.No. 37/1993 of PS Jaipur.",Defense counsel Sri G. Ramesh Chander explicitly named in window 4.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0018,DC_000006,OFFICER,CONTEXTUAL,"Md. Mustafa, SI Jaipur",DC_000006_P002_PAR001_SEN010,DC_000006_P002_PAR001,2,NOT_RETRIEVED,,,,,"OFFICER (Md. Mustafa, SI Jaipur) was located on page 2, which was completely omitted from supplied evidence (only page 1 windows 1-4 retrieved).",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0019,DC_000006,OFFICER,CONTEXTUAL,"V Sailu, CI Mancherial",DC_000006_P002_PAR001_SEN016,DC_000006_P002_PAR001,2,RETRIEVED_PARTIAL,DC_000006_P001_PAR002_SEN004,DC_000006_P001_PAR002,1,"for the State-complainant and of Sri G. Ramesh
+Chander, Advocate for the accused, having been heard and having stood over
+for consideration till this day, the Court delivered the following:-
+ :: J U D G M E N T ::
+1. The Circle Inspector of police, Mancherial filed the charge sheet against the
+accused No.1 to 10 for the offences under section 147, 148, 427 r/w 149 IPC in
+Cr.No. 37/1993 of PS Jaipur.","Circle Inspector of police Mancherial is mentioned in window 4, but personal name V. Sailu is on page 4.",PARTIAL_TITLE_MATCH,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000006-0020,DC_000006,DATE,IMPORTANT,14-Apr-1993 (FIR Cr.No.37/1993 PS Jaipur),DC_000006_P004_PAR001_SEN003,DC_000006_P004_PAR001,4,NOT_RETRIEVED,,,,,"DATE (14-Apr-1993 (FIR Cr.No.37/1993 PS Jaipur)) was located on page 4, which was completely omitted from supplied evidence (only page 1 windows 1-4 retrieved).",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000006.,c0a3b2a7213381565f24e311a2a112b1740ee181b41f75d1bc8c644e066812ff
+GF-DC_000007-0001,DC_000007,CASE_NUMBER,CRITICAL,PRC 46/1998,DC_000007_P001_PAR001_SEN003,DC_000007_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000007_P001_PAR002_SEN001,DC_000007_P001_PAR002,1,No. 46 of 1998,PRC 46/1998 explicitly present in window 3.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000007.,437529d8f1cc43ad504b9c592ec40927f2a3648e4dfb06883e45c37b8ad99909
+GF-DC_000007-0002,DC_000007,COURT,IMPORTANT,"Junior Civil Judge, Chennur",DC_000007_P001_PAR001_SEN001,DC_000007_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000007_P001_PAR001_SEN001,DC_000007_P001_PAR001,1,"IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G. Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur. PRC.",COURT explicitly stated in window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000007.,437529d8f1cc43ad504b9c592ec40927f2a3648e4dfb06883e45c37b8ad99909
+GF-DC_000007-0003,DC_000007,PARTIES,CRITICAL,State of Telangana (SHO Chennur),DC_000007_P001_PAR003_SEN001,DC_000007_P001_PAR003,1,RETRIEVED_SUPPORTED,DC_000007_P001_PAR003_SEN001,DC_000007_P001_PAR003,1,"Between:-
+The State of Telangana Rep.by
+SHO, Chennur
+ ... Complainant
+AND
+Jangili Ganganna and 13 others",Party (State of Telangana (SHO Chennur)) explicitly named in caption in window 4.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000007.,437529d8f1cc43ad504b9c592ec40927f2a3648e4dfb06883e45c37b8ad99909
+GF-DC_000007-0004,DC_000007,PARTIES,CRITICAL,Jangili Ganganna (and 13 others),DC_000007_P001_PAR003_SEN002,DC_000007_P001_PAR003,1,RETRIEVED_SUPPORTED,DC_000007_P001_PAR003_SEN001,DC_000007_P001_PAR003,1,"Between:-
+The State of Telangana Rep.by
+SHO, Chennur
+ ... Complainant
+AND
+Jangili Ganganna and 13 others",Party (Jangili Ganganna (and 13 others)) explicitly named in caption in window 4.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000007.,437529d8f1cc43ad504b9c592ec40927f2a3648e4dfb06883e45c37b8ad99909
+GF-DC_000007-0005,DC_000007,OFFICER,CONTEXTUAL,"Sri G. Uday Bhaskar Rao, JCJ Chennur",DC_000007_P001_PAR001_SEN001,DC_000007_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000007_P001_PAR001_SEN001,DC_000007_P001_PAR001,1,"IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G. Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur. PRC.",OFFICER explicitly stated in window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000007.,437529d8f1cc43ad504b9c592ec40927f2a3648e4dfb06883e45c37b8ad99909
+GF-DC_000007-0006,DC_000007,PROCEDURAL_ACTION,IMPORTANT,Permission to enter LPC Register per O.M.Dis.No.1051/2018/crl dt 07.03.2018,DC_000007_P001_PAR005_SEN001,DC_000007_P001_PAR005,1,NOT_RETRIEVED,,,,,"PROCEDURAL_ACTION was located in bottom paragraphs (windows 5-7), not supplied.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000007.,437529d8f1cc43ad504b9c592ec40927f2a3648e4dfb06883e45c37b8ad99909
+GF-DC_000007-0007,DC_000007,DATE,IMPORTANT,13-Mar-2018,DC_000007_P001_PAR006_SEN001,DC_000007_P001_PAR006,1,NOT_RETRIEVED,,,,,"DATE was located in bottom paragraphs (windows 5-7), not supplied.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000007.,437529d8f1cc43ad504b9c592ec40927f2a3648e4dfb06883e45c37b8ad99909
+GF-DC_000008-0001,DC_000008,CASE_NUMBER,CRITICAL,PRC 44/1998,DC_000008_P001_PAR001_SEN003,DC_000008_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000008_P001_PAR002_SEN001,DC_000008_P001_PAR002,1,No. 44 of 1998,PRC 44/1998 explicitly present in window 3.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000008.,b37953406ccd311d503b764c5fc4d197933c033121b19bfa457935c491b451cb
+GF-DC_000008-0002,DC_000008,COURT,IMPORTANT,"Junior Civil Judge, Chennur",DC_000008_P001_PAR001_SEN001,DC_000008_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000008_P001_PAR001_SEN001,DC_000008_P001_PAR001,1,"IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G. Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur. PRC.",COURT explicitly stated in window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000008.,b37953406ccd311d503b764c5fc4d197933c033121b19bfa457935c491b451cb
+GF-DC_000008-0003,DC_000008,PARTIES,CRITICAL,State of Telangana (SHO Kotapalli),DC_000008_P001_PAR003_SEN001,DC_000008_P001_PAR003,1,RETRIEVED_SUPPORTED,DC_000008_P001_PAR003_SEN001,DC_000008_P001_PAR003,1,"Between:-
+The State of Telangana Rep.by
+SHO, Kotapalli
+ ... Complainant
+AND
+Praboina Rajanna",Party (State of Telangana (SHO Kotapalli)) explicitly named in caption in window 4.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000008.,b37953406ccd311d503b764c5fc4d197933c033121b19bfa457935c491b451cb
+GF-DC_000008-0004,DC_000008,PARTIES,CRITICAL,Praboina Rajanna,DC_000008_P001_PAR003_SEN002,DC_000008_P001_PAR003,1,RETRIEVED_SUPPORTED,DC_000008_P001_PAR003_SEN001,DC_000008_P001_PAR003,1,"Between:-
+The State of Telangana Rep.by
+SHO, Kotapalli
+ ... Complainant
+AND
+Praboina Rajanna",Party (Praboina Rajanna) explicitly named in caption in window 4.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000008.,b37953406ccd311d503b764c5fc4d197933c033121b19bfa457935c491b451cb
+GF-DC_000008-0005,DC_000008,OFFICER,CONTEXTUAL,"Sri G. Uday Bhaskar Rao, JCJ Chennur",DC_000008_P001_PAR001_SEN001,DC_000008_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000008_P001_PAR001_SEN001,DC_000008_P001_PAR001,1,"IN THE COURT OF THE JUNIOR CIVIL JUDGE AT CHENNUR
+Present: Sri G. Uday Bhaskar Rao
+ Junior Civil Judge,
+ Chennur. PRC.",OFFICER explicitly stated in window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000008.,b37953406ccd311d503b764c5fc4d197933c033121b19bfa457935c491b451cb
+GF-DC_000008-0006,DC_000008,PROCEDURAL_ACTION,IMPORTANT,Permission to enter LPC Register per O.M.Dis.No.1467/2018/crl dt 21.03.2018,DC_000008_P001_PAR005_SEN001,DC_000008_P001_PAR005,1,NOT_RETRIEVED,,,,,"PROCEDURAL_ACTION was located in bottom paragraphs (windows 5-7), not supplied.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000008.,b37953406ccd311d503b764c5fc4d197933c033121b19bfa457935c491b451cb
+GF-DC_000008-0007,DC_000008,DATE,IMPORTANT,23-Mar-2018,DC_000008_P001_PAR006_SEN001,DC_000008_P001_PAR006,1,NOT_RETRIEVED,,,,,"DATE was located in bottom paragraphs (windows 5-7), not supplied.",PROVENANCE_ABSENT_IN_RETRIEVED_WINDOWS,Audited against top 4 historical retrieval windows of DC_000008.,b37953406ccd311d503b764c5fc4d197933c033121b19bfa457935c491b451cb
+GF-DC_000011-0001,DC_000011,CASE_NUMBER,CRITICAL,PRC 38/1998,DC_000011_P001_PAR001_SEN002,DC_000011_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000011_P001_PAR001_SEN001,DC_000011_P001_PAR001,1,"1 PRC 38 OF 1998
+IN THE COURT OF JUDL MAGISTRATE ISTCLASS AT CHENNUR
+PRESENT: - Sri K. JAYARAM REDDY
+JUDL.MAGISTRATE OF FIRST CLASS
+CHENNUR
+THURSDAY THIS THE 6TH DAY OF MARCH, 2014
+PRC NO. 38 OF 1998
+Between:-
+ State of A.P. through Circle Inspector
+ of Police, Chennur
+....",CASE_NUMBER explicitly present in committal order header window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000011.,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b
+GF-DC_000011-0002,DC_000011,COURT,IMPORTANT,"Judicial Magistrate of First Class, Chennur",DC_000011_P001_PAR001_SEN001,DC_000011_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000011_P001_PAR001_SEN001,DC_000011_P001_PAR001,1,"1 PRC 38 OF 1998
+IN THE COURT OF JUDL MAGISTRATE ISTCLASS AT CHENNUR
+PRESENT: - Sri K. JAYARAM REDDY
+JUDL.MAGISTRATE OF FIRST CLASS
+CHENNUR
+THURSDAY THIS THE 6TH DAY OF MARCH, 2014
+PRC NO. 38 OF 1998
+Between:-
+ State of A.P. through Circle Inspector
+ of Police, Chennur
+....",COURT explicitly present in committal order header window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000011.,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b
+GF-DC_000011-0003,DC_000011,OFFICER,CONTEXTUAL,"Sri K. Jayaram Reddy, JMFC Chennur",DC_000011_P001_PAR001_SEN001,DC_000011_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000011_P001_PAR001_SEN001,DC_000011_P001_PAR001,1,"1 PRC 38 OF 1998
+IN THE COURT OF JUDL MAGISTRATE ISTCLASS AT CHENNUR
+PRESENT: - Sri K. JAYARAM REDDY
+JUDL.MAGISTRATE OF FIRST CLASS
+CHENNUR
+THURSDAY THIS THE 6TH DAY OF MARCH, 2014
+PRC NO. 38 OF 1998
+Between:-
+ State of A.P. through Circle Inspector
+ of Police, Chennur
+....",OFFICER explicitly present in committal order header window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000011.,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b
+GF-DC_000011-0004,DC_000011,DATE,IMPORTANT,06-Mar-2014,DC_000011_P001_PAR001_SEN002,DC_000011_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000011_P001_PAR001_SEN001,DC_000011_P001_PAR001,1,"1 PRC 38 OF 1998
+IN THE COURT OF JUDL MAGISTRATE ISTCLASS AT CHENNUR
+PRESENT: - Sri K. JAYARAM REDDY
+JUDL.MAGISTRATE OF FIRST CLASS
+CHENNUR
+THURSDAY THIS THE 6TH DAY OF MARCH, 2014
+PRC NO. 38 OF 1998
+Between:-
+ State of A.P. through Circle Inspector
+ of Police, Chennur
+....",DATE explicitly present in committal order header window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000011.,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b
+GF-DC_000011-0005,DC_000011,PARTIES,CRITICAL,State of A.P. (CI Chennur),DC_000011_P001_PAR001_SEN002,DC_000011_P001_PAR001,1,RETRIEVED_SUPPORTED,DC_000011_P001_PAR001_SEN002,DC_000011_P001_PAR001,1,"through Circle Inspector
+ of Police, Chennur
+.... Complainant.",Complainant State of AP through CI Chennur explicitly in window 2.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000011.,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b
+GF-DC_000011-0006,DC_000011,PARTIES,CRITICAL,"Radhakka @ Kursinga Mothu Bai, W/o Pulluri Prasada Rao, age 46, Pippalladara, Adilabad",DC_000011_P001_PAR002_SEN001,DC_000011_P001_PAR002,1,RETRIEVED_SUPPORTED,DC_000011_P001_PAR002_SEN001,DC_000011_P001_PAR002,1,"AND
+A-8: Radhakka @ Kursinga Mothu Bai
+ @ Madavi @ Samithi, W/o Pulluri Prasada Rao
+ Age 46 years, R/o Pippalladara, Jainur Mandal
+ of Adilabad District. ..... Accused.",Accused A-8 Radhakka with aliases explicitly in window 3.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000011.,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b
+GF-DC_000011-0007,DC_000011,CHARGE,CRITICAL,"IPC s.147, 148, 302 r/w 149",DC_000011_P001_PAR004_SEN001,DC_000011_P001_PAR004,1,NOT_RETRIEVED,,,,,"CHARGE (IPC s.147, 148, 302 r/w 149) was located on page 2 (committal, jail custody, IPC 302 charges, split history), outside supplied page 1 chunks.",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000011.,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b
+GF-DC_000011-0008,DC_000011,CHARGE,CRITICAL,"Arms Act s.25(1)(a), 27",DC_000011_P001_PAR004_SEN002,DC_000011_P001_PAR004,1,NOT_RETRIEVED,,,,,"CHARGE (Arms Act s.25(1)(a), 27) was located on page 2 (committal, jail custody, IPC 302 charges, split history), outside supplied page 1 chunks.",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000011.,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b
+GF-DC_000011-0009,DC_000011,DATE,IMPORTANT,26-Mar-1993 23:00,DC_000011_P001_PAR004_SEN004,DC_000011_P001_PAR004,1,RETRIEVED_SUPPORTED,DC_000011_P001_PAR001_SEN001,DC_000011_P001_PAR001,1,"1 PRC 38 OF 1998
+IN THE COURT OF JUDL MAGISTRATE ISTCLASS AT CHENNUR
+PRESENT: - Sri K. JAYARAM REDDY
+JUDL.MAGISTRATE OF FIRST CLASS
+CHENNUR
+THURSDAY THIS THE 6TH DAY OF MARCH, 2014
+PRC NO. 38 OF 1998
+Between:-
+ State of A.P. through Circle Inspector
+ of Police, Chennur
+....",DATE explicitly present in committal order header window 1.,SENTENCE_ID_AND_TEXT_MATCH,Audited against top 4 historical retrieval windows of DC_000011.,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b
+GF-DC_000011-0010,DC_000011,DISPOSITION,CRITICAL,Committed to Sessions Court Adilabad u/s 209(a) CrPC,DC_000011_P002_PAR001_SEN012,DC_000011_P002_PAR001,2,NOT_RETRIEVED,,,,,"DISPOSITION (Committed to Sessions Court Adilabad u/s 209(a) CrPC) was located on page 2 (committal, jail custody, IPC 302 charges, split history), outside supplied page 1 chunks.",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000011.,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b
+GF-DC_000011-0011,DC_000011,BAIL_STATUS,CRITICAL,Accused is in Jail (Judicial Custody),DC_000011_P002_PAR001_SEN014,DC_000011_P002_PAR001,2,NOT_RETRIEVED,,,,,"BAIL_STATUS (Accused is in Jail (Judicial Custody)) was located on page 2 (committal, jail custody, IPC 302 charges, split history), outside supplied page 1 chunks.",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000011.,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b
+GF-DC_000011-0012,DC_000011,PROCEDURAL_ACTION,IMPORTANT,Accused to be produced at Adilabad Sessions Court on 20-Mar-2014,DC_000011_P002_PAR001_SEN015,DC_000011_P002_PAR001,2,NOT_RETRIEVED,,,,,"PROCEDURAL_ACTION (Accused to be produced at Adilabad Sessions Court on 20-Mar-2014) was located on page 2 (committal, jail custody, IPC 302 charges, split history), outside supplied page 1 chunks.",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000011.,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b
+GF-DC_000011-0013,DC_000011,PROCEDURAL_ACTION,IMPORTANT,Split from PRC 14/1995 on 30-Jan-1996,DC_000011_P002_PAR001_SEN004,DC_000011_P002_PAR001,2,NOT_RETRIEVED,,,,,"PROCEDURAL_ACTION (Split from PRC 14/1995 on 30-Jan-1996) was located on page 2 (committal, jail custody, IPC 302 charges, split history), outside supplied page 1 chunks.",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000011.,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b
+GF-DC_000011-0014,DC_000011,PROCEDURAL_ACTION,IMPORTANT,"Split from PRC 6/1996 on 08-Sep-1998, renumbered PRC 38/1998",DC_000011_P002_PAR001_SEN005,DC_000011_P002_PAR001,2,NOT_RETRIEVED,,,,,"PROCEDURAL_ACTION (Split from PRC 6/1996 on 08-Sep-1998, renumbered PRC 38/1998) was located on page 2 (committal, jail custody, IPC 302 charges, split history), outside supplied page 1 chunks.",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000011.,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b
+GF-DC_000011-0015,DC_000011,PROCEDURAL_ACTION,IMPORTANT,A-8 produced on PT Warrant 21-Feb-2014; co-accused split to PRC 8/2014,DC_000011_P002_PAR001_SEN007,DC_000011_P002_PAR001,2,NOT_RETRIEVED,,,,,"PROCEDURAL_ACTION (A-8 produced on PT Warrant 21-Feb-2014; co-accused split to PRC 8/2014) was located on page 2 (committal, jail custody, IPC 302 charges, split history), outside supplied page 1 chunks.",PROVENANCE_PAGE_ABSENT,Audited against top 4 historical retrieval windows of DC_000011.,c4af5014330697771cfa152fe3a9b8eb1dc7afe1b92966d8dce19f7d7dea636b

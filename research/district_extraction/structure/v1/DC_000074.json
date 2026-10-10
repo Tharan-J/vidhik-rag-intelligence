@@ -1,0 +1,245 @@
+{
+  "document_id": "DC_000074",
+  "source": {
+    "sha256": "86aea5b0a13c595909244897144ff4bafe7037c5a7bbc50cf06f93aa2f82c13c",
+    "filename": "orders_2020_215200019602020_1.pdf",
+    "source_record_id": "DC-S3-074_8_24_1080060_2020_orders_2020_215200019602020_1",
+    "source_archive": "indian-district-court-judgments-test",
+    "page_count": 1,
+    "file_size_bytes": 24068
+  },
+  "routing": {
+    "initial_route": "NATIVE_SUSPICIOUS",
+    "fallback_used": false,
+    "route_reason": "MODERATE_SYMBOL_NOISE"
+  },
+  "extraction": {
+    "selected_method": "paddleocr",
+    "extractor_name": "RapidOCR-PP-OCRv4",
+    "extractor_version": "1.0.0",
+    "quality_score": 0.999
+  },
+  "raw_pages": [
+    {
+      "page_number": 1,
+      "character_count": 2504,
+      "word_count": 396,
+      "raw_text": "IN THE COURT OF THE SESSIONS JUDGE,ARARIA. A.B.P. NO. 1960 of 2020 Arising out of Complaint case no. 1419-C/2019 Md. Aatit @ Aatif Petitioner. Versus State of Bihar Opposite Party Appearance For the petitioners: Mr. M.Hussain,Advocate. For the prosecution: Mr. L.N.Yadav, P.P. 06.01.2021 This anticipatory bail petition filed on behalf of accused petitioner case no. 1419-C/2019 u/s 498A I.P.C. pressed today by learned counsel. Heard both the sides in physical mode of court proceeding. The learned counsel for the accused petitioners submits that the accused petitioner is innocent and he has been falsely implicated in this case due to family dispute. The petitioner never made any demand nor did he torture or harass the complainant in any way. The allegations made by the informant is totally false and fabricated. The learned counsel further submits that the dispute has amicably been settled between the parties in terms of mutual separation between the petitioner- husband and complainant-wife as both does not want to lead conjugal life and in this regard a compromise petition duly signed by both the parties with their respective counsels has been filed, in such circumstances, the petitioner deserves to be released on anticipatory bail. The learned P.P. opposed the anticipatory bail. Heard the submission of both the sides and perused the L.C.R. Apparently the complainant Bibi Roushan Khatoon has lodged this case against her petitioner-husband Md. Aatit @ Aatif and other members and relatives of inlaws family alleging against them all for committing cruelty and harassment for non- fulfilment of dowry demand. As amicable settlement in terms of mutual separation between petitioner-husband and complainant-wife taken place and a joint compromise petition duly signed by the parties and their respective counsels to this effect has been filed and the complainant and petitioner appeared before the court and supported the factum of compromise in terms of mutual separation, I find it is a fit case to grant anticipatory bail. Accordingly, prayer of the petitioner for anticipatory bail is allowed. In the event of their arrest or surrender before the court below within a period of four weeks from receipt of this order, the petitioners shall be released on bail on furnishing their bail bonds of Rs. 10,o00/- with two sureties of like amount each to the satisfaction of the court below subject to the conditions as laid down u/s 438(2) Cr.P.C. (Dictated) sd/- (P.K.Dixit) Sessions Judge"
+    }
+  ],
+  "normalized_pages": [
+    {
+      "page_number": 1,
+      "character_count": 2504,
+      "word_count": 396,
+      "normalized_text": "IN THE COURT OF THE SESSIONS JUDGE,ARARIA. A.B.P. NO. 1960 of 2020 Arising out of Complaint case no. 1419-C/2019 Md. Aatit @ Aatif Petitioner. Versus State of Bihar Opposite Party Appearance For the petitioners: Mr. M.Hussain,Advocate. For the prosecution: Mr. L.N.Yadav, P.P. 06.01.2021 This anticipatory bail petition filed on behalf of accused petitioner case no. 1419-C/2019 u/s 498A I.P.C. pressed today by learned counsel. Heard both the sides in physical mode of court proceeding. The learned counsel for the accused petitioners submits that the accused petitioner is innocent and he has been falsely implicated in this case due to family dispute. The petitioner never made any demand nor did he torture or harass the complainant in any way. The allegations made by the informant is totally false and fabricated. The learned counsel further submits that the dispute has amicably been settled between the parties in terms of mutual separation between the petitioner- husband and complainant-wife as both does not want to lead conjugal life and in this regard a compromise petition duly signed by both the parties with their respective counsels has been filed, in such circumstances, the petitioner deserves to be released on anticipatory bail. The learned P.P. opposed the anticipatory bail. Heard the submission of both the sides and perused the L.C.R. Apparently the complainant Bibi Roushan Khatoon has lodged this case against her petitioner-husband Md. Aatit @ Aatif and other members and relatives of inlaws family alleging against them all for committing cruelty and harassment for non- fulfilment of dowry demand. As amicable settlement in terms of mutual separation between petitioner-husband and complainant-wife taken place and a joint compromise petition duly signed by the parties and their respective counsels to this effect has been filed and the complainant and petitioner appeared before the court and supported the factum of compromise in terms of mutual separation, I find it is a fit case to grant anticipatory bail. Accordingly, prayer of the petitioner for anticipatory bail is allowed. In the event of their arrest or surrender before the court below within a period of four weeks from receipt of this order, the petitioners shall be released on bail on furnishing their bail bonds of Rs. 10,o00/- with two sureties of like amount each to the satisfaction of the court below subject to the conditions as laid down u/s 438(2) Cr.P.C. (Dictated) sd/- (P.K.Dixit) Sessions Judge"
+    }
+  ],
+  "structure": {
+    "total_paragraphs": 1,
+    "total_sentences": 21,
+    "pages": [
+      {
+        "page_number": 1,
+        "character_count": 2504,
+        "word_count": 396,
+        "paragraph_count": 1,
+        "paragraphs": [
+          {
+            "paragraph_id": "DC_000074_P001_PAR001",
+            "paragraph_index": 1,
+            "character_count": 2504,
+            "word_count": 396,
+            "sentence_count": 21,
+            "text": "IN THE COURT OF THE SESSIONS JUDGE,ARARIA. A.B.P. NO. 1960 of 2020 Arising out of Complaint case no. 1419-C/2019 Md. Aatit @ Aatif Petitioner. Versus State of Bihar Opposite Party Appearance For the petitioners: Mr. M.Hussain,Advocate. For the prosecution: Mr. L.N.Yadav, P.P. 06.01.2021 This anticipatory bail petition filed on behalf of accused petitioner case no. 1419-C/2019 u/s 498A I.P.C. pressed today by learned counsel. Heard both the sides in physical mode of court proceeding. The learned counsel for the accused petitioners submits that the accused petitioner is innocent and he has been falsely implicated in this case due to family dispute. The petitioner never made any demand nor did he torture or harass the complainant in any way. The allegations made by the informant is totally false and fabricated. The learned counsel further submits that the dispute has amicably been settled between the parties in terms of mutual separation between the petitioner- husband and complainant-wife as both does not want to lead conjugal life and in this regard a compromise petition duly signed by both the parties with their respective counsels has been filed, in such circumstances, the petitioner deserves to be released on anticipatory bail. The learned P.P. opposed the anticipatory bail. Heard the submission of both the sides and perused the L.C.R. Apparently the complainant Bibi Roushan Khatoon has lodged this case against her petitioner-husband Md. Aatit @ Aatif and other members and relatives of inlaws family alleging against them all for committing cruelty and harassment for non- fulfilment of dowry demand. As amicable settlement in terms of mutual separation between petitioner-husband and complainant-wife taken place and a joint compromise petition duly signed by the parties and their respective counsels to this effect has been filed and the complainant and petitioner appeared before the court and supported the factum of compromise in terms of mutual separation, I find it is a fit case to grant anticipatory bail. Accordingly, prayer of the petitioner for anticipatory bail is allowed. In the event of their arrest or surrender before the court below within a period of four weeks from receipt of this order, the petitioners shall be released on bail on furnishing their bail bonds of Rs. 10,o00/- with two sureties of like amount each to the satisfaction of the court below subject to the conditions as laid down u/s 438(2) Cr.P.C. (Dictated) sd/- (P.K.Dixit) Sessions Judge",
+            "sentences": [
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN001",
+                "sentence_index": 1,
+                "character_count": 42,
+                "word_count": 7,
+                "text": "IN THE COURT OF THE SESSIONS JUDGE,ARARIA."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN002",
+                "sentence_index": 2,
+                "character_count": 6,
+                "word_count": 1,
+                "text": "A.B.P."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN003",
+                "sentence_index": 3,
+                "character_count": 66,
+                "word_count": 12,
+                "text": "NO. 1960 of 2020 Arising out of Complaint case no. 1419-C/2019 Md."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN004",
+                "sentence_index": 4,
+                "character_count": 25,
+                "word_count": 4,
+                "text": "Aatit @ Aatif Petitioner."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN005",
+                "sentence_index": 5,
+                "character_count": 92,
+                "word_count": 12,
+                "text": "Versus State of Bihar Opposite Party Appearance For the petitioners: Mr. M.Hussain,Advocate."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN006",
+                "sentence_index": 6,
+                "character_count": 40,
+                "word_count": 6,
+                "text": "For the prosecution: Mr. L.N.Yadav, P.P."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN007",
+                "sentence_index": 7,
+                "character_count": 151,
+                "word_count": 22,
+                "text": "06.01.2021 This anticipatory bail petition filed on behalf of accused petitioner case no. 1419-C/2019 u/s 498A I.P.C. pressed today by learned counsel."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN008",
+                "sentence_index": 8,
+                "character_count": 58,
+                "word_count": 10,
+                "text": "Heard both the sides in physical mode of court proceeding."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN009",
+                "sentence_index": 9,
+                "character_count": 166,
+                "word_count": 27,
+                "text": "The learned counsel for the accused petitioners submits that the accused petitioner is innocent and he has been falsely implicated in this case due to family dispute."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN010",
+                "sentence_index": 10,
+                "character_count": 93,
+                "word_count": 17,
+                "text": "The petitioner never made any demand nor did he torture or harass the complainant in any way."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN011",
+                "sentence_index": 11,
+                "character_count": 70,
+                "word_count": 11,
+                "text": "The allegations made by the informant is totally false and fabricated."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN012",
+                "sentence_index": 12,
+                "character_count": 429,
+                "word_count": 67,
+                "text": "The learned counsel further submits that the dispute has amicably been settled between the parties in terms of mutual separation between the petitioner- husband and complainant-wife as both does not want to lead conjugal life and in this regard a compromise petition duly signed by both the parties with their respective counsels has been filed, in such circumstances, the petitioner deserves to be released on anticipatory bail."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN013",
+                "sentence_index": 13,
+                "character_count": 16,
+                "word_count": 3,
+                "text": "The learned P.P."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN014",
+                "sentence_index": 14,
+                "character_count": 30,
+                "word_count": 4,
+                "text": "opposed the anticipatory bail."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN015",
+                "sentence_index": 15,
+                "character_count": 61,
+                "word_count": 11,
+                "text": "Heard the submission of both the sides and perused the L.C.R."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN016",
+                "sentence_index": 16,
+                "character_count": 103,
+                "word_count": 14,
+                "text": "Apparently the complainant Bibi Roushan Khatoon has lodged this case against her petitioner-husband Md."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN017",
+                "sentence_index": 17,
+                "character_count": 163,
+                "word_count": 26,
+                "text": "Aatit @ Aatif and other members and relatives of inlaws family alleging against them all for committing cruelty and harassment for non- fulfilment of dowry demand."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN018",
+                "sentence_index": 18,
+                "character_count": 414,
+                "word_count": 65,
+                "text": "As amicable settlement in terms of mutual separation between petitioner-husband and complainant-wife taken place and a joint compromise petition duly signed by the parties and their respective counsels to this effect has been filed and the complainant and petitioner appeared before the court and supported the factum of compromise in terms of mutual separation, I find it is a fit case to grant anticipatory bail."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN019",
+                "sentence_index": 19,
+                "character_count": 71,
+                "word_count": 10,
+                "text": "Accordingly, prayer of the petitioner for anticipatory bail is allowed."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN020",
+                "sentence_index": 20,
+                "character_count": 202,
+                "word_count": 37,
+                "text": "In the event of their arrest or surrender before the court below within a period of four weeks from receipt of this order, the petitioners shall be released on bail on furnishing their bail bonds of Rs."
+              },
+              {
+                "sentence_id": "DC_000074_P001_PAR001_SEN021",
+                "sentence_index": 21,
+                "character_count": 186,
+                "word_count": 30,
+                "text": "10,o00/- with two sureties of like amount each to the satisfaction of the court below subject to the conditions as laid down u/s 438(2) Cr.P.C. (Dictated) sd/- (P.K.Dixit) Sessions Judge"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "state_code": 8,
+    "state_name": "Bihar",
+    "district_code": 24,
+    "district_name": "Araria",
+    "court_complex_code": 1080060,
+    "court_complex_name": "Civil Court, Araria",
+    "year": 2020,
+    "case_type": "nan",
+    "case_number": "215200019602020",
+    "pdf_title": "",
+    "pdf_author": "",
+    "pdf_creator": "Writer",
+    "pdf_producer": "LibreOffice 5.1",
+    "pdf_creation_date": "D:20210116110117+05'30'",
+    "pdf_mod_date": ""
+  },
+  "language": {
+    "detected_script": "Latin (English)",
+    "confidence": 1.0
+  },
+  "quality": {
+    "extraction_quality": 0.999,
+    "quality_tier": "OCR_VALID",
+    "anomaly_flags": [
+      "PERFECT_PRESERVATION"
+    ],
+    "all_entities_preserved": true
+  },
+  "provenance": {
+    "source_sha256": "86aea5b0a13c595909244897144ff4bafe7037c5a7bbc50cf06f93aa2f82c13c",
+    "extraction_version": "1.0.0",
+    "normalization_version": "1.0.0",
+    "structure_version": "1.0.0",
+    "timestamp": "2026-10-02T09:55:40.290174"
+  }
+}

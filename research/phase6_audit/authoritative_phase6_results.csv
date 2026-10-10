@@ -1,0 +1,6 @@
+system_id,system_name,language_scope,docs,fact_units,critical_eligible,supported,partially_supported,omitted,contradicted,unsupported,ambiguous,strict_critical_preservation,partial_inclusive_critical_preservation,critical_omission,overall_preservation,contradiction_rate,unsupported_rate,translation_fidelity,terminology_preservation
+A,System A (English Control),English Only (en),9,85,38,25,6,7,0,0,0,65.79%,81.58%,18.42%,72.94%,0.00%,0.00%,N/A (Source Summary),N/A
+B,System B (Direct Indic Qwen3),"Indic Only (ta, hi, kn, mr)",9,340,152,10,1,141,0,0,0,6.58%,7.24%,92.76%,5.29%,0.00%,0.00%,32.35% (110/340),28.0% (28/100)
+C,System C (Raw IndicTrans2),"Indic Only (ta, hi, kn, mr)",9,340,152,32,0,120,0,0,0,21.05%,21.05%,78.95%,9.41%,0.00%,0.00%,36.47% (124/340),62.0% (62/100)
+D,System D (Legal-Aware IndicTrans2),"Indic Only (ta, hi, kn, mr)",9,340,152,36,4,112,0,0,0,23.68%,26.32%,73.68%,12.94%,0.00%,0.00%,40.00% (136/340),100.0% (100/100)
+E,System E (Verified Legal-Aware),"Indic Only (ta, hi, kn, mr)",9,340,152,36,4,112,0,0,0,23.68%,26.32%,73.68%,12.94%,0.00%,0.00%,40.00% (136/340),100.0% (100/100)

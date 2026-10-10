@@ -1,0 +1,10 @@
+doc_id,summary_count,languages_present,all_five_languages_present,source_pdf_present,phase2_provenance_present,phase3_evidence_present,phase4_summary_present
+DC_000001,5,"en,hi,kn,mr,ta",True,True,True,True,True
+DC_000002,5,"en,hi,kn,mr,ta",True,True,True,True,True
+DC_000003,5,"en,hi,kn,mr,ta",True,True,True,True,True
+DC_000004,5,"en,hi,kn,mr,ta",True,True,True,True,True
+DC_000005,5,"en,hi,kn,mr,ta",True,True,True,True,True
+DC_000006,5,"en,hi,kn,mr,ta",True,True,True,True,True
+DC_000007,5,"en,hi,kn,mr,ta",True,True,True,True,True
+DC_000008,5,"en,hi,kn,mr,ta",True,True,True,True,True
+DC_000011,5,"en,hi,kn,mr,ta",True,True,True,True,True

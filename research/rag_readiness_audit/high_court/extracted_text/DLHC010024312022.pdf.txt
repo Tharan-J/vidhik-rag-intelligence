@@ -1,0 +1,1900 @@
+--- PAGE 1 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 1 of 42 
+            
+IN  THE  HIGH  COURT  OF  DELHI  AT  NEW  DELHI 
+ 
+ 
+Judgment delivered on: May 22, 2023 
+ 
++ 
+ARB.P. 26/2022 
+ 
+A.ES ENGINEERS PRIVATE LIMITED 
+ 
+..... Petitioner 
+Through: 
+Ms. Sonam Gupta, Mr. Devansh 
+Arya, Mr. Saumay Kapoor and Ms. 
+Bahuli Sharma, Advs. 
+ 
+  
+ 
+ 
+versus 
+ 
+ UGRO CAPITAL LIMITED & ANR.  
+     ..... Respondents 
+Through: 
+Dr. Amit George, Mr. Nitesh Mehra, 
+Mr. Amol Acharya, Ms. Anumeha 
+Singhai, 
+Ms. 
+Rayadurgam 
+and             
+Mrs. Hitakshi Mehra, Advs. for R-1 
+Ms. Ekta Rai and Mr. Aadil Khan, 
+Adv. for R-2 
+ 
+ 
+CORAM: 
+HON'BLE MR. JUSTICE V. KAMESWAR RAO 
+J U D G M E N T 
+V. KAMESWAR RAO,  J 
+1. 
+The petitioner has filed the present Petition under Section 11 
+(6) of the Arbitration and Conciliation Act, 1996 („Act of 1996‟, for 
+short) seeking appointment of a three-member Arbitral Tribunal to 
+adjudicate disputes between the petitioner and the respondents. 
+2. 
+The petitioner is a small enterprise, registered under the Micro, 
+Small and Medium Enterprises Development Act, 2006, and is 
+engaged in the business of manufacturing and supplying cast iron 
+products such as crane parts casting, tractor parts castings and other 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 2 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 2 of 42 
+            
+motor parts.  
+3. 
+The respondent No. 1, M/s. UGRO Capital Limited, is a Non-
+Banking Financial Company (NBFC) within the meaning of the 
+Reserve Bank of India Act, 1934.  
+4. 
+The respondent No. 2, M/s. Kiran Udyog Pvt. Ltd, is a 
+company involved in the business of manufacturing and marketing 
+automobile components globally. The petitioner would supply its 
+products to respondent No.2, which would be utilized by respondent 
+No.2, in manufacturing of automobile components and parts. 
+5. 
+The case of the petitioner is that the petitioner and the 
+respondent No.2 had business relationship in early 2019, whereby the 
+petitioner supplied goods to the respondent No. 2, against which the 
+respondent No. 2, directly released payments. In early 2019, the 
+respondent No.2 began defaulting on its payments to the petitioner, 
+due to the augmenting outstanding dues from the respondent No.2, the 
+petitioner expressed its inability to continue rendering supplies. 
+Pursuant to this, respondent No.2, introduced the petitioner to the 
+respondent No.1, which had agreed to provide Bill Discounting 
+Services to the respondent No.2. 
+6. 
+It is the case of the petitioner that, composite transaction 
+structure was explained to the petitioner by the representatives of the 
+respondents and the petitioner was assured that, at all points in time 
+that their payments against the supplies would remain secured. In 
+furtherance of the same, the respondents shared the Master Service 
+Agreement (“MSA” for short) with the petitioner, to induce the 
+petitioner to agree to the composite transaction structure. 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 3 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 3 of 42 
+            
+7. 
+Thereafter, on August 07, 2020, Facility Agreement (“FA”, for 
+short) was executed between the petitioner and the respondent No.1. 
+8. 
+That apart in early 2021, the respondent No.2 began defaulting 
+on its payments to the respondent No.1.  On April 20, 2021, the 
+respondent No.1 sent a „Loan Recall Notice‟ to the petitioner, claiming 
+an amount of ₹ 1,97,27,033/-. Upon the petitioner's enquiry, the 
+respondent No.1 stated that the notice was a mere formality since the 
+petitioner is a NBFC and did not impact the extant arrangement 
+between the three parties. The respondent No.1 continued to disburse 
+money to the petitioner even after the 'Loan Recall Notice'. 
+9. 
+Thereafter, on August 26, 2021, the respondent No.1 sent an 
+Arbitration Reference Notice to the petitioner under Clause 13 of the 
+FA, along with a letter of appointment of a sole Arbitrator for the 
+arbitration only against the petitioner. Subsequently, on August 31, 
+2021, the respondent No.1 filed its Statement of Claim before the 
+Arbitrator and moved an application under Section 17 of the Act of 
+1996 to take possession of the movable/immovable property and goods 
+of the petitioner. 
+10. 
+The petitioner contacted the respondent No.1, objecting to the 
+unilateral appointment and also to the incorrect picture being portrayed 
+by the respondent No.1, in the transactions and the agreements. Even 
+before the petitioner could file a response to the arbitration notice, the 
+sole Arbitrator withdrew from the arbitration proceedings on 
+September 10, 2021. 
+11. 
+On November 18, 2021, the respondent No.1 filed an 
+application under Section 7 of the Insolvency and Bankruptcy Code 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 4 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 4 of 42 
+            
+('IBC', for short) against petitioner before the NCLT, New Delhi, 
+abandoning the arbitration process. The said application is presently 
+pending adjudication before the NCLT, Delhi Bench, New Delhi. 
+12. 
+The respondent No.1 had also lodged a police complaint for 
+cheating and breach of trust against the petitioner, for which the 
+petitioner received a notice on November 22, 2021 from the Assistant 
+Commissioner of Police, District Investigation Unit. The petitioner 
+duly responded to the notice and filed a counter-complaint against the 
+respondent No. 1 on November 29, 2021. 
+13. 
+Thereafter, the respondent No.1, on November 25, 2021, sent 
+another Arbitration Notice under Section 11 of the Act of 1996 to the 
+petitioner appointing a new arbitrator, and for the first time making a 
+reference to a “Service Agreement” dated July 31, 2020 executed 
+amongst the respondents, which agreement had never been disclosed 
+to the petitioner. By way of the said arbitration notice dated November 
+25, 2021, the respondent No.1 has sought to invoke arbitration under 
+the Arbitration Agreement contained in the FA seeking a principal 
+amount of ₹ 1,80,40,606/- from the petitioner along with interest. 
+14. 
+The respondent No.1 has filed a petition under Section 9 of the 
+Act, 1996, titled M/s UGRO Capital Limited v. M/s. A.E.S. Engineers 
+Private Limited & Anr., being AP. No. 502 /2021 and Section 11(6) of 
+the Act of 1996 petition being AP. No. 47 / 2022, against the petitioner 
+before the High Court of Judicature at Calcutta, which are pending 
+adjudication. 
+15. 
+ Ms. Sonam Gupta, the learned Counsel for the petitioner, 
+stated that the respondent No.2, began defaulting on its payments to 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 5 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 5 of 42 
+            
+the respondent No.1.  As a result, the respondent No.1 started 
+compelling the petitioner for the money the respondent No.2 owed to it 
+under the tripartite arrangement. In fact, the respondent No.1 began 
+misrepresenting the FA as a 'Loan Agreement‟, completely keeping 
+respondent No.2 away from the transaction, by restricting its role to a 
+mere 'introducer' and mischaracterising the petitioner as the borrower 
+so as to compel the petitioner to pay.  
+16. 
+She stated that, on April 20, 2021, the respondent No.1 sent a 
+„Loan Recall Notice‟ to the petitioner, claiming an amount of 
+₹1,97,27,033/- and the respondent No. 1 continued to disburse money 
+to the petitioner even after the 'Loan Recall Notice'. 
+17. 
+She submitted that, on August 26, 2021, the respondent No.1 
+sent an Arbitration Reference Notice to the petitioner under Clause 13 
+of the FA, along with a letter of appointment of a sole Arbitrator and 
+chose to invoke arbitration only against the petitioner.  
+18. 
+She stated that the petitioner objected to the unilateral 
+appointment of Arbitrator by the respondent No.1. Even before the 
+petitioner could file a response to the Arbitration Notice, the sole 
+arbitrator withdrew from the arbitration proceedings.   
+19. 
+Ms. Gupta stated that, in reply to the police complaint against 
+the petitioner, the petitioner duly responded to the notice and filed a 
+counter-complaint against the respondent No. 1 on November 29, 2021 
+for deliberately initiating false proceedings with the purpose of 
+extorting monies. 
+20. 
+She stated that, in reply to the notice of invocation of 
+arbitration dated November 25, 2021, the petitioner, at first, issued an 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 6 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 6 of 42 
+            
+initial response dated December 18, 2021 and, subsequently, a detailed 
+response dated January 03, 2022, to the Arbitration Notice. She stated, 
+the petitioner pointed out the mala fide attempts by the respondent 
+No.1 to misrepresent and camouflage the composite transaction as a 
+loan and highlighted that, in light of the composite arrangement, the 
+disputes sought to be referred to arbitration go beyond the scope of the 
+arbitration agreement contained in the FA and are required to be 
+resolved through a composite arbitration under the MSA. 
+21. 
+She also stated that on December 14, 2021 the NCLT, New 
+Delhi Bench initiated Corporate Insolvency Resolution Process against 
+the respondent No.2, in the matter of M/s Jaycee Castalloys Private 
+Limited v. Kiran Udyog Private Limited. 
+22. 
+She submitted that, disputes have arisen between the parties 
+which involve questions of fact and require adjudication by way of 
+arbitration as envisaged under Clause 13 of the MSA. She has also 
+submitted that the designated seat and venue of arbitration is New 
+Delhi and the MSA confers exclusive jurisdiction on the courts at New 
+Delhi and has relied on Clauses 13 and 14 of the MSA as reproduced 
+under:- 
+“13. DISPUTES 
+In the event of disputes, differences, claims and questions 
+between the Parties hereto arising out of the Master 
+Service Agreement or in any way relating hereto or any 
+term, condition or provision herein mentioned or the 
+construction or interpretation thereof or otherwise in 
+relation hereto, the Parties shall first endeavour to settle 
+such differences, disputes, claims or questions by 
+arbitration of three (3) arbitrators, one each to be 
+appointed by each Party, and each such arbitrator shall 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 7 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 7 of 42 
+            
+appoint a third arbitrator who shall act as a chairman of 
+the arbitral panel. The Arbitration and Conciliation Act, 
+1996 and the rules made there under shall apply to and 
+shall govern the arbitration proceedings. The venue of the 
+arbitration shall be exclusively at New Delhi and the 
+arbitration proceedings shall be conducted in English. 
+The decision of the arbitrators shall be final and binding 
+on the Parties. 
+14.  JURISDICTION  
+This Agreement shall be construed in accordance with the 
+laws of India and shall be subject to the exclusive 
+jurisdiction of the competent courts in New Delhi only.” 
+23. 
+She stated that the respondent No.1 is attempting to portrait 
+„Bill discounting facility‟ extended to respondent No.2 as a loan to the 
+petitioner. She clarified that the petitioner has only received amounts 
+against the goods supplied and did not stand to benefit from the said 
+transaction. She also stated that huge amount of monies are to be 
+recovered from respondent No.2, against the invoices which were not 
+marked to respondent No.1.  
+24. 
+That apart, she alleged that the respondent No.1 has harassed 
+and badgered the petitioner by trying to extort money, and lodged false 
+police complaint and unnecessary litigations in Kolkata knowing that 
+the petitioner being an MSME has a limited earning capital and cannot 
+survive the expensive litigation. Therefore, the petitioner needs arbitral 
+tribunal to be constituted in Delhi.  
+25. 
+She further stated that the FA cannot be severed from the MSA 
+and read selectively, as the nature of agreements and the inter-
+dependence of the two agreements is required as the disputes involved 
+will go beyond the scope of FA and necessitates reference to MSA, 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 8 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 8 of 42 
+            
+and interpretation of the process. Hence, the FA is only an off-shoot of 
+the MSA, and if the two agreements are read separately then invoking 
+of arbitration separately under the two agreements may result in 
+parallel proceedings, consequently, there will be multiplicity of 
+proceedings and bifurcation of cause of action, which is impermissible 
+in law.  
+26. 
+Ms. Gupta stated that the respondent No.2 availed Bill 
+Discounting Facility from respondent No.1 under MSA whereby 
+respondent No.1 agreed to settle the invoices placed by the suppliers 
+on behalf of respondent No.2. Thereafter, the raised invoices by the 
+petitioner to the respondent No. 2, acknowledge that the goods had 
+been delivered, quality check completed and payment terms accepted. 
+After verifying; respondent No.1 made payments against the invoices 
+to the petitioner on the instruction of respondent No.2. The respondent 
+No.2 will later repay the invoices to respondent No.1.  
+27. 
+She stated that, there is no loan disbursement by the 
+respondent no.1 to petitioner and the disbursement made by the 
+respondent no.1 was against the invoices accepted by respondent no.2, 
+as far as the petitioner is concerned, respondent No.1 stepped into the 
+shoes of respondent No.2, thereby effectively becoming the purchaser 
+of the goods from the petitioner. In support of her submission, she has 
+relied upon the judgment of the Supreme Court in Corporation Bank 
+and Anr. v. Navin J. Shah,(2000) 2 SSC 628. 
+28. 
+She further stated that upon receipt of payment against its 
+invoices, the petitioner had no further role in repayment to be made 
+between respondent no.1 and respondent no.2. She also stated that 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 9 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 9 of 42 
+            
+under FA, respondent no.1 had been nominated as the constituted 
+attorney of the petitioner; so as to enable respondent no. 1 to take any 
+and all actions against respondent No.2 as may be required for 
+ensuring its recoveries. 
+29. 
+She contended that, it is an admitted position that transactions 
+commenced under MSA, since May 2019, and FA was executed 
+between petitioner and respondent No. 1 on August 07, 2020, and even 
+after execution of FA, modus of transactions continued to be the same. 
+In fact, transactions continued in the same manner even after FA was 
+terminated in April 2021. Therefore, it is thus evident that, at all times 
+the transactions continued to take place under MSA.  She further 
+submitted that the respondent no.1 is the lender under the agreements 
+and under MSA a borrowing limit has been assigned to respondent No. 
+1, and with respondent No.1 as anchor, a sub-limit of the borrowing 
+limit is utilised under FA towards clearing the dues of respondent No.2 
+to the petitioner.  
+30. 
+She stated that the respondent No. 2 undertakes and is obliged 
+to credit all receivables payable under invoices raised by petitioner to 
+the Escrow Account/ Designated Account of respondent No. 1 on or 
+before the due date. In the event of a default under FA, respondent No. 
+2 is required to credit the outstanding amount into the relevant Escrow 
+Account/ Designated Account. The respondent No. 2 is also required 
+to provide and maintain adequate security margin to ensure 
+outstanding amounts under FA are secured. 
+31. 
+Furthermore, she stated the doctrine of Group of Companies 
+has been in existence before its enunciation in Chloro Controls India 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 10 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 10 of 42 
+            
+Private Limited v. Severn Trent Water Purification Inc. & Ors (2013) 
+1 SCC 641). Hence, the composite nature of transaction necessitates 
+reference to MSA and interpretation of its clauses. Therefore, though 
+the petitioner is not a signatory to the MSA but is a party by way of 
+“incorporation by reference” as the MSA determined rights and 
+obligations.  
+32. 
+She contended that, under Clause 5.3 of the MSA, the 
+respondent No.1 is entitled to withhold disbursement to petitioner until 
+the respondent No.2, provides security towards the facility and in the 
+event of the any default, respondent No.1 has the right to suspend the 
+petitioner and its affiliates from doing any business with respondent 
+No.2 and also withhold sourcing from and payments to them. The 
+petitioner is not allowed to move to a third-party lender/financier 
+without providing a prior written notice of 90 days to respondent No.1.  
+33. 
+In support of her submissions, she has relied upon the 
+judgments in Chloro Controls India Pvt. Ltd. (supra), which has been 
+referred to a larger bench in Cox and Kings Limited v. SAP India 
+Private Limited & Anr., 2022 SCC OnLine SC 570.  She has also 
+placed reliance on the judgments of the Supreme Court in (i) Olympus 
+Superstructures Private Limited v. Meena Vijay Khetan & Ors. 
+(1999) 5 SCC (ii) Rodemadan India Ltd. v. International Trade Expo 
+Centre Ltd. (2006) 11 SCC 651 (iii) Deccan Paper Mills Company 
+Ltd. v. Regency Mahavir Properties (2021) 4 SCC 786.  
+34. 
+Dr. Amit George, the learned counsel for the respondent No.1 
+submitted that, this court lacks the territorial jurisdiction as FA state 
+that the seat of arbitration shall be at Kolkata. He also submitted that 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 11 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 11 of 42 
+            
+the FA binds the petitioner and the respondent No.1, which determines 
+the rights and obligations of the parties. Furthermore, he stated that the 
+MSA is inoperable to the present petitioner as the petitioner is 
+admittedly not a party to the MSA. 
+35. 
+He stated that the dispute is between respondent No. 1 and the 
+petitioner and they are governed by Clause 13 of the FA, reproduced 
+as under:- 
+ “13. 
+GOVERNING 
+LAW, 
+JURISDICTlON 
+AND 
+ARBITRATlON. 
+13.1 This Agreement shall be construed in accordance 
+with the laws of India and subject to the arbitration clause 
+below, shall be subject to the exclusive jurisdiction of the 
+competent courts in Kolkata. 
+13.2 In the event of any dispute or difference between the 
+parties under this Agreement, including in relation to the 
+construction or interpretation of this Agreement, the 
+parties shall first endeavor to settle such dispute or 
+difference by amicable negotiations within 30 days of a 
+written notice issued by one party to the other party. If the 
+negotiations do not result in a resolution of the dispute or 
+difference, either party shall be entitled to submit such 
+dispute or difference to arbitration. If the negotiations do 
+not result in a resolution of the dispute or difference" 
+either party shall be entitled  to submit such dispute or 
+difference to arbitration, The Lender shall appoint an 
+arbitrator at its sole discretion or in accordance with the 
+Arbitration and Conciliation Act, 1996 ("Arbitration 
+Act"). Arbitration shall be conducted in accordance with 
+the Arbitration Act. The seat of arbitration shall be 
+Kolkata and the arbitration proceeding shall be conducted 
+in English. The decision of the arbitrator shall be final 
+and binding on the parties” 
+36. 
+He stated that the petitioner is not a party to MSA and has no 
+right to invoke the arbitration jurisdiction, if permitted to invoke 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 12 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 12 of 42 
+            
+arbitration jurisdiction, it would defeat the express arbitration 
+jurisdiction agreed between the petitioner and respondent No.1.  
+37. 
+He alleged that the present petition is shambolic and misguided 
+as the MSA is purely between respondent No. 1 and respondent No. 2, 
+under which respondent No. 2 has agreed to provide the respondent 
+No. 1 with the information regarding “Suppliers” which requires 
+financial assistance from respondent No. 1 and the respondent No. 1 is 
+a lender as per FA. 
+38. 
+He stated it is admitted by the petitioner that the contractual 
+relationship with respondent No. 1, commenced with signing of FA. 
+He also stated that the FA between petitioner and respondent No. 1 is 
+basically a “Facility-cum-Loan Agreement” pursuant to which the 
+credit facility was granted by respondent No. 1 to the petitioner. 
+39. 
+He emphasised the purpose of MSA between respondent No. 1 
+and respondent No. 2 and highlighted Clause 4, which is reproduced as 
+under:- 
+ “Principle Obligation to Agreement” wherein he has 
+stated that “… Further, notwithstanding anything 
+contained herein, in the event, the Principal fails to 
+credit the Escrow Account/ Designated Account with 
+such amounts that are payable pursuant to Supplier’s 
+Invoice, on or before such date/ within such time period 
+as stipulated under the Facility Agreement, the such 
+Borrower shall repay the relevant Facility together with 
+other Outstanding Amount, directly to UGRO on or 
+before the date/ time period stipulated under the Facility 
+Documents for such repayment”.   
+ 
+40. 
+He submitted that this petition is only in retaliation to the A. P. 
+502/2021, under Section 9 and A.P. 47/2022 under Section 11(6) of 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 13 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 13 of 42 
+            
+the Act of 1996, filed by the respondent No. 1, before High Court at 
+Calcutta and that the petitioner has appeared in the proceedings at 
+High Court.  
+41. 
+Furthermore, he is stated that, the terms of the FA and modus 
+operandi of the transactions between the respondent no. 1 were to 
+provide financial assistance as a “lender” to the petitioner which was 
+the “borrower” under the FA. As per the FA, once the goods were 
+delivered by the petitioner to the respondent no 2, the petitioner then 
+raised an invoice on the respondent No.2 for the same. The respondent 
+No.1 based on the recommendation of the respondent No.2 would 
+provide credit facilities to petitioner against the invoices raised, in 
+respect to the confirmed invoice by the respondent No.2. 
+42. 
+He also stated that the petitioner requiring credit facilities in 
+respect of a particular accepted invoice, the petitioner was to submit a 
+disbursement request to the respondent No. 1, along with (a) copy of 
+the purchase order issued by the said respondent No.2 to place orders 
+for purchase of goods from the petitioner and in respect of which the 
+accepted invoice was issued; (b) a copy of the accepted invoice in 
+respect of which the petitioner intended to obtain a facility and (c) a 
+copy of the aforesaid material receipt note. The petitioner could place 
+the disbursement request not later than the availability period and one 
+business day prior to the proposed date of draw under clause 3.1 of the 
+said agreement. 
+43. 
+He submitted that the respondent No.1 made the disbursement 
+of the facility at its discretion by electronic mode in respect of which 
+the unpaid accepted invoice having the minimum value of Rs. 10,000/- 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 14 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 14 of 42 
+            
+and the date of remittance by the respondent No.1 was to be reckoned 
+as the date of disbursement under clause 3.2 of the said agreement.  
+44. 
+He also submitted that the interest was payable from the 
+disbursement date until the final settlement date i.e., in respect of a 
+particular facility, the date on which all outstanding amounts 
+pertaining to the facility have been irrevocably and unconditionally 
+paid and discharged in full to  the satisfaction of the respondent No.1 
+and confirmed in writing by the petitioner. The Interest paid from the 
+disbursement date until the expiry of the credit period was to be 
+deducted by the respondent No.1 from the facility at the time of its 
+disbursement in favor of the petitioner. In the event of all outstanding 
+amounts were not received by the respondent No.1 by the end of the 
+credit period, the petitioner was liable to pay interest to the respondent 
+No.1 for the period from the expiry of the credit period until the final 
+settlement date along with additional interest at the rate of 3% per 
+month, under Clause 4 of the said agreement.  
+45. 
+According to him, the petitioner is under an obligation to repay 
+the facility as a bullet payment on the last day of the credit period i.e., 
+12 months unless extended by the respondent No.1 at its sole 
+discretion. In this regard, the petitioner was to issue irrevocable 
+instruction to the said respondent No.2 to deposit the receivables to the 
+designated account towards repayment of the facility under Clause 5.1 
+of the said agreement.  
+46. 
+Furthermore, in the event the said respondent No.2 fails to 
+repay on the last day of the credit period, the petitioner will be liable to 
+repay the same, together with interest, into the designated account, not 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 15 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 15 of 42 
+            
+later than one business day from the expiry of the credit period 
+(extended repayment period). The FA and the sanction letter issued by 
+the respondent No.1 in favor of the petitioner categorically evidence 
+the aforesaid formulation.  
+47. 
+He submitted that, respondent No.1 under the FA sent 
+termination notice dated April 20, 2021, as the petitioner availed 
+nearly ₹2 crores. He stated that dispute between the petitioner and 
+respondent No.1 cannot be treated as a tripartite dispute, as there is a 
+clear bilateral agreement which is the FA between the petitioner and 
+respondent No.1 and the present dispute has arisen purely in terms of 
+the breach of the said FA.  
+48. 
+He stated that the MSA was shared with the petitioner by the 
+respondent No.1 and respondent No.2, purely for an understanding of 
+the relationship shared between respondent No.1 and respondent No.2, 
+In fact, if the same were a composite agreement, there would have to 
+be a stipulated clause in either of the agreements which catered to the 
+same. He also stated that the contention of the petitioner that the MSA 
+and FA agreement being a tripartite dispute cannot be inferred, as it is 
+a bilateral agreement.    
+49. 
+He submitted that, it is mentioned under Clauses 5.1 and 5.2, 
+wherein, the liability has been clearly established. He also stated that 
+the dues are payable by the petitioner to the respondent No.1 as per 
+terms of Clause 10 of FA.  Furthermore, as the petitioner did not repay 
+its debt under the FA, the respondent No.1, was constrained to send a 
+Notice of Dispute dated August 26, 2021. He contended the 
+submission of the petitioner, wherein, the petitioner stated that the 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 16 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 16 of 42 
+            
+respondent No.1 unilaterally appointed the arbitrator is misplaced as 
+arbitrator recused himself on September 10, 2021 citing personal 
+issues. 
+50. 
+He also stated that, there is petition under Section 7 of the 
+Insolvency and Bankruptcy code filed before the NCLT, New Delhi 
+bench. Furthermore, he stated that the respondent no.1, lodged a police 
+complaint for cheating/breach of trust against the petitioner and the 
+respondent No 1 has the right to proceed with criminal proceedings in 
+such circumstances.  
+51. 
+He submitted that the authenticity is not in doubt as the 
+petitioner was well aware, that the FA binds the petitioner and the 
+respondent No.1 and the dispute had arisen out of the same, and the 
+Arbitration Clause was also invoked under the FA for the principal 
+amount of ₹ 1,80,46,606/-  from the petitioner. 
+52. 
+He stated that the two agreements are not inter-dependent.  He 
+denied that reference to arbitration was made under the MSA, as the 
+disputes involved in the present matter does not go beyond the scope 
+of the FA and FA is not an off-shoot of MSA. The purpose of the FA 
+was for respondent No.1 to extend credit facilities to the petitioner. 
+Therefore, the FA and the MSA operate in completely different 
+spheres and are independent of one another in their operation. 
+53. 
+He contended that, even assuming without admitting that the 
+said MSA is to be looked into, even then upon juxtaposing both the 
+agreements that directly determines the rights and entitlements 
+between the parties to the present petition, so its terms would evidently 
+prevail over the MSA, in the case of any conflict.  
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 17 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 17 of 42 
+            
+54. 
+Hence, the provision as to the seat of arbitration being Kolkata, 
+would bind the parties and, therefore, this court would not have the 
+territorial jurisdiction to hear the present matter in the light of the 
+settled law in this regard. He denied that severing the two agreements 
+and invoking separate arbitrations under the two agreements may 
+result in parallel proceedings and, consequently, multiplicity of 
+proceedings and bifurcation of cause of action and the subject matter, 
+which is impermissible in law.  
+55. 
+He stated that the arbitration clause invoked by the petitioner is 
+much belated, as the respondent No.1, has already raised the dispute 
+when its first recalled the loan/ termination notice vide “Loan Recall 
+Notice” dated April 20, 2021, and secondly when it sent a reference of 
+arbitration vide letter dated August 26, 2021, an Arbitrator, Mr. 
+Ashfaque Anwar, was also nominated.  
+56. 
+He submitted that the petitioner is trying to achieve a joinder 
+as a non-signatory under MSA. He has relied upon the judgment of the  
+Supreme Court in relation to joinder of non-signatory parties in the 
+case of S.N. Prasad, Hitek Industries Ltd. (Bihar) v. Monnet Finance 
+Ltd. & Ors. (2011) 1 SCC 320, wherein, it held that, a non-signatory to 
+an arbitration agreement could not be made a party to an arbitration 
+proceeding emanating there under. 
+57. 
+In support of his submission, he has relied upon the judgment 
+of this Court in the case of STCI Finance Ltd. v. Shreyas kirti Lal 
+Doshi & Anr. (2020) SCC Online Del 100. In the said case, the 
+plaintiff, which was a financial institution, had initiated arbitration 
+proceedings against the borrower, and also filed a suit before this 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 18 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 18 of 42 
+            
+Court against the guarantors to the said loan. The guarantors, who 
+were admittedly not signatories to the Loan Agreement between the 
+plaintiff and the borrower which contained an arbitration agreement, 
+filed an application under Section 8 of the Arbitration Act, before this 
+Court seeking reference of the inter-se disputes between the plaintiff 
+and the guarantors to arbitration in terms of the Loan Agreement. The 
+guarantors‟ inter alia argued that inasmuch as they stood guarantee for 
+the disbursal of the loan to the borrower by the plaintiff, they were 
+intimately connected with and could take recourse to the loan 
+agreement under which the loan was disbursed.  
+58. 
+In support of that submission, he has placed his reliance on the 
+judgments in Chloro Controls India Pvt. Ltd. (supra) and Ameet 
+Lalchand Shah and Ors. v. Rishabh Enterprises and Anr., (2018) 15 
+SCC 678. He has also relied upon the judgment of this Court in the 
+Court of Ion Exchange (India) Ltd. v. Panasonic Electric Works Co. 
+Ltd. & Anr., (2014) SCC Online Del 7499. In respect of party 
+autonomy of the respondent No.2, he stated that the petitioner is acting 
+contrary to party autonomy, in as much as, without its consent and 
+against its stated wish to adjudicate under MSA, even after the 
+petitioner and respondent No.2 had agreed to adjudicate any inter-se 
+disputes under the FA. He further stated that, respondent No.1 has not 
+contracted to a joint arbitration with the petitioner and respondent 
+No.2 as it did not enter into a tripartite agreement with the said parties. 
+The disputes, which the petitioner seeks adjudication of, are squarely 
+bilateral in nature, involving the petitioner on the one hand, and 
+respondent No.1 on the other.  
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 19 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 19 of 42 
+            
+59. 
+He has relied upon the judgment of this court in the case of 
+Laxmi Civil Engineering Services Ltd. & Ors. v. Gail (India) 
+Limited, N.C. No. 2021:DHC:871, wherein, a subcontractor sought to 
+invoke the arbitration agreement entered into between the contractor 
+and the employer, and to which agreement the sub-contractor was 
+admittedly not a party. He has also stated that the observations made in 
+Laxmi Civil Engineering (Supra), also point to the fact that the 
+concept of a single identifiable economic endeavour/project between 
+different parties are required to be strictly construed.  
+60. 
+Furthermore, he has relied upon the judgment of this court in 
+the case of Huawei Telecommunications (India) Co. Pvt. Ltd. v. 
+Bharat Sanchar Nigam Limited (BSNL) and Anr., N.C. No. 
+2020:DHC:1416, which was also a case involving a sub-contractor 
+seeking to invoke the arbitration agreement entered into between the 
+contractor and the employer.  
+61. 
+He contended that the judgment in Olympus Superstructure 
+Private Limited (supra) has been considered and distinguished in the 
+judgment of the Supreme Court in the case of DLF Home Developers 
+Limited v. Rajapura Homes Private Limited & Anr., 2021 SCC 
+Online SC 781, wherein, the Court dealt with two different arbitration 
+clauses in two related agreements between the parties. The nature of 
+arbitration clauses are different and comparison with the dispute 
+resolution of the main agreement with the latter agreement, is 
+misplaced.  
+62. 
+He contended that the petitioner has not been formally issued a 
+Notice of Invocation of Arbitration under Clause 13.2, contained in the 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 20 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 20 of 42 
+            
+MSA. He further stated that, a prior formal Invocation of Arbitration 
+under Section 21 of the Act of 1996 is mandatory. In support of this 
+submission, he has relied upon the judgment of this Court in the case 
+of Alupro Building Systems Pvt. Ltd. v. Ozone Overseas Pvt. Ltd. 
+(2017) SCC Online Del 7228. 
+63. 
+He seeks dismissal of this petition. 
+64. 
+Ms.Ekta Rai, the learned counsel for the respondent No.2, 
+submitted that the petitioner cannot invoke the jurisdiction of this court 
+as the dispute arises out of the FA which was signed between the 
+respondent No. 1 and the petitioner and that the said agreement 
+categorically state that, in the event of any dispute between the parties, 
+the seat of arbitration shall be at Kolkata.  
+65. 
+She stated that the dispute under Clause 13 of MSA as referred 
+by the petitioner in the present petition stipulates for the appointment 
+of a Three member Arbitral Tribunal. Whereas, the petitioner, nowhere 
+in his petition, has furnished any document that suggests compliance 
+with the particulars of the disputes under Clause 13 of MSA and 
+approached the parties involved in the agreements to invoke arbitration 
+before this Court to seek recourse.  
+66. 
+She stated that, a bare reading of Section 11(6) of the Act of 
+1996, makes it abundantly clear that the provision does not render the 
+Court the power to prima facie appoint an arbitrator merely relying 
+upon the existence of an arbitration agreement, Section 11(6) of the 
+Act of 1996 cannot be used simplicitier to invoke and initiate 
+arbitration proceedings. However, the said provision has been 
+incorporated in the Act of 1996 to enable a party to an arbitration 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 21 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 21 of 42 
+            
+agreement to seek indulgence of the Court in an ongoing procedure of 
+appointment of Arbitrators wherein, one party has invoked the 
+arbitration clause as per the procedure agreed to between the parties 
+and the other party has either failed to act as required under that 
+procedure or has not consented to the same. Whereas, the judgments 
+relied by the petitioner in the case of Ameet Lalchand Shah (supra) 
+and Chloro Controls India Pvt. Ltd. (supra), the Court held that non-
+signatories/related parties to the mother contract may initiate 
+arbitration proceedings under the mother contract as per Sections 45 
+and 8 of the Act of 1996, whereas in the present case, the said 
+provisions of the Act of 1996, will not be applicable as the agreements 
+herein have an independent existence and are distinct from each other, 
+as both the agreement operates in different domains and have been 
+executed by different parties.  
+67. 
+She stated that the petitioner cannot stretch the right to invoke 
+the arbitration clause as it is between the respondent No. 1 and 
+respondent No. 2 in the MSA, with a motive to defeat the arbitration in 
+the FA, which subsists between respondent No.1 and petitioner.  She 
+stated that the intention of the petitioner and respondent No.1 in the 
+FA was to refer the disputes, if any to a sole arbitrator with seat of 
+arbitration at Kolkata. The petitioner cannot now come to a different 
+forum and demand a hearing on a different document. Hence, the 
+petitioner does not have any right to invoke the jurisdiction of this 
+Court for the purposes of appointment of Arbitrator(s) under section 
+11(6) of the Act of 1996. 
+68. 
+In support of her submission, she has relied on the judgment of 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 22 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 22 of 42 
+            
+the Supreme Court in the case of Jagdish Chander v. Ramesh 
+Chander, (2007) 5 SCC 719.  She has also referred to the judgment of 
+the Supreme Court in Bank of India v. K. Mohandas, (2009) 5 SCC 
+313.  
+69. 
+She stated that, it is settled law that the arbitration clause 
+forming part of the contract shall be treated as an independent 
+agreement. She also stated that, where contracts are in conflict with 
+each other, the agreement to which the persons invoking the arbitration 
+of parties shall prevail. In light of the FA to which the petitioner and 
+respondent No.1 are signatories, shall prevail and for that reason and 
+the petitioner cannot seek appointment of an arbitrator under the MSA. 
+Ms. Rai has placed reliance in this regard on the judgment of the 
+Supreme Court in the case of Today Homes & Infrastructure (P) Ltd. 
+v. Ludhiana Improvement Trust, (2014) 5 SCC 68.  
+70. 
+She submitted that, in consonance with Kolkata being the 
+designated seat of arbitration, currently there are petitions filed by the 
+respondent No.1 under Section 9 and Section 11 of the Act of 1996, 
+before the High Court at Calcutta, which is pending adjudication as 
+may be seen by the documents put on record by the petitioner. 
+Therefore, it will be open for the petitioner to plead their case before 
+the High Court at Calcutta and not before this Court. She has also 
+placed reliance on the judgment of this Court in Libra Automotives 
+Private Limited v. BMW India Private Limited and Another, (2019) 
+SCC OnLine Del 9073.  
+71. 
+She has also stated that the MSA dated March 28, 2019 is a 
+pre-dated Agreement signed between the respondent No.1 and 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 23 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 23 of 42 
+            
+respondent No.2, independent of any role of the petitioner. The FA is a 
+subsequent agreement signed between the respondent No.1 and the 
+petitioner, after almost a year of signing of the MSA between the 
+respondent Nos. 1 and 2. Therefore, it is an incorrect plea by the 
+petitioner that the agreement between the respondent No.1 and 
+petitioner in any manner relate to the solvency of the respondent No.2. 
+72. 
+She submitted that the subject matter of dispute in the present 
+petition is not in the nature of transaction between the respondent No.2 
+and the petitioner but whether the petitioner has any locus to invoke an 
+arbitration proceeding against the respondent No.2 in an agreement to 
+which the petitioner is not even a party. Since, the petitioner is not a 
+party to the MSA it cannot invoke the jurisdiction of this court, the 
+right available only to the parties in the MSA. 
+73. 
+She stated that, in order to determine whether or not the 
+petitioner has a right to invoke the jurisdiction of this Court, one need 
+only to look at the arbitration agreement and whether or not the 
+petitioner is a signatory to the same and the court has to look at the 
+intention of the parties while determining whether the agreements are 
+independent of each other.  
+74. 
+She contended the judgments relied by the petitioner, in the 
+case of Ameet Lalchand Shah (supra) and Chloro Controls India Pvt. 
+Ltd. (supra), wherein, it is held that the non-signatories/ related parties 
+to the Mother Contract may initiate arbitration proceedings under the 
+mother contract, as per the section 45 and section 8 of the Act of 1996, 
+and stated that the said judgments shall not be applicable to the present 
+case, as this case is not filed under Section 8 or Section 45 of the Act 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 24 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 24 of 42 
+            
+of 1996. She also stated that, there is a crucial difference in language 
+of Section 8 and Section 45 of the Act of 1996, and Section 11(6) 
+thereof, under which the petitioner has invoked the arbitration clause 
+of the MSA, to which it is not a party.  
+75. 
+She stated that under Section 45 of the Act of 1996, the 
+legislature has deliberately inserted the words “at the request of one of 
+the parties or any person claiming through or under him”. On the 
+other hand, Section 11(6) of the Act of 1996 contemplates that, only 
+parties who are signatories to the relevant arbitration agreement may 
+place request for appointment of arbitrator before the Court.  
+76. 
+She emphasised that the striking difference in the two 
+provisions exists, as the legislature was conscious of the fact that the 
+two provisions contemplate different scenarios under which the parties 
+apply for initiation of arbitral proceedings. She also stated that the 
+legislative intent is clear, in the first case i.e. Section 45 of the Act of 
+1996, application is made when a court is already seized of a matter 
+which is the subject matter of arbitration. Therefore, in that case, it 
+becomes abundantly important that the court be apprised of its lack of 
+jurisdiction to entertain the particular case owing to the existence of an 
+arbitration clause, and such information could be disclosed to the court 
+by a party to the arbitration agreement or any other person claiming 
+under it.  
+77. 
+On the other hand, Section 11(6) of the Act of 1996, is for 
+invoking the arbitration clause when, inter alia, the parties fail to reach 
+consensus upon the appointment of arbitrator(s). Such remedy has 
+statutorily been made available only to a party as opposed to Section 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 25 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 25 of 42 
+            
+45 of the Act, where the words “or any person claiming through or 
+under him”. Moreover, Section 2(h) of the said Act, defines a “party”, 
+to mean a party to an arbitration agreement. In support of this 
+argument, she has relied upon the judgment of the Supreme Court the 
+case of Vidya Drolia (supra). 
+78. 
+She argued that, without admitting that the petitioner has locus 
+to institute the arbitration proceedings under MSA, the petitioner did 
+not follow the due process of invoking the Arbitration clause that is 
+necessary under Section 21 of the Act of 1996 read with Clause 13 of 
+the MSA, which needs to be complied before filing a petition under 
+section 11(6) of the Act of 1996, i.e., the petitioner has neither sent a 
+notice of invocation nor notified any related action before being made 
+party to the present petition. She seeks dismissal of the present 
+petition. 
+FINDINGS 
+79. 
+Having heard the learned counsel for the parties and perused 
+the record, the issue which needs to be decided is whether the 
+petitioner is entitled to the prayer for appointment of an Arbitrator in 
+this petition.  
+80. 
+Concedingly, the appointment of an Arbitrator is being sought 
+by the petitioner in terms of the MSA executed between the respondent 
+Nos. 1 and 2.  It is also a conceded position that the petitioner is not a 
+signatory / party to the MSA.   
+81. 
+The plea of the learned counsel for the petitioner is that, FA 
+has been executed between the petitioner and the respondent No.1 and 
+as a result thereof, the respondent No.1 is compelling the petitioner for 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 26 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 26 of 42 
+            
+money, which respondent No.2 owed to it.  It is the submission of Ms. 
+Gupta that, FA cannot be severed from the MSA and read selectively.  
+In other words, the nature of both the agreements is such that, they are 
+inter-dependent and as such the disputes involved need to be decided 
+together by reading both agreements jointly.  
+82. 
+ There is no dispute that the FA executed between the 
+petitioner and respondent No.1 consists of an arbitration clause under 
+Clause 13, which contemplate the seat of arbitration at Kolkata.  It is 
+also conceded that the respondent No.1 has already filed applications 
+under Sections 9 and 11 of the Act of 1996, for certain interim prayers 
+as well as for appointment of an Arbitrator invoking the arbitration 
+Clause 13 under FA. 
+83. 
+ So it follows, the answer to the issue has to be in the negative 
+for the reason that the petitioner is not a party to the agreement which 
+the petitioner seek to invoke. Hence, in that sense, the arbitration 
+clause in the MSA would only govern the disputes between respondent 
+No.1 and respondent No.2 and not a dispute between the petitioner and 
+respondent No.1.  
+84. 
+The law in this regard is well settled by the judgment of the 
+Supreme Court in the case of  S.N. Prasad, Hitek Industries Ltd. 
+(Bihar) (supra), wherein, the Supreme Court was concerned with the 
+facts that, whether a guarantor for a loan, who is not a party to the loan 
+agreement containing the arbitration agreement executed between the 
+lender and borrower can be made a party to a reference to an 
+arbitration, in regard to dispute relating to repayment of such loan and 
+subjected to arbitration award.  The Supreme Court has in paragraphs 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 27 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 27 of 42 
+            
+21 to 25, held as under:  
+“21. The first respondent contended that the appellant 
+having agreed to be a guarantor for the repayment of the 
+loan, cannot avoid arbitration by contending that he was not 
+a signatory to the loan agreement containing the arbitration 
+clause. It was submitted that the liability of the principal 
+debtor and guarantors was joint and several and therefore 
+there could be only one proceeding against all of them; and 
+that if the contention of the appellant was accepted, it would 
+necessitate two proceedings in regard to the same loan 
+transaction and same cause of action, that is an arbitration 
+proceedings against the borrower and one of its guarantors 
+(respondents 2 and 3) and a separate suit against the other 
+guarantor (appellant). It was further submitted that multiple 
+proceedings may lead to divergent findings and results, 
+leading to an anomalous situation.  
+22. It was also submitted that the letter dated 27.10.1995 
+guaranteeing the loan of Rs. 75 lakhs was written by the 
+appellant, as a Director of the borrower company; and that 
+as the appellant had already given a guarantee letter dated 
+27.10.1995, he was not required to execute the tripartite 
+loan agreements containing the arbitration clause; that the 
+appellant was aware of the terms of the loan and was further 
+aware that loan agreements with arbitration clause had to 
+be executed; and that therefore it should be deemed that the 
+appellant had agreed to abide by the terms contained in the 
+loan agreements, including the arbitration clause. We find 
+no merit in these contentions. 
+23.  When the appellant gave the guarantee letter dated 
+27.10.1995, he could not be imputed with the knowledge that 
+the loan agreements which were to be executed in future (on 
+28.10.1995 and 6.11.1995) would contain an arbitration 
+clause. Further, the appellant did not state in his letter dated 
+27.10.1995 that he would be bound by the terms of loan 
+agreement/s that may be executed by the borrower. 
+Therefore the question of appellant impliedly agreeing to the 
+arbitration clause does not arise. 
+24.  The apprehension of the first respondent that an 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 28 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 28 of 42 
+            
+anomalous situation may arise if there are two proceedings 
+(one arbitration proceedings against the borrower and one 
+guarantor and a suit against another guarantor), is not a 
+relevant consideration as any such anomalous situation, if it 
+arises, would be the own-making of the first respondent, as 
+that is the consequence of its failure to require the appellant 
+to join in the execution of the loan agreements. Having made 
+only one of the guarantors to execute the loan agreements 
+and having failed to get the appellant to execute the loan 
+agreements, the first respondent cannot contend that the 
+appellant who did not sign the loan agreements containing 
+the arbitration clause should also be deemed to be a party to 
+the arbitration and be bound by the awards. The issue is not 
+one of convenience and expediency. The issue is whether 
+there was an arbitration agreement with the appellant. 
+25.  As there was no arbitration agreement between the 
+parties (the first respondent and appellant), the impleading 
+of appellant as a respondent in the arbitration proceedings 
+and the award against the appellant in such arbitration 
+cannot be sustained. As a consequence, both the arbitration 
+awards, as against the appellant are liable to be set aside. If 
+the first respondent wants to enforce the alleged guarantee 
+of the appellant, it is open to the first respondent to do so in 
+accordance with law.” 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+(emphasis supplied) 
+85. 
+Similarly, while considering a similar issue in the case of STCI 
+Finance Ltd. (supra), this Court has in paragraphs 20, 22 and 23 held 
+as under:  
+ 
+“20…………..In any case, mere reference of Deed of 
+Guarantee in the schedule to the Facility Agreement-II does 
+not entail that the Deed of Guarantee having been separately 
+executed shall form part of Facility  Agreement-II. No doubt, 
+the Deeds of Guarantee were to secure the loans availed by 
+the Borrower Company of which the applicants/defendants 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 29 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 29 of 42 
+            
+may be the Directors, but the intention of the parties behind 
+the execution of Deeds of Guarantee was that the 
+applicants/defendants in their personal capacity shall 
+guarantee the loan facilities as given by the plaintiff 
+Company to the Borrower Company. So, it necessarily 
+follows that merely because the Facility Agreement-II 
+encompasses an arbitration Clause, the same shall not also 
+be applicable between the parties to the Deeds of Guarantee. 
+The relationship between the parties shall be regulated 
+strictly in accordance with the terms of Deeds of Guarantee 
+and not in terms of Facility Agreement-II. This position can 
+be seen from the judgment of the Supreme Court in the case 
+of M.R. Engineers (Supra), wherein the issue involved was 
+whether in accordance with Section 7(5) of the Act, an 
+arbitration Clause contained in the main contract would 
+stand incorporated by reference in subcontract, where the 
+sub-contract provided that "it shall be carried out on the 
+terms and conditions as applicable to the main contract." It 
+was held by the Supreme Court that the wording of Section 
+7(5) of the Act makes it clear that mere reference to a 
+document would not have the effect of making arbitration 
+Clause from the document, a part of the contract and that a 
+reference to the document in the contract should be such that 
+it shows the intention to incorporate the arbitration clause 
+contained in the document into the contract. Since, there is 
+nothing in the Deeds of Guarantee to show the intention of 
+the parties, was to incorporate the arbitration Clause as 
+contained in the Facility Agreement-II, it cannot be said that 
+there is an arbitration agreement in the Deeds of Guarantee. 
+22. Similarly, in STCI Finance Ltd. (supra), in a matter 
+involving the plaintiff Company herein as one of the parties, 
+in an appeal filed against the order passed by the Arbitrator 
+who disposed of the application filed under Section 16 of the 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 30 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 30 of 42 
+            
+Act filed by the respondents on the premise that except one, 
+none of the respondents are bound by the arbitration 
+agreement under the loan facility agreement, this court 
+agreeing with the Arbitrator held that even though various 
+other agreements were executed between the parties, loan 
+facility agreement containing arbitration Clause existed only 
+between the claimant/appellant and the borrower. 
+23. I may also point out that the Supreme Court in S.N. 
+Prasad (supra) had rejected the contention of the Respondent 
+therein that since the liability of the principal borrower and 
+guarantor was joint and several and therefore the guarantor 
+should also be compelled to join the arbitration proceedings 
+even though they were not the signatories to the loan 
+agreement which contained the arbitration Clause. The 
+relevant extract of the judgment is reproduced as under: 
+"21. The first respondent contended that the appellant 
+having agreed to be a guarantor for the repayment of the 
+loan, can not avoid arbitration by contending that he was 
+not a signatory to the loan agreement containing the 
+arbitration clause. It was submitted that the liability of 
+the principal debtor and guarantors was joint and 
+several and therefore there could be only one proceeding 
+against all of them; and that if the contention of the 
+appellant was accepted, it would necessitate two 
+proceedings in regard to the same loan transaction and 
+same cause of action, that is an arbitration proceedings 
+against the borrower and one of its guarantors 
+(respondents 2 and 3) and a separate suit against the 
+other guarantor (appellant). It was further submitted that 
+multiple proceedings may lead to divergent findings and 
+results, leading to an anomalous situation." 
+xxx 
+ 
+ 
+ 
+ xxx   
+ 
+ 
+xxx 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 31 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 31 of 42 
+            
+24. The apprehension of the first respondent that an 
+anomalous situation may arise if there are two 
+proceedings (one arbitration proceedings against the 
+borrower and one guarantor and a suit against another 
+guarantor), is not a relevant consideration as any such 
+anomalous situation, if it arises, would be the own-
+making of the first respondent, as that is the consequence 
+of its failure to require the appellant to join in the 
+execution of the loan agreements. Having made only one 
+of the guarantors to execute the loan agreements and 
+having failed to get the appellant to execute the loan 
+agreements, the first respondent cannot contend that the 
+appellant who did not sign the loan agreements 
+containing the arbitration clause should also be deemed 
+to be a party to the arbitration and be bound by the 
+awards. The issue is not one of convenience and 
+expediency. The issue is whether there was an arbitration 
+agreement with the appellant." 
+  
+ 
+ 
+ 
+ 
+(emphasis supplied) 
+86. 
+The reliance placed by Dr. George in the case of Laxmi Civil 
+Engineering Services Ltd. & Ors. (supra), wherein in paragraphs 40 
+to 42 a coordinate Bench of this Court has held as under:- 
+“40. The present case indicates that petitioner no.1 had 
+entered into 
+separate 
+contracts 
+with 
+the Sub-
+Contractors (petitioner nos.2 to 4) for execution of 
+certain works. Such agreements were entered into, on a 
+principal-to-principal basis. The contention that such 
+contracts must be construed as a single composite 
+transaction between GAIL and the petitioners, is 
+misconceived. GAIL is not a party to the respective 
+contracts entered into between petitioner no.1 and the 
+Sub-Contractors. It had merely granted its approval to 
+petitioner no.1 to engage the Sub-Contractors as Sub-
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 32 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 32 of 42 
+            
+Contractors in terms of its Contract. 
+41. The reliance on the decision in the case of Ameet 
+Lalchand Shah v. Rishabh Enterprises (supra), is 
+equally misplaced. In that case, there were four separate 
+agreements entered into between Rishabh Enterprises 
+with three separate companies. Two agreements were 
+with one company and the remaining two agreements 
+were with two different companies. While, three of the 
+agreements contained an Arbitration Clause, one of the 
+agreements did not. The court found that there was one 
+principal agreement (Equipment Lease Agreement) and 
+the remaining 
+three 
+agreements 
+were 
+ancillary 
+agreements. The court also found that parties to the 
+agreements were also the parties to the main agreement 
+– Equipment Lease Agreement and all four agreements 
+were interconnected. It is in that context, the court held 
+that the appellant’s application for referring the parties 
+to Arbitration could not be rejected. It is material to 
+note that there was no dispute as to the existence of an 
+Arbitration Agreement between the parties as the main 
+Agreement included an Arbitration Clause. The question 
+was whether disputes pertaining to an ancillary 
+agreement, which was also between some of the parties 
+to the main Agreement could be referred to Arbitration. 
+The decision in that case is wholly inapplicable in the 
+facts of the present case as there is no Arbitration 
+Agreement between GAIL and the Sub-Contractors. 
+42. In view of the above, this Court is unable to accept 
+that an Arbitration Agreement exists between GAIL and 
+the Sub-Contractors (petitioner nos.2 to 4) and GAIL 
+cannot be compelled to arbitrate with them.” 
+ 
+87. 
+He has also relied on the judgment of this Court in the case of 
+Huawei Telecommunications (India) Co. Pvt. Ltd. (supra) wherein 
+this Court has in paragraphs 34 and 38 to 40, held as under:- 
+“34. Applying the above said principles of law, it is 
+clear that the Arbitration Agreement between one 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 33 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 33 of 42 
+            
+contract cannot be incorporated into another contract, 
+unless there is a clear intention of the parties to do so 
+while entering into a second agreement. The facts of the 
+present case in my view are even on a lower pedestal 
+than the cases referred to above, as in the present case 
+the petitioner while entering into an MOU with ITI had 
+specifically incorporated a separate Arbitration Clause 
+to govern the subcontract, which has been extracted 
+above. The in-built mechanism for reference of the 
+dispute arising between the parties was also mentioned 
+therein, namely, to refer the disputes through 
+International Center for Alternate Dispute Resolution. 
+No part of the MOU even remotely indicates that there 
+was any reference of the Arbitration Clause mentioned 
+in the main Purchase Order in the MOU. Petitioner and 
+ITI had agreed on the disputes and the mechanism with 
+respect thereto that was to be adopted in the future. On 
+the other hand, Clause 20 of the GCC provided a 
+different mechanism of referring the disputes, whereby 
+appointment of the Sole Arbitrator was envisaged by the 
+CMD of BSNL, as well as the disputes that were 
+intended to be referred. 
+xxxx  
+ 
+xxxx  
+ 
+ 
+xxxx 
+38. The present case is thus clearly covered by the 
+judgment of the Supreme Court in the case of M.R. 
+Engineers (supra). There is no reference in the MOU 
+which indicates any intent to incorporate the Arbitration 
+Clause in the Mother Purchase Order. BSNL is not a 
+party to the MOU which has an Arbitration Clause 
+between petitioner and ITI only. 
+39. It is also significant to mention that the Arbitration 
+Clauses are different in the two contracts and clearly the 
+intention of the parties was neither to incorporate the 
+Arbitration Clause of the Purchase Order into the MOU 
+and nor was their any intent to enter into a composite 
+arbitration. As held by the Co-Ordinate Bench in Libra 
+Automotives Private Limited (supra), this Court under 
+Section 11(6) of the Act cannot incorporate an 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 34 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 34 of 42 
+            
+Arbitration Clause for the parties nor rewrite its terms. 
+BSNL is thus right in his contention that no arbitration 
+can be invoked against BSNL with regard to the present 
+Purchase Order. 
+40. In so far as the ITI is concerned, the petitioner is 
+entitled to prefer its claims against the ITI as there is 
+clearly an Arbitration Clause between the parties. From 
+the list of documents, however, placed on record by the 
+petitioner, it cannot be said that the petitioner has 
+invoked arbitration against the ITI. The only notice of 
+invocation that has been placed on record is dated 
+30.07.2019 and which is against the BSNL. The 
+petitioner cannot therefore seek appointment of an 
+Arbitrator in the present petition even against ITI.” 
+(emphasis supplied) 
+ 
+88. 
+In support of the submission, the learned counsel for the 
+petitioner has primarily placed reliance on the judgments in Chloro 
+Controls India Private Limited (supra) and Vidya Drolia (supra) to 
+contend that the composite nature of transaction necessitates a 
+reference of a dispute to the arbitration on the principle that petitioner 
+is not a signatory to the MSA but is a party by way of incorporation by 
+reference.   
+89. 
+ I am unable to agree with the submission made by Ms. Gupta 
+for the reason Chloro Controls India Private Limited (supra) and 
+Vidya Drolia (supra) primarily relates to Doctrine of Group of 
+Companies, inasmuch as, the arbitration agreement entered into by a 
+company within a group of companies can bind its non-signatory and 
+affiliates.  In other words, a non-signatory or a third party could be 
+subjected to arbitration without his prior consent, but the same would 
+be in exceptional cases and the Court shall examine these exceptions 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 35 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 35 of 42 
+            
+from the touchstone of direct relationship to the parties signatory to the 
+arbitration agreement, direct commonality of the subject matter and the 
+agreement between the parties being a composite transaction where 
+performance of the principal or mother agreement may not be feasible 
+without the aid and performance of the supplementary or ancillary 
+agreement for achieving the common object and collectively have a 
+bearing on the dispute.   
+90. 
+That apart, the Court would have to examine whether the 
+composite reference of such parties would serve the ends of justice.  It 
+is only in an affirmative answer, the reference of even non-signatory 
+parties would fall within the exceptions.   
+91. 
+In the MSA, there is no reference to the petitioner by name and 
+that in the arbitration clause, therein, has specific reference to the seat 
+of arbitration but New Delhi is the venue. The same is reproduced as 
+under:  
+“13. DISPUTES 
+In the event of disputes, differences, claims and questions 
+between the Parties hereto arising out of the Master Service 
+Agreement or in any way relating hereto to any term, condition 
+or provision herein mentioned or the construction or 
+interpretation thereof or otherwise in relation hereto, the 
+Parties shall first endeavor to settle such differences, disputes, 
+claims or questions by arbitration of three (3) arbitrators, one 
+each to be appointed by each party, and each such arbitrator 
+shall appoint a third arbitrator who shall act as the chairman 
+of the arbitral panel.  The arbitration and conciliation act, 
+1996 and the rules made there under shall apply to and shall 
+govern the arbitration proceedings.  The venue of the 
+arbitration shall be exclusively at New Delhi and the 
+arbitration proceeding shall be conducted in English.  The 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 36 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 36 of 42 
+            
+decision of the arbitration shall be final and binding on the 
+parties.”  
+ 
+ 
+ 
+ 
+ 
+ 
+(emphasis supplied) 
+92. 
+  Whereas, the FA is an independent agreement wherein the 
+petitioner and respondent No.1 are signatories. That apart, in the 
+agreement, the petitioner herein is referred to as a “Borrower” and the 
+respondent No.1 as “Lender”. Moreover, FA has a specific and distinct 
+arbitration clause than that of MSA. In other words, the exclusive 
+jurisdiction has been specifically referred, i.e., seat of arbitration is at 
+Kolkata, which is contrary to the arbitration clause as specified in the 
+MSA. Therefore, the petitioner cannot enunciate the MSA as a mother 
+agreement, and the arbitration under Clause 13 therein, cannot be 
+invoked as the petitioner is not a signatory to it. The arbitration under 
+Clause 13 of the FA is reproduced as under:-  
+“13. 
+GOVERNING 
+LAW, 
+JURISDICTION 
+AND 
+ARBITRATION  
+13.1   This Agreement shall be construed in accordance with 
+the laws of India and subject to the arbitration clause below 
+shall be subject to the exclusive jurisdiction of the competent 
+courts in Kolkata.  
+13.2 In the event of any dispute or difference between the 
+parties under the Agreement, including in relation to the 
+construction or interpretation of this Agreement, the parties 
+shall first endeavor to settle such dispute or difference by 
+amicable negotiations within 30 days of a written notice issued 
+by one party to the other party.  If the negotiations do not 
+result in a resolution of the dispute or difference, either party 
+shall be entitled to submit such dispute or difference to 
+arbitration.  The Lender shall appoint an arbitrator at its sole 
+discretion or in accordance with the Arbitration and 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 37 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 37 of 42 
+            
+Conciliation Act, 1996 (“Arbitration Act”).  Arbitration shall 
+be conducted in accordance with the Arbitration Act.  The seat 
+of arbitration shall be Kolkata and the arbitration proceedings 
+shall be conducted in English.  The decision of the arbitrator 
+shall be final and binding on the parties.”  
+ 
+ 
+ 
+ 
+ 
+ 
+(emphasis supplied) 
+93. 
+In so far as the reliance placed by the counsel for the petitioner 
+on the judgment in the case of Ameet Lalchand Shah and Ors. (supra) 
+is concerned, the same has no applicability in the facts, inasmuch as 
+the facts in the said case are that, on February 1, 2012, respondent 
+No.1, (Rishabh Enterprises) entered into two agreements with M/s 
+Juwi India Renewable Energies Pvt. Ltd., i.e., (i) Equipment and 
+Material Supply Contract for purchase of Power Generating Equipment 
+and (ii) Engineering Installation and Commissioning Contract for 
+installation and commissioning of Solar Plant. Both these agreements 
+contained arbitration clause.  The first respondent entered into a sale 
+and purchase agreement dated March 5, 2012 with the second 
+appellant company Astonfield Renewables Private Limited for 
+purchasing CIS Photovoltaic products to be leased to appellant No.3, 
+Dante Energy Pvt. Ltd. to be installed at the Solar Plant at Dongri, 
+District Jhansi, Uttar Pradesh.  As per the agreement products were 
+valued for ₹25,16,00,000/-.  The second appellant Astonfield received 
+₹21,40,49,999/- from the respondents under various cheques issued by 
+the Rishabh Enterprises. This agreement does not contain an arbitration 
+clause.  An equipment lease agreement dated March 14, 2012 was 
+entered into between the Rishabh Enterprises and Dante Energy Pvt. 
+Ltd. whereby Dante Energy agreed to pay Rishabh Enterprises 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 38 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 38 of 42 
+            
+₹13,50,000/- as lease rent for March, 2012 and from April, 2012 
+onwards.  The said rent payable was ₹28,26,000/-.   
+94. 
+The disputes arose between the parties when the respondent 
+alleged that appellant No.3 Dante Energy Pvt. Ltd. has defaulted in 
+payment of rent and that Astonfield committed fraud by inducing 
+Rishabh Enterprises to purchase the products by investing huge 
+amounts. The question arose before the Supreme Court was whether 
+four agreements (para 12.1) are inter-connected to refer the parties to 
+arbitration, though there is no arbitration clause in sale and purchase 
+agreement between Rishabh Enterprises and Astonefield.  The 
+Supreme Court has in paragraph 24 held as under:  
+“24. In a case like the present one, though there are 
+different agreements involving several parties, as discussed 
+above, it is a single commercial project namely operating a 
+2 MWp Photovoltaic Solar Plant at Dongri, Raksa, District 
+Jhansi, Uttar Pradesh. Commissioning of the Solar Plant, 
+which is the commercial understanding between the parties 
+and it has been effected through several agreements. The 
+agreement-Equipment Lease Agreement (14.03.2012) for 
+commissioning of the Solar Plant is the principal/main 
+agreement. The two agreements of Rishabh with Juwi 
+India:(i) 
+Equipment 
+and 
+Material 
+Supply 
+Contract 
+(01.02.2012); and (ii) Engineering, Installation and 
+Commissioning Contract (01.02.2012) and the Rishabh's 
+Sale and Purchase Agreement with Astonfield (05.03.2012) 
+are ancillary agreements which led to the main purpose of 
+commissioning the Photovoltaic Solar Plant at Dongri, 
+Raksa, District Jhansi, Uttar Pradesh by Dante Energy 
+(Lessee). Even though, the Sale and Purchase Agreement 
+(05.03.2012) between Rishabh and Astonfield does not 
+contain arbitration clause, it is integrally connected with the 
+commissioning of the Solar Plant at Dongri, Raksa, District 
+Jhansi, U.P. by Dante Energy. Juwi India, even though, not 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 39 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 39 of 42 
+            
+a party to the suit and even though, Astonfield and Appellant 
+No. 1-Ameet Lalchand Shah are not signatories to the main 
+agreement viz. Equipment Lease Agreement (14.03.2012), it 
+is a commercial transaction integrally connected with 
+commissioning of Photovoltaic Solar Plant at Dongri, 
+Raksa, District Jhansi, U.P. Be it noted, as per clause(v) of 
+Article 4, parties have agreed that the entire risk, cost of the 
+delivery and installation shall be at the cost of the Rishabh 
+(Lessor). Here again, we may recapitulate that engineering 
+and installation is to be done by Juwi India. What is evident 
+from the facts and intention of the parties is to facilitate 
+procurement of equipments, sale and purchase of 
+equipments, installation and leasing out the equipments to 
+Dante Energy. The dispute between the parties to various 
+agreements could be resolved only by referring all the four 
+agreements and the parties thereon to arbitration.” 
+(emphasis supplied) 
+ 
+95. 
+Suffice to state that, in the said case, the Supreme Court has 
+come to a conclusion that, it is a single commercial contract operating 
+a Solar Plant at Jhansi, Uttar Pradesh and it has been effected through 
+several agreements.  It was in that fact situation, the Supreme Court 
+has held that all the agreements are inter-connected and made a 
+reference to the arbitration.  It is not such a case in the case in hand.  
+96. 
+In so far as the judgment in the case of Booz Allen and 
+Hamilton Inc. v. SBI Home Finance Limited and Ors., (2011) 5 SCC 
+532 is concerned, the said judgment was in the context whether the 
+disputes relating to rights in rem are required to be adjudicated by 
+Courts and Public Tribunal being unsuited for arbitration.  In the said 
+case, respondent had filed a Suit for Enforcement of Mortgage by Sale.  
+The Supreme Court held that the enforcement of mortgage is right in 
+rem binding not only parties, but also the entire the world.  Such a right 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 40 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 40 of 42 
+            
+has to be decided by Courts of Law and not by a Arbitral Tribunal.  
+Even on the scope of Section 11 of the Act of 1996, the Supreme Court 
+held, the Court seized of the Suit on applications under Section 8 and 
+16 has to decide all aspects of arbitrability.  But the Court has drawn a 
+distinction between an application under Section 8 and application 
+under Section 11 of the Act of 1996. It held that while considering 
+application, under Section 11, the Court does not embark upon 
+arbitrability or appropriateness of adjudication by a private forum, 
+once it finds there exist an arbitration agreement, leaves the issue of 
+arbitrability for decision of Arbitral Tribunal. The judgment is clearly 
+distinguishable on facts.  
+97. 
+Similar issue is in Olympus Superstructures Pvt. Ltd. (supra) 
+in which, this Court was concerned with two agreements dated March 
+9, 1994 and one agreement dated September 26, 1994 between the 
+same parties and held, whether the disputes and differences arising 
+under interior design agreement are connected with the disputes and 
+differences arisen from the main contract.  The judgment has no 
+applicability as parties to the agreements were the same unlike in the 
+case in hand, where the parties to both the agreements are different, 
+i.e., neither the petitioner is a signatory to the MSA nor the respondent 
+No.2 is signatory to FA. In this regard I may refer to paragraphs 10 and  
+11 of the judgment of the Supreme Court in the case of Jagdish 
+Chander (supra) as under:- 
+“10. Learned counsel for the first respondent next 
+contended that clause 16 of the deed of partnership 
+discloses a clear intention on the part of the partners to 
+settle their dispute relating to partnership by an 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 41 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 41 of 42 
+            
+alternative dispute resolution process. He pointed out 
+that clause 16 required the partners to “mutually decide 
+the disputes” or “refer the disputes to arbitration”. 
+This, according to him, is in the nature of a con-arb 
+agreement, that is, it requires the parties to settle the 
+disputes by negotiations (conciliation and mediation), 
+and failing settlement by such negotiations, refer the 
+disputes to arbitration for settlement. He submitted that 
+the clause provides what Section 89 CPC now 
+statutorily requires. It is contended that if under Section 
+89 CPC, parties can be mandated to have recourse to 
+alternative dispute resolution processes to settle their 
+disputes, there is no reason why the disputes between 
+the parties in this case should not be referred to ADR 
+process including arbitration under clause 16. This 
+contention, though attractive, has no merit. The object 
+and scope of Section 11 of the Act is specific and 
+narrow. Though the power exercised under Section 11 of 
+the Act has been held to be a judicial power the 
+proceedings relate only to appointment of Arbitral 
+Tribunal. The disputes as such are not before the Chief 
+Justice or his designate for adjudication. Therefore, 
+Section 89 CPC has no application. It should not also be 
+overlooked that even though Section 89 mandates courts 
+to refer pending suits to any of the several alternative 
+dispute resolution processes mentioned therein, there 
+cannot be a reference to arbitration even under Section 
+89 CPC, unless there is a mutual consent of all parties, 
+for such reference. Be that as it may. 
+11. The existence of an arbitration agreement as defined 
+under Section 7 of the Act is a condition precedent for 
+exercise of power to appoint an arbitrator/Arbitral 
+Tribunal, under Section 11 of the Act by the Chief 
+Justice or his designate. It is not permissible to appoint 
+an arbitrator to adjudicate the disputes between the 
+parties, in the absence of an arbitration agreement or 
+mutual consent. The designate of the Chief Justice of 
+Delhi High Court could not have appointed the 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified
+
+
+--- PAGE 42 ---
+2023:DHC:3519 
+          ARB.P. 26/2022                                                                                  Page 42 of 42 
+            
+arbitrator in the absence of an arbitration agreement.” 
+(emphasis supplied) 
+ 
+98. 
+Additionally, I find that the petitioner herein while filing the 
+present petition under Section 11(6) of the Act of 1996 has not even 
+invoked the arbitration clause by issuing a notice under Section 21 of 
+the Act of 1996. The law laid down with regard to the provision 
+invoking the arbitration agreement in the case of Hindustan 
+Construction Company Ltd. v. State of Orissa and Ors. 2013 (1) ILR-
+CUT 548, is well settled.  In view of my above findings, I am not in 
+agreement with the submissions advanced by the learned counsel for 
+the petitioner without prejudice to the earlier ground.   
+99. 
+That apart, the respondent No.1 has already invoked arbitration 
+clause under the FA before the High Court at Calcutta by filing 
+applications under Sections 9 and 11(6) of the Act of 1996. Hence the 
+petition, even otherwise, shall not be maintainable before this Court.  
+100. 
+Therefore, this Court dismiss the present petition.  No costs. 
+ 
+    
+ 
+ 
+ 
+ 
+V. KAMESWAR RAO, J 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MAY 22, 2023/aky/jg 
+Digitally Signed
+By:JYOTIRMOY GHOSH
+DASTIDAR
+Signing Date:23.05.2023
+11:15:25
+Signature Not Verified

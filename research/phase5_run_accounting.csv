@@ -1,0 +1,7 @@
+Category,Intended,Actually_Generated,Actually_Evaluated,Failed,Missing_or_Accounted_Only,Evidence
+English (EN),161,9,9,1,151,"generation_manifest_v1.parquet (9 SUCCESS, 1 FAILURE, 151 ACCOUNTED)"
+Tamil (TA),161,9,9,1,151,"generation_manifest_v1.parquet (9 SUCCESS, 1 FAILURE, 151 ACCOUNTED)"
+Hindi (HI),161,9,9,1,151,"generation_manifest_v1.parquet (9 SUCCESS, 1 FAILURE, 151 ACCOUNTED)"
+Kannada (KN),161,9,9,1,151,"generation_manifest_v1.parquet (9 SUCCESS, 1 FAILURE, 151 ACCOUNTED)"
+Marathi (MR),161,9,9,1,151,"generation_manifest_v1.parquet (9 SUCCESS, 1 FAILURE, 151 ACCOUNTED)"
+TOTAL,805,45,45,5,755,"Total matrix: 45 evaluated benchmark runs, 5 verified failures, 755 placeholder pool entries"
