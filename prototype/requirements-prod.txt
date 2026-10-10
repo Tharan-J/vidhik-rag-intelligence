@@ -1,0 +1,32 @@
+# ==============================================================================
+# VIDHIK — MINIMAL PRODUCTION RUNTIME DEPENDENCIES (CPU ONLY)
+# ==============================================================================
+# For Railway backend deployment and retrieval daemon service.
+# PyTorch CPU (torch+cpu) is installed via https://download.pytorch.org/whl/cpu
+# Heavy OCR (PaddleOCR), ingestion, and training packages are strictly excluded.
+# ==============================================================================
+
+# Vector Database Client (Qdrant Cloud)
+qdrant-client>=1.9.0
+
+# Persistent BM25 Lexical Retrieval & Mapping
+rank-bm25>=0.2.2
+pandas>=2.0.0
+pyarrow>=14.0.0
+numpy>=1.24.0
+
+# Embedding Subsystem (BAAI/bge-m3 dense 1024-d inference)
+FlagEmbedding>=1.2.0
+tokenizers>=0.19.0
+onnxruntime>=1.17.0
+
+# Backend API & Gateway Service
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+pydantic>=2.0.0
+httpx>=0.24.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+pyyaml>=6.0.0
+regex>=2024.0.0
+tqdm>=4.66.0

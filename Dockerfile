@@ -8,15 +8,18 @@ ENV PYTHONUNBUFFERED=1 \
 
 WORKDIR /app
 
-# Install minimal build and curl dependencies for health check
+# Install minimal curl dependency for container health check
 RUN apt-get update && apt-get install -y --no-install-recommends \
-    build-essential \
     curl \
     && rm -rf /var/lib/apt/lists/*
 
-# Install Python dependencies
-COPY prototype/requirements.txt /app/prototype/requirements.txt
-RUN pip install --no-cache-dir -r /app/prototype/requirements.txt
+# Pre-install CPU-only PyTorch from official PyTorch CPU wheel repository.
+# This prevents pip from downloading ~4GB of NVIDIA CUDA/cuDNN/NCCL packages.
+RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
+
+# Install minimal production runtime dependencies
+COPY prototype/requirements-prod.txt /app/prototype/requirements-prod.txt
+RUN pip install --no-cache-dir -r /app/prototype/requirements-prod.txt
 
 # Copy backend code, index data, and supporting metadata
 COPY prototype/ /app/prototype/

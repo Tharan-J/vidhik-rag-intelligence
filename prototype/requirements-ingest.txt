@@ -1,0 +1,16 @@
+# ==============================================================================
+# VIDHIK — OFFLINE INGESTION, OCR & CORPUS PREPARATION DEPENDENCIES
+# ==============================================================================
+# Use for local document extraction, scanned PDF OCR, and dataset preparation.
+# DO NOT include in the production serving container.
+# ==============================================================================
+
+-r requirements-prod.txt
+
+# Document Parsing & Sentence Boundary Segmentation
+PyMuPDF>=1.24.0
+spacy>=3.7.0
+
+# OCR Fallback Engines (PaddleOCR PP-OCRv4 / RapidOCR)
+PaddleOCR>=2.7.0
+rapidocr-onnxruntime>=1.2.0

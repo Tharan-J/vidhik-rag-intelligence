@@ -1,0 +1,61 @@
+# ==============================================================================
+# VIDHIK — DOCKER BUILD IGNORE
+# Prevents sending 15+ GB court archives, local models, node_modules, and git history
+# to the Docker daemon, reducing context upload time from ~10 mins to < 3 seconds.
+# ==============================================================================
+
+# Git & Version Control
+.git
+.github
+
+# Node / Frontend Build Artifacts
+node_modules
+frontend/node_modules
+frontend/.next
+frontend/out
+frontend/build
+frontend/storage
+
+# Raw Court Archives & PDF Repositories (12+ GB)
+research/legal_data
+research/tessdata
+research/rag_experiments
+test
+storage
+*.pdf
+*.PDF
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# Local Large Model Weights
+*.onnx
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.pkl
+*.pickle
+
+# Parquet files except the authoritative BM25 mapping file
+*.parquet
+!prototype/indexes/bm25/bm25_mapping.parquet
+
+# Environment Files with Local Secrets
+.env
+.env.*
+prototype/.env
+frontend/.env.local
+
+# Python Caches & Logs
+__pycache__
+**__pycache__
+*.py[cod]
+*.log
+prototype/logs
+prototype/scratch
+.pytest_cache
+.venv
+venv
+env
