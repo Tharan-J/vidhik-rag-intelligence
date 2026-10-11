@@ -39,6 +39,33 @@ from typing import List, Dict, Any, Optional, Tuple
 
 logger = logging.getLogger("VidhikRetrievalDaemon")
 
+
+def get_process_rss_mb() -> float:
+    """Return current process resident set size (RSS) in megabytes."""
+    try:
+        import psutil
+        return psutil.Process().memory_info().rss / (1024 * 1024)
+    except Exception:
+        try:
+            with open("/proc/self/statm", "r") as f:
+                pages = int(f.read().split()[1])
+                page_size = os.sysconf("SC_PAGE_SIZE")
+                return (pages * page_size) / (1024 * 1024)
+        except Exception:
+            return 0.0
+
+
+def log_memory_checkpoint(label: str) -> float:
+    """Flush a memory checkpoint metric to stdout and logger."""
+    rss = get_process_rss_mb()
+    msg = f"[MEMORY CHECKPOINT] {label}: RSS={rss:.2f} MiB"
+    print(msg, flush=True)
+    logger.info(msg)
+    return rss
+
+
+log_memory_checkpoint("1/5 Process start and module imports")
+
 PROTOTYPE_ROOT = Path(__file__).resolve().parent.parent
 if str(PROTOTYPE_ROOT) not in sys.path:
     sys.path.insert(0, str(PROTOTYPE_ROOT))
@@ -85,6 +112,8 @@ if QDRANT_URL and QDRANT_API_KEY:
         print("Connected to Qdrant Cloud successfully.")
     except Exception as e:
         print(f"Warning: Failed to initialize QdrantClient: {e}")
+
+log_memory_checkpoint("2/5 Qdrant client initialization and connection")
 
 # ==============================================================================
 # Embedding Subsystem (Laptop AI Gateway for Render vs Lazy Local for Dev)
@@ -202,15 +231,11 @@ def get_batch_embeddings(texts: List[str], timeout: float = 30.0) -> Tuple[Optio
 from retrieval.bm25 import BM25Retriever
 import pandas as pd
 
+log_memory_checkpoint("3/5 Document/Parquet mapping & BM25 index loading started")
 t0 = time.time()
 RETRIEVER = BM25Retriever()
 print(f"BM25 Retriever ready in {time.time() - t0:.2f}s ({RETRIEVER.corpus_size:,} chunks).")
-
-MAPPING_PATH = PROTOTYPE_ROOT / "indexes" / "bm25" / "bm25_mapping.parquet"
-DF_MAPPING = None
-if MAPPING_PATH.exists():
-    DF_MAPPING = pd.read_parquet(MAPPING_PATH)
-    print(f"Loaded parquet mapping ({len(DF_MAPPING):,} rows).")
+log_memory_checkpoint("4/5 BM25 index & mapping loaded successfully")
 
 # Load Document Metadata from Master Audit CSV
 DOCUMENT_METADATA = {}
@@ -225,6 +250,8 @@ if AUDIT_CSV_PATH.exists():
                 DOCUMENT_METADATA[str(row["filename"]).strip()] = (t, c)
             if pd.notna(row["document_id"]):
                 DOCUMENT_METADATA[str(row["document_id"]).strip()] = (t, c)
+        del df_audit
+        import gc; gc.collect()
         print(f"Loaded metadata for {len(DOCUMENT_METADATA):,} documents from audit CSV.")
     except Exception as e:
         print(f"Warning: Failed to load audit metadata: {e}")
@@ -542,6 +569,7 @@ class FastRetrievalHandler(BaseHTTPRequestHandler):
                 "gateway_url": AI_GATEWAY_URL if AI_GATEWAY_URL else None,
                 "bm25_chunks": RETRIEVER.corpus_size,
                 "dynamic_chunks_in_memory": len(DYNAMIC_CHUNKS),
+                "memory_rss_mb": round(get_process_rss_mb(), 2),
                 "cache": CPU_CACHE.stats(),
             }).encode("utf-8"))
             return
@@ -1243,6 +1271,7 @@ def run_daemon(host=None, port=None):
         port = int(os.environ.get("PORT", sys.argv[1] if len(sys.argv) > 1 else 8008))
     server_address = (host, port)
     httpd = SilentThreadingHTTPServer(server_address, FastRetrievalHandler)
+    log_memory_checkpoint("5/5 Daemon application startup completion")
     print(f"Vidhik Document Intelligence Daemon listening on http://{host}:{port} (PID: {os.getpid()})")
     try:
         httpd.serve_forever()

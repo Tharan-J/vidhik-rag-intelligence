@@ -23,6 +23,23 @@ from .routes import router
 logger = logging.getLogger("VidhikAPI")
 
 
+def get_process_rss_mb() -> float:
+    """Return process resident set size (RSS) in megabytes."""
+    try:
+        import psutil
+        return psutil.Process().memory_info().rss / (1024 * 1024)
+    except Exception:
+        return 0.0
+
+
+def log_memory_checkpoint(label: str) -> float:
+    rss = get_process_rss_mb()
+    msg = f"[MEMORY CHECKPOINT] {label}: RSS={rss:.2f} MiB"
+    print(msg, flush=True)
+    logger.info(msg)
+    return rss
+
+
 @asynccontextmanager
 async def app_lifespan(app: FastAPI):
     """
@@ -31,10 +48,12 @@ async def app_lifespan(app: FastAPI):
     Qdrant client, and BM25 index) once on server startup.
     """
     logger.info("Initializing Vidhik API server lifecycle...")
+    log_memory_checkpoint("FastAPI lifespan start")
     if not hasattr(app.state, "engine") or app.state.engine is None:
         try:
             logger.info("Instantiating LegalRAGEngine on startup...")
             app.state.engine = LegalRAGEngine()
+            log_memory_checkpoint("FastAPI application startup completion")
             logger.info("LegalRAGEngine initialized and attached to app state.")
         except Exception as e:
             logger.error(f"Failed to initialize LegalRAGEngine on startup: {e}", exc_info=True)
@@ -42,6 +61,7 @@ async def app_lifespan(app: FastAPI):
             app.state.engine = None
     else:
         logger.info("LegalRAGEngine already present on app state (injected).")
+        log_memory_checkpoint("FastAPI application startup completion (injected engine)")
 
     yield
 
