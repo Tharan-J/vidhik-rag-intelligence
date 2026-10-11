@@ -149,6 +149,32 @@ class TestLaptopAIGateway(unittest.TestCase):
         for emb in data["embeddings"]:
             self.assertEqual(len(emb), 1024)
 
+    def test_07b_extract_pdf_endpoint(self):
+        """POST /api/extract-pdf must extract verified text using local PyMuPDF."""
+        import base64
+        try:
+            import pymupdf as fitz
+        except ImportError:
+            import fitz
+
+        doc = fitz.open()
+        page = doc.new_page()
+        page.insert_text((50, 72), "IN THE HIGH COURT OF KARNATAKA AT BENGALURU\nWRIT PETITION NO. 7674 OF 2020\nSMT. K. SAVITHRAMMA")
+        pdf_bytes = doc.tobytes()
+        pdf_b64 = base64.b64encode(pdf_bytes).decode("ascii")
+
+        res = self.client.post(
+            "/api/extract-pdf",
+            headers={"Authorization": f"Bearer {self.test_token}"},
+            json={"pdf_base64": pdf_b64},
+        )
+        self.assertEqual(res.status_code, 200)
+        data = res.json()
+        self.assertTrue(data["success"])
+        self.assertEqual(data["totalPages"], 1)
+        self.assertIn("HIGH COURT OF KARNATAKA", data["fullText"])
+        self.assertIn("SAVITHRAMMA", data["fullText"])
+
 
 class TestRenderRetrievalAPI(unittest.TestCase):
     """Tests verifying Render retrieval service and degraded mode operation."""

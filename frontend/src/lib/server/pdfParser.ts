@@ -212,7 +212,51 @@ except Exception as e:
       // Python unavailable or pymupdf failed (e.g. running on Vercel serverless)
     }
 
-    // Attempt 2: Pure Node.js stream extractor fallback
+    // Attempt 2: High-fidelity extraction via Laptop AI Gateway (local PyMuPDF on inference host)
+    if (fileBuffer && fileBuffer.length > 0 && process.env.AI_GATEWAY_URL) {
+      try {
+        const gatewayBase = process.env.AI_GATEWAY_URL.replace(/\/+$/, "");
+        const extractUrl = gatewayBase.endsWith("/api/extract-pdf")
+          ? gatewayBase
+          : `${gatewayBase}/api/extract-pdf`;
+        const rawToken = process.env.AI_GATEWAY_TOKEN || process.env.GATEWAY_TOKEN || "";
+        const token = rawToken.trim().replace(/^["']|["']$/g, "");
+
+        const headers: Record<string, string> = {
+          "Content-Type": "application/json",
+          "ngrok-skip-browser-warning": "true",
+        };
+        if (token) {
+          headers["Authorization"] = `Bearer ${token}`;
+          headers["x-gateway-token"] = token;
+        }
+
+        const res = await fetch(extractUrl, {
+          method: "POST",
+          headers,
+          body: JSON.stringify({
+            pdf_base64: fileBuffer.toString("base64"),
+          }),
+          signal: AbortSignal.timeout(30000),
+        });
+
+        if (res.ok) {
+          const data = await res.json();
+          if (data.success && data.fullText && data.fullText.trim().length > 0) {
+            return {
+              success: true,
+              pages: data.pages || [],
+              fullText: data.fullText,
+              totalPages: data.totalPages || 1,
+            };
+          }
+        }
+      } catch (gwErr: any) {
+        console.warn("Laptop AI Gateway PDF extraction fallback:", gwErr.message);
+      }
+    }
+
+    // Attempt 3: Pure Node.js stream extractor fallback
     if (fileBuffer && fileBuffer.length > 0) {
       const pureResult = extractTextFromPdfBufferPureNode(fileBuffer);
       if (pureResult.fullText.trim().length > 20) {

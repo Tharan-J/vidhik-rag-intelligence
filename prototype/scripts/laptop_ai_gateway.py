@@ -444,6 +444,83 @@ async def proxy_translate(request: Request):
     )
 
 
+@app.post("/api/extract-pdf", summary="Extract Verified Text from PDF via Local PyMuPDF")
+async def extract_pdf_endpoint(request: Request):
+    """
+    Extracts verified page-by-page text from a PDF file using local PyMuPDF.
+    Accepts JSON with 'pdf_base64' or raw PDF binary body.
+    Allows Vercel serverless to obtain high-fidelity text with zero cloud memory overhead.
+    """
+    import base64
+    verify_authentication(request)
+
+    pdf_bytes = b""
+    content_type = request.headers.get("content-type", "").lower()
+
+    if "application/pdf" in content_type or "application/octet-stream" in content_type:
+        pdf_bytes = await request.body()
+    else:
+        try:
+            body = await request.json()
+            raw_b64 = body.get("pdf_base64") or body.get("file_base64") or ""
+            if raw_b64:
+                if "," in raw_b64:
+                    raw_b64 = raw_b64.split(",", 1)[1]
+                pdf_bytes = base64.b64decode(raw_b64)
+            elif "text" in body:
+                return {
+                    "success": True,
+                    "totalPages": 1,
+                    "pages": [{"pageNumber": 1, "text": body["text"]}],
+                    "fullText": body["text"],
+                    "totalChars": len(body["text"]),
+                }
+        except Exception as e:
+            raise HTTPException(
+                status_code=400,
+                detail={"error": "INVALID_PAYLOAD", "message": f"Could not read PDF data: {e}"},
+            )
+
+    if not pdf_bytes or len(pdf_bytes) < 10:
+        raise HTTPException(
+            status_code=400,
+            detail={"error": "EMPTY_PDF", "message": "No valid PDF bytes provided."},
+        )
+
+    try:
+        try:
+            import pymupdf as fitz
+        except ImportError:
+            import fitz
+
+        doc = fitz.open(stream=pdf_bytes, filetype="pdf")
+        pages = []
+        full_text_list = []
+
+        for i, page in enumerate(doc):
+            txt = (page.get_text() or "").strip()
+            pages.append({"pageNumber": i + 1, "text": txt})
+            if txt:
+                full_text_list.append(f"--- PAGE {i + 1} ---\n{txt}")
+
+        total_chars = sum(len(p["text"]) for p in pages)
+        logger.info(f"Local PyMuPDF extracted {len(doc)} pages ({total_chars} chars) from PDF.")
+
+        return {
+            "success": total_chars > 20,
+            "totalPages": len(doc),
+            "pages": pages,
+            "fullText": "\n\n".join(full_text_list),
+            "totalChars": total_chars,
+        }
+    except Exception as e:
+        logger.error(f"Failed to extract PDF via PyMuPDF: {e}")
+        raise HTTPException(
+            status_code=422,
+            detail={"error": "PDF_EXTRACTION_FAILED", "message": str(e)},
+        )
+
+
 def main():
     parser = argparse.ArgumentParser(description="Vidhik Local AI Inference Gateway CLI.")
     parser.add_argument("--port", type=int, default=8010, help="Socket port to bind (default: 8010).")
