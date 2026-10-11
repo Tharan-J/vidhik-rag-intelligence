@@ -1,9 +1,9 @@
 # ==============================================================================
-# VIDHIK — MINIMAL PRODUCTION RUNTIME DEPENDENCIES (CPU ONLY)
+# VIDHIK — MINIMAL PRODUCTION RUNTIME DEPENDENCIES (RENDER CPU INSTANCE)
 # ==============================================================================
-# For Railway backend deployment and retrieval daemon service.
-# PyTorch CPU (torch+cpu) is installed via https://download.pytorch.org/whl/cpu
-# Heavy OCR (PaddleOCR), ingestion, and training packages are strictly excluded.
+# For Render / CPU backend retrieval daemon service.
+# All AI model inference (BGE-M3, Qwen, IndicTrans2) runs on the laptop AI gateway.
+# Heavy ML packages (PyTorch, FlagEmbedding, ONNX, PaddleOCR) are strictly excluded.
 # ==============================================================================
 
 # Vector Database Client (Qdrant Cloud)
@@ -15,12 +15,7 @@ pandas>=2.0.0
 pyarrow>=14.0.0
 numpy>=1.24.0
 
-# Embedding Subsystem (BAAI/bge-m3 dense 1024-d inference)
-FlagEmbedding>=1.2.0
-tokenizers>=0.19.0
-onnxruntime>=1.17.0
-
-# Backend API & Gateway Service
+# Backend API & Gateway HTTP Client
 fastapi>=0.100.0
 uvicorn[standard]>=0.22.0
 pydantic>=2.0.0

@@ -17,8 +17,15 @@ interface ChunkHit {
   preview: string;
 }
 
-async function fetchFromRetrievalDaemon(query: string, top_k = 4): Promise<ChunkHit[]> {
-  // 1. Try retrieval daemon or deployed Railway backend
+interface RetrievalResultWrapper {
+  hits: ChunkHit[];
+  retrievalMode: string;
+  degraded: boolean;
+  degradedReason?: string;
+}
+
+async function fetchFromRetrievalDaemon(query: string, top_k = 4): Promise<RetrievalResultWrapper> {
+  // 1. Try retrieval daemon or deployed backend
   try {
     const daemonBase = process.env.RETRIEVAL_DAEMON_URL || "http://127.0.0.1:8008";
     const res = await fetch(
@@ -30,9 +37,12 @@ async function fetchFromRetrievalDaemon(query: string, top_k = 4): Promise<Chunk
     );
     if (res.ok) {
       const data = await res.json();
-      if (data.results && data.results.length > 0) {
-        return data.results;
-      }
+      return {
+        hits: data.results || [],
+        retrievalMode: data.retrieval_mode || "hybrid",
+        degraded: Boolean(data.degraded),
+        degradedReason: data.degraded_reason,
+      };
     }
   } catch {
     // Daemon offline or timed out, fallback to CLI bridge
@@ -46,10 +56,14 @@ async function fetchFromRetrievalDaemon(query: string, top_k = 4): Promise<Chunk
     const cmd = `python3 "${scriptPath}" --query "${safeQuery}" --top_k ${top_k}`;
     const { stdout } = await execAsync(cmd, { cwd: prototypeDir, timeout: 20000 });
     const retData = JSON.parse(stdout);
-    return retData.results || [];
+    return {
+      hits: retData.results || [],
+      retrievalMode: retData.retrieval_mode || "bm25_bridge",
+      degraded: false,
+    };
   } catch (err: any) {
     console.error("Retrieval bridge error:", err.message);
-    return [];
+    return { hits: [], retrievalMode: "unavailable", degraded: true, degradedReason: err.message };
   }
 }
 
@@ -71,8 +85,9 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: "Search query is required" }, { status: 400 });
     }
 
-    // Query Vidhik's RAG index (BM25 + Hybrid retrieval) directly - NO GEMINI
-    const hits = await fetchFromRetrievalDaemon(cleanQuery, 4);
+    // Query Vidhik's RAG index directly
+    const retrieval = await fetchFromRetrievalDaemon(cleanQuery, 4);
+    const hits = retrieval.hits;
 
     if (!hits || hits.length === 0) {
       return NextResponse.json({
@@ -81,6 +96,9 @@ export async function POST(request: Request) {
         message: "No verified source evidence was retrieved for this request.",
         evidence: [],
         total_retrieved: 0,
+        retrieval_mode: retrieval.retrievalMode,
+        degraded: retrieval.degraded,
+        degraded_reason: retrieval.degradedReason,
         execution_time_seconds: Number(((Date.now() - startTime) / 1000).toFixed(2)),
       });
     }
@@ -136,7 +154,12 @@ export async function POST(request: Request) {
       evidence: evidenceItems,
       total_retrieved: evidenceItems.length,
       execution_time_seconds: elapsed,
-      retrieval_engine: "Vidhik Authoritative Hybrid Retrieval (BGE-M3 + BM25)",
+      retrieval_mode: retrieval.retrievalMode,
+      degraded: retrieval.degraded,
+      degraded_reason: retrieval.degradedReason,
+      retrieval_engine: retrieval.degraded
+        ? "Vidhik BM25 Lexical Retrieval (Degraded Mode)"
+        : "Vidhik Authoritative Hybrid Retrieval (BGE-M3 + BM25)",
     });
   } catch (err: any) {
     console.error("Evidence RAG search failed:", err);

@@ -84,6 +84,11 @@ class HybridRetrievalResult:
     # Full raw payload preservation
     metadata: Dict[str, Any] = field(default_factory=dict)
 
+    # Retrieval mode indicators
+    retrieval_mode: str = "hybrid"
+    degraded: bool = False
+    degraded_reason: Optional[str] = None
+
     @property
     def chunk_text(self) -> str:
         """Alias for text content."""
@@ -156,5 +161,8 @@ class HybridRetrievalResult:
             "token_count": self.token_count,
             "sentence_ids": self.sentence_ids,
             "paragraph_ids": self.paragraph_ids,
+            "retrieval_mode": self.retrieval_mode,
+            "degraded": self.degraded,
+            "degraded_reason": self.degraded_reason,
             "metadata": self.metadata,
         }

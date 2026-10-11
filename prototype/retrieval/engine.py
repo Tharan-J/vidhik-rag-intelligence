@@ -120,13 +120,18 @@ class HybridRetrievalEngine:
         # Step 1: Dense Retrieval
         dense_start = time.time()
         dense_results: List[RetrievalResult] = []
+        is_degraded = False
+        degraded_reason = None
         try:
             dense_results = self.dense_retriever.search(query=clean_query, top_k=d_k)
             dense_duration = time.time() - dense_start
             logger.info(f"Dense retrieval completed in {dense_duration:.3f}s ({len(dense_results)} hits).")
         except Exception as e:
-            logger.error(f"Dense retrieval failed: {e}", exc_info=True)
-            raise
+            is_degraded = True
+            degraded_reason = "embedding_gateway_unavailable"
+            logger.warning(
+                f"Dense retrieval unavailable ({e}); gracefully degrading to BM25 lexical retrieval."
+            )
 
         # Step 2: BM25 Lexical Retrieval
         bm25_start = time.time()
@@ -137,7 +142,8 @@ class HybridRetrievalEngine:
             logger.info(f"BM25 retrieval completed in {bm25_duration:.3f}s ({len(bm25_results)} hits).")
         except Exception as e:
             logger.error(f"BM25 retrieval failed: {e}", exc_info=True)
-            raise
+            if not dense_results:
+                raise
 
         if not dense_results and not bm25_results:
             logger.warning(f"No candidates retrieved for query: '{clean_query}'")
@@ -172,10 +178,17 @@ class HybridRetrievalEngine:
         )
         fusion_duration = time.time() - fusion_start
 
+        # Stamp retrieval mode and degraded status on results
+        mode_label = "bm25_degraded" if is_degraded else "hybrid"
+        for item in fused_candidates:
+            item.retrieval_mode = mode_label
+            item.degraded = is_degraded
+            item.degraded_reason = degraded_reason
+
         total_duration = time.time() - total_start
         logger.info(
-            f"RRF fusion completed in {fusion_duration:.3f}s. "
-            f"Returning {len(fused_candidates)} final hybrid results (total time: {total_duration:.3f}s)."
+            f"RRF fusion completed in {fusion_duration:.3f}s (mode: {mode_label}). "
+            f"Returning {len(fused_candidates)} final results (total time: {total_duration:.3f}s)."
         )
 
         return fused_candidates

@@ -19,9 +19,17 @@ import time
 import hashlib
 from typing import List, Dict, Any, Optional
 
-import torch
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-from IndicTransToolkit import IndicProcessor
+try:
+    import torch
+    from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+    from IndicTransToolkit import IndicProcessor
+    TORCH_AVAILABLE = True
+except ImportError:
+    torch = None
+    AutoTokenizer = None
+    AutoModelForSeq2SeqLM = None
+    IndicProcessor = None
+    TORCH_AVAILABLE = False
 
 SUPPORTED_LANGUAGES = {
     "ta": {"name": "Tamil", "code": "tam_Taml"},

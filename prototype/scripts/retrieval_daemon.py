@@ -34,7 +34,8 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 from pathlib import Path
 from http.server import ThreadingHTTPServer, BaseHTTPRequestHandler
 from urllib.parse import urlparse, parse_qs
-from typing import List, Dict, Any, Optional
+import math
+from typing import List, Dict, Any, Optional, Tuple
 
 logger = logging.getLogger("VidhikRetrievalDaemon")
 
@@ -57,9 +58,16 @@ QDRANT_URL = ENV_VARS.get("QDRANT_URL", os.environ.get("QDRANT_URL", ""))
 QDRANT_API_KEY = ENV_VARS.get("QDRANT_API_KEY", os.environ.get("QDRANT_API_KEY", ""))
 COLLECTION_NAME = "vidhik_legal_chunks"
 
+AI_GATEWAY_URL = ENV_VARS.get("AI_GATEWAY_URL", os.environ.get("AI_GATEWAY_URL", "")).rstrip("/")
+AI_GATEWAY_TOKEN = ENV_VARS.get("AI_GATEWAY_TOKEN", os.environ.get("AI_GATEWAY_TOKEN", os.environ.get("GATEWAY_TOKEN", "")))
+EMBEDDING_MODE = ENV_VARS.get("EMBEDDING_MODE", os.environ.get("EMBEDDING_MODE", "gateway" if AI_GATEWAY_URL else "local"))
+
 print("=" * 70)
 print("STARTING VIDHIK DOCUMENT INTELLIGENCE & RETRIEVAL DAEMON")
-print(f"Qdrant URL: {QDRANT_URL}")
+print(f"Qdrant URL      : {QDRANT_URL}")
+print(f"Embedding Mode  : {EMBEDDING_MODE}")
+if AI_GATEWAY_URL:
+    print(f"Laptop AI Gateway: {AI_GATEWAY_URL} (Protected: {'YES' if bool(AI_GATEWAY_TOKEN) else 'NO'})")
 print("=" * 70)
 
 # Initialize Qdrant Client
@@ -78,15 +86,117 @@ if QDRANT_URL and QDRANT_API_KEY:
     except Exception as e:
         print(f"Warning: Failed to initialize QdrantClient: {e}")
 
-# Initialize BGE-M3 Embedding Engine
-embed_engine = None
-try:
-    from ingestion.embed import BGEM3EmbeddingEngine
-    print("Loading BGE-M3 Embedding Engine in memory...")
-    embed_engine = BGEM3EmbeddingEngine()
-    print("BGE-M3 Embedding Engine loaded successfully.")
-except Exception as e:
-    print(f"Warning: Failed to load BGE-M3 Embedding Engine: {e}")
+# ==============================================================================
+# Embedding Subsystem (Laptop AI Gateway for Render vs Lazy Local for Dev)
+# ==============================================================================
+_local_embed_engine = None
+
+
+def get_query_embedding(query: str, timeout: float = 8.0) -> Tuple[Optional[List[float]], Optional[str]]:
+    """
+    Obtain a 1024-dimensional normalized dense embedding for the query text.
+    1. If AI_GATEWAY_URL is configured, queries the authenticated Laptop AI Gateway.
+    2. If AI_GATEWAY_URL is not set and EMBEDDING_MODE == 'local', falls back to local engine.
+    Returns: (embedding_vector, error_reason_if_any)
+    """
+    if not query or not query.strip():
+        return None, "empty_query"
+
+    clean_query = query.strip()
+
+    # Mode A: Laptop AI Gateway (Production on Render)
+    if AI_GATEWAY_URL:
+        headers = {
+            "Content-Type": "application/json",
+            "ngrok-skip-browser-warning": "true",
+        }
+        if AI_GATEWAY_TOKEN:
+            headers["Authorization"] = f"Bearer {AI_GATEWAY_TOKEN}"
+            headers["x-gateway-token"] = AI_GATEWAY_TOKEN
+
+        try:
+            import httpx
+            with httpx.Client(timeout=timeout) as client:
+                resp = client.post(
+                    f"{AI_GATEWAY_URL}/api/embed",
+                    json={"text": clean_query},
+                    headers=headers,
+                )
+            if resp.status_code == 200:
+                data = resp.json()
+                vec = data.get("embedding")
+                if (
+                    isinstance(vec, list)
+                    and len(vec) == 1024
+                    and all(isinstance(x, (int, float)) and not math.isnan(x) and not math.isinf(x) for x in vec)
+                ):
+                    return vec, None
+                return None, "invalid_gateway_embedding_format"
+            elif resp.status_code == 401:
+                return None, "gateway_unauthorized"
+            else:
+                return None, f"gateway_http_{resp.status_code}"
+        except Exception as e:
+            logger.warning(f"Gateway embedding request failed: {e}")
+            return None, "embedding_gateway_unavailable"
+
+    # Mode B: Local BGE-M3 Engine (Development only, if installed)
+    if EMBEDDING_MODE == "local":
+        global _local_embed_engine
+        try:
+            if _local_embed_engine is None:
+                from ingestion.embed import BGEM3EmbeddingEngine
+                print("Lazy loading local BGE-M3 Embedding Engine...")
+                _local_embed_engine = BGEM3EmbeddingEngine()
+            return _local_embed_engine.encode_query(clean_query), None
+        except Exception as e:
+            logger.warning(f"Local BGE-M3 engine unavailable: {e}")
+            return None, "local_engine_unavailable"
+
+    return None, "embedding_gateway_not_configured"
+
+
+def get_batch_embeddings(texts: List[str], timeout: float = 30.0) -> Tuple[Optional[List[List[float]]], Optional[str]]:
+    """Obtain dense embeddings for a batch of chunk texts."""
+    if not texts:
+        return [], None
+
+    if AI_GATEWAY_URL:
+        headers = {
+            "Content-Type": "application/json",
+            "ngrok-skip-browser-warning": "true",
+        }
+        if AI_GATEWAY_TOKEN:
+            headers["Authorization"] = f"Bearer {AI_GATEWAY_TOKEN}"
+            headers["x-gateway-token"] = AI_GATEWAY_TOKEN
+
+        try:
+            import httpx
+            with httpx.Client(timeout=timeout) as client:
+                resp = client.post(
+                    f"{AI_GATEWAY_URL}/api/embed",
+                    json={"texts": texts},
+                    headers=headers,
+                )
+            if resp.status_code == 200:
+                data = resp.json()
+                vecs = data.get("embeddings", [])
+                return vecs, None
+            return None, f"gateway_http_{resp.status_code}"
+        except Exception as e:
+            return None, "embedding_gateway_unavailable"
+
+    if EMBEDDING_MODE == "local":
+        global _local_embed_engine
+        try:
+            if _local_embed_engine is None:
+                from ingestion.embed import BGEM3EmbeddingEngine
+                _local_embed_engine = BGEM3EmbeddingEngine()
+            return _local_embed_engine.encode_dense_batch(texts), None
+        except Exception as e:
+            return None, "local_engine_unavailable"
+
+    return None, "embedding_gateway_not_configured"
 
 # Initialize BM25 Retriever
 from retrieval.bm25 import BM25Retriever
@@ -424,9 +534,12 @@ class FastRetrievalHandler(BaseHTTPRequestHandler):
             self.end_headers()
             self.wfile.write(json.dumps({
                 "status": "healthy",
+                "service": "vidhik-retrieval-daemon",
                 "qdrant_connected": bool(qdrant_client),
                 "qdrant_collection": COLLECTION_NAME,
-                "embed_engine_ready": bool(embed_engine),
+                "embedding_mode": EMBEDDING_MODE,
+                "gateway_configured": bool(AI_GATEWAY_URL),
+                "gateway_url": AI_GATEWAY_URL if AI_GATEWAY_URL else None,
                 "bm25_chunks": RETRIEVER.corpus_size,
                 "dynamic_chunks_in_memory": len(DYNAMIC_CHUNKS),
                 "cache": CPU_CACHE.stats(),
@@ -456,24 +569,38 @@ class FastRetrievalHandler(BaseHTTPRequestHandler):
             cache_key = f"search:{query.strip()}:{top_k}:{doc_filter}"
             cached_res = CPU_CACHE.get(cache_key)
             if cached_res:
+                c_results = cached_res.get("results", []) if isinstance(cached_res, dict) else cached_res
+                c_mode = cached_res.get("retrieval_mode", "hybrid") if isinstance(cached_res, dict) else "hybrid"
+                c_deg = cached_res.get("degraded", False) if isinstance(cached_res, dict) else False
+                c_reason = cached_res.get("degraded_reason") if isinstance(cached_res, dict) else None
                 self.send_response(200)
                 self.send_header("Content-Type", "application/json")
+                self.send_cors_headers()
                 self.end_headers()
                 self.wfile.write(json.dumps({
                     "query": query,
-                    "count": len(cached_res),
+                    "count": len(c_results),
                     "duration_ms": 0.2,
                     "cached": True,
-                    "results": cached_res,
+                    "results": c_results,
+                    "retrieval_mode": c_mode,
+                    "degraded": c_deg,
+                    "degraded_reason": c_reason,
                 }).encode("utf-8"))
                 return
 
-            results = self.execute_hybrid_search(query.strip(), top_k=top_k, doc_filter=doc_filter)
-            CPU_CACHE.set(cache_key, results)
+            search_out = self.execute_hybrid_search(query.strip(), top_k=top_k, doc_filter=doc_filter)
+            CPU_CACHE.set(cache_key, search_out)
             dur = time.time() - t_start
+
+            results = search_out.get("results", []) if isinstance(search_out, dict) else search_out
+            retrieval_mode = search_out.get("retrieval_mode", "hybrid") if isinstance(search_out, dict) else "hybrid"
+            degraded = search_out.get("degraded", False) if isinstance(search_out, dict) else False
+            degraded_reason = search_out.get("degraded_reason") if isinstance(search_out, dict) else None
 
             self.send_response(200)
             self.send_header("Content-Type", "application/json")
+            self.send_cors_headers()
             self.end_headers()
             self.wfile.write(json.dumps({
                 "query": query,
@@ -481,6 +608,9 @@ class FastRetrievalHandler(BaseHTTPRequestHandler):
                 "duration_ms": round(dur * 1000, 2),
                 "cached": False,
                 "results": results,
+                "retrieval_mode": retrieval_mode,
+                "degraded": degraded,
+                "degraded_reason": degraded_reason,
             }).encode("utf-8"))
             return
 
@@ -586,14 +716,11 @@ class FastRetrievalHandler(BaseHTTPRequestHandler):
                 target_words=350,
             )
 
-            # Stage B: Dense Vector Embedding with BGE-M3
+            # Stage B: Dense Vector Embedding with BGE-M3 (via Gateway or local)
             chunk_texts = [c["text"] for c in chunks]
             dense_vectors = []
-            if embed_engine is not None and chunk_texts:
-                try:
-                    dense_vectors = embed_engine.encode_dense_batch(chunk_texts)
-                except Exception as e:
-                    print(f"Error encoding dense vectors with BGE-M3: {e}")
+            if chunk_texts:
+                dense_vectors, _ = get_batch_embeddings(chunk_texts)
 
             # Stage C: Upsert directly to Qdrant Cloud ('vidhik_legal_chunks')
             points_upserted = 0
@@ -744,24 +871,38 @@ class FastRetrievalHandler(BaseHTTPRequestHandler):
             cache_key = f"search:{query.strip()}:{top_k}:{doc_filter}"
             cached_res = CPU_CACHE.get(cache_key)
             if cached_res:
+                c_results = cached_res.get("results", []) if isinstance(cached_res, dict) else cached_res
+                c_mode = cached_res.get("retrieval_mode", "hybrid") if isinstance(cached_res, dict) else "hybrid"
+                c_deg = cached_res.get("degraded", False) if isinstance(cached_res, dict) else False
+                c_reason = cached_res.get("degraded_reason") if isinstance(cached_res, dict) else None
                 self.send_response(200)
                 self.send_header("Content-Type", "application/json")
+                self.send_cors_headers()
                 self.end_headers()
                 self.wfile.write(json.dumps({
                     "query": query,
-                    "count": len(cached_res),
+                    "count": len(c_results),
                     "duration_ms": 0.2,
                     "cached": True,
-                    "results": cached_res,
+                    "results": c_results,
+                    "retrieval_mode": c_mode,
+                    "degraded": c_deg,
+                    "degraded_reason": c_reason,
                 }).encode("utf-8"))
                 return
 
-            results = self.execute_hybrid_search(query.strip(), top_k=top_k, doc_filter=doc_filter)
-            CPU_CACHE.set(cache_key, results)
+            search_out = self.execute_hybrid_search(query.strip(), top_k=top_k, doc_filter=doc_filter)
+            CPU_CACHE.set(cache_key, search_out)
             dur = time.time() - t_start
+
+            results = search_out.get("results", []) if isinstance(search_out, dict) else search_out
+            retrieval_mode = search_out.get("retrieval_mode", "hybrid") if isinstance(search_out, dict) else "hybrid"
+            degraded = search_out.get("degraded", False) if isinstance(search_out, dict) else False
+            degraded_reason = search_out.get("degraded_reason") if isinstance(search_out, dict) else None
 
             self.send_response(200)
             self.send_header("Content-Type", "application/json")
+            self.send_cors_headers()
             self.end_headers()
             self.wfile.write(json.dumps({
                 "query": query,
@@ -769,6 +910,9 @@ class FastRetrievalHandler(BaseHTTPRequestHandler):
                 "duration_ms": round(dur * 1000, 2),
                 "cached": False,
                 "results": results,
+                "retrieval_mode": retrieval_mode,
+                "degraded": degraded,
+                "degraded_reason": degraded_reason,
             }).encode("utf-8"))
             return
 
@@ -797,10 +941,10 @@ class FastRetrievalHandler(BaseHTTPRequestHandler):
         results = []
 
         # 1. Try Qdrant Cloud dense vector query with filter
-        if qdrant_client is not None and embed_engine is not None:
+        query_vec, _ = get_query_embedding(query)
+        if qdrant_client is not None and query_vec is not None:
             try:
                 from qdrant_client.models import Filter, FieldCondition, MatchValue
-                query_vec = embed_engine.encode_query(query)
 
                 filter_conditions = []
                 if document_id:
@@ -876,12 +1020,17 @@ class FastRetrievalHandler(BaseHTTPRequestHandler):
         query: str,
         top_k: int = 5,
         doc_filter: Optional[str] = None
-    ) -> List[Dict[str, Any]]:
+    ) -> Dict[str, Any]:
         """
         Search across Qdrant Cloud dense vector points + BM25 corpus + in-memory matter chunks.
+        Performs hybrid retrieval with Reciprocal Rank Fusion (k=60) when gateway is reachable,
+        or gracefully degrades to BM25 lexical retrieval when gateway is unavailable.
         """
         combined = []
         seen_texts = set()
+        is_degraded = False
+        degraded_reason = None
+        retrieval_mode = "hybrid"
 
         # 1. Search in-memory dynamic and matter chunks
         all_matter_chunks = get_workspace_matter_chunks() + DYNAMIC_CHUNKS
@@ -930,13 +1079,15 @@ class FastRetrievalHandler(BaseHTTPRequestHandler):
                 "paragraph_id": str(chk.get("paragraph_start", chk.get("para", "Para 1"))),
                 "text": chk["text"],
                 "preview": chk["text"][:350].strip() + ("..." if len(chk["text"]) > 350 else ""),
+                "retrieval_method": "workspace",
             })
 
-        # 2. Search Qdrant Cloud dense vector collection
-        if qdrant_client is not None and embed_engine is not None:
+        # 2. Dense semantic retrieval via laptop gateway embedding + Qdrant Cloud
+        dense_hits = []
+        query_vec, embed_err = get_query_embedding(query)
+        if query_vec is not None and qdrant_client is not None:
             try:
                 from qdrant_client.models import Filter, FieldCondition, MatchValue
-                query_vec = embed_engine.encode_query(query)
                 q_filter = Filter(must=[FieldCondition(key="document_id", match=MatchValue(value=doc_filter))]) if doc_filter else None
 
                 q_resp = qdrant_client.query_points(
@@ -944,62 +1095,132 @@ class FastRetrievalHandler(BaseHTTPRequestHandler):
                     query=query_vec,
                     using="dense",
                     query_filter=q_filter,
-                    limit=top_k,
+                    limit=top_k * 2,
                     with_payload=True,
                 )
 
-                for pt in q_resp.points:
+                for rank, pt in enumerate(q_resp.points, 1):
                     payload = pt.payload or {}
                     txt = payload.get("text", "")
-                    txt_sub = txt[:100]
-                    if txt_sub in seen_texts: continue
-                    seen_texts.add(txt_sub)
-
                     doc_id = payload.get("document_id", "")
                     title, court = resolve_case_metadata(doc_id, txt)
-                    combined.append({
-                        "evidence_id": f"E{len(combined)+1}",
-                        "qdrant_point_id": str(pt.id),
+                    dense_hits.append({
+                        "point_id": str(pt.id),
                         "document_id": doc_id,
                         "chunk_id": payload.get("chunk_id", ""),
-                        "score": round(float(pt.score), 4),
+                        "score": float(pt.score),
                         "court": payload.get("court", court),
                         "case_title": payload.get("case_title", title),
-                        "page_number": f"Page {payload.get('page_start', 1)}",
-                        "paragraph_id": str(payload.get("paragraph_start", "Para 1")),
+                        "page_start": payload.get("page_start", 1),
+                        "paragraph_start": payload.get("paragraph_start", "Para 1"),
                         "text": txt,
-                        "preview": txt[:350].strip() + ("..." if len(txt) > 350 else ""),
+                        "dense_rank": rank,
                     })
-                    if len(combined) >= top_k + 3:
-                        break
             except Exception as e:
-                print(f"Qdrant query error during hybrid search: {e}")
+                logger.warning(f"Qdrant query error during hybrid search: {e}")
+                is_degraded = True
+                degraded_reason = "qdrant_query_error"
+        else:
+            is_degraded = True
+            degraded_reason = embed_err or "embedding_gateway_unavailable"
 
-        # 3. Search BM25 corpus for lexical coverage
-        if len(combined) < top_k + 3:
-            bm25_hits = RETRIEVER.search(query=query, top_k=top_k)
-            for h in bm25_hits:
-                txt_sub = h.text[:100]
+        # 3. BM25 lexical retrieval
+        bm25_raw_hits = RETRIEVER.search(query=query, top_k=top_k * 2)
+        bm25_hits = []
+        for rank, h in enumerate(bm25_raw_hits, 1):
+            title, court = resolve_case_metadata(h.document_id, h.text)
+            bm25_hits.append({
+                "point_id": generate_point_id(h.document_id, h.chunk_id),
+                "document_id": h.document_id,
+                "chunk_id": h.chunk_id,
+                "score": float(h.score),
+                "court": court,
+                "case_title": title,
+                "page_start": 1,
+                "paragraph_start": "Holding",
+                "text": h.text,
+                "bm25_rank": rank,
+            })
+
+        # 4. Fusion and Candidate Ranking
+        if dense_hits and not is_degraded:
+            # Full Reciprocal Rank Fusion (RRF, k=60)
+            retrieval_mode = "hybrid"
+            k_const = 60
+            rrf_scores = {}
+            candidate_map = {}
+
+            for item in dense_hits:
+                uid = item["point_id"]
+                rrf_scores[uid] = rrf_scores.get(uid, 0.0) + (1.0 / (k_const + item["dense_rank"]))
+                candidate_map[uid] = item
+
+            for item in bm25_hits:
+                uid = item["point_id"]
+                rrf_scores[uid] = rrf_scores.get(uid, 0.0) + (1.0 / (k_const + item["bm25_rank"]))
+                if uid not in candidate_map:
+                    candidate_map[uid] = item
+
+            sorted_uids = sorted(rrf_scores.keys(), key=lambda x: rrf_scores[x], reverse=True)
+            for uid in sorted_uids:
+                cand = candidate_map[uid]
+                txt = cand["text"]
+                txt_sub = txt[:100]
                 if txt_sub in seen_texts: continue
                 seen_texts.add(txt_sub)
-                title, court = resolve_case_metadata(h.document_id, h.text)
+
                 combined.append({
                     "evidence_id": f"E{len(combined)+1}",
-                    "qdrant_point_id": generate_point_id(h.document_id, h.chunk_id),
-                    "document_id": h.document_id,
-                    "chunk_id": h.chunk_id,
-                    "score": round(float(h.score), 4),
-                    "court": court,
-                    "case_title": title,
+                    "qdrant_point_id": cand["point_id"],
+                    "document_id": cand["document_id"],
+                    "chunk_id": cand["chunk_id"],
+                    "score": round(float(rrf_scores[uid]), 4),
+                    "court": cand["court"],
+                    "case_title": cand["case_title"],
+                    "page_number": f"Page {cand['page_start']}",
+                    "paragraph_id": str(cand["paragraph_start"]),
+                    "text": txt,
+                    "preview": txt[:350].strip() + ("..." if len(txt) > 350 else ""),
+                    "retrieval_method": "hybrid",
+                })
+                if len(combined) >= top_k + 3:
+                    break
+        else:
+            # Degraded Mode: BM25-only retrieval
+            retrieval_mode = "bm25_degraded"
+            is_degraded = True
+            if not degraded_reason:
+                degraded_reason = "embedding_gateway_unavailable"
+
+            for cand in bm25_hits:
+                txt = cand["text"]
+                txt_sub = txt[:100]
+                if txt_sub in seen_texts: continue
+                seen_texts.add(txt_sub)
+
+                combined.append({
+                    "evidence_id": f"E{len(combined)+1}",
+                    "qdrant_point_id": cand["point_id"],
+                    "document_id": cand["document_id"],
+                    "chunk_id": cand["chunk_id"],
+                    "score": round(float(cand["score"]), 4),
+                    "court": cand["court"],
+                    "case_title": cand["case_title"],
                     "page_number": "Reported",
                     "paragraph_id": "Holding",
-                    "text": h.text,
-                    "preview": h.text[:350].strip() + ("..." if len(h.text) > 350 else ""),
+                    "text": txt,
+                    "preview": txt[:350].strip() + ("..." if len(txt) > 350 else ""),
+                    "retrieval_method": "bm25",
                 })
                 if len(combined) >= top_k + 3:
                     break
 
-        return combined[:top_k + 3]
+        return {
+            "results": combined[:top_k + 3],
+            "retrieval_mode": retrieval_mode,
+            "degraded": is_degraded,
+            "degraded_reason": degraded_reason if is_degraded else None,
+        }
 
     def log_message(self, format, *args):
         return
