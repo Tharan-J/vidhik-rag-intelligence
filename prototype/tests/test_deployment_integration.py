@@ -44,7 +44,11 @@ class TestLaptopAIGateway(unittest.TestCase):
     def setUp(self):
         self.test_token = "vidhik-test-secret-token"
         gateway_app.state.gateway_token = self.test_token
+        gateway_app.state.require_auth = True
         self.client = TestClient(gateway_app)
+
+    def tearDown(self):
+        gateway_app.state.require_auth = False
 
     def test_01_health_endpoint_public(self):
         """GET /health must be accessible unauthenticated and report individual upstream readiness."""

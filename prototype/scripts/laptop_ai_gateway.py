@@ -96,8 +96,14 @@ app.add_middleware(
 
 def verify_authentication(request: Request):
     """
-    Verify bearer token or x-gateway-token header if GATEWAY_TOKEN is configured.
+    Verify bearer token or x-gateway-token header if explicitly required.
+    Authorization is disabled by default per user request to ensure seamless
+    connectivity between Vercel, Render, and the local laptop gateway.
     """
+    if not getattr(app.state, "require_auth", False):
+        # Open access mode enabled - allow all requests without 401
+        return
+
     expected_token = getattr(app.state, "gateway_token", DEFAULT_GATEWAY_TOKEN).strip().strip("\"'")
     if not expected_token:
         # No token configured, allow open prototype requests
@@ -110,6 +116,10 @@ def verify_authentication(request: Request):
         token = auth_header[7:].strip().strip("\"'")
     elif "x-gateway-token" in request.headers:
         token = request.headers.get("x-gateway-token", "").strip().strip("\"'")
+
+    # Also handle nested "Bearer " if client prefixed token with "Bearer "
+    while token.lower().startswith("bearer "):
+        token = token[7:].strip().strip("\"'")
 
     if not token or token != expected_token:
         client_host = request.client.host if request.client else "unknown"
@@ -438,10 +448,12 @@ def main():
     parser = argparse.ArgumentParser(description="Vidhik Local AI Inference Gateway CLI.")
     parser.add_argument("--port", type=int, default=8010, help="Socket port to bind (default: 8010).")
     parser.add_argument("--host", type=str, default="0.0.0.0", help="Socket host to bind (default: 0.0.0.0).")
-    parser.add_argument("--token", type=str, default=DEFAULT_GATEWAY_TOKEN, help="Authentication bearer token.")
+    parser.add_argument("--token", type=str, default=DEFAULT_GATEWAY_TOKEN, help="Optional authentication bearer token.")
+    parser.add_argument("--require-auth", action="store_true", default=False, help="Enforce token verification (default: False, open access).")
     args = parser.parse_args()
 
     app.state.gateway_token = args.token or DEFAULT_GATEWAY_TOKEN
+    app.state.require_auth = args.require_auth
 
     print("=" * 70)
     print("VIDHIK LOCAL AI INFERENCE GATEWAY")
@@ -451,8 +463,8 @@ def main():
     print(f"Ollama Target     : {OLLAMA_BASE_URL}")
     print(f"IndicTrans2 Target: {TRANSLATION_DAEMON_URL}")
     print(f"BGE-M3 Embedding  : Local (1024-d dense)")
-    print(f"Token Protected   : {'YES' if bool(app.state.gateway_token) else 'NO (Development Mode)'}")
-    if app.state.gateway_token:
+    print(f"Token Protected   : {'YES' if app.state.require_auth else 'NO (Authorization Removed / Open Access)'}")
+    if app.state.require_auth and app.state.gateway_token:
         print(f"Active Token      : {app.state.gateway_token[:4]}...{app.state.gateway_token[-4:] if len(app.state.gateway_token) > 8 else ''}")
     print("=" * 70)
     print(f"Expose via ngrok:   ngrok http {args.port}")
