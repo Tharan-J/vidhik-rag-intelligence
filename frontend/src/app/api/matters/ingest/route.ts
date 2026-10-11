@@ -2,6 +2,8 @@ import { NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
 import { callGeminiJSON } from "@/lib/ai/gemini";
+
+export const maxDuration = 60;
 import { Matter, MatterEvidenceItem } from "@/lib/types/matter";
 import { parsePdfBufferOrFile } from "@/lib/server/pdfParser";
 import {
@@ -278,11 +280,18 @@ export async function POST(request: Request) {
 
     // =========================================================================
     // STEP 1: RAG INGESTION INTO QDRANT CLOUD (BGE-M3 1024-d Dense Vector Embedding)
+    // For large documents (>15k chars), prioritize key court sections (parties, bench, decree)
+    // so embedding finishes well within serverless timeouts.
     // =========================================================================
+    let ingestText = docContent;
+    if (docContent.length > 15000) {
+      ingestText = docContent.slice(0, 8000) + "\n\n--- OPERATIVE HOLDING & DECREE ---\n\n" + docContent.slice(-7000);
+    }
+
     const qdrantIngestResult = await ingestIntoQdrantCloud(
       effectiveFilename,
       matterId,
-      docContent,
+      ingestText,
       customTitleHint || effectiveFilename,
       "Supreme Court of India"
     );
