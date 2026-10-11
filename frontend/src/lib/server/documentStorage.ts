@@ -17,9 +17,27 @@
 import fs from "fs";
 import path from "path";
 import crypto from "crypto";
+import os from "os";
 
-// Private storage root strictly outside Next.js `public/` web root
-export const PRIVATE_STORAGE_ROOT = path.resolve(process.cwd(), "storage", "documents", "matters");
+// Private storage root strictly outside Next.js `public/` web root.
+// When deployed on Vercel / AWS Lambda, process.cwd() is read-only (/var/task).
+// os.tmpdir() (/tmp) is the only writable scratch partition on Vercel.
+export function resolveStorageRoot(): string {
+  if (process.env.STORAGE_ROOT) {
+    return path.resolve(process.env.STORAGE_ROOT);
+  }
+  const isServerless =
+    Boolean(process.env.VERCEL) ||
+    Boolean(process.env.AWS_LAMBDA_FUNCTION_NAME) ||
+    process.cwd().startsWith("/var/task");
+
+  if (isServerless) {
+    return path.resolve(os.tmpdir(), "vidhik_storage", "documents", "matters");
+  }
+  return path.resolve(process.cwd(), "storage", "documents", "matters");
+}
+
+export const PRIVATE_STORAGE_ROOT = resolveStorageRoot();
 
 // Read-only reference corpus roots for public precedents (never contains confidential matter briefs)
 export const READONLY_CORPUS_ROOTS = [
@@ -111,10 +129,21 @@ export function saveUploadedDocument(params: {
   const safeDocName = sanitizeIdentifier(path.basename(rawDocName));
   const docId = params.documentId || `DOC-${Date.now()}-${safeDocName}`;
 
-  // Target directory strictly inside PRIVATE_STORAGE_ROOT
-  const matterDir = path.resolve(PRIVATE_STORAGE_ROOT, safeMatterId);
-  if (!fs.existsSync(matterDir)) {
-    fs.mkdirSync(matterDir, { recursive: true });
+  // Determine target directory with automatic serverless /tmp fallback
+  let targetRoot = resolveStorageRoot();
+  let matterDir = path.resolve(targetRoot, safeMatterId);
+
+  try {
+    if (!fs.existsSync(/*turbopackIgnore: true*/ matterDir)) {
+      fs.mkdirSync(matterDir, { recursive: true });
+    }
+  } catch {
+    // If targetRoot is read-only (e.g. /var/task on Vercel), fall back to os.tmpdir()
+    targetRoot = path.resolve(os.tmpdir(), "vidhik_storage", "documents", "matters");
+    matterDir = path.resolve(targetRoot, safeMatterId);
+    if (!fs.existsSync(/*turbopackIgnore: true*/ matterDir)) {
+      fs.mkdirSync(matterDir, { recursive: true });
+    }
   }
 
   const absolutePath = path.resolve(matterDir, safeDocName);
@@ -183,41 +212,50 @@ export function resolveAuthorizedDocument(params: {
   // 3. Check confidential matter storage if matterId is present
   if (effectiveMatter) {
     const safeMatter = sanitizeIdentifier(effectiveMatter);
-    const targetMatterDir = path.resolve(PRIVATE_STORAGE_ROOT, safeMatter);
-    const candidatePath = path.resolve(targetMatterDir, safeDocId);
+    const candidateDirs = [
+      path.resolve(resolveStorageRoot(), safeMatter),
+      path.resolve(os.tmpdir(), "vidhik_storage", "documents", "matters", safeMatter),
+      path.resolve(process.cwd(), "storage", "documents", "matters", safeMatter),
+    ];
 
-    // Path traversal defense
-    if (!candidatePath.startsWith(targetMatterDir)) {
-      return {
-        success: false,
-        error: "ACCESS_DENIED_PATH_TRAVERSAL",
-        details: "Path traversal detected in document identifier.",
-      };
-    }
+    for (const targetMatterDir of candidateDirs) {
+      if (!fs.existsSync(/*turbopackIgnore: true*/ targetMatterDir)) continue;
 
-    let finalPath = candidatePath;
-    if (!fs.existsSync(finalPath) && fs.existsSync(targetMatterDir)) {
-      try {
-        const files = fs.readdirSync(targetMatterDir);
-        const match = files.find(
-          (f) => f === safeDocId || f.startsWith(safeDocId) || safeDocId.includes(f)
-        );
-        if (match) {
-          finalPath = path.resolve(targetMatterDir, match);
-        }
-      } catch {}
-    }
+      const candidatePath = path.resolve(targetMatterDir, safeDocId);
 
-    if (fs.existsSync(finalPath) && finalPath.startsWith(targetMatterDir)) {
-      const sha256 = computeSha256(finalPath);
-      return {
-        success: true,
-        authorizedPath: finalPath,
-        sha256,
-        documentId: path.basename(finalPath),
-        matterId: safeMatter,
-        isCorpusPrecedent: false,
-      };
+      // Path traversal defense
+      if (!candidatePath.startsWith(targetMatterDir)) {
+        return {
+          success: false,
+          error: "ACCESS_DENIED_PATH_TRAVERSAL",
+          details: "Path traversal detected in document identifier.",
+        };
+      }
+
+      let finalPath = candidatePath;
+      if (!fs.existsSync(/*turbopackIgnore: true*/ finalPath)) {
+        try {
+          const files = fs.readdirSync(/*turbopackIgnore: true*/ targetMatterDir);
+          const match = files.find(
+            (f) => f === safeDocId || f.startsWith(safeDocId) || safeDocId.includes(f)
+          );
+          if (match) {
+            finalPath = path.resolve(targetMatterDir, match);
+          }
+        } catch {}
+      }
+
+      if (fs.existsSync(finalPath) && finalPath.startsWith(targetMatterDir)) {
+        const sha256 = computeSha256(finalPath);
+        return {
+          success: true,
+          authorizedPath: finalPath,
+          sha256,
+          documentId: path.basename(finalPath),
+          matterId: safeMatter,
+          isCorpusPrecedent: false,
+        };
+      }
     }
   }
 

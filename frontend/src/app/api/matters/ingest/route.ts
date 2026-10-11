@@ -10,6 +10,7 @@ import {
   sanitizeIdentifier,
   StoredDocumentResult,
 } from "@/lib/server/documentStorage";
+import { loadAllMatters, saveAllMatters } from "@/lib/server/mattersStore";
 
 const EXTRACTED_MATTERS_PATH = path.resolve(
   process.cwd(),
@@ -197,14 +198,7 @@ export async function POST(request: Request) {
     }
 
     // Read existing matters to check for retries / duplicates & determine next index
-    let existingMatters: Matter[] = [];
-    if (fs.existsSync(EXTRACTED_MATTERS_PATH)) {
-      try {
-        existingMatters = JSON.parse(fs.readFileSync(EXTRACTED_MATTERS_PATH, "utf-8"));
-      } catch (e) {
-        existingMatters = [];
-      }
-    }
+    let existingMatters: Matter[] = loadAllMatters();
 
     // Step A & D: Prevent duplicate matter creation on retry or repeated clicks
     if (fileSha256) {
@@ -736,7 +730,7 @@ Return strictly JSON matching this structure:
       existingMatters.unshift(completedMatter);
     }
 
-    fs.writeFileSync(EXTRACTED_MATTERS_PATH, JSON.stringify(existingMatters, null, 2), "utf-8");
+    saveAllMatters(existingMatters);
 
     const elapsed = Number(((Date.now() - startTime) / 1000).toFixed(2));
 

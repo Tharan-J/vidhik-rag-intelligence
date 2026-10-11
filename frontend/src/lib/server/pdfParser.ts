@@ -2,6 +2,8 @@ import { exec } from "child_process";
 import { promisify } from "util";
 import fs from "fs";
 import path from "path";
+import os from "os";
+import zlib from "zlib";
 
 const execAsync = promisify(exec);
 
@@ -19,24 +21,132 @@ export interface ParseResult {
 }
 
 /**
- * Extracts verified page-by-page text from a PDF file using PyMuPDF / pdftotext.
- * Returns exact page text and total pages.
- * Fails closed if the document is encrypted, corrupt, or contains no extractable text.
+ * Pure Node.js fallback PDF text extractor.
+ * Extracts text streams from PDF without requiring external python3 or C-bindings.
+ */
+function extractTextFromPdfBufferPureNode(buffer: Buffer): {
+  pages: ExtractedPage[];
+  fullText: string;
+  totalPages: number;
+} {
+  const textPages: ExtractedPage[] = [];
+  const fullTextParts: string[] = [];
+  const bufferStr = buffer.toString("binary");
+
+  // Regex to match PDF content streams
+  const streamRegex = /stream\r?\n([\s\S]*?)\r?\nendstream/g;
+  let match: RegExpExecArray | null;
+  let pageIndex = 1;
+
+  while ((match = streamRegex.exec(bufferStr)) !== null) {
+    const rawStream = Buffer.from(match[1], "binary");
+    let streamText = "";
+
+    try {
+      const decompressed = zlib.inflateSync(rawStream);
+      streamText = decompressed.toString("latin1");
+    } catch {
+      try {
+        const decompressed = zlib.unzipSync(rawStream);
+        streamText = decompressed.toString("latin1");
+      } catch {
+        streamText = rawStream.toString("latin1");
+      }
+    }
+
+    // Look for text in BT ... ET blocks
+    const btRegex = /BT[\s\S]*?ET/g;
+    let btMatch: RegExpExecArray | null;
+    let pageChunk = "";
+
+    while ((btMatch = btRegex.exec(streamText)) !== null) {
+      const block = btMatch[0];
+
+      // Extract (text) Tj
+      const tjRegex = /\(([^)]*)\)\s*Tj/g;
+      let tjMatch: RegExpExecArray | null;
+      while ((tjMatch = tjRegex.exec(block)) !== null) {
+        pageChunk += tjMatch[1] + " ";
+      }
+
+      // Extract [(text)] TJ
+      const tjArrayRegex = /\[(.*?)\]\s*TJ/g;
+      let arrayMatch: RegExpExecArray | null;
+      while ((arrayMatch = tjArrayRegex.exec(block)) !== null) {
+        const inner = arrayMatch[1];
+        const innerTjRegex = /\(([^)]*)\)/g;
+        let innerMatch: RegExpExecArray | null;
+        while ((innerMatch = innerTjRegex.exec(inner)) !== null) {
+          pageChunk += innerMatch[1] + " ";
+        }
+      }
+      pageChunk += "\n";
+    }
+
+    if (pageChunk.trim().length > 10) {
+      const cleaned = pageChunk
+        .replace(/\\([0-9]{3})/g, (_, oct) => String.fromCharCode(parseInt(oct, 8)))
+        .replace(/\\([\\()])/g, "$1")
+        .replace(/\r/g, "")
+        .replace(/\n\s*\n+/g, "\n")
+        .trim();
+
+      if (cleaned.length > 15) {
+        textPages.push({ pageNumber: pageIndex, text: cleaned });
+        fullTextParts.push(`--- PAGE ${pageIndex} ---\n${cleaned}`);
+        pageIndex++;
+      }
+    }
+  }
+
+  // Fallback: search for readable strings in parentheses
+  if (textPages.length === 0) {
+    const parenMatches = bufferStr.match(/\([A-Za-z0-9 ,.\-:;'/"]{4,}\)/g);
+    if (parenMatches && parenMatches.length > 5) {
+      const fallbackText = parenMatches
+        .map((p) => p.slice(1, -1))
+        .join(" ")
+        .replace(/\s+/g, " ")
+        .trim();
+      if (fallbackText.length > 20) {
+        textPages.push({ pageNumber: 1, text: fallbackText });
+        fullTextParts.push(`--- PAGE 1 ---\n${fallbackText}`);
+      }
+    }
+  }
+
+  return {
+    pages: textPages,
+    fullText: fullTextParts.join("\n\n"),
+    totalPages: textPages.length || 1,
+  };
+}
+
+/**
+ * Extracts verified page-by-page text from a PDF file using PyMuPDF / pdftotext
+ * with an automatic pure Node.js fallback when Python is unavailable (e.g. Vercel).
  */
 export async function parsePdfBufferOrFile(
   input: { buffer?: Buffer; filePath?: string }
 ): Promise<ParseResult> {
   let tempFilePath: string | null = null;
+  let fileBuffer: Buffer | null = input.buffer || null;
 
   try {
     let targetPath = input.filePath;
 
-    if (!targetPath && input.buffer) {
-      const tempDir = path.resolve(process.cwd(), "..", "prototype", "scratch");
+    if (!targetPath && fileBuffer) {
+      const tempDir = path.resolve(os.tmpdir(), "vidhik_scratch");
       if (!fs.existsSync(tempDir)) fs.mkdirSync(tempDir, { recursive: true });
       tempFilePath = path.join(tempDir, `upload_${Date.now()}.pdf`);
-      fs.writeFileSync(tempFilePath, input.buffer);
+      fs.writeFileSync(tempFilePath, fileBuffer);
       targetPath = tempFilePath;
+    }
+
+    if (targetPath && !fileBuffer && fs.existsSync(/*turbopackIgnore: true*/ targetPath)) {
+      try {
+        fileBuffer = fs.readFileSync(/*turbopackIgnore: true*/ targetPath);
+      } catch {}
     }
 
     if (!targetPath || !fs.existsSync(/*turbopackIgnore: true*/ targetPath)) {
@@ -49,8 +159,9 @@ export async function parsePdfBufferOrFile(
       };
     }
 
-    // Run python script using PyMuPDF (pymupdf) to extract verified page-by-page text
-    const script = `
+    // Attempt 1: Run python script using PyMuPDF (pymupdf)
+    try {
+      const script = `
 import json, sys, warnings
 warnings.filterwarnings("ignore")
 try:
@@ -81,33 +192,46 @@ except Exception as e:
     print(json.dumps({"success": False, "error": str(e), "totalPages": 0, "pages": [], "fullText": ""}))
 `;
 
-    const cmd = `python3 -c '${script.replace(/'/g, "'\\''")}' "${targetPath}"`;
-    const { stdout } = await execAsync(cmd, { timeout: 15000, maxBuffer: 10 * 1024 * 1024 });
+      const cmd = `python3 -c '${script.replace(/'/g, "'\\''")}' "${targetPath}"`;
+      const { stdout } = await execAsync(cmd, { timeout: 15000, maxBuffer: 10 * 1024 * 1024 });
 
-    const trimmed = stdout.trim();
-    const jsonMatch = trimmed.match(/\{[\s\S]*\}/);
-    if (!jsonMatch) {
-      throw new Error(`Failed to extract JSON from Python output: ${trimmed.slice(0, 200)}`);
+      const trimmed = stdout.trim();
+      const jsonMatch = trimmed.match(/\{[\s\S]*\}/);
+      if (jsonMatch) {
+        const result = JSON.parse(jsonMatch[0]);
+        if (result.success && result.fullText && result.fullText.trim().length > 0) {
+          return {
+            success: true,
+            pages: result.pages,
+            fullText: result.fullText,
+            totalPages: result.totalPages,
+          };
+        }
+      }
+    } catch {
+      // Python unavailable or pymupdf failed (e.g. running on Vercel serverless)
     }
-    const result = JSON.parse(jsonMatch[0]);
 
-    if (!result.success || !result.fullText || result.fullText.trim().length === 0) {
-      return {
-        success: false,
-        pages: [],
-        fullText: "",
-        totalPages: result.totalPages || 0,
-        error:
-          result.error ||
-          "INSUFFICIENT_SOURCE_EVIDENCE: Document contains zero extractable text (scanned image or empty record).",
-      };
+    // Attempt 2: Pure Node.js stream extractor fallback
+    if (fileBuffer && fileBuffer.length > 0) {
+      const pureResult = extractTextFromPdfBufferPureNode(fileBuffer);
+      if (pureResult.fullText.trim().length > 20) {
+        return {
+          success: true,
+          pages: pureResult.pages,
+          fullText: pureResult.fullText,
+          totalPages: pureResult.totalPages,
+        };
+      }
     }
 
     return {
-      success: true,
-      pages: result.pages,
-      fullText: result.fullText,
-      totalPages: result.totalPages,
+      success: false,
+      pages: [],
+      fullText: "",
+      totalPages: 0,
+      error:
+        "INSUFFICIENT_SOURCE_EVIDENCE: Document contains zero extractable text (scanned image or empty record).",
     };
   } catch (err: any) {
     return {

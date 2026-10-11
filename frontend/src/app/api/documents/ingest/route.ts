@@ -5,14 +5,7 @@ import { parsePdfBufferOrFile } from "@/lib/server/pdfParser";
 import { saveUploadedDocument } from "@/lib/server/documentStorage";
 import { Matter, MatterDocument, DocumentMetadata } from "@/lib/types/matter";
 import { callGeminiJSON } from "@/lib/ai/gemini";
-
-const EXTRACTED_MATTERS_PATH = path.resolve(
-  process.cwd(),
-  "src",
-  "lib",
-  "data",
-  "extracted_matters.json"
-);
+import { loadAllMatters, saveAllMatters } from "@/lib/server/mattersStore";
 
 export async function POST(request: Request) {
   try {
@@ -157,14 +150,13 @@ export async function POST(request: Request) {
     };
 
     // Step 3: Update Matter in extracted_matters.json if matterId provided
-    if (matterId && fs.existsSync(EXTRACTED_MATTERS_PATH)) {
+    if (matterId) {
       try {
-        const raw = fs.readFileSync(EXTRACTED_MATTERS_PATH, "utf-8");
-        const matters: Matter[] = JSON.parse(raw);
+        const matters: Matter[] = loadAllMatters();
         const mIdx = matters.findIndex((m) => m.id === matterId);
         if (mIdx !== -1) {
           matters[mIdx].documents = [newDocument, ...(matters[mIdx].documents || [])];
-          fs.writeFileSync(EXTRACTED_MATTERS_PATH, JSON.stringify(matters, null, 2), "utf-8");
+          saveAllMatters(matters);
         }
       } catch (e) {
         console.warn("Could not append document to matter record:", e);

@@ -68,7 +68,8 @@ async function translateViaIndicTrans2(params: {
   claims?: any[];
 }): Promise<{ translatedAnswer: string; preservedEntities: any[]; warning?: string }> {
   try {
-    const gatewayToken = process.env.AI_GATEWAY_TOKEN;
+    const rawToken = process.env.AI_GATEWAY_TOKEN || process.env.GATEWAY_TOKEN;
+    const gatewayToken = rawToken ? rawToken.trim().replace(/^["']|["']$/g, "") : undefined;
     const reqHeaders: Record<string, string> = {
       "Content-Type": "application/json",
       "ngrok-skip-browser-warning": "true",

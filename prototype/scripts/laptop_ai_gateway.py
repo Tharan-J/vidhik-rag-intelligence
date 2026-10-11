@@ -98,27 +98,34 @@ def verify_authentication(request: Request):
     """
     Verify bearer token or x-gateway-token header if GATEWAY_TOKEN is configured.
     """
-    expected_token = getattr(app.state, "gateway_token", DEFAULT_GATEWAY_TOKEN)
+    expected_token = getattr(app.state, "gateway_token", DEFAULT_GATEWAY_TOKEN).strip().strip("\"'")
     if not expected_token:
         # No token configured, allow open prototype requests
         return
 
     # Check Authorization header (Bearer <token>)
-    auth_header = request.headers.get("authorization", "")
+    auth_header = request.headers.get("authorization", "").strip()
     token = ""
-    if auth_header.startswith("Bearer "):
-        token = auth_header[7:].strip()
+    if auth_header.lower().startswith("bearer "):
+        token = auth_header[7:].strip().strip("\"'")
     elif "x-gateway-token" in request.headers:
-        token = request.headers.get("x-gateway-token", "").strip()
+        token = request.headers.get("x-gateway-token", "").strip().strip("\"'")
 
     if not token or token != expected_token:
         client_host = request.client.host if request.client else "unknown"
-        logger.warning(f"Unauthorized access attempt from {client_host}")
+        has_auth = bool(auth_header)
+        has_xgateway = "x-gateway-token" in request.headers
+        token_len = len(token)
+        logger.warning(
+            f"Unauthorized access attempt from {client_host} "
+            f"(auth_header_present={has_auth}, x_gateway_present={has_xgateway}, "
+            f"token_received_len={token_len}, expected_token_len={len(expected_token)})"
+        )
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
             detail={
                 "error": "UNAUTHORIZED",
-                "message": "Invalid or missing AI Gateway authentication token.",
+                "message": "Invalid or missing AI Gateway authentication token. Ensure AI_GATEWAY_TOKEN matches.",
             },
         )
 

@@ -3,14 +3,7 @@ import fs from "fs";
 import path from "path";
 import { INITIAL_MATTERS } from "@/lib/data/matters";
 import { Matter, MatterStage } from "@/lib/types/matter";
-
-const EXTRACTED_MATTERS_PATH = path.resolve(
-  process.cwd(),
-  "src",
-  "lib",
-  "data",
-  "extracted_matters.json"
-);
+import { loadAllMatters, saveAllMatters } from "@/lib/server/mattersStore";
 
 const VALID_STAGES: MatterStage[] = [
   "Filed",
@@ -23,19 +16,11 @@ const VALID_STAGES: MatterStage[] = [
 ];
 
 function getMatters(): Matter[] {
-  if (fs.existsSync(EXTRACTED_MATTERS_PATH)) {
-    try {
-      const data = fs.readFileSync(EXTRACTED_MATTERS_PATH, "utf-8");
-      return JSON.parse(data);
-    } catch {
-      // Fallback
-    }
-  }
-  return INITIAL_MATTERS;
+  return loadAllMatters();
 }
 
 function saveMatters(matters: Matter[]): void {
-  fs.writeFileSync(EXTRACTED_MATTERS_PATH, JSON.stringify(matters, null, 2), "utf-8");
+  saveAllMatters(matters);
 }
 
 function checkAuthorization(request: Request, matterId: string): { authorized: boolean; status?: number; error?: string } {

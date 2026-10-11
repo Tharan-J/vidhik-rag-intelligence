@@ -88,7 +88,8 @@ function getQwenEndpointAndHeaders(overrideEndpoint?: string): {
     "ngrok-skip-browser-warning": "true",
   };
 
-  const gatewayToken = process.env.AI_GATEWAY_TOKEN;
+  const rawToken = process.env.AI_GATEWAY_TOKEN || process.env.GATEWAY_TOKEN;
+  const gatewayToken = rawToken ? rawToken.trim().replace(/^["']|["']$/g, "") : undefined;
   if (gatewayToken) {
     headers["Authorization"] = `Bearer ${gatewayToken}`;
     headers["x-gateway-token"] = gatewayToken;
